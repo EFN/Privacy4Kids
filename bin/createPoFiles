@@ -1,6 +1,12 @@
 #!/bin/bash
 
+if [ -z "$3" ]
+then
+  echo -e "Usage is\n\tcreatePoFiles <TARGET_LANGUAGES file> <original> <output dir>" >&2
+  exit 1
+fi
+
 cat $1 | while read line
 do
-  txt2po $2 -o LC_MESSAGES/$line.po
+  txt2po $2 -o $3/$line.po
 done
