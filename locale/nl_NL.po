@@ -1,17 +1,19 @@
 #. extracted from original/en.txt
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-11 21:59+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2017-06-20 12:08+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Language-Team: Dutch "
+"<https://hosted.weblate.org/projects/efn/privacy4kids/nl/>\n"
+"Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.15-dev\n"
 
 #: original/en.txt:1
 msgid ""
@@ -20,6 +22,10 @@ msgid ""
 "TAKE CONTROL OF YOUR STUFF ONLINE\n"
 "PRIVACY FOR KIDS"
 msgstr ""
+"JOU GIDS TOT DE\n"
+"DIGITALE BESCHERMERS VS. GEGEVENSINDRINGERS\n"
+"VERKRIJG CONTROLE OVER JE ONLINE GEGEVENS\n"
+"PRIVACY VOOR KINDEREN"
 
 #: original/en.txt:6
 msgid ""
@@ -32,6 +38,14 @@ msgid ""
 "\n"
 "www.edri.org"
 msgstr ""
+"HET INTERNET. HET IS COOL, SNEL EN OVERAL.\n"
+"Maar het is ook ingewikkeld. Soms kan het moeilijk zijn om te zien waar we "
+"gevaar lopen en waar onze persoonlijke informatie online kan worden gelezen "
+"en gebruikt kan worden door anderen.\n"
+"Gelukkig is het in ons parallel universum waar de DIGITALE BESCHERMERS "
+"vechten tegen de gemene GEGEVENSINDRINGERS wél makkelijk om te zien wie de "
+"goede en wie de slechte karakters zijn.\n"
+"www.edri.org"
 
 #: original/en.txt:12
 msgid ""
@@ -39,12 +53,17 @@ msgid ""
 "Kirsten Fiedler, EDRi\n"
 "Theresia Reinhold, EDRi"
 msgstr ""
+"Boekje bewerkt door:\n"
+"Kirsten Fiedler, EDRi\n"
+"Theresia Reinhold, EDRi"
 
 #: original/en.txt:16
 msgid ""
 "Comics:\n"
 "Gregor Sedlag"
 msgstr ""
+"Strips:\n"
+"Gregor Sedlag"
 
 #: original/en.txt:19
 msgid ""
@@ -53,6 +72,10 @@ msgid ""
 "Heini Jarvinen\n"
 "(EDRi-former illustrations)"
 msgstr ""
+"Kunst & ontwerp door:\n"
+"Gregor Sedlag\n"
+"Heini Jarvinen\n"
+"(EDRi-former illustrations)"
 
 #: original/en.txt:24
 msgid ""
@@ -60,6 +83,9 @@ msgid ""
 "Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
 "Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
 msgstr ""
+"Met speciale dank aan:\n"
+"Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
+"Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
 
 #: original/en.txt:28
 msgid ""
@@ -73,10 +99,19 @@ msgid ""
 "Open Rights Group\n"
 "Mediamocracy"
 msgstr ""
+"Bijdragen door:\n"
+"ApTI Romania\n"
+"Bits of Freedom\n"
+"CCC / Chaos macht Schule\n"
+"Cryptoparty.in\n"
+"Digitale Gesellschaft e. V.\n"
+"EDRi (Brussels office)\n"
+"Open Rights Group\n"
+"Mediamocracy"
 
 #: original/en.txt:38
 msgid "Chapters:"
-msgstr ""
+msgstr "Hoofdstukken:"
 
 #: original/en.txt:40
 msgid ""
@@ -92,46 +127,68 @@ msgid ""
 "Chapter 10: Apps & tools we like\n"
 "Chapter 11: Hands-on guide for Signal"
 msgstr ""
+"Hoofdstuk 1: Wat is het internet?\n"
+"Hoofdstuk 2: Wat is privacy?\n"
+"Hoofdstuk 3: De 3 beste tips & trucs\n"
+"Hoofdstuk 4: Bescherm jezelf op sociale netwerken\n"
+"Hoofdstuk 5: Smartphone-beveiliging\n"
+"Hoofdstuk 6: Veilig berichten versturen\n"
+"Hoofdstuk 7: Surfen op het internet\n"
+"Hoofdstuk 8: Wachtwoordveiligheid\n"
+"Hoofdstuk 9: Foto's en video's delen\n"
+"Hoofdstuk 10: Aanbevolen apps & hulpmiddelen\n"
+"Hoofdstuk 11: Handleiding voor Signal"
 
 #: original/en.txt:53
 msgid "[Intro]"
-msgstr ""
+msgstr "[Intro]"
 
 #: original/en.txt:55
 msgid "The internet. It is cool, fast and global."
-msgstr ""
+msgstr "Het internet. Het is cool, snel en overal."
 
 #: original/en.txt:57
 msgid ""
 "But it is also complex. Sometimes it can be difficult to see where we are at "
 "risk – and where our private stuff online can be read and used by others."
 msgstr ""
+"Maar het is ook ingewikkeld.  Soms kan het moeilijk zijn om te zien waar we "
+"gevaar lopen en waar onze persoonlijke informatie online kan worden gelezen "
+"en gebruikt kan worden door anderen."
 
 #: original/en.txt:59
 msgid ""
 "Luckily, in our parallel universe where the Defenders fight the evil "
 "Intruders, it is easy to see who are the good and who are the bad guys."
 msgstr ""
+"Gelukkig is het in ons parallel universum, waar de DIGITALE BESCHMERS "
+"vechten tegen de gemene GEGEVENSINDRINGERS, wél makkelijk om te zien wie de "
+"goede en wie de slechte karakters zijn."
 
 #: original/en.txt:61
 msgid ""
 "The Defenders will show you some tips and tricks to protect yourself online. "
 "They will teach you self-defence to fight the Intruders."
 msgstr ""
+"De Beschermers zullen je wat tips en trucs laten zien die je helpen om "
+"jezelf online te beschermen. Ze leren je zelfbescherming om te vechten tegen "
+"de Indringers."
 
 #: original/en.txt:63
 msgid ""
 "So check out this bookletand get ready to join our superhero team, the "
 "Defenders! "
 msgstr ""
+"Dus lees dit boekje en bereid je voor om deel te nemen aan ons "
+"superheldenteam, de Beschermers! "
 
 #: original/en.txt:65
 msgid "Your friend,"
-msgstr ""
+msgstr "Je vriend,"
 
 #: original/en.txt:68
 msgid "OH, AND KEEP YOUR EYES OPEN FOR THE EDRi-former GAME"
-msgstr ""
+msgstr "OH, EN HOUD JE OGEN OPEN VOOR HET Edri-former SPEL"
 
 #: original/en.txt:70
 msgid ""
@@ -141,6 +198,11 @@ msgid ""
 "it is a word that consists of six letters. The achievement to unlock: A "
 "POWERFUL DIGITAL ARMOUR."
 msgstr ""
+"In dit boekje vind je zoektochten. Elke zoektocht kent slechts één juist "
+"antwoord. Het antwoord geeft je één letter. Met al die letters kun je een "
+"woord vormen dat leidt naar de oplossing. Hint:\n"
+"het woord bestaat uit zes letters. Met dit woord krijg je het volgende: EEN "
+"KRACHTIG DIGITAAL HARNAS."
 
 #: original/en.txt:73
 msgid ""
@@ -150,40 +212,55 @@ msgid ""
 "2. Replace the xxxxxx with the solution word (six letters) of the game "
 "quests and enter the complete link in your browser."
 msgstr ""
+"Zodra je het woord hebt gevonden, moet je naar een geheime website gaan. Zó "
+"doe je dat:\n"
+"1. Zoek het ontbrekende deel van de volgende link: https://edri.org/xxxxxx ."
+"\n"
+"2. Vervang xxxxxx door het zesletterwoord dat je hebt gevonden na het "
+"verzamelen van de letters. Voer de volledige link in in je browser."
 
 #: original/en.txt:79
 msgid ""
 "C H A P T E R   1\n"
 "1 What's the internet?"
 msgstr ""
+"H O O F D S T U K  1\n"
+"1 Wat is het internet?"
 
 #: original/en.txt:82
 msgid "The internet is a global network of devices. "
-msgstr ""
+msgstr "Het internet is een wereldwijd netwerk van apparaten. "
 
 #: original/en.txt:84
 msgid ""
 "When you use the internet on your laptop, tablet or phone, it is a part of "
 "the network."
 msgstr ""
+"Als je internet gebruikt op je laptop, tablet of telefoon, dan ben je "
+"onderdeel van het netwerk."
 
 #: original/en.txt:86
 msgid ""
 "One of the special features of the internet is that lots of different "
 "technologies can all be used in the same network. "
 msgstr ""
+"Eén van de meest speciale functies van met internet is dat verschillende "
+"technologieën kunnen worden gebruikt op hetzelfde netwerk. "
 
 #: original/en.txt:88
 msgid ""
 "We can even use the same connection to download a video, play a game and "
 "chat with our friends at the same time."
 msgstr ""
+"We kunnen dezelfde verbinding gebruiken om een video te downloaden, een spel "
+"te spelen en te chatten met onze vrienden. Allemaal tegelijkertijd."
 
 #: original/en.txt:90
 msgid ""
 "The internet is global, it is fast and gives us a whole world of "
 "opportunities.  "
 msgstr ""
+"Het internet is wereldwijd, snel en biedt ons een zee van mogelijkheden.  "
 
 #: original/en.txt:92
 msgid ""
@@ -193,18 +270,28 @@ msgid ""
 "the internet is a great place to learn as most of the information and "
 "knowledge is shared online."
 msgstr ""
+"Het internet is een geweldige en krachtige uitvinding. Voordat het internet "
+"wereldwijd werd uitgerold, was er geen eenvoudige manier om veel mensen met "
+"elkaar te verbinden. Het was véél moeilijker om naar muziek te luisteren of "
+"om een film te kijken. Het internet is ook een geweldige plek om informatie "
+"te verkrijgen en te delen."
 
 #: original/en.txt:94
 msgid ""
 "Internet technology is a bit like a big hill covered with snow – we can use "
 "it for skiing, snowboarding or building a snowman. All we need is snow! "
 msgstr ""
+"Internettechnologie lijkt een beetje op een grote heuvel vol met sneeuw - we "
+"kunnen deze gebruiken om te skiën, snowboarden of om er een sneeuwman op te "
+"bouwen. Het enige dat we nodig hebben is sneeuw! "
 
 #: original/en.txt:96
 msgid ""
 "In the online world, the hill is our internet connection and the snow is the "
 "language the network speaks – the “internet protocol”!"
 msgstr ""
+"In de online wereld is de heuvel onze internetverbinding en de sneeuw is de "
+"taal die het netwerk spreekt - het \"internetprotocol\"!"
 
 #: original/en.txt:98
 msgid ""
@@ -212,30 +299,38 @@ msgid ""
 "we actually pay with the personal information that we put online. "
 "Information about what we write or read or watch is used by online companies."
 msgstr ""
+"Sociale netwerken en andere sociale diensten lijken gratis te zijn, maar we "
+"eigenlijk betalen we er stiekem wél voor met onze persoonlijke informatie "
+"die we erop zetten. Informatie over wat we schrijven, lezen of kijken wordt "
+"gebruikt door online bedrijven."
 
 #: original/en.txt:100
 msgid "How can we stay in control of the information we share online?"
-msgstr ""
+msgstr "Hoe kunnen we de informatie die we delen onder controle houden?"
 
 #: original/en.txt:102
 msgid "You will find the answer to this question in this booklet."
-msgstr ""
+msgstr "Je zult het antwoord op deze vraag vinden in dit boekje."
 
 #: original/en.txt:106
 msgid ""
 "C H A P T E R   2\n"
 "2 What is privacy?"
 msgstr ""
+"H O O F D S T U K  2\n"
+"2 Wat is privacy?"
 
 #: original/en.txt:109
 msgid ""
 "If we have privacy, we have control.\n"
 "But what does this mean? "
 msgstr ""
+"Als we privacy hebben, dan hebben we controle.\n"
+"Maar wat betekent dit? "
 
 #: original/en.txt:112
 msgid "Privacy is our right to decidewhat to share and with whom we share it."
-msgstr ""
+msgstr "Privacy is ons recht om te bepalen wat we delen en met wie."
 
 #: original/en.txt:114
 msgid ""
@@ -243,34 +338,47 @@ msgid ""
 "others what kind of information they have collected about you. You can also "
 "ask them to delete these data."
 msgstr ""
+"Dit betekent bijvoorbeeld dat je het recht hebt om Google, Facebook en "
+"anderen te vragen wat voor informatie ze hebben verzameld over jou. Je kunt "
+"ze ook vragen om die gegevens te verwijderen."
 
 #: original/en.txt:116
 msgid ""
 "When we protect our privacy, we can feel more secure and safe, because there "
 "might be information that could hurt us if the wrong person knows about it."
 msgstr ""
+"Als we onze privacy beschermen, dan voelen we ons veiliger omdat er "
+"informatie tussen kan zitten die ons kan pijn kan doen als de verkeerde "
+"persoon deze in handen krijgt."
 
 #: original/en.txt:118
 msgid ""
 "It might be information that we wish to share with some people, like our "
 "parents or teachers, but not with anyone else."
 msgstr ""
+"Dit kan informatie zijn die we willen delen met sommige mensen, bijv. onze "
+"ouders of leraren, maar niet zomaar met iedereen."
 
 #: original/en.txt:120
 msgid ""
 "But we can also help others when we protect our privacy, because they might "
 "want to share something with us that should not be shared with anyone else."
 msgstr ""
+"Maar door het beschermen van onze privacy kunnen we óók anderen helpen omdat "
+"zij misschien iets willen delen met ons dat niet met iedereen mag worden "
+"gedeeld."
 
 #: original/en.txt:122
 msgid "We all have something we don't want to share with others."
-msgstr ""
+msgstr "Iedereen heeft wel iets dat ze niet willen delen met anderen."
 
 #: original/en.txt:124
 msgid ""
 "Taking care of our own privacy has a lot to do with taking care of our "
 "friends too, because it helps us to be free, safe and trustworthy. "
 msgstr ""
+"Zorgen voor onze eigen privacy heeft ook veel te maken met zorgen voor onze "
+"vrienden, want het helpt ons om vrij, veilig en betrouwbaar te zijn. "
 
 #: original/en.txt:126
 msgid ""
@@ -279,10 +387,14 @@ msgid ""
 "searched for. This can happen if we forget to log out or simply when they "
 "look at the computer's history."
 msgstr ""
+"Onze leraren, vrienden of anderen die de computer na ons gebruiken, kunnen "
+"soms zien waar we naar\n"
+"gezocht hebben. Dit kan gebeuren als we vergeten uit te loggen of een kijkje "
+"nemen in de geschiedenis van de computer."
 
 #: original/en.txt:130
 msgid ">>Did you know?  "
-msgstr ""
+msgstr ">>Wist je dat?  "
 
 #: original/en.txt:132
 msgid ""
@@ -290,10 +402,13 @@ msgid ""
 "could use at a time. Hardly anyone had a mobile phone and not many people "
 "had e-mail.  "
 msgstr ""
+"20 jaar geleden beschikten de meeste huizen over één telefoonlijn die "
+"slechts door één persoon gebruikt kon worden. Bijna niemand had een mobiele "
+"telefoon en weinig mensen hadden e-mail.  "
 
 #: original/en.txt:134
 msgid "»QUEST1: THE INTERNET IS..."
-msgstr ""
+msgstr "»ZOEKTOCHT1: HET INTERNET IS..."
 
 #: original/en.txt:136
 msgid ""
@@ -301,12 +416,17 @@ msgid ""
 "[B]...an efficient fishing tool for international waters.\n"
 "[C]...a social network."
 msgstr ""
+"[A]... een netwerk van apparaten.\n"
+"[B]...een efficiënt hulpmiddel om te vissen op internationale zeeën.\n"
+"[C]...een sociaal netwerk."
 
 #: original/en.txt:142
 msgid ""
 "C H A P T E R   3\n"
 "Protect yourself on social networks"
 msgstr ""
+"H O O F D S T U K  3\n"
+"Bescherm jezelf op sociale netwerken"
 
 #: original/en.txt:145
 msgid ""
@@ -314,6 +434,9 @@ msgid ""
 "chat with friends and family, share pictures, send private messages and post "
 "information publicly. "
 msgstr ""
+"Het kan ontzettend leuk zijn om sociale netwerken te gebruiken. Op sociale "
+"netwerken kunnen we chatten met vrienden en familie, foto's delen, "
+"privéberichten sturen en openbare informatie plaatsen. "
 
 #: original/en.txt:147
 msgid ""
@@ -321,16 +444,22 @@ msgid ""
 "social networks account. If you want to use social networks, it is best to "
 "ask your family and teachers to be sure. "
 msgstr ""
+"In sommige landen mogen kinderen jonger dan 13 geen gebruikmaken van sommige "
+"sociale netwerken. Als je sociale netwerken wilt gebruiken, vraag dan aan je "
+"familie of leraren of het al mag. "
 
 #: original/en.txt:149
 msgid ""
 ">> YouTube, Facebook, Instagram, Snapchat, Diaspora and many more are all "
 "social networks."
 msgstr ""
+">>YouTube, Facebook, Instagram, Snapchat, Diaspora en vele anderen zijn "
+"sociale netwerken."
 
 #: original/en.txt:151
 msgid "Do you have favourite ones? Why do you like them? "
 msgstr ""
+"Welke sociale netwerken zijn jou favoriete? En waarom vind je ze zo leuk? "
 
 #: original/en.txt:153
 msgid ""
@@ -339,6 +468,10 @@ msgid ""
 "message, \n"
 "your friend will not know about the message. But Facebook stores it! "
 msgstr ""
+"Sommige sociale netwerken slaan berichten op, zélfs de berichten die we niet "
+"versturen. Stel je voor: je schrijft een bericht aan je vriend op Facebook "
+"en verstuurt het bericht niet.\n"
+"Je vriend weet niets van dat bericht, maar Facebook slaat het wél op! "
 
 #: original/en.txt:156
 msgid ""
@@ -346,6 +479,10 @@ msgid ""
 "computers of the companies. That doesn't mean that they are going to do "
 "something bad with it – but you should know that this is happening."
 msgstr ""
+"Houdt altijd in gedachten dat alles wat we doen op sociale netwerken wordt "
+"opgeslagen op de computers van die bedrijven. Dit betekent niet per se dat "
+"ze er iets verkeerds mee gaan doen, maar het is belangrijk om te weten dát "
+"het gebeurt."
 
 #: original/en.txt:158
 msgid ""
@@ -356,6 +493,11 @@ msgid ""
 "Facebook, Snapchat and so on) can record what we write, the websites we "
 "visit and the things we search for online. "
 msgstr ""
+"» WIST JE DAT?\n"
+"De dingen die we typen in een zoekmachine of schrijven in een chatbericht "
+"aan een vriend worden niet volledig verwijderd. Bedrijven die de diensten "
+"aanbieden (zoals YouTube, Facebook, Snapchat, enz.) houden bij wat we "
+"schrijven, welke websites we bezoeken en de dingen die we zoeken. "
 
 #: original/en.txt:162
 msgid ""
@@ -364,19 +506,23 @@ msgid ""
 "[R] ...it helps us to be free and in control online.\n"
 "[G] ...it helps us to share pictures with the entire world."
 msgstr ""
+"» ZOEKTOCHT 2: PRIVACY IS BELANGRIJK, OMDAT...\n"
+"[T] ...het ons helpt om muziekvideo's te bekijken.\n"
+"[R] ...het ons helpt om vrij te zijn en ons onder controle houdt.\n"
+"[G] ...het ons helpt om foto's te delen met de hele wereld."
 
 #: original/en.txt:167
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (I)"
-msgstr ""
+msgstr "DIGITALE BESCHERMERS v GEGEVENSINDRINGERS (I)"
 
 #: original/en.txt:169
 msgid "MS. ANONYMITY"
-msgstr ""
+msgstr "MEVR. ANONIEM"
 
 #: original/en.txt:171
 msgctxt "original/en.txt:171"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr ""
+msgstr "TEAM: DIGITALE BESCHERMERS"
 
 #: original/en.txt:173
 msgid ""
@@ -384,21 +530,27 @@ msgid ""
 "Government tests have augmented her immune system. She also has the ability "
 "to use social networks anonymously, so nobody knows who she really is."
 msgstr ""
+"KRACHTEN:\n"
+"Overheidstests hebben haar immuunsysteem versterkt. Ze heeft ook de "
+"mogelijkheid om sociale netwerken anoniem te gebruiken, zodat niemand weet "
+"wie ze werkelijk is."
 
 #: original/en.txt:176
 msgid ""
 "WEAPONS:\n"
 "She is a skilled hand-to-hand fighter"
 msgstr ""
+"WAPENS:\n"
+"Ze is een goed getrainde vechtster die vecht met haar haden"
 
 #: original/en.txt:179
 msgid "I.D. THIEF"
-msgstr ""
+msgstr "I.D.-dief"
 
 #: original/en.txt:181
 msgctxt "original/en.txt:181"
 msgid "TEAM: DATA INTRUDERS"
-msgstr ""
+msgstr "TEAM: GEGEVENSINDRINGERS"
 
 #: original/en.txt:183
 msgid ""
@@ -407,22 +559,31 @@ msgid ""
 "pretends to be you and tries to use your name, social media and e-mail "
 "accounts for criminal activities."
 msgstr ""
+"KRACHTEN:\n"
+"Ze kan zien wat je op het internet doet en je persoonlijke informatie "
+"stelen. Ze doet alsof ze jou is en probeert je naam, sociale media- en e-"
+"mailaccounts te gebruiken voor criminele activiteiten."
 
 #: original/en.txt:186
 msgid ""
 "WEAPONS:\n"
 "The Alpha Virus – which she uses to infiltrate computers and phones."
 msgstr ""
+"WAPENS:\n"
+"Het Alfa-virus - ze gebruikt dit virus om computers en telefoons binnen te "
+"dringen."
 
 #: original/en.txt:192
 msgid ""
 "C H A P T E R   4\n"
 "Top three tips and tricks"
 msgstr ""
+"H O O F D S T U K  4\n"
+"De 3 beste tips & trucs"
 
 #: original/en.txt:195
 msgid "1. Not everyone has to know everything about us"
-msgstr ""
+msgstr "1. Niet iedereen hoeft alles over ons te weten"
 
 #: original/en.txt:197
 msgid ""
@@ -431,6 +592,10 @@ msgid ""
 "not with others. \n"
 "The internet sometimes makes it difficult to make that choice. "
 msgstr ""
+"Net als in de echte wereld, is het beter om voorzichtig te zijn met wat we "
+"wel en niet delen. Instinctief delen we sommige dingen met sommige mensen "
+"maar niet met anderen.\n"
+"Het internet maakt het soms moeilijk om te kiezen. "
 
 #: original/en.txt:200
 msgid ""
@@ -438,6 +603,9 @@ msgid ""
 "isn't, and partly because the internet has different rules than the offline "
 "world. "
 msgstr ""
+"Dit komt deels omdat het op internet niet altijd duidelijk is wat privé is "
+"en wat niet en deels omdat het internet andere regels heeft dat de echte "
+"wereld. "
 
 #: original/en.txt:202
 msgid ""
@@ -446,10 +614,14 @@ msgid ""
 "reads our comment online, they might not understand what we meant and might "
 "think we were being mean. "
 msgstr ""
+"Voorbeeld: onze vrienden vergeven ons als we een stomme opmerking maken "
+"terwijl we boos zijn en begrijpen waarom we dat deden omdat ze ons kennen. "
+"Als iemand anders op internet onze opmerking leest, dan begrijpen ze "
+"mogelijk niet wat we bedoelen en denken dat we gemeen zijn. "
 
 #: original/en.txt:204
 msgid "2. Safety and privacy online isn't difficult"
-msgstr ""
+msgstr "2. Veiligheid en privacy op internet is niet moeilijk"
 
 #: original/en.txt:206
 msgid ""
@@ -458,10 +630,14 @@ msgid ""
 "can guess, watch videos online without being tracked. We can do this in "
 "really simple ways."
 msgstr ""
+"We hoeven geen supernerds te zijn om onszelf te beschermen op internet. We "
+"kunnen een tablet, telefoon of laptop gebruiken waar onze klasgenoten geen "
+"toegang tot hebben, een wachtwoord dat niemand kan raden en video's bekijken "
+"zonder dat we worden gevolgd. Het is allemaal heel eenvoudig."
 
 #: original/en.txt:208
 msgid "3. Knowing what or who we're protecting ourselves against"
-msgstr ""
+msgstr "3. Weten wat en tegen wie we onszelf beschermen"
 
 #: original/en.txt:210
 msgid ""
@@ -470,6 +646,11 @@ msgid ""
 "might be \n"
 "angry about something, or nosy parents being... nosy parents. "
 msgstr ""
+"Net zoals dat banken beveiliging nodig hebben om zich te beschermen tegen "
+"dieven, moeten wij onszelf beschermen tegen bedrijven die ons willen volgen "
+"op internet, tegen klasgenoten\n"
+"die ergens boos over zijn of tegen nieuwsgierige ouders die... nieuwsgierig "
+"zijn. "
 
 #: original/en.txt:213
 msgid ""
@@ -477,26 +658,37 @@ msgid ""
 "them. Once we have thought about these threats, we'll find that it really is "
 "possible to keep ourselves safe and control our privacy."
 msgstr ""
+"We moeten aan onszelf vragen wat de échte bedreigingen zijn en wat we er "
+"tegen kunnen doen. Als we hierover nagedacht hebben, dan zien we dat het "
+"helemaal niet moeilijk is om onszelf te beschermen en onze privacy onder "
+"controle te houden."
 
 #: original/en.txt:218
 msgid ""
 "C H A P T E R   5\n"
 "Safer messaging"
 msgstr ""
+"H O O F D S T U K  5\n"
+"Veilig berichten versturen"
 
 #: original/en.txt:221
 msgid "We all use our phones to send messages to friends and family. "
 msgstr ""
+"We gebruiken allemaal onze telefoons om berichten te versturen aan onze "
+"vrienden en families. "
 
 #: original/en.txt:223
 msgid ""
 "But some messaging apps read the contents of our messages and track who we "
 "talk to. Some apps do this so they can profit from this information."
 msgstr ""
+"Maar sommige berichtenapps kunnen de inhoud van onze berichten lezen en "
+"bijhouden met wie we praten. Sommige apps doen dit om geld te verdienen met "
+"deze informatie."
 
 #: original/en.txt:225
 msgid "» What you say and do online is very valuable for companies. "
-msgstr ""
+msgstr "» Wat je op internet vertelt is waardevol voor bedrijven. "
 
 #: original/en.txt:227
 msgid ""
@@ -508,6 +700,13 @@ msgid ""
 "install Signal in this booklet – Signal is a cool app to keep your messages "
 "safe."
 msgstr ""
+"De bedrijven die berichtenapps maken, scannen regelmatig onze berichten. Ze "
+"houden bij met wie we praten zodat ze dat kunnen delen met andere bedrijven "
+"of om ons advertenties te laten zien om ons te verleiden iets te kopen. Aan "
+"het einde van het boekje vind je een lijst met coole berichtenapps. Deze "
+"apps zorgen er ook voor dat we geen berichten ontvangen van vreemden. En er "
+"is een handleiding over het installeren van Signal in dit boekje. Signal is "
+"een coole app waarmee je je berichten veilig houdt."
 
 #: original/en.txt:229
 msgid ""
@@ -516,28 +715,42 @@ msgid ""
 "[M] ...I can stay in touch with friends and family.\n"
 "[N] ...I can be sure that only my friends can see the photos I post there"
 msgstr ""
+"» ZOEKTOCHT 3: SOCIALE NETWERKEN ZIJN GEWELDIG, OMDAT...\n"
+"[Q] ...ik zeker weet dat ze mijn gegevens nooit zullen gebruiken of verkopen."
+"\n"
+"[M] ...ik contact kan houden met mijn vrienden en familie.\n"
+"[N] ...ik zeker weet dat alleen mijn vrienden kunnen zien welke foto's ik "
+"plaats"
 
 #: original/en.txt:237
 msgid ""
 "C H A P T E R   6\n"
 "Smartphone security"
 msgstr ""
+"H O O F D S T U K  6\n"
+"Smartphone-beveiliging"
 
 #: original/en.txt:240
 msgid "Our phones have become very important for using the internet."
 msgstr ""
+"Onze telefoons zijn ontzettend belangrijk geworden om mee te internetten."
 
 #: original/en.txt:242
 msgid ""
 "We use them when we want to communicate with our friends and family, when we "
 "use social networks or just browse the web."
 msgstr ""
+"We gebruiken ze als we willen praten met onze vrienden en familie, als we "
+"sociale netwerken gebruiken of gewoon om te surfen op het internet."
 
 #: original/en.txt:244
 msgid ""
 "But our phones are also useful for many other things, we can use them as a "
 "torch, to play games or to check the time of the next bus."
 msgstr ""
+"Maar onze telefoons zijn ook handig voor veel andere dingen: we kunnen ze "
+"gebruiken als zaklamp, we kunnen er spelletjes op spelen of kijken hoe laat "
+"de volgende bus vertrekt."
 
 #: original/en.txt:246
 msgid ""
@@ -546,6 +759,10 @@ msgid ""
 "need\n"
 "access to your address book?"
 msgstr ""
+"Als je een nieuwe app installeert, lees je dan de lijst met rechten waar je "
+"toestemming voor geeft en hoe de app toegang heeft tot informatie op je "
+"telefoon? Heeft een zaklamp-app\n"
+"écht toegang nodig tot je adresboek?"
 
 #: original/en.txt:249
 msgid ""
@@ -553,6 +770,10 @@ msgid ""
 "stop and think. There are good reasons not to trust an app that is asking "
 "for stuff that it obviously does not need."
 msgstr ""
+"Het is erg verleidelijk om snel voorbij te gaan aan het »Accepteren«-scherm, "
+"maar eigenlijk is het een goed moment om even na te denken. Er zijn goede "
+"redenen om een app niet te vertrouwen als deze vraagt om rechten die niet "
+"nodig zijn."
 
 #: original/en.txt:251
 msgid ""
@@ -561,10 +782,16 @@ msgid ""
 "find those in the »Settings«. Have a browse around the settings of your "
 "phone, it is good to learn about how your phone works."
 msgstr ""
+"Met slechts een paar klikken kunnen we rechten van onze telefoons en apps "
+"controleren en zelfs beperken. Op de meeste apparaten vinden we die "
+"instellingen in de »Instellingen«. Kijk eens rond in de instellingen van je "
+"telefoon; dit is een mooie manier om te leren hoe je telefoon werkt."
 
 #: original/en.txt:253
 msgid "» Many apps get access to your personal stuff stored on your phone."
 msgstr ""
+"» Veel apps krijgen toegang tot persoonlijke dingen die opgeslagen zijn op "
+"je telefoon."
 
 #: original/en.txt:255
 msgid ""
@@ -572,12 +799,18 @@ msgid ""
 "screen, we could also encrypt (protect) the whole phone with only a few "
 "clicks."
 msgstr ""
+"We kunnen de toegang tot onze locatie beperken, een wachtwoord toevoegen aan "
+"het vergrendelscherm en zelfs de hele telefoon versleutelen (beveiligen) met "
+"slechts een paar klikken."
 
 #: original/en.txt:257
 msgid ""
 "Making our phones more secure and privacy-friendly, doesn't take much time. "
 "Towards the end of this booklet, you can find a list of great apps for this."
 msgstr ""
+"Het veiliger en privacyvriendelijker maken van onze telefoons neemt "
+"nauwelijks tijd in beslag. Aan het eind van dit boekje vind je een lijst van "
+"geweldige apps om dit te doen."
 
 #: original/en.txt:259
 msgid ""
@@ -588,19 +821,25 @@ msgid ""
 "you can check if there are other versions of the app in the store that ask "
 "for fewer permissions."
 msgstr ""
+"» WIST JE DAT?\n"
+"Als er een goede reden is om een app toegang te geven tot iets (bijv. een "
+"foto-app die toegang nodig heeft tot je camera), dan hoef je je weinig "
+"zorgen te maken. Maar als je vermoedt dat de app teveel rechten vraagt, dan "
+"kun je kijken of er andere versies van de aanwezig zijn in de app-winkel die "
+"om minder rechten vragen."
 
 #: original/en.txt:262
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
-msgstr ""
+msgstr "DIGITALE BESCHERMERS v GEGEVENSINDRINGERS (II)"
 
 #: original/en.txt:264
 msgid "MIND FREER"
-msgstr ""
+msgstr "GEESTBEVRIJDER"
 
 #: original/en.txt:266
 msgctxt "original/en.txt:266"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr ""
+msgstr "TEAM: DIGITALE BESCHERMERS"
 
 #: original/en.txt:268
 msgid ""
@@ -608,19 +847,22 @@ msgid ""
 "has the ability to create a private and secure environment where you can say "
 "what you think."
 msgstr ""
+"KRACHTEN: Hij vecht voor je recht om te beslissen wat je deelt en met wie. "
+"Hij heeft de mogelijkheid om een veilige privé-omgeving te creëren waar je "
+"alles kunt zeggen."
 
 #: original/en.txt:270
 msgid "WEAPONS: His mind."
-msgstr ""
+msgstr "WAPENS: Zijn geest."
 
 #: original/en.txt:272
 msgid "MAN IN THE MIDDLE."
-msgstr ""
+msgstr "TUSSENPERSOON."
 
 #: original/en.txt:274
 msgctxt "original/en.txt:274"
 msgid "TEAM: DATA INTRUDERS"
-msgstr ""
+msgstr "TEAM: GEGEVENSINDRINGERS"
 
 #: original/en.txt:276
 msgid ""
@@ -629,25 +871,32 @@ msgid ""
 "into your communications, to read your messages, see your photos and watch "
 "your videos."
 msgstr ""
+"KRACHTEN: Hij heeft mystieke krachten om alles wat je op internet doet te "
+"onderscheppen. Hij kan zich voordoen als een legitiem persoon en zo je "
+"gesprekken hacken, je berichten lezen en je foto's en video's bekijken."
 
 #: original/en.txt:278
 msgid "WEAPONS: His suit and antennas."
-msgstr ""
+msgstr "WAPENS: Zijn pak en antennes."
 
 #: original/en.txt:283
 msgid ""
 "CHAPTER 7\n"
 "Surfing the internet"
 msgstr ""
+"HOOFDSTUK 7\n"
+"Surfen op het internet"
 
 #: original/en.txt:286
 msgid "A browser is often how we use the internet."
-msgstr ""
+msgstr "Als we internet gebruiken, doen we dat meestal met een browser."
 
 #: original/en.txt:288
 msgid ""
 "» It's easy to forget that the browser is a little piece of software itself."
 msgstr ""
+"» Het is eenvoudig om te vergeten dat een browser een klein stukje software "
+"is."
 
 #: original/en.txt:290
 msgid ""
@@ -655,6 +904,10 @@ msgid ""
 "or computer, and the last thing you close. But a lot goes on inside the "
 "browser that you're not aware of and that be bad (or good) for your privacy."
 msgstr ""
+"Soms is het het eerste wat je opent als je je telefoon, tablet of computer "
+"aanzet en ook het laatste wat je weer afsluit. Maar er gebeurt heel veel in "
+"de browser waar je je niet bewust van bent. En die dingen kunnen slecht (of "
+"goed) zijn voor je privacy."
 
 #: original/en.txt:292
 msgid ""
@@ -662,10 +915,14 @@ msgid ""
 "have been posting recently, we leave digital footprints. Some websites and "
 "social networks use these footprints to follow us."
 msgstr ""
+"Als we op internet gaan om iets te kopen, video's te bekijken of kijken wat "
+"onze vrienden onlangs hebben geplaatst, dan laten we digitale voetstappen "
+"achter. Sommige websites en sociale netwerken gebruiken deze voetstappen om "
+"ons te volgen."
 
 #: original/en.txt:294
 msgid "» Websites collect lots of stuff about us!"
-msgstr ""
+msgstr "» Webstie verzamelen heel veel informatie over ons!"
 
 #: original/en.txt:296
 msgid ""
@@ -673,6 +930,10 @@ msgid ""
 "listening to can all be tracked. These websites can do this because they use "
 "»cookies« in our browsers. These »cookies « are little pieces of software."
 msgstr ""
+"Wie onze vrienden zijn, wat we leuk vinden, waar we naar zoeken en luisteren:"
+" het kan allemaal worden gevolgd. Deze websites kunnen dat doen door middel "
+"van »cookies« in onze browsers. Deze »cookies« zijn een klein stukje "
+"software."
 
 #: original/en.txt:298
 msgid ""
@@ -681,6 +942,10 @@ msgid ""
 "become known\n"
 "to many people and companies."
 msgstr ""
+"Ze zijn onzichtbaar voor ons maar als er genoeg gegevens zijn verzameld en "
+"worden gecombineerd met andere gegevens over ons (persoonlijke gegevens "
+"waarvan we denken dat ze geheim zijn),\n"
+"dan worden ze bekend bij andere mensen en bedrijven."
 
 #: original/en.txt:301
 msgid ""
@@ -689,6 +954,9 @@ msgid ""
 "browser is Google Chrome. But those are not necessarily the browsers that "
 "work best for you."
 msgstr ""
+"De meeste apparaten hebben standaard een browser. Op Windows is dat Internet "
+"Explorer, op Apple-apparaten is dat Safari en op Android-apparaten is dat "
+"Google Chrome. Maar dit zijn niet per se de browsers die het beste zijn."
 
 #: original/en.txt:303
 msgid ""
@@ -701,19 +969,27 @@ msgid ""
 "is not installed on\n"
 "your computer, but you can download it very easily."
 msgstr ""
+"» WIST JE DAT?\n"
+"Controleer de »privacy-instellingen« van je browser en wijzig de standaard "
+"instellingen zodat je er controle over kunt krijgen - net zoals Perfecte "
+"Golf! Veel mensen denken dat\n"
+"de beste browser voor privacy en veiligheid Firefox is! Waarom? Omdat je hem "
+"volledig kunt aanpassen, er volledige controle over kunt krijgen en zien hoe "
+"het werkt. Het is mogelijk dat Firefox niet is geïnstalleerd\n"
+"op je computer, maar je kunt hem eenvoudig downloaden."
 
 #: original/en.txt:308
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (III)"
-msgstr ""
+msgstr "DIGITALE BESCHERMERS v GEGEVENSINDRINGERS (III)"
 
 #: original/en.txt:310
 msgid "PERFECT WAVE"
-msgstr ""
+msgstr "PERFECTE GOLF"
 
 #: original/en.txt:312
 msgctxt "original/en.txt:312"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr ""
+msgstr "TEAM: DIGITALE BESCHERMERS"
 
 #: original/en.txt:314
 msgid ""
@@ -721,19 +997,22 @@ msgid ""
 "Perfect Wave does not require food or drink, he can survive by converting "
 "data into energy. He is almost totally indestrucible."
 msgstr ""
+"KRACHTEN: Hij kan navigeren in de ruimte, hyperruimte en cyberspace op zijn "
+"plank. De Perfecte Golf heeft geen eten of drinken nodig; hij kan overleven "
+"door gegevens om te zetten in energie. Het is bijna volledig onverwoestbaar."
 
 #: original/en.txt:316
 msgid "WEAPONS: His surfboard."
-msgstr ""
+msgstr "WAPENS: Zijn surfplank."
 
 #: original/en.txt:318
 msgid "KRAZY KOOKIE"
-msgstr ""
+msgstr "GEKKE KOEKIE"
 
 #: original/en.txt:320
 msgctxt "original/en.txt:320"
 msgid "TEAM: DATA INTRUDERS"
-msgstr ""
+msgstr "TEAM: GEGEVENSINDRINGERS"
 
 #: original/en.txt:322
 msgid ""
@@ -741,10 +1020,13 @@ msgid ""
 "considers the Perfect Wave his worst enemy. He has a monstrous appetite for "
 "your secrets."
 msgstr ""
+"KRACHTEN: Hij is altijd op zoek naar ruzie. Hij haat alle Beschermers maar "
+"beschouwt Perfecte Golf als zijn ergste vijand. Hij heeft een monsterlijke "
+"honger en zijn eten is jou geheimen."
 
 #: original/en.txt:324
 msgid "WEAPONS: His spinning robot arm."
-msgstr ""
+msgstr "WAPENS: Zijn bewegende robotarm."
 
 #: original/en.txt:326
 msgid ""
@@ -754,16 +1036,23 @@ msgid ""
 "[L] …are better than chocolate.\n"
 "[O] …can access my contacts, pictures, and messages."
 msgstr ""
+"» ZOEKTOCHT 4: SOMMIGE APPS ... «\n"
+"[F] ...zijn zó veilig dat ik nooit hoef na te denken over mijn privacy als "
+"ik ze gebruik.\n"
+"[L] ...zijn beter dan chocolade.\n"
+"[O] ...hebben toegang tot mijn contactpersonen, afbeeldingen en berichten."
 
 #: original/en.txt:334
 msgid ""
 "CHAPTER 8\n"
 "Password security"
 msgstr ""
+"HOOFDSTUK 8\n"
+"Wachwoordbeveiliging"
 
 #: original/en.txt:337
 msgid "Passwords. Very important in the digital age."
-msgstr ""
+msgstr "Wachtwoorden. Ontzettend belangrijk in het digitale tijdperk."
 
 #: original/en.txt:339
 msgid ""
@@ -772,20 +1061,26 @@ msgid ""
 "used password\n"
 "is »password» or »12345»."
 msgstr ""
+"Eigenlijk is er niks belangrijker. Ze vormen de basis van je veiligheid en "
+"privacy. De meeste mensen hebben heel, héél onveilige wachtwoorden; de "
+"meeste gebruikte wachtwoorden zijn\n"
+"»wachtwoord» en »12345»."
 
 #: original/en.txt:342
 msgid "Creating a secure password is not very difficult."
-msgstr ""
+msgstr "Het creëren van een veilig wachtwoord is niet moeilijk."
 
 #: original/en.txt:344
 msgid "1. Never use the same password twice"
-msgstr ""
+msgstr "1. Gebruik voor iedere dienst een ander wachtwoord"
 
 #: original/en.txt:346
 msgid ""
 "This is really one of the most important rules! At least, try to make "
 "different versions of the password you created."
 msgstr ""
+"Dit is écht één van de belangrijkste regels! Probeer op zijn minst "
+"verschillende variaties van het wachtwoord te creëren."
 
 #: original/en.txt:348
 msgid ""
@@ -794,14 +1089,19 @@ msgid ""
 "password. They\n"
 "know that people tend to use the same password on several sites!"
 msgstr ""
+"Waarom? Als criminelen (zoals Gegevenssmokkelaar) toegang krijgen tot de "
+"wachtwoorden van een dienst, dan proberen ze die wachtwoorden ook te "
+"gebruiken bij andere diensten. Ze\n"
+"weten dat mensen de neiging hebben hetzelfde wachtwoord te gebruiken op "
+"verschillende sites!"
 
 #: original/en.txt:351
 msgid "2. Never use a word from the dictionary"
-msgstr ""
+msgstr "2. Gebruik nóóit een woord uit het woordenboek"
 
 #: original/en.txt:353
 msgid "…no matter how long it may be or how complicated it may look."
-msgstr ""
+msgstr "...hoe lang het ook mag zijn of hoe moeilijk het er ook uitziet."
 
 #: original/en.txt:355
 msgid ""
@@ -810,16 +1110,22 @@ msgid ""
 "Defenders team has a strong and creative password. You can join them – your "
 "password is your weapon to get out of danger!"
 msgstr ""
+"Waarom? Omdat computerprogramma's elk woord uit het woordenboek proberen om "
+"je wachtwoord te »raden«. Elke superheld in ons Beschermers-team heeft een "
+"sterk en creatief wachtwoord. Ook jij kunt meedoen - je wachtwoord is je "
+"wapen om gevaar af te wenden!"
 
 #: original/en.txt:357
 msgid "3. Your password should be at least 12 characters long"
-msgstr ""
+msgstr "3. Je wachtwoord moet minimaal 12 tekens lang zijn"
 
 #: original/en.txt:359
 msgid ""
 "This is the minimum. The longer a password is, the more difficult it is to "
 "hack it."
 msgstr ""
+"Dit is het minimum. Hoe langer het wachtwoord, hoe moeilijker het is om het "
+"te kraken."
 
 #: original/en.txt:361
 msgid ""
@@ -827,19 +1133,22 @@ msgid ""
 "experts say that it is OK to write it down, just hide the piece of paper "
 "very well!"
 msgstr ""
+"Waarom? Omdat lange wachtwoorden moeilijker te raden zijn. Sommige experts "
+"zeggen zat het oké is om ze op te schrijven, maar verstop het papiertje dan "
+"goed!"
 
 #: original/en.txt:363
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (IV)"
-msgstr ""
+msgstr "DIGITALE BESCHERMERS v GEGEVENSINDRINGERS (IV)"
 
 #: original/en.txt:365
 msgid "QUEEN OF LOCKS"
-msgstr ""
+msgstr "KONINGIN DER SLOTEN"
 
 #: original/en.txt:367
 msgctxt "original/en.txt:367"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr ""
+msgstr "TEAM: DIGITALE BESCHERMERS"
 
 #: original/en.txt:369
 msgid ""
@@ -847,35 +1156,45 @@ msgid ""
 "to people who are in danger and helps them to secure their personal "
 "information online."
 msgstr ""
+"KRACHTEN: Ze vecht voor privacy en veiligheid. Ze geeft krachtige "
+"privésleutels aan mensen die gevaar lopen en helpt ze om hun persoonlijke "
+"informatie op internet te beveiligen."
 
 #: original/en.txt:371
 msgid ""
 "WEAPONS: Her helmet – she uses it to shoot energy beams from her eyes. She "
 "can cut right through Finn Phisher's dangerous net."
 msgstr ""
+"WAPENS: Haar helm. Ze gebruikt haar helm om energieflitsen te schieten met "
+"haar ogen. Ze kan het net van Finn Phisher direct vernietigen."
 
 #: original/en.txt:373
 msgid "FINN PHISHER"
-msgstr ""
+msgstr "FINN PHISHER"
 
 #: original/en.txt:375
 msgctxt "original/en.txt:375"
 msgid "TEAM: DATA INTRUDERS"
-msgstr ""
+msgstr "TEAM: GEGEVENSINDRINGERS"
 
 #: original/en.txt:377
 msgid ""
 "POWERS: He possesses superhuman strength, speed and reflexes. He uses his "
 "powers to sneak into your phone and fish for your secrets."
 msgstr ""
+"KRACHTEN: He bezit supermensenkracht, -snelheid en -reflexen. Hij gebruikt "
+"zijn krachten om stiekem je telefoon binnen te dringen en je geheimen op te "
+"vissen."
 
 #: original/en.txt:379
 msgid "WEAPONS: He throws an electrostatic data net to stun his opponents."
 msgstr ""
+"WAPENS: Hij gooit een elektrostatisch gegevensnet om zijn tegenstanders te "
+"verzwakken."
 
 #: original/en.txt:381
 msgid "» QUEST 5: WHEN I BROWSE THE INTERNET..."
-msgstr ""
+msgstr "» ZOEKTOCHT 5: ALS IK OP HET INTERNET SURF..."
 
 #: original/en.txt:383
 msgid ""
@@ -884,22 +1203,32 @@ msgid ""
 "history.\n"
 "[Y] …being too careful is just paranoid, because I have nothing to hide."
 msgstr ""
+"[X] ...dan kan ik alles doen wat ik maar wil. Ik ben veilig, dit is niet de "
+"werkelijkheid!\n"
+"[U] ...dan kan ik mezelf beschermen door cookies niet toe te staan en mijn "
+"browsergeschiedenis niet op te slaan.\n"
+"[Y] ...té voorzichtig zijn is paranoïde; ik heb niks te verbergen."
 
 #: original/en.txt:390
 msgid ""
 "CHAPTER 9\n"
 "Photo and  video sharing"
 msgstr ""
+"HOOFDSTUK 9\n"
+"Foto's en video's delen"
 
 #: original/en.txt:393
 msgid ""
 "We tell our friends about our daily life by sharing images and videos with "
 "them online."
 msgstr ""
+"We praten met onze vrienden over ons dagelijks leven door online foto's en "
+"video's met ze te delen."
 
 #: original/en.txt:395
 msgid "» Sharing is cool – but photos and videos can be copied easily."
 msgstr ""
+"» Delen is cool, maar foto's en video's kunnen makkelijk worden gekopieerd."
 
 #: original/en.txt:397
 msgid ""
@@ -907,6 +1236,9 @@ msgid ""
 "with people we don't want to share with. People might be able to see our "
 "private images, and misuse them."
 msgstr ""
+"Onthoud dat het altijd belangrijk is om zeker te weten dat we niks delen met "
+"mensen waarmee we niet willen delen. Mensen kunnen in staat zijn om onze "
+"privéfoto's te zien en ze te misbruiken."
 
 #: original/en.txt:399
 msgid ""
@@ -914,6 +1246,9 @@ msgid ""
 "our device to the device of a friend. Imagine that our friend shares the "
 "image again with others. Every copy can be copied again."
 msgstr ""
+"Wat is het probleem? Als we een foto of video versturen, dan sturen we een "
+"kopie vanaf ons apparaat naar dat van een vriend. Bedenk nu hoe onze vriend "
+"de afbeelding deelt met anderen. Elke kopie kan opnieuw worden gekopieerd."
 
 #: original/en.txt:401
 msgid ""
@@ -921,18 +1256,25 @@ msgid ""
 "it on different devices. Even if we delete the original image from our own "
 "devices, the other copies will still be there."
 msgstr ""
+"Als we online een foto of video delen, dan zijn er altijd verschillende "
+"kopieën van op andere apparaten. Zelfs als we de originele foto verwijderen "
+"van onze apparaten, dan zijn er nog steeds andere kopieën."
 
 #: original/en.txt:403
 msgid ""
 "When we share, our stuff can get into the hands of people that we didn't "
 "want to share with."
 msgstr ""
+"Als we iets delen, dan kunnen onze dingen in de handen komen van mensen met "
+"wie we niks willen delen."
 
 #: original/en.txt:405
 msgid ""
 "Some people could even try to steal our identity by using our images – just "
 "like I.D. Thief."
 msgstr ""
+"Sommige mensen kunnen zelfs onze identiteit proberen te stelen door onze "
+"foto's te gebruiken - net als I.D. Dief."
 
 #: original/en.txt:407
 msgid ""
@@ -940,6 +1282,10 @@ msgid ""
 "it is still possible to save a photo with a few tricks and share it again. "
 "Thousands of Snapchat images have already been put on the internet."
 msgstr ""
+"Snapchat is een app om foto's te delen die snel weer verdwijnen. Helaas is "
+"het zelfs daarmee nog mogelijk om met een paar trucjes een afbeelding op te "
+"slaan en opnieuw te delen. Er zijn al duizenden Snapchat-afbeeldingen "
+"uitgelekt naar het internet."
 
 #: original/en.txt:409
 msgid ""
@@ -949,31 +1295,42 @@ msgid ""
 "ourselves if we would put this photo on the public board of our school. If "
 "not, it's maybe not a good idea to share it online."
 msgstr ""
+"Dit betekent dat we ermee moeten leven dat het mogelijk is dat sociale "
+"netwerken zowel voor goede als kwade doeleinden gebruikt kunnen worden. We "
+"moeten dus nadenken voordat we iets plaatsen of foto's en video's versturen "
+"via het internet! We moeten onszelf afvragen of we de foto zouden willen "
+"ophangen op het schoolbord. Als we dat niet willen, dan is het geen goed "
+"idee om deze online te delen."
 
 #: original/en.txt:411
 msgid ""
 "If our photo shows other people, we have to ask for their permission before "
 "sharing, because it is their right to decide."
 msgstr ""
+"Als er andere mensen op onze foto staan, dan moeten we ze toestemming vragen "
+"voordat we de foto delen. Het is hun recht om te beslissen of ze willen dat "
+"de foto gedeeld wordt."
 
 #: original/en.txt:413
 msgid ""
 "For images that we did not take ourselves, we should ask the owner for "
 "permission before we share them online."
 msgstr ""
+"Als we een foto niet zelf hebben genomen, dan moeten we toestemming vragen "
+"aan de eigenaar voordat we ze online delen."
 
 #: original/en.txt:415
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (V)"
-msgstr ""
+msgstr "DIGITALE BESCHERMERS v GEGEVENSINDRINGERS (V)"
 
 #: original/en.txt:417
 msgid "JOHNNY RANDOM"
-msgstr ""
+msgstr "JAN WILLEKEUR"
 
 #: original/en.txt:419
 msgctxt "original/en.txt:419"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr ""
+msgstr "TEAM: DIGITALE BESCHERMERS"
 
 #: original/en.txt:421
 msgid ""
@@ -981,21 +1338,27 @@ msgid ""
 "all members of his species, he has the ability to change his shape at will. "
 "He can shield your secrets with randomly changing passwords."
 msgstr ""
+"KRACHTEN: Hij is geboren op de planeet Entropia, ergens in een sterrenselsel "
+"ver hier vandaan. Net als de anderen van zijn soort heeft hij de "
+"mogelijkheid om zijn uiterlijk ten allen tijde aan te passen. Hij kan je "
+"geheimen bewaren d.m.v. willekeurig wijzigende wachtwoorden."
 
 #: original/en.txt:423
 msgid ""
 "WEAPONS: His main weaponry are energy charged parts of his body that he can "
 "throw and recover at any time."
 msgstr ""
+"WAPENS: Zijn hoofdwapens zijn de met energie geladen delen van zijn lichaam "
+"die hij op elk moment kan gooien en terughalen."
 
 #: original/en.txt:425
 msgid "DATA SMUGGLER"
-msgstr ""
+msgstr "GEGEVENSSMOKKELAAR"
 
 #: original/en.txt:427
 msgctxt "original/en.txt:427"
 msgid "TEAM: DATA INTRUDERS"
-msgstr ""
+msgstr "TEAM: GEGEVENSINDRINGERS"
 
 #: original/en.txt:429
 msgid ""
@@ -1004,16 +1367,23 @@ msgid ""
 "personal data (like your photos and messages) and sells it on the black "
 "market."
 msgstr ""
+"KRACHTEN: Hij is behoorlijk rijk en kan dingen doen die mensen nooit zouden "
+"kunnen. Hij is behoorlijk flexibel en heeft supermenskracht. Hij verzamelt "
+"waardevolle persoonlijke gegevens (zoals je foto's en berichten) en verkoopt "
+"deze op de zwarte markt."
 
 #: original/en.txt:431
 msgid "WEAPONS: He carries different types of weapons in his suitcase."
 msgstr ""
+"WAPENS: Hij draagt verschillende soorten wapens bij zich in zijn koffer."
 
 #: original/en.txt:437
 msgid ""
 "CHAPTER 10\n"
 "Apps & tools we like"
 msgstr ""
+"HOOFDSTUK 10\n"
+"Aanbevolen apps & hulpmiddelen"
 
 #: original/en.txt:440
 msgid ""
@@ -1024,6 +1394,12 @@ msgid ""
 "Signal                              Messaging, SMS and encrypted phone calls "
 "(WhatsApp alternative)                     Easy"
 msgstr ""
+"SMARTPHONE-APPS\n"
+"App                                  Wat de app kan                          "
+"                                                                             "
+"                                    Moeilijkheidsgraad\n"
+"Signal                              Chatten, SMS'en en versleutelde "
+"telefoongesprekken (WhatsApp-alternatief)                     Makkelijk"
 
 #: original/en.txt:444
 msgid ""
@@ -1034,6 +1410,13 @@ msgid ""
 "F-Droid                            Archive with apps that are open and free "
 "software (Google Play alternative)        Easy"
 msgstr ""
+"OrBot & OrFox                Anoniem surfen op het internet                  "
+"                                                             Makkelijk\n"
+"KeePassDroid                 Beheert al je wachtwoorden                      "
+"                                                                    "
+"Makkelijk\n"
+"F-Droid                            Archief met apps die open en vrije zijn ("
+"Google Play-alternatief)                  Makkelijk"
 
 #: original/en.txt:448
 msgid ""
@@ -1043,6 +1426,11 @@ msgid ""
 "ChatSecure                    Messaging app for multiple accounts like "
 "Facebook and Google                           Medium"
 msgstr ""
+"K9 Mail                            Beheert je e-mails                        "
+"                                                                             "
+"                           Makkelijk\n"
+"ChatSecure                    Chatapp, met ondersteuning voor meerdere "
+"accounts, zoals Facebook en Google        Gemiddeld"
 
 #: original/en.txt:451
 msgid ""
@@ -1054,6 +1442,13 @@ msgid ""
 "                                                                             "
 " Difficult"
 msgstr ""
+"Transportr                       Openbaar vervoersapp om bus- en treintijden "
+"op te vragen                               Makkelijk\n"
+"Csip Secure                   Versleutelde gesprekken (Skype-alternatief)"
+"                                                               Gemiddeld\n"
+"APG                                  Om berichten te versleutelen met K9 "
+"Mail                                                                       "
+"Moeilijk"
 
 #: original/en.txt:455
 msgid ""
@@ -1072,6 +1467,20 @@ msgid ""
 "Thunderbird &Enigmail       Manages your email accounts, the Enigmail Add-on "
 "encrypts your emails         Medium"
 msgstr ""
+"SOFTWARE VOOR WINDOWS, MAC EN LINUX\n"
+"Software                                What de software kan                 "
+"                                                                             "
+"     Moeilijkheidsgraad\n"
+"Jitsi                                          Versleutelde videogesprekken  "
+"                                                                             "
+"       Gemiddeld\n"
+"Tor Browser                           Anoniem surfen op het internet         "
+"                                                                          "
+"Makkelijk\n"
+"Pidgin and OTR Plugin       Chatten (compatibel met ChatSecure)"
+"                                                                  Gemiddeld\n"
+"Thunderbird &Enigmail       Je e-mailaccounts beheren; de Enigmail-add-on "
+"versleutelt je e-mails         Gemiddeld"
 
 #: original/en.txt:463
 msgid ""
@@ -1093,12 +1502,31 @@ msgid ""
 "                                                                             "
 "              Difficult"
 msgstr ""
+"BROWSER PLUG-INS, ADD-ONS EN EXTENSIES\n"
+"Plug-in                                          Wat de plug-in/extensie doet"
+"                                                                             "
+"    Moeilijkheidsgraad\n"
+"Disconnect.me                           Blokkeert cookies en trackers        "
+"                                                                           "
+"Makkelijk\n"
+"Privacy Badger                            Blokkeert trackers                 "
+"                                                                             "
+"        Makkelijk\n"
+"HTTPS Everywhere                    Forceert websites om, indien mogelijk, "
+"een veiliger verbinding te gebruiken             Makkelijk\n"
+"Self Destructing Cookies         Verwijdert cookies als ze niet meer worden "
+"gebruikt door geopende tabbladen        Gemiddeld\n"
+"NoScript                                       Blokkeert JavaScript          "
+"                                                                             "
+"                 Moeilijk"
 
 #: original/en.txt:475
 msgid ""
 "CHAPTER 11\n"
 "Hands-on guide for Signal"
 msgstr ""
+"HOOFDSTUK 11\n"
+"Handleiding voor Signal"
 
 #: original/en.txt:478
 msgid ""
@@ -1106,12 +1534,18 @@ msgid ""
 "we talk to. We can use it to text, call, and share pictures, videos, and "
 "contacts."
 msgstr ""
+"Signal is een gratis app voor Android en iOS. Signal kijkt niet mee met wat "
+"we zeggen of met wie we praten. We kunnen het gebruiken voor berichten, "
+"bellen en het delen van foto's, video's en contactpersonen."
 
 #: original/en.txt:480
 msgid ""
 "It is not the only app we can use to communicate safely, but it is one of "
 "the easiest to use. Here is a handson-guide for it in five simple steps:"
 msgstr ""
+"Het is niet de enige app die we kunnen gebruiken om veilig te communiceren, "
+"maar het is één van de makkelijkste om te gebruiken. Hier is een handleiding "
+"voor Signal, bestaande uit 5 eenvoudige stappen:"
 
 #: original/en.txt:482
 msgid ""
@@ -1119,6 +1553,9 @@ msgid ""
 "»Signal«. Select the app »Signal Private Messenger« and tap ›Install‹. After "
 "Signal is installed, open the app."
 msgstr ""
+"1. Ga naar de Play Store (Android) of App Store (iOS). Zoek naar »Signal«. "
+"Selecteer de app »Signal Private Messenger« en druk op ›Installeren‹. Open "
+"Signal nadat de installatie voltooid is."
 
 #: original/en.txt:484
 msgid ""
@@ -1126,16 +1563,21 @@ msgid ""
 "number and selecting ›Register‹ or ›Verify your device‹. You'll get a text "
 "message with a six digit code. Put that code into Signal."
 msgstr ""
+"2. Registreer je telefoonnummer bij Signal door je telefoonnummer in te "
+"voeren en te drukken op ›Registreren‹ of ›Verifieer je apparaat‹. Je krijgt "
+"een SMS met een zescijferige code. Voer die code in in Signal."
 
 #: original/en.txt:486
 msgid ""
 "3. Tap the pencil on the bottom right (Android) or the »+« symbol on the top "
 "right (iPhone) to start a conversation."
 msgstr ""
+"3. Druk op het potloodje rechtsbeneden (Android) of het »+«-symbool "
+"rechtsboven (iOS) om een gesprek te starten."
 
 #: original/en.txt:488
 msgid "4. Select the person you want to text or call."
-msgstr ""
+msgstr "4. Selecteer de persoon die je wilt SMS'en of bellen."
 
 #: original/en.txt:490
 msgid ""
@@ -1143,6 +1585,8 @@ msgid ""
 "connection and insecure SMS, just hold the »Send« button for a tiny bit "
 "longer."
 msgstr ""
+"5. Als je wilt wisselen tussen veilige berichten via je internetverbinding "
+"en onveilige SMS, dan moet je de »Versturen«-knop even ingedrukt houden."
 
 #: original/en.txt:492
 msgid ""
@@ -1150,6 +1594,10 @@ msgid ""
 "too. It uses our internet connection when we contact another Signal user and "
 "normal SMS or minutes when we contact someone who is not using Signal."
 msgstr ""
+"Het is véél veiliger als de persoon met wie we contact opnemen ook Signal "
+"gebruikt. Het gebruikt onze internetverbinding wanneer we een contact "
+"opnemen met een andere Signal-gebruiker en normale SMS of belminuten wanneer "
+"we contact opnemen met iemand die geen Signal gebruikt."
 
 #: original/en.txt:494
 msgid ""
@@ -1157,10 +1605,14 @@ msgid ""
 "your closest friends and the people you contact most often to install it too "
 "and then more and more of our friends will start using it."
 msgstr ""
+"Onthoud: je hoeft niet iedereen die je kent over te laten stappen naar "
+"Signal. Vertel in ieder geval aan je beste vrienden en de mensen met wie je "
+"het meeste contact hebt om het te installeren, dan gaan meer en meer "
+"vrienden het vanzelf gebruiken."
 
 #: original/en.txt:496
 msgid "This booklet was made possible thanks to:"
-msgstr ""
+msgstr "Dit boekje is mogelijk gemaakt door:"
 
 #: original/en.txt:498
 msgid ""
@@ -1168,6 +1620,8 @@ msgid ""
 "contribution!\n"
 "• the Adessium Foundation and Open Society Foundations"
 msgstr ""
+"• individuele donoren op GlobalGiving.com - bedankt voor jullie bijdrage!\n"
+"• de Adessium Foundation en Open Society Foundations"
 
 #: original/en.txt:501
 msgid ""
@@ -1175,6 +1629,9 @@ msgid ""
 "\n"
 "http://creativecommons.org/licenses/by/2.0/"
 msgstr ""
+"Dit document wordt verspreid onder de Creative Commons 2.0-licentie (CC BY "
+"2.0)\n"
+"http://creativecommons.org/licenses/by/2.0/"
 
 #: original/en.txt:504
 msgid ""
@@ -1183,3 +1640,8 @@ msgid ""
 "[V] …123456789 – it's easy to remember.\n"
 "[D] …the first word I see when opening a random book from a random page."
 msgstr ""
+"» ZOEKTOCHT 6: IK MOET MIJN WACHTWOORD LATEN BESTAAN UIT ...\n"
+"[R] ...een willekeurige combinatie van letters en speciale tekens.\n"
+"[V] ...123456789 - want dat is makkelijk te onthouden.\n"
+"[D] ...het eerste wordt dat ik tegenkom na het openen van een willekeurig "
+"boek."
