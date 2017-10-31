@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-04 22:37+0200\n"
-"PO-Revision-Date: 2017-09-12 22:50+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"PO-Revision-Date: 2017-11-01 15:47+0000\n"
+"Last-Translator: Ole-Erik Yrvin <oeyrvin@gmail.com>\n"
 "Language-Team: Norwegian Bokmål "
 "<https://hosted.weblate.org/projects/efn/privacy4kids/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.17-dev\n"
+"X-Generator: Weblate 2.17\n"
 
 #: original/en.txt:1
 msgid ""
@@ -22,7 +22,7 @@ msgid ""
 "TAKE CONTROL OF YOUR STUFF ONLINE\n"
 "PRIVACY FOR KIDS"
 msgstr ""
-"DIN VEILEDER TIL\n"
+"DIN VEILEDER TIL DE\n"
 "DIGITALE FORSVARERE MOT DATAINNTRENGERE\n"
 "TA KONTROLL OVER DINE TING PÅ NETTET\n"
 "PRIVATLIV FOR BARN"
@@ -186,7 +186,7 @@ msgstr "Din venn,"
 
 #: original/en.txt:68
 msgid "OH, AND KEEP YOUR EYES OPEN FOR THE EDRi-former GAME"
-msgstr ""
+msgstr "Hold øynene åpne for EDRi-former spillet"
 
 #: original/en.txt:70
 msgid ""
@@ -480,6 +480,9 @@ msgid ""
 "computers of the companies. That doesn't mean that they are going to do "
 "something bad with it – but you should know that this is happening."
 msgstr ""
+"Husk at alt vi gjør på et sosialt nettverk blir registrert på selskapenes "
+"datamaskiner.  Det betyr ikke at de vil gjøre noe galt set - men du bør vite "
+"at dette skjer."
 
 #: original/en.txt:158
 msgid ""
@@ -490,6 +493,12 @@ msgid ""
 "Facebook, Snapchat and so on) can record what we write, the websites we "
 "visit and the things we search for online. "
 msgstr ""
+"» VISSTEDU DETTE?\n"
+"Tingene vi skriver inn i en søkemotor eller skriver i en chattemelding til "
+"en venn, blir ikke fullstendig slettet. Bedrifter som leverer tjenestene vi "
+"bruker (som YouTube,\n"
+"Facebook, Snapchat og så videre) kan registrere hva vi skriver, nettstedene "
+"vi besøker og de tingene vi søker etter på nettet. "
 
 #: original/en.txt:162
 msgid ""
@@ -498,41 +507,51 @@ msgid ""
 "[R] ...it helps us to be free and in control online.\n"
 "[G] ...it helps us to share pictures with the entire world."
 msgstr ""
+"» SPØRSMÅL 2: PRIVATLIV ER VIKTIG FORDI...\n"
+"[T]  ...det hjelper oss til å se musikkvideoer.\n"
+"[R] ...det hjelper oss til å være fri og ha kontroll med nettet. \n"
+"[G] ...det hjelper oss med å dele bilder med hele verden."
 
 #: original/en.txt:167
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (I)"
-msgstr ""
+msgstr "DIGITALE FORSVARERE MOT DATAINNTRENGERE (I)"
 
 #: original/en.txt:169
 msgid "MS. ANONYMITY"
-msgstr ""
+msgstr "MS. ANONYMITET"
 
 #: original/en.txt:171
 msgctxt "original/en.txt:171"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr ""
+msgstr "LAGET: DIGITAL FORSVARERE"
 
 #: original/en.txt:173
+#, fuzzy
 msgid ""
 "POWERS:\n"
 "Government tests have augmented her immune system. She also has the ability "
 "to use social networks anonymously, so nobody knows who she really is."
 msgstr ""
+"KREFTER:\n"
+"Offentlige tester har forsterket immunforsvaret. Hun har også muligheten til "
+"å bruke sosiale nettverk anonymt, så ingen vet hvem hun egentlig er."
 
 #: original/en.txt:176
 msgid ""
 "WEAPONS:\n"
 "She is a skilled hand-to-hand fighter"
 msgstr ""
+"VÅPEN:\n"
+"Hun er en dyktig hånd til hånd-kjemper"
 
 #: original/en.txt:179
 msgid "I.D. THIEF"
-msgstr ""
+msgstr "I.D. TYV"
 
 #: original/en.txt:181
 msgctxt "original/en.txt:181"
 msgid "TEAM: DATA INTRUDERS"
-msgstr ""
+msgstr "LAGET: DATAINNTRENGERE"
 
 #: original/en.txt:183
 msgid ""
@@ -541,22 +560,30 @@ msgid ""
 "pretends to be you and tries to use your name, social media and e-mail "
 "accounts for criminal activities."
 msgstr ""
+"KREFTER: \n"
+"Hun kan se hva du gjør på nettet og så stjele dine personopplysninger.  Hun "
+"later som hun er deg og prøver å bruke ditt navn, sosiale medier og e-"
+"postkontoer til kriminelle aktiviteter."
 
 #: original/en.txt:186
 msgid ""
 "WEAPONS:\n"
 "The Alpha Virus – which she uses to infiltrate computers and phones."
 msgstr ""
+"VÅPEN:\n"
+"Alpha Virus-et - som hun bruker å infiltrere datamaskiner og telefoner."
 
 #: original/en.txt:192
 msgid ""
 "C H A P T E R   4\n"
 "Top three tips and tricks"
 msgstr ""
+"K A P I T T E L   4\n"
+"Tre på topp tips og triks"
 
 #: original/en.txt:195
 msgid "1. Not everyone has to know everything about us"
-msgstr ""
+msgstr "1. Alle må ikke vite alt om oss"
 
 #: original/en.txt:197
 msgid ""
@@ -565,6 +592,10 @@ msgid ""
 "not with others. \n"
 "The internet sometimes makes it difficult to make that choice. "
 msgstr ""
+"Som i den vanlige verden er det bedre å være velge nøye hva vi ønsker å dele "
+"eller ikke. Instinktivt deler vi noen ting med noen mennesker og ikke med "
+"andre.\n"
+"Internettet gjør det noen ganger vanskelig å gjøre det valget. "
 
 #: original/en.txt:200
 msgid ""
@@ -572,6 +603,9 @@ msgid ""
 "isn't, and partly because the internet has different rules than the offline "
 "world. "
 msgstr ""
+"Dette er delvis fordi det ikke alltid er klart hva er privat på nettet og "
+"hva som ikke er, og delvis fordi Internettet har andre regler enn verden "
+"utenfor. "
 
 #: original/en.txt:202
 msgid ""
@@ -580,10 +614,14 @@ msgid ""
 "reads our comment online, they might not understand what we meant and might "
 "think we were being mean. "
 msgstr ""
+"For eksempel: Våre venner vil tilgi en dum kommentar når vi var sinte, og "
+"forstår hva vi gjør fordi de kjenner oss. Hvis noen andre leser vår "
+"kommentar på nettet, kanskje de ikke forstår hva vi mente, og kanskje tror "
+"vi er slemme. "
 
 #: original/en.txt:204
 msgid "2. Safety and privacy online isn't difficult"
-msgstr ""
+msgstr "2. Sikkerhet og personvern på nettet er ikke vanskelig"
 
 #: original/en.txt:206
 msgid ""
