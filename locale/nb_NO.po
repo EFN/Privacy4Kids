@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-04 22:37+0200\n"
-"PO-Revision-Date: 2017-11-01 15:47+0000\n"
-"Last-Translator: Ole-Erik Yrvin <oeyrvin@gmail.com>\n"
+"PO-Revision-Date: 2017-11-03 04:47+0000\n"
+"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål "
 "<https://hosted.weblate.org/projects/efn/privacy4kids/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.17\n"
+"X-Generator: Weblate 2.18-dev\n"
 
 #: original/en.txt:1
 msgid ""
@@ -172,13 +172,12 @@ msgstr ""
 "De vil lære deg selvforsvar for å hanskes med inntrengerne."
 
 #: original/en.txt:63
-#, fuzzy
 msgid ""
 "So check out this bookletand get ready to join our superhero team, the "
 "Defenders! "
 msgstr ""
 "Sjekk ut denne folderen og vær klar til å bli med på vårt superheltelag, "
-"beskytterne! "
+"Vokterne! "
 
 #: original/en.txt:65
 msgid "Your friend,"
