@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-04 22:37+0200\n"
-"PO-Revision-Date: 2017-11-08 08:38+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"PO-Revision-Date: 2017-11-08 10:51+0000\n"
+"Last-Translator: Tom Fredrik Blenning <bfg@blenning.no>\n"
 "Language-Team: Norwegian Bokmål "
 "<https://hosted.weblate.org/projects/efn/privacy4kids/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -71,7 +71,7 @@ msgid ""
 "Heini Jarvinen\n"
 "(EDRi-former illustrations)"
 msgstr ""
-"Kunst og formgivning av:\n"
+"Grafikk og formgivning av:\n"
 "Gregor Sedlag\n"
 "Heini Jarvinen\n"
 "(EDRi-tidligere illustrasjoner)"
@@ -225,7 +225,6 @@ msgstr ""
 "1 Hva er Internett?"
 
 #: original/en.txt:82
-#, fuzzy
 msgid "The internet is a global network of devices. "
 msgstr "Internett er et globalt nettverk av enheter. "
 
@@ -254,7 +253,6 @@ msgstr ""
 "og sludre med våre venner samtidig."
 
 #: original/en.txt:90
-#, fuzzy
 msgid ""
 "The internet is global, it is fast and gives us a whole world of "
 "opportunities.  "
@@ -398,7 +396,6 @@ msgid ">>Did you know?  "
 msgstr ">>Visste du?  "
 
 #: original/en.txt:132
-#, fuzzy
 msgid ""
 "Only 20 years ago, most homes had only one phone line which only one person "
 "could use at a time. Hardly anyone had a mobile phone and not many people "
@@ -518,7 +515,7 @@ msgstr "DIGITALE FORSVARERE MOT DATAINNTRENGERE (I)"
 
 #: original/en.txt:169
 msgid "MS. ANONYMITY"
-msgstr "MS. ANONYMITET"
+msgstr "FR. ANONYMITET"
 
 #: original/en.txt:171
 msgctxt "original/en.txt:171"
@@ -715,7 +712,7 @@ msgid ""
 "[N] ...I can be sure that only my friends can see the photos I post there"
 msgstr ""
 "» REBUS 3: SOSIALE NETTVERK ER FORTREFFELIGE FORDI…\n"
-"[Q]  …Jeg an være sikker på at de aldri vil selge eller bruke min data.\n"
+"[Q]  …Jeg kan være sikker på at de aldri vil selge eller bruke min data.\n"
 "[M] …Jeg kan holde kontakten med venner og familie.\n"
 "[N] …Jeg kan forsikre meg om at bare mine venner kan se bildene jeg poster "
 "der."
@@ -729,9 +726,8 @@ msgstr ""
 "Smarttelefonsikkerhet"
 
 #: original/en.txt:240
-#, fuzzy
 msgid "Our phones have become very important for using the internet."
-msgstr "Telefonene våre har blitt viktige i bruken av Internett."
+msgstr "Telefonene våre har blitt veldig viktige for bruken av Internett."
 
 #: original/en.txt:242
 msgid ""
@@ -742,13 +738,12 @@ msgstr ""
 "bruker sosiale nettverk, eller ganske enkelt for å surfe."
 
 #: original/en.txt:244
-#, fuzzy
 msgid ""
 "But our phones are also useful for many other things, we can use them as a "
 "torch, to play games or to check the time of the next bus."
 msgstr ""
-"Telefonene våre er også nyttige for mange andre ting, vi kan bruke dem som "
-"lommelykt, for å spille, eller for å sjekke neste avgang på bussen."
+"Men telefonene våre er også nyttige for mange andre ting, vi kan bruke dem "
+"som lommelykt, til å spille, eller for å sjekke neste avgang på bussen."
 
 #: original/en.txt:246
 msgid ""
@@ -763,6 +758,7 @@ msgstr ""
 "virkelig tilgang til adresselista di?"
 
 #: original/en.txt:249
+#, fuzzy
 msgid ""
 "It is very tempting to just skip past the »Accept« screen, but it is good to "
 "stop and think. There are good reasons not to trust an app that is asking "
@@ -1202,7 +1198,7 @@ msgstr ""
 msgid "WEAPONS: He throws an electrostatic data net to stun his opponents."
 msgstr ""
 "VÅPEN: Han kaster sitt elektrostatiske datanett for å overvelde sine "
-"mostandere."
+"motstandere."
 
 #: original/en.txt:381
 #, fuzzy
@@ -1217,8 +1213,8 @@ msgid ""
 "[Y] …being too careful is just paranoid, because I have nothing to hide."
 msgstr ""
 "[X] …kan jeg gjøre hva jeg vil, jeg er trygg - det er ikke virkelighet!\n"
-"[U] …kan jeg beskytte meg selv ved å ikke tillate kaker og ikke lagre min "
-"nettleserhistorikk.\n"
+"[U] …kan jeg beskytte meg selv ved å ikke tillate informasjonskapsler og "
+"ikke lagre min nettleserhistorikk.\n"
 "[Y] …er det å være forsiktig bare paranoid, fordi jeg ikke har noe å skjule."
 
 #: original/en.txt:390
