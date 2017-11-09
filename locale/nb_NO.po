@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-04 22:37+0200\n"
-"PO-Revision-Date: 2017-11-09 06:24+0000\n"
-"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
+"PO-Revision-Date: 2017-11-09 07:23+0000\n"
+"Last-Translator: Tom Fredrik Blenning <bfg@blenning.no>\n"
 "Language-Team: Norwegian Bokmål "
 "<https://hosted.weblate.org/projects/efn/privacy4kids/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -522,15 +522,14 @@ msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "LAGET: DIGITAL FORSVARERE"
 
 #: original/en.txt:173
-#, fuzzy
 msgid ""
 "POWERS:\n"
 "Government tests have augmented her immune system. She also has the ability "
 "to use social networks anonymously, so nobody knows who she really is."
 msgstr ""
 "KREFTER:\n"
-"Offentlige tester har forsterket immunforsvaret. Hun har også muligheten til "
-"å bruke sosiale nettverk anonymt, så ingen vet hvem hun egentlig er."
+"Statlige tester har forsterket immunforsvaret. Hun har også muligheten til å "
+"bruke sosiale nettverk anonymt, så ingen vet hvem hun egentlig er."
 
 #: original/en.txt:176
 msgid ""
@@ -683,7 +682,6 @@ msgid "» What you say and do online is very valuable for companies. "
 msgstr "» Hva du sier og gjør på nett er veldig verdifullt for selskaper. "
 
 #: original/en.txt:227
-#, fuzzy
 msgid ""
 "The companies who make messaging apps often scan what we say. They track who "
 "we're talking to so they can show us advertisements to make us buy something "
@@ -756,13 +754,12 @@ msgstr ""
 "virkelig tilgang til adresselista di?"
 
 #: original/en.txt:249
-#, fuzzy
 msgid ""
 "It is very tempting to just skip past the »Accept« screen, but it is good to "
 "stop and think. There are good reasons not to trust an app that is asking "
 "for stuff that it obviously does not need."
 msgstr ""
-"Det er veldig fristende å bare trykke \"Godta\", men det er nyttig å stoppe "
+"Det er veldig fristende å bare trykke »Godta«, men det er nyttig å stoppe "
 "opp og tenke. Det er gode grunner til å ikke stole på et program som spør om "
 "tilgang til ting det åpenbart ikke trenger."
 
@@ -880,9 +877,8 @@ msgstr ""
 "Surfing på Internett"
 
 #: original/en.txt:286
-#, fuzzy
 msgid "A browser is often how we use the internet."
-msgstr "En nettleser er ofte måten vi bruker Internett på."
+msgstr "Når vi sier vi bruker Internett er det ofte en nettleser vi bruker."
 
 #: original/en.txt:288
 msgid ""
@@ -1097,7 +1093,6 @@ msgstr ""
 "å være."
 
 #: original/en.txt:355
-#, fuzzy
 msgid ""
 "Why? Because there are computer programmes that try every single word in the "
 "dictionary as a way of »guessing« your password. Every superhero in our "
@@ -1105,22 +1100,21 @@ msgid ""
 "password is your weapon to get out of danger!"
 msgstr ""
 "Hvorfor? Fordi det finnes dataprogrammer som prøver hvert eneste ord i "
-"ordboka som en måte å \"gjette\" passordet ditt på. Hver superhelt i vårt "
+"ordboka for forsøke å \"gjette\" passordet ditt på. Hver superhelt i vårt "
 "lag av Beskyttere har et sterkt og kreativt passord. Du kan bli en av dem - "
-"passordet ditt er ditt våpen til bruk for unngåelse av fare!"
+"passordet ditt er ditt våpen for å unngå fare!"
 
 #: original/en.txt:357
 msgid "3. Your password should be at least 12 characters long"
 msgstr "3. Passordet ditt burde være minst 12 tegn langt"
 
 #: original/en.txt:359
-#, fuzzy
 msgid ""
 "This is the minimum. The longer a password is, the more difficult it is to "
 "hack it."
 msgstr ""
 "Dette er et minimum. Desto lengre et passord er, desto vanskeligere er det å "
-"komme fra til det."
+"gjette seg til det."
 
 #: original/en.txt:361
 msgid ""
