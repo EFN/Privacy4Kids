@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-04 22:37+0200\n"
-"PO-Revision-Date: 2017-11-14 11:53+0000\n"
+"PO-Revision-Date: 2017-11-14 16:56+0000\n"
 "Last-Translator: Ingrid Yrvin <ingrid.yrvin@gmail.com>\n"
 "Language-Team: Norwegian Bokmål "
 "<https://hosted.weblate.org/projects/efn/privacy4kids/nb_NO/>\n"
@@ -134,7 +134,7 @@ msgstr ""
 "Kapittel 6: Sikrere meldingstjenester\n"
 "Kapittel 7: Surfing på Internett\n"
 "Kapittel 8: Passordsikkerhet\n"
-"Kapittel 9: Bilde- og video-deling.\n"
+"Kapittel 9: Bilde- og video-deling.all\n"
 "Kapittel 10: Programmer og verktøy vi liker\n"
 "Kapittel 11: Praktisk veiledning til Signal"
 
@@ -521,7 +521,7 @@ msgstr "FR. ANONYMITET"
 #: original/en.txt:171
 msgctxt "original/en.txt:171"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr "LAGET (TEAM): DIGITALE FORSVARERE"
+msgstr "LAG: DIGITALE FORSVARERE"
 
 #: original/en.txt:173
 msgid ""
@@ -549,7 +549,7 @@ msgstr "ID-TYV"
 #: original/en.txt:181
 msgctxt "original/en.txt:181"
 msgid "TEAM: DATA INTRUDERS"
-msgstr "LAGET (TEAM): DATAINNTRENGERE"
+msgstr "LAG: DATAINNTRENGERE"
 
 #: original/en.txt:183
 msgid ""
@@ -823,6 +823,7 @@ msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
 msgstr "DIGITALE BESKYTTERE mot DATAINNTRENGERE (II)"
 
 #: original/en.txt:264
+#, fuzzy
 msgid "MIND FREER"
 msgstr "SINNSBEFRIER"
 
@@ -862,7 +863,7 @@ msgid ""
 "your videos."
 msgstr ""
 "KREFTER: Han har mystiske krefter for å fange opp hva du gjør på nett. Han "
-"kan utgi seg for å være en faktisk person på nett og så bruke dette til å "
+"kan utgi seg for å være en faktisk person på nett, og så bruke dette til å "
 "bryte seg rett inn i samtalene dine, for å lese meldingene dine, for å se "
 "bildene og se videoene dine."
 
@@ -880,7 +881,7 @@ msgstr ""
 
 #: original/en.txt:286
 msgid "A browser is often how we use the internet."
-msgstr "Når vi sier vi bruker Internett er det ofte en nettleser vi bruker."
+msgstr "Når vi sier vi bruker Internett, er det ofte en nettleser vi bruker."
 
 #: original/en.txt:288
 msgid ""
@@ -994,8 +995,9 @@ msgid "WEAPONS: His surfboard."
 msgstr "VÅPEN: Surfebrett."
 
 #: original/en.txt:318
+#, fuzzy
 msgid "KRAZY KOOKIE"
-msgstr "GAL KAKE"
+msgstr "GAL KAKE (KRAZY KOOKIE)"
 
 #: original/en.txt:320
 msgctxt "original/en.txt:320"
@@ -1008,9 +1010,9 @@ msgid ""
 "considers the Perfect Wave his worst enemy. He has a monstrous appetite for "
 "your secrets."
 msgstr ""
-"Krefter: Han er alltid på utkikk etter bråk. Han hater alle beskyttere, men "
-"synes at Perfekt Bølge er sin verste fiende. Han har en monstrøs appetitt "
-"for dine hemmeligheter."
+"KREFTERr: Han er alltid på utkikk etter bråk. Han hater alle beskyttere, men "
+"synes at Perfekt Bølge er sin verste fiende. Han har en monstrøs (uhyggelig) "
+"appetitt for dine hemmeligheter."
 
 #: original/en.txt:324
 msgid "WEAPONS: His spinning robot arm."
@@ -1051,13 +1053,13 @@ msgid ""
 "is »password» or »12345»."
 msgstr ""
 "Uhyre viktig faktisk. De utgjør grunnlaget for din sikkerhet og ditt "
-"personvern. Folks passord er vanligveldig veldig, veldig svake - det mest "
+"personvern. Folks passord er vanligvis veldig, veldig svake - det mest "
 "brukte passordet er\n"
-"\"passord\" eller \"12345\"."
+"«passord» eller «12345»."
 
 #: original/en.txt:342
 msgid "Creating a secure password is not very difficult."
-msgstr "Å laget et sikkert passord er ikke veldig vanskelig."
+msgstr "Å lage  et sikkert passord er ikke veldig vanskelig."
 
 #: original/en.txt:344
 msgid "1. Never use the same password twice"
@@ -1068,7 +1070,7 @@ msgid ""
 "This is really one of the most important rules! At least, try to make "
 "different versions of the password you created."
 msgstr ""
-"Dette er faktisk én av de viktigste reglene! Prøv ihvertfall å ha "
+"Dette er faktisk én av de viktigste reglene! Prøv i hvert fall å ha "
 "forskjellige versjoner av passordet du opprettet."
 
 #: original/en.txt:348
@@ -1085,13 +1087,13 @@ msgstr ""
 
 #: original/en.txt:351
 msgid "2. Never use a word from the dictionary"
-msgstr "2. Aldri bruk et ord fra ordboka"
+msgstr "2. Bruk aldri et ord fra ordboka"
 
 #: original/en.txt:353
 msgid "…no matter how long it may be or how complicated it may look."
 msgstr ""
-"…uansett hvor langt det måtte være eller hvor komplisert det måtte se ut til "
-"å være."
+"…uansett hvor langt det måtte være, eller hvor komplisert det måtte se ut "
+"til å være."
 
 #: original/en.txt:355
 msgid ""
@@ -1101,8 +1103,8 @@ msgid ""
 "password is your weapon to get out of danger!"
 msgstr ""
 "Hvorfor? Fordi det finnes dataprogrammer som prøver hvert eneste ord i "
-"ordboka for forsøke å \"gjette\" passordet ditt på. Hver superhelt i vårt "
-"lag av Beskyttere har et sterkt og kreativt passord. Du kan bli en av dem - "
+"ordboka for forsøke å  «gjette» passordet ditt på. Hver superhelt i vårt lag "
+"av Beskyttere har et sterkt og kreativt passord. Du kan bli en av dem - "
 "passordet ditt er ditt våpen for å unngå fare!"
 
 #: original/en.txt:357
@@ -1133,7 +1135,7 @@ msgstr "DIGITALE BESKYTTERE mot DATAINNTRENGERE (IV)"
 
 #: original/en.txt:365
 msgid "QUEEN OF LOCKS"
-msgstr "DRONNINGEN AV LÅSER"
+msgstr "DRONNING AV LÅSER"
 
 #: original/en.txt:367
 msgctxt "original/en.txt:367"
@@ -1147,7 +1149,7 @@ msgid ""
 "information online."
 msgstr ""
 "KREFTER: Hun sloss for privatliv og sikkerhet. Hun gir kraftfulle private "
-"nøkler til folk som er i fare og hjelper dem å sikre sin personlige "
+"nøkler til folk som er i fare, og hjelper dem å sikre sin personlige "
 "informasjon på nett."
 
 #: original/en.txt:371
