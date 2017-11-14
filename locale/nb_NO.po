@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-04 22:37+0200\n"
-"PO-Revision-Date: 2017-11-14 16:56+0000\n"
-"Last-Translator: Ingrid Yrvin <ingrid.yrvin@gmail.com>\n"
+"PO-Revision-Date: 2017-11-15 10:35+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål "
 "<https://hosted.weblate.org/projects/efn/privacy4kids/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -25,7 +25,7 @@ msgstr ""
 "DIN VEILEDER TIL DE\n"
 "DIGITALE FORSVARERE MOT DATAINNTRENGERE\n"
 "TA KONTROLL OVER DINE TING PÅ NETTET\n"
-"PRIVATLIV FOR BARN"
+"PERSONVERN FOR BARN"
 
 #: original/en.txt:6
 msgid ""
@@ -128,13 +128,13 @@ msgid ""
 msgstr ""
 "Kapittel 1: Hva er Internett?\n"
 "Kapittel 2: Hva er personvern?\n"
-"Kapittel 3: De tre beste tips og triksene\n"
+"Kapittel 3: De tre beste tips- og triksene\n"
 "Kapittel 4: Beskytt deg selv på sosiale nettverk\n"
 "Kapittel 5: Smarttelefoner og sikkerhet\n"
 "Kapittel 6: Sikrere meldingstjenester\n"
 "Kapittel 7: Surfing på Internett\n"
 "Kapittel 8: Passordsikkerhet\n"
-"Kapittel 9: Bilde- og video-deling.all\n"
+"Kapittel 9: Bilde- og video-deling\n"
 "Kapittel 10: Programmer og verktøy vi liker\n"
 "Kapittel 11: Praktisk veiledning til Signal"
 
@@ -177,15 +177,16 @@ msgid ""
 "Defenders! "
 msgstr ""
 "Sjekk ut denne folderen, og vær klar til å bli med på vårt superheltelag, "
-"Vokterne! "
+"beskytterne! "
 
 #: original/en.txt:65
 msgid "Your friend,"
 msgstr "Din venn,"
 
 #: original/en.txt:68
+#, fuzzy
 msgid "OH, AND KEEP YOUR EYES OPEN FOR THE EDRi-former GAME"
-msgstr "Hold øynene åpne for EDRi-former spillet"
+msgstr "Hold øynene åpne for EDRi-former -spillet"
 
 #: original/en.txt:70
 msgid ""
@@ -195,11 +196,11 @@ msgid ""
 "it is a word that consists of six letters. The achievement to unlock: A "
 "POWERFUL DIGITAL ARMOUR."
 msgstr ""
-"Du vil finne rebuser rundt omkring i folderen. Hver rebus har bare ett rett "
-"svar og vil gi deg én bokstav. Sammen vil bokstavene stave løsningsordet. "
-"Hint:\n"
-"det er et ord som består av seks bokstaver. Utmerkelsen som låses opp: EN "
-"MEKTIG DIGITAL RUSTNING."
+"Du vil finne rebuser rundt omkring i folderen. Hver rebus har bare ett "
+"riktig svar og vil gi deg én bokstav. Sammen vil bokstavene stave "
+"løsningsordet. Hint:\n"
+"Det er et ord som består av seks bokstaver. Utmerkelsen som kan låses opp: "
+"EN MEKTIG DIGITAL RUSTNING."
 
 #: original/en.txt:73
 msgid ""
@@ -210,7 +211,7 @@ msgid ""
 "quests and enter the complete link in your browser."
 msgstr ""
 "Når du har funnet ordet, vil du måtte gå til en hemmelig side på Internett. "
-"Dette er hvordan:\n"
+"Dette er hvordan det gjøres:\n"
 "1. Finn den manglende delen av følgende lenke: https://edri.org/xxxxxx .\n"
 "2. Erstatt xxxxxx med løsningsordet (seks bokstaver) du får fra "
 "spillrebusene, og skriv inn den helhetlige lenken i din nettleser."
@@ -248,8 +249,8 @@ msgid ""
 "We can even use the same connection to download a video, play a game and "
 "chat with our friends at the same time."
 msgstr ""
-"Vi kan sågar bruke samme tilkobling til å laste ned video, spille et spill "
-"og sludre med våre venner samtidig."
+"Vi kan sågar bruke samme tilkobling til å laste ned video, spille, og sludre "
+"med våre venner samtidig."
 
 #: original/en.txt:90
 msgid ""
@@ -268,9 +269,9 @@ msgid ""
 "knowledge is shared online."
 msgstr ""
 "Internett er en utrolig og kraftig oppfinnelse. Før Internett spredte seg "
-"viden omkring, var det ingen enkel måte å koble mange folk til hverandre. "
+"viden rundt, fantes det ingen enkel måte å koble mange folk til hverandre. "
 "Det var mye vanskeligere å lytte til musikk eller å se en film. Internett er "
-"også en flott plass å lære siden mesteparten av informasjonen og kunnskapen "
+"også en flott plass å lære, siden mesteparten av informasjonen og kunnskapen "
 "deles på nett."
 
 #: original/en.txt:94
@@ -295,9 +296,9 @@ msgid ""
 "we actually pay with the personal information that we put online. "
 "Information about what we write or read or watch is used by online companies."
 msgstr ""
-"Sosiale nettverk og andre nettbaserte tjenester ser ut til å være gratis – "
-"men vi betaler faktisk med personlig informasjon som vi legger på nett. "
-"Informasjon om hva vi skriver, leser eller ser brukes av nettbaserte "
+"Noen sosiale nettverk og andre nettbaserte tjenester er tilsynelatende "
+"gratis – men vi betaler faktisk med personlig informasjon vi legger på nett. "
+"Informasjon om hva vi skriver, leser, eller ser, brukes av nettbaserte "
 "selskaper."
 
 #: original/en.txt:100
@@ -327,9 +328,8 @@ msgstr ""
 #: original/en.txt:112
 msgid "Privacy is our right to decidewhat to share and with whom we share it."
 msgstr ""
-"Personvern er vår rett til å bestemme hva vi deler og hvem vi deler det med ("
-"det vil si retten til et privatliv og retten til å bestemme over egne "
-"personopplysninger)."
+"Personvern er vår rett til å bestemme hva vi deler, og hvem vi deler det med "
+"(det vil si retten til privatliv og råderett over egne personopplysninger)."
 
 #: original/en.txt:114
 msgid ""
@@ -355,15 +355,15 @@ msgid ""
 "It might be information that we wish to share with some people, like our "
 "parents or teachers, but not with anyone else."
 msgstr ""
-"Det kan være informasjon som vi ønsker å dele med noen, som våre foreldre "
-"eller lærere, men ikke med noen andre."
+"Det kan være informasjon vi ønsker å dele med noen, som våre foreldre eller "
+"lærere, men ikke med noen andre."
 
 #: original/en.txt:120
 msgid ""
 "But we can also help others when we protect our privacy, because they might "
 "want to share something with us that should not be shared with anyone else."
 msgstr ""
-"Men vi kan også hjelpe andre når vi beskytter vårt personvern, fordi de "
+"Men vi kan også hjelpe andre når vi beskytter vårt eget personvern, fordi de "
 "kanskje ønsker å dele noe med oss som ikke bør deles med noen andre."
 
 #: original/en.txt:122
@@ -375,9 +375,8 @@ msgid ""
 "Taking care of our own privacy has a lot to do with taking care of our "
 "friends too, because it helps us to be free, safe and trustworthy. "
 msgstr ""
-"Å ta hånd om vårt eget personvern har mye å gjøre med å ta vare på vårt "
-"vennskap med andre også, fordi det hjelper oss å være frie, trygge, og "
-"pålitelige. "
+"Å ta hånd om vårt eget personvern har mye å gjøre med å pleie vårt vennskap "
+"med andre også, fordi det hjelper oss å være frie, trygge, og pålitelige. "
 
 #: original/en.txt:126
 msgid ""
@@ -434,9 +433,9 @@ msgid ""
 "chat with friends and family, share pictures, send private messages and post "
 "information publicly. "
 msgstr ""
-"Det kan være veldig gøy å bruke sosiale nettverk. På sosiale nettverk kan vi "
-"sludre med venner og familie, dele bilder, sende private meldinger og poste "
-"informasjon til offentligheten. "
+"Det kan være veldig gøy å bruke sosiale nettverk. På dem kan vi sludre med "
+"venner og familie, dele bilder, sende private meldinger og poste informasjon "
+"til offentligheten. "
 
 #: original/en.txt:147
 msgid ""
@@ -445,16 +444,16 @@ msgid ""
 "ask your family and teachers to be sure. "
 msgstr ""
 "I noen land har ikke barn under 13-årsalderen lov til å bruke noen sosiale "
-"mediekontoer. Hvis du ønsker å bruke sosiale nettverk, er det best å spørre "
-"din familie og lærere for å være sikker. "
+"media-kontoer. Hvis du ønsker å bruke sosiale nettverk, er det best å spørre "
+"familie og lærere for å være sikker. "
 
 #: original/en.txt:149
 msgid ""
 ">> YouTube, Facebook, Instagram, Snapchat, Diaspora and many more are all "
 "social networks."
 msgstr ""
-">> YouTube, Facebook, Instagram, Snapchat, Diaspora og flere til er alle "
-"sosiale nettverk."
+">> YouTube, Facebook, Instagram, Snapchat, diaspora* og flere med dem, er "
+"alle sosiale nettverk."
 
 #: original/en.txt:151
 msgid "Do you have favourite ones? Why do you like them? "
@@ -469,7 +468,8 @@ msgid ""
 msgstr ""
 "Noen sosiale nettverk lagrer selv meldinger vi ikke sender! Forestill deg at "
 "når du skriver en melding til din venn på Facebook,\n"
-"vil ikke din venn få vite om meldingen. Men Facebook lagrer den! "
+"vil naturlig nok din venn ikke få kjennskap til meldingen, men Facebook "
+"lagrer den! "
 
 #: original/en.txt:156
 msgid ""
@@ -477,9 +477,9 @@ msgid ""
 "computers of the companies. That doesn't mean that they are going to do "
 "something bad with it – but you should know that this is happening."
 msgstr ""
-"Husk at alt vi gjør på et sosialt nettverk blir registrert på selskapenes "
-"datamaskiner.  Det betyr ikke at de vil gjøre noe galt med det - men du bør "
-"vite at dette skjer."
+"Husk at alt vi gjør på et konvensjonelt sosialt nettverk blir registrert på, "
+"eller går gjennom, selskapenes datamaskiner.  Det betyr ikke at de har til "
+"hensikt snoke - men du bør vite at dette skjer."
 
 #: original/en.txt:158
 msgid ""
@@ -491,14 +491,13 @@ msgid ""
 "visit and the things we search for online. "
 msgstr ""
 "» VISSTE DU DETTE?\n"
-"Tingene vi skriver inn i en søkemotor, eller skriver i en chattemelding til "
-"en venn, blir ikke fullstendig slettet. Bedrifter som leverer tjenestene vi "
-"bruker (som YouTube,\n"
+"Tingene vi skriver inn i en søkemotor, eller skriver i en sludremelding til "
+"en venn, blir ikke fullstendig slettet. Bedrifter som leverer populære "
+"tjenester (som YouTube,\n"
 "Facebook, Snapchat og så videre) kan registrere hva vi skriver, nettstedene "
 "vi besøker og de tingene vi søker etter på nettet. "
 
 #: original/en.txt:162
-#, fuzzy
 msgid ""
 "» QUEST 2: PRIVACY IS  IMPORTANT BECAUSE...\n"
 "[T]  ...it helps us to watch music videos.\n"
@@ -506,8 +505,8 @@ msgid ""
 "[G] ...it helps us to share pictures with the entire world."
 msgstr ""
 "» REBUS 2: PERSONVERN ER VIKTIG FORDI...\n"
-"[T]  ...det hjelper oss til å se musikkvideoer.\n"
-"[R] ...det hjelper oss til å være fri og ha kontroll på nettet. \n"
+"[T]  ...det hjelper oss å se musikkvideoer.\n"
+"[R] ...det hjelper oss å være frie og ha kontroll på nettet. \n"
 "[G] ...det hjelper oss med å dele bilder med hele verden."
 
 #: original/en.txt:167
@@ -521,7 +520,7 @@ msgstr "FR. ANONYMITET"
 #: original/en.txt:171
 msgctxt "original/en.txt:171"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr "LAG: DIGITALE FORSVARERE"
+msgstr "LAG: DIGITALE BESKYTTERE"
 
 #: original/en.txt:173
 msgid ""
@@ -530,9 +529,9 @@ msgid ""
 "to use social networks anonymously, so nobody knows who she really is."
 msgstr ""
 "KREFTER:\n"
-"Statlige (offentlige) tester har forsterket immunforsvaret. Hun har også "
-"muligheten til å bruke sosiale nettverk anonymt, så ingen vet hvem hun "
-"egentlig er."
+"Statlige (offentlige) tester har forsterket hennes immunforsvar. Hun har "
+"også muligheten til å bruke sosiale nettverk anonymt, slik at ingen vet hvem "
+"hun egentlig er."
 
 #: original/en.txt:176
 msgid ""
@@ -540,7 +539,7 @@ msgid ""
 "She is a skilled hand-to-hand fighter"
 msgstr ""
 "VÅPEN:\n"
-"Hun er en dyktig hånd til hånd-kjemper"
+"Hun er en dyktig på nærkamp"
 
 #: original/en.txt:179
 msgid "I.D. THIEF"
@@ -559,17 +558,18 @@ msgid ""
 "accounts for criminal activities."
 msgstr ""
 "KREFTER: \n"
-"Hun kan se hva du gjør på nettet, og så stjele dine personopplysninger.  Hun "
-"later som hun er deg, og prøver å bruke ditt navn, sosiale medier og e-"
+"Hun kan se hva du gjør på nettet, for så stjele dine personopplysninger.  "
+"Hun later som hun er deg, og prøver å bruke ditt navn, sosiale medier og e-"
 "postkontoer til kriminelle aktiviteter."
 
 #: original/en.txt:186
+#, fuzzy
 msgid ""
 "WEAPONS:\n"
 "The Alpha Virus – which she uses to infiltrate computers and phones."
 msgstr ""
 "VÅPEN:\n"
-"Alpha Viruset - som hun bruker for å infiltrere datamaskiner og telefoner."
+"Alfaviruset – som hun bruker for å infiltrere datamaskiner og telefoner."
 
 #: original/en.txt:192
 msgid ""
@@ -577,23 +577,24 @@ msgid ""
 "Top three tips and tricks"
 msgstr ""
 "K A P I T T E L   4\n"
-"Tre på topp tips og triks"
+"De beste tre tips- og triksene"
 
 #: original/en.txt:195
 msgid "1. Not everyone has to know everything about us"
-msgstr "1. Alle må ikke vite alt om oss"
+msgstr "1. Du skal ikke vite alt om oss"
 
 #: original/en.txt:197
+#, fuzzy
 msgid ""
 "Like in the offline world, it is better to be choose carefully what we want "
 "to share or not. Instinctively, we share some things with some people and "
 "not with others. \n"
 "The internet sometimes makes it difficult to make that choice. "
 msgstr ""
-"Som i den vanlige verden er det bedre å være velge nøye hva vi ønsker å dele "
-"eller ikke. Instinktivt deler vi noen ting med noen mennesker og ikke med "
-"andre.\n"
-"Internettet gjør det noen ganger vanskelig å gjøre det valget. "
+"Som i den vanlige verden er det bedre å være nøye i utvelgelsen av hva vi "
+"ønsker å dele, eller ikke. Instinktivt deler vi noen ting med noen mennesker "
+"og ikke med andre.\n"
+"Internettet gjør det noen ganger vanskelig å gjøre dét valget. "
 
 #: original/en.txt:200
 msgid ""
@@ -601,9 +602,8 @@ msgid ""
 "isn't, and partly because the internet has different rules than the offline "
 "world. "
 msgstr ""
-"Dette er delvis fordi det ikke alltid er klart hva som er privat på nettet "
-"og hva som ikke er, og delvis fordi Internettet har andre regler enn verden "
-"utenfor. "
+"Dette er delvis fordi det ikke alltid er klart hva som er, og ikke er privat "
+"på nettet, og delvis fordi Internett har andre regler enn verden utenfor. "
 
 #: original/en.txt:202
 msgid ""
@@ -612,14 +612,15 @@ msgid ""
 "reads our comment online, they might not understand what we meant and might "
 "think we were being mean. "
 msgstr ""
-"For eksempel: Våre venner vil tilgi en dum kommentar vi gjorde da vi var "
-"sinte, og forstår vår oppførsel fordi de kjenner oss. Hvis noen andre leser "
-"vår kommentar på nettet, kanskje de ikke forstår hva vi mente, og kanskje "
-"tror vi var slemme. "
+"For eksempel: Våre venner vil tilgi en dum kommentar begått i sinne, og "
+"forstår vår oppførsel fordi de kjenner oss. Hvis noen andre leser samme "
+"kommentar på nettet, forsvinner denne bindeleddsinformasjonen, sammen med "
+"muligheten til å gjøre opp på vanlig vis. "
 
 #: original/en.txt:204
+#, fuzzy
 msgid "2. Safety and privacy online isn't difficult"
-msgstr "2. Sikkerhet og personvern på nettet er ikke vanskelig"
+msgstr "2. Sikkerhet og personvern på nettet begynner med deg"
 
 #: original/en.txt:206
 msgid ""
@@ -628,14 +629,15 @@ msgid ""
 "can guess, watch videos online without being tracked. We can do this in "
 "really simple ways."
 msgstr ""
-"Vi trenger ikke å være supernerder for å beskytte oss på nett. Vi kan bruke "
-"brett, telefon eller en bærbar som våre klassekamerater ikke har tilgang "
-"til, et passord ingen andre kan gjette, se videoer på nett uten å bli "
-"sporet. Dette lar seg gjøre på enkelt vis."
+"Din indre hacker beskytter deg på nett. Vi kan bruke brett, telefon eller en "
+"bærbar som våre klassekamerater ikke har tilgang til, et passord ingen andre "
+"kan gjette, se videoer på nett uten å bli sporet. Dette lar seg gjøre på "
+"enkelt vis."
 
 #: original/en.txt:208
+#, fuzzy
 msgid "3. Knowing what or who we're protecting ourselves against"
-msgstr "3. Vit hva eller hvem vi beskytter oss mot"
+msgstr "3. Vit hva eller hvem du beskytter oss mot"
 
 #: original/en.txt:210
 msgid ""
@@ -646,7 +648,7 @@ msgid ""
 msgstr ""
 "Slik banker må beskytte seg mot tyver, må vi også beskytte oss selv - mot "
 "selskaper som sporer oss på nett, klassekamerater som kan være\n"
-"sure uvisst av hvilken grunn, eller snokende foreldre som er … snokende "
+"sure, uvisst av hvilken grunn, eller snokende foreldre som er … snokende "
 "foreldre. "
 
 #: original/en.txt:213
@@ -656,8 +658,9 @@ msgid ""
 "possible to keep ourselves safe and control our privacy."
 msgstr ""
 "Vi burde spørre oss selv om hva de reelle truslene er, og hva vi er i stand "
-"til å gjøre med dem. Når vi først har tenkt på disse truslene, finner vi at "
-"det er mulig å beskytte oss selv og holde kontrollen over vårt privatliv."
+"til å gjøre med dem. Når vi først har tenkt gjennom hva truslene utgjør, "
+"finner vi at det er muligheten for å beskytte oss selv og holde kontrollen "
+"over vårt privatliv."
 
 #: original/en.txt:218
 msgid ""
@@ -676,7 +679,7 @@ msgid ""
 "But some messaging apps read the contents of our messages and track who we "
 "talk to. Some apps do this so they can profit from this information."
 msgstr ""
-"Noen meldingsprogrammer (apps) leser innholdet i meldingene våre og sporer "
+"Noen meldingsprogrammer (app-er) leser innholdet i meldingene våre og sporer "
 "hvem vi snakker med. Noen programmer gjør dette slik at de kan selge, tjene "
 "på, informasjonen."
 
@@ -695,7 +698,7 @@ msgid ""
 "safe."
 msgstr ""
 "Selskapene som lager meldingsprogrammer skanner ofte hva vi sier. De sporer "
-"hvem vi snakker med slik at de kan vise reklame for å få oss til å kjøpe "
+"hvem vi snakker med slik at de kan vise reklame, for å få oss til å kjøpe "
 "noe, eller for å dele informasjonen med andre selskaper. Du kan sjekke en "
 "liste over kule meldingsprogrammer på slutten av heftet. Disse "
 "meldingsprogrammene forsikrer også at vi ikke mottar meldinger fra fremmede. "
@@ -703,7 +706,6 @@ msgstr ""
 "er et kult program som sørger for at meldingene dine blir sendt trygt."
 
 #: original/en.txt:229
-#, fuzzy
 msgid ""
 "» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE...\n"
 "[Q]  ...I can be sure that they will never use or sell my data.\n"
@@ -714,7 +716,7 @@ msgstr ""
 "[L]  …Jeg kan være sikker på at de aldri vil selge eller bruke mine data.\n"
 "[N] …Jeg kan holde kontakten med venner og familie.\n"
 "[O] …Jeg kan forsikre meg om at bare mine venner kan se bildene jeg poster "
-"der"
+"der."
 
 #: original/en.txt:237
 msgid ""
@@ -741,8 +743,8 @@ msgid ""
 "But our phones are also useful for many other things, we can use them as a "
 "torch, to play games or to check the time of the next bus."
 msgstr ""
-"Men telefonene våre er også nyttige for mange andre ting, vi kan bruke dem "
-"som lommelykt, til å spille, eller for å sjekke neste avgang på bussen."
+"Men telefonene våre er også nyttige i mange andre henseender, vi kan bruke "
+"dem som lommelykt, til å spille, eller for å sjekke neste avgang på bussen."
 
 #: original/en.txt:246
 msgid ""
@@ -752,8 +754,8 @@ msgid ""
 "access to your address book?"
 msgstr ""
 "Når du installerer ett nytt program, leser du virkelig hvilke tilganger du "
-"gir til programmet, og hvordan det får tilgang til informasjonen på "
-"telefonen din? Trenger en lommelykt\n"
+"gir til programmet, og hvordan det får tilgang til informasjon på telefonen "
+"din? Trenger en lommelykt\n"
 "virkelig tilgang til adresselista di?"
 
 #: original/en.txt:249
@@ -775,14 +777,14 @@ msgid ""
 msgstr ""
 "Med kun få klikk kan vi også sjekke, og sågar begrense, tilgangene til våre "
 "telefoner eller programmer som allerede er installerte. På de fleste enheter "
-"kan vi finne disse i «nnstillinger». Sjekk rundt omkring på telefonen din, "
+"kan vi finne disse i «Innstillinger». Sjekk rundt omkring på telefonen din, "
 "det er nyttig å lære seg hvordan den virker."
 
 #: original/en.txt:253
 msgid "» Many apps get access to your personal stuff stored on your phone."
 msgstr ""
-"» Mange program (apper) får tilgang til dine personlige ting som er lagret "
-"på telefonen din."
+"» Mange programmer (app-er) får tilgang til dine personlige ting som er "
+"lagret på telefonen din."
 
 #: original/en.txt:255
 msgid ""
@@ -791,15 +793,15 @@ msgid ""
 "clicks."
 msgstr ""
 "Vi kan begrense tilgang til plasseringen vår, legge til et passord for å "
-"låse opp telefonskjermen, og også kryptere (beskytte) hele telefonen med kun "
-"få klikk."
+"låse opp telefonskjermen, og også kryptere (beskytte filer på) hele "
+"telefonen med kun få klikk."
 
 #: original/en.txt:257
 msgid ""
 "Making our phones more secure and privacy-friendly, doesn't take much time. "
 "Towards the end of this booklet, you can find a list of great apps for this."
 msgstr ""
-"Å gjøre telefonene våre sikrere og mer personvernvennlige, tar ikke lang "
+"Å gjøre telefonene våre sikrere og mer personvernsvennlige, tar ikke lang "
 "tid. På slutten av dette heftet finner du mange gode programmer i dette "
 "øyemed."
 
@@ -816,7 +818,8 @@ msgstr ""
 "Det er gode grunner til at programmer har tilganger til ting - et "
 "fotoprogram, for eksempel, som må ha tilgang til kameraet ditt - er lite å "
 "bekymre seg over. Hvis du derimot tror programmet spør om for mye, kan du "
-"sjekke om det er andre versjoner av programmet som spør om færre tilganger."
+"sjekke om det finnes andre programmer, eller versjoner av programmet som "
+"spør om færre tilganger."
 
 #: original/en.txt:262
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
@@ -862,9 +865,9 @@ msgid ""
 "into your communications, to read your messages, see your photos and watch "
 "your videos."
 msgstr ""
-"KREFTER: Han har mystiske krefter for å fange opp hva du gjør på nett. Han "
-"kan utgi seg for å være en faktisk person på nett, og så bruke dette til å "
-"bryte seg rett inn i samtalene dine, for å lese meldingene dine, for å se "
+"KREFTER: Han besitter mystiske krefter for å fange opp hva du gjør på nett. "
+"Han kan utgi seg for å være en faktisk person på nett, og så bruke dette til "
+"å bryte seg rett inn i samtalene dine, for å lese meldingene dine, se "
 "bildene og se videoene dine."
 
 #: original/en.txt:278
@@ -881,12 +884,12 @@ msgstr ""
 
 #: original/en.txt:286
 msgid "A browser is often how we use the internet."
-msgstr "Når vi sier vi bruker Internett, er det ofte en nettleser vi bruker."
+msgstr "Når vi sier vi «bruker Internett», er det ofte en nettleser vi bruker."
 
 #: original/en.txt:288
 msgid ""
 "» It's easy to forget that the browser is a little piece of software itself."
-msgstr "» Det er enkelt å glemme at nettleseren også er programvare."
+msgstr "» Husk å ikke glemme at nettleseren også er programvare."
 
 #: original/en.txt:290
 msgid ""
@@ -896,8 +899,7 @@ msgid ""
 msgstr ""
 "Det er noen ganger det første du åpner når du skrur på telefonen, brettet "
 "eller datamaskinen din, og det siste du lukker. Mye finner allikevel sted "
-"inne i nettleseren som du ikke er klar over, og det kan være skadelig (eller "
-"bra) for ditt personvern."
+"inne i nettleseren, og det kan være skadelig (eller bra) for ditt personvern."
 
 #: original/en.txt:292
 msgid ""
@@ -906,14 +908,15 @@ msgid ""
 "social networks use these footprints to follow us."
 msgstr ""
 "Når vi går på nett for å kjøpe noe, se videoer eller for å se hva våre "
-"venner har postet nylig, etterlater vi digitale fotspor. Noen nettsider og "
-"sosiale nettverk bruker disse fotsporene til å spore oss."
+"venner har delt, etterlater vi digitale fotspor. Noen nettsider og sosiale "
+"nettverk bruker disse fotsporene til å spore oss."
 
 #: original/en.txt:294
 msgid "» Websites collect lots of stuff about us!"
-msgstr "» Nettsider innhenter mye informasjon om oss!"
+msgstr "» Noen nettsider tar vare på mye informasjon om oss!"
 
 #: original/en.txt:296
+#, fuzzy
 msgid ""
 "Who our friends are, what we like, what we are searching for and what we are "
 "listening to can all be tracked. These websites can do this because they use "
@@ -921,8 +924,8 @@ msgid ""
 msgstr ""
 "Hvem vennene våre er, hva vi liker, hva vi søker etter, og hva vi lytter til "
 "kan spores. Disse nettsidene kan gjøre dette fordi det er "
-"informasjonskapsler i nettleserne våre. Disse informasjonskapslene er små "
-"biter av programvare."
+"informasjonskapsler, (også kalt kaker,) i nettleserne våre. Disse "
+"informasjonskapslene er små biter av programvare."
 
 #: original/en.txt:298
 msgid ""
@@ -932,8 +935,8 @@ msgid ""
 "to many people and companies."
 msgstr ""
 "De er usynlige for oss, men når nok data er innhentet, og kombinert med "
-"annen informasjon om oss, vil personlige detaljer vi tenker på som hemmelige "
-"bli kjent\n"
+"annen informasjon om oss, vil personlige detaljer vi tenker på som "
+"hemmelige, og sammenhenger vi ikke tenker på, bli kjent\n"
 "for mange folk og selskaper."
 
 #: original/en.txt:301
@@ -943,12 +946,12 @@ msgid ""
 "browser is Google Chrome. But those are not necessarily the browsers that "
 "work best for you."
 msgstr ""
-"De fleste enheter kommer med en nettleser. På Windows kan vi bruke Internet "
-"Explorer, Apple har Safari, og Android-enheter sin forvalgte nettleser er "
-"Google Chrome. Dette er ikke nødvendigvis de beste nettleserne som er best "
-"for deg."
+"De fleste enheter kommer med en dårlig nettleser. På Windows kan vi unngå å "
+"bruke Internet Explorer og Edge, Apple har Safari, og Android-enheter sin "
+"forvalgte nettleser er som oftest Google Chrome."
 
 #: original/en.txt:303
+#, fuzzy
 msgid ""
 "» DID YOU KNOW?\n"
 "Make sure to check the »privacy options« of your browser and change the "
@@ -960,12 +963,12 @@ msgid ""
 "your computer, but you can download it very easily."
 msgstr ""
 "» VISSTE DU?\n"
-"Husk på å ta en titt på de ulike «privatsfærevalg» i nettleseren din og "
-"endre de forvalgte innstillingene slik at du tar kontrollen - akkurat som "
-"Perfekt Bølge! Mange tror at den nettleseren som best verner ditt privatliv "
-"og gir sikkerhet er Firefox! Hvorfor det? Fordi du kan tilpasse den, "
-"kontrollere den, og se hvordan den virker. Det er mulig at den ikke er "
-"installert på datamaskinen din , men du kan enkelt laste den ned."
+"Husk på å ta en titt på ulike «privatsfærevalg» i nettleseren din og endre "
+"de forvalgte innstillingene slik at du tar kontrollen - akkurat som Perfekt "
+"Bølge! Mange tror at den nettleseren som best verner ditt privatliv og gir "
+"sikkerhet er Firefox! Hvorfor det? Fordi du kan tilpasse den, kontrollere "
+"den, og se hvordan den virker. Det er mulig at den ikke er installert på "
+"datamaskinen din , men du kan enkelt laste den ned."
 
 #: original/en.txt:308
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (III)"
@@ -995,9 +998,8 @@ msgid "WEAPONS: His surfboard."
 msgstr "VÅPEN: Surfebrett."
 
 #: original/en.txt:318
-#, fuzzy
 msgid "KRAZY KOOKIE"
-msgstr "GAL KAKE (KRAZY KOOKIE)"
+msgstr "GAL KAKE"
 
 #: original/en.txt:320
 msgctxt "original/en.txt:320"
@@ -1043,7 +1045,7 @@ msgstr ""
 
 #: original/en.txt:337
 msgid "Passwords. Very important in the digital age."
-msgstr "Passord. Veldig viktig i den digitale tidsalder."
+msgstr "Passord. Veldig viktige i emningen av den digitale tidsalder."
 
 #: original/en.txt:339
 msgid ""
@@ -1059,7 +1061,7 @@ msgstr ""
 
 #: original/en.txt:342
 msgid "Creating a secure password is not very difficult."
-msgstr "Å lage  et sikkert passord er ikke veldig vanskelig."
+msgstr "Å lage et sikkert passord er ikke veldig vanskelig."
 
 #: original/en.txt:344
 msgid "1. Never use the same password twice"
@@ -1083,7 +1085,7 @@ msgstr ""
 "Hvorfor? Som følge av at kriminelle (som Datasmugleren) har tilgang til "
 "passord på én tjeneste, prøver de ofte å komme inn på andre tjenester med "
 "samme passord.\n"
-"De vet hva folk har som vane å bruke som passord på flere sider!"
+"De vet hva folk har for vane å bruke som passord på flere sider!"
 
 #: original/en.txt:351
 msgid "2. Never use a word from the dictionary"
@@ -1092,8 +1094,8 @@ msgstr "2. Bruk aldri et ord fra ordboka"
 #: original/en.txt:353
 msgid "…no matter how long it may be or how complicated it may look."
 msgstr ""
-"…uansett hvor langt det måtte være, eller hvor komplisert det måtte se ut "
-"til å være."
+"…uansett hvor langt det måtte være, eller hvor tilsynelatende komplisert det "
+"måtte fremtre."
 
 #: original/en.txt:355
 msgid ""
@@ -1103,8 +1105,8 @@ msgid ""
 "password is your weapon to get out of danger!"
 msgstr ""
 "Hvorfor? Fordi det finnes dataprogrammer som prøver hvert eneste ord i "
-"ordboka for forsøke å  «gjette» passordet ditt på. Hver superhelt i vårt lag "
-"av Beskyttere har et sterkt og kreativt passord. Du kan bli en av dem - "
+"ordboka for forsøke å «gjette» passordet ditt. Hver superhelt i vårt lag av "
+"beskyttere har et sterkt og kreativt passord. Du kan bli en av dem – "
 "passordet ditt er ditt våpen for å unngå fare!"
 
 #: original/en.txt:357
@@ -1116,10 +1118,11 @@ msgid ""
 "This is the minimum. The longer a password is, the more difficult it is to "
 "hack it."
 msgstr ""
-"Dette er et minimum. Desto lengre et passord er, desto vanskeligere er det å "
-"gjette seg til det."
+"Dette er et minstekrav. Desto lengre et passord er, desto vanskeligere er "
+"det å gjette seg til det."
 
 #: original/en.txt:361
+#, fuzzy
 msgid ""
 "Why? Because the longer it is, the more difficult it is to guess. Some "
 "experts say that it is OK to write it down, just hide the piece of paper "
@@ -1135,7 +1138,7 @@ msgstr "DIGITALE BESKYTTERE mot DATAINNTRENGERE (IV)"
 
 #: original/en.txt:365
 msgid "QUEEN OF LOCKS"
-msgstr "DRONNING AV LÅSER"
+msgstr "DRONNINGEN AV LÅSER"
 
 #: original/en.txt:367
 msgctxt "original/en.txt:367"
@@ -1143,6 +1146,7 @@ msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "LAG: DIGITALE BESKYTTERE"
 
 #: original/en.txt:369
+#, fuzzy
 msgid ""
 "POWERS: She fights for privacy and security. She gives powerful private keys "
 "to people who are in danger and helps them to secure their personal "
@@ -1219,7 +1223,8 @@ msgstr ""
 
 #: original/en.txt:395
 msgid "» Sharing is cool – but photos and videos can be copied easily."
-msgstr "» Deling er kult - men bilder og videoer lar seg enkelt kopiere."
+msgstr ""
+"» Deling er kult - å ha kontrollen med kopier av bilder og videoer likeså."
 
 #: original/en.txt:397
 msgid ""
@@ -1238,7 +1243,7 @@ msgid ""
 msgstr ""
 "Hva er problemet? Hvis vi sender et bilde eller video, sendes det en kopi av "
 "den fra vår enhet til vår venns enhet. Forestill deg at vår venn deler "
-"bildet igjen med andre. Hver kopi kan kopieres igjen."
+"bildet videre med andre. Hver kopi kan kopieres igjen uendelig."
 
 #: original/en.txt:401
 msgid ""
@@ -1256,8 +1261,8 @@ msgid ""
 "When we share, our stuff can get into the hands of people that we didn't "
 "want to share with."
 msgstr ""
-"Når vi deler, kan våre ting komme andre folk i hende, uten at vi hadde tenkt "
-"å dele med dem."
+"Når vi deler, kan våre ting komme andre folk i hende, uten at vi hadde til "
+"hensikt å dele med dem."
 
 #: original/en.txt:405
 msgid ""
@@ -1273,9 +1278,10 @@ msgid ""
 "it is still possible to save a photo with a few tricks and share it again. "
 "Thousands of Snapchat images have already been put on the internet."
 msgstr ""
-"Snapchat er et program for deling av bilder som blir borte raskt. Uheldigvis "
-"er det fremdeles mulig å lagre et bilde ved bruk av noen triks og dele det "
-"videre. Tusenvis av Snapchat-bilder har allerede blitt lagt ut på Internett."
+"Snapchat er et spionerende program for deling av bilder som tilsynelatende "
+"blir borte raskt. Uheldigvis er det fremdeles mulig å lagre et bilde ved "
+"bruk av noen triks og dele det videre. Tusenvis av Snapchat-bilder har "
+"allerede blitt lagt ut på Internett."
 
 #: original/en.txt:409
 msgid ""
@@ -1285,27 +1291,28 @@ msgid ""
 "ourselves if we would put this photo on the public board of our school. If "
 "not, it's maybe not a good idea to share it online."
 msgstr ""
-"Dette betyr at vi alle må leve med muligheten for at våre sosiale nettverk "
-"kan brukes til både gode og dårlige formål. Vi må derfor tenke før vi sender "
-"bilder og videoer via Internett! Vi bør spørre oss selv om vi ville puttet "
-"dette bildet på en offentlig oppslagstavle på skolen. Hvis ikke, er det "
-"kanskje ikke en god idé å dele det på nett."
+"Vi må leve med muligheten for at våre sosiale nettverk kan brukes til både "
+"gode og dårlige formål. Vi må derfor tenke før vi sender bilder og videoer "
+"via Internett! Vi bør spørre oss selv om vi ville puttet dette bildet på en "
+"offentlig oppslagstavle på skolen. Hvis ikke, er det kanskje ikke en god idé "
+"å dele det på nett."
 
 #: original/en.txt:411
 msgid ""
 "If our photo shows other people, we have to ask for their permission before "
 "sharing, because it is their right to decide."
 msgstr ""
-"Hvis bildet vårt viser andre folk, må vi spørre om deres samtykke før vi "
-"deler det, fordi de har en rett til å bestemme selv."
+"Hvis bildet vårt viser andre, eller deres ting, må vi spørre om deres "
+"samtykke før vi deler det, fordi de har en rett til å bestemme selv. "
+"Råderetten er deres, til vårt miskunn."
 
 #: original/en.txt:413
 msgid ""
 "For images that we did not take ourselves, we should ask the owner for "
 "permission before we share them online."
 msgstr ""
-"For bilder som vi ikke har tatt selv, burde vi spørre eieren om lov før vi "
-"deler dem på nett."
+"For bilder som vi ikke har tatt selv, spør vi eieren om lov før vi deler dem "
+"på nett."
 
 #: original/en.txt:415
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (V)"
@@ -1328,15 +1335,16 @@ msgid ""
 msgstr ""
 "KREFTER: Han ble født på planeten Entropia, i en avsidesliggende galakse, "
 "langt unna. Som alle hans artsfrender, har han mulighet til å endre form "
-"etter ønske. Han kan beskytte dine hemmeligheter med muterende passord."
+"etter ønske. Han kan beskytte dine hemmeligheter med tilfeldig muterende "
+"passord."
 
 #: original/en.txt:423
 msgid ""
 "WEAPONS: His main weaponry are energy charged parts of his body that he can "
 "throw and recover at any time."
 msgstr ""
-"VÅPEN: Hans hovedvåpen er energiserte deler av kroppen hans som han kan "
-"kaste og tilbakekalle når som helst."
+"VÅPEN: Hans hovedvåpen er oppladede kroppsdeler, som han kan kaste og "
+"tilbakekalle når som helst."
 
 #: original/en.txt:425
 msgid "DATA SMUGGLER"
@@ -1355,7 +1363,7 @@ msgid ""
 "market."
 msgstr ""
 "KREFTER: Han er veldig rik og hans evner overskrider enkelt dem forbeholdt "
-"mennesker. Han er ekstremt fleksibel og har overmenneskelig styrke. Han "
+"mennesker. Han er ekstremt fleksibel og besitter overmenneskelig styrke. Han "
 "sanker dyrebar personlig data (som dine bilder og meldinger) og selger det "
 "på svartebørs."
 
@@ -1372,6 +1380,7 @@ msgstr ""
 "Programmer og verktøy vi liker"
 
 #: original/en.txt:440
+#, fuzzy
 msgid ""
 "SMARTPHONE APPS\n"
 "App                                  What it does                            "
@@ -1518,12 +1527,13 @@ msgstr ""
 "Veiledning til bruk av Signal"
 
 #: original/en.txt:478
+#, fuzzy
 msgid ""
 "Signal is a free Android and iPhone app. It doesn't watch what we say or who "
 "we talk to. We can use it to text, call, and share pictures, videos, and "
 "contacts."
 msgstr ""
-"Signal er et gratisprogram for Android og iPhone. Den holder ikke oppsyn med "
+"Signal er et fritt program for Android og iPhone. Det holder ikke oppsyn med "
 "hvem vi snakker til og hva vi sier. Vi kan bruke den til å sende tekst, "
 "ringe, og dele bilder, videoer og kontakter."
 
@@ -1552,9 +1562,9 @@ msgid ""
 "number and selecting ›Register‹ or ›Verify your device‹. You'll get a text "
 "message with a six digit code. Put that code into Signal."
 msgstr ""
-"2. Registrer telefonnummeret ditt med Signal ved å skrive det inn og velge \""
+"2. Registrer telefonnummeret ditt med Signal ved å skrive det inn og velg \""
 "Registrer\" eller \"Bekreft din enhet\". Du vil få en tekstmelding med en "
-"sekssifret kode. Putt denn koden inn i Signal."
+"sekssifret kode. Putt den koden inn i Signal."
 
 #: original/en.txt:486
 msgid ""
@@ -1569,13 +1579,14 @@ msgid "4. Select the person you want to text or call."
 msgstr "4. Velg personen du ønsker å sende en melding til eller ringe."
 
 #: original/en.txt:490
+#, fuzzy
 msgid ""
 "5. If you want to change between secure messages via your internet "
 "connection and insecure SMS, just hold the »Send« button for a tiny bit "
 "longer."
 msgstr ""
 "5. Hvis du ønsker å veksle mellom sikre meldinger via din "
-"internettilknytning og usikrede SMS-er, hold nede \"Send\"-knappen litt "
+"internettilknytning, og usikrede SMS-er, hold nede \"Send\"-knappen litt "
 "lengre."
 
 #: original/en.txt:492
@@ -1595,7 +1606,7 @@ msgid ""
 "your closest friends and the people you contact most often to install it too "
 "and then more and more of our friends will start using it."
 msgstr ""
-"HUSK! Du trenger ikke å få alle du kjenner til begynner å bruke Signal. Bare "
+"Husk! Du trenger ikke å få alle du kjenner til begynner å bruke Signal. Bare "
 "fortell dine nærmeste venner og folk du kontakter oftest om å installere det "
 "også, og dermed vil flere og flere av vennene våre begynne å bruke det."
 
@@ -1609,8 +1620,8 @@ msgid ""
 "contribution!\n"
 "• the Adessium Foundation and Open Society Foundations"
 msgstr ""
-"• Individuelle donasjoner på GlobalGiving.com – Takk til dere alle for deres "
-"bidrag!\n"
+"• Individuell kronerulling på GlobalGiving.com – Takk til dere alle for "
+"deres bidrag!\n"
 "• Adessium-stiftelsen og Open Society-stiftelsene"
 
 #: original/en.txt:501
