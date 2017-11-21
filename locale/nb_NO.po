@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-04 22:37+0200\n"
-"PO-Revision-Date: 2017-11-18 05:49+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"PO-Revision-Date: 2017-11-22 11:48+0000\n"
+"Last-Translator: Tom Fredrik Blenning <bfg@blenning.no>\n"
 "Language-Team: Norwegian Bokmål "
 "<https://hosted.weblate.org/projects/efn/privacy4kids/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -409,15 +409,14 @@ msgid "»QUEST1: THE INTERNET IS..."
 msgstr "»REBUS1: INTERNETT ER…"
 
 #: original/en.txt:136
-#, fuzzy
 msgid ""
 "[A]...a network of devices.\n"
 "[B]...an efficient fishing tool for international waters.\n"
 "[C]...a social network."
 msgstr ""
-"[A]… et nettverk av enheter.\n"
-"[B]… et effektivt fiskeverktøy for internasjonalt farvann.\n"
-"[C]… et sosialt nettverk."
+"[P]… et nettverk av enheter.\n"
+"[Q]… et effektivt fiskeverktøy for internasjonalt farvann.\n"
+"[R]… et sosialt nettverk."
 
 #: original/en.txt:142
 msgid ""
@@ -498,7 +497,6 @@ msgstr ""
 "vi besøker og de tingene vi søker etter på nettet. "
 
 #: original/en.txt:162
-#, fuzzy
 msgid ""
 "» QUEST 2: PRIVACY IS  IMPORTANT BECAUSE...\n"
 "[T]  ...it helps us to watch music videos.\n"
@@ -507,7 +505,7 @@ msgid ""
 msgstr ""
 "» REBUS 2: PERSONVERN ER VIKTIG FORDI...\n"
 "[T]  ... det hjelper oss å se musikkvideoer.\n"
-"[R] ... det hjelper oss å være frie og ha kontroll på nettet. \n"
+"[A] ... det hjelper oss å være frie og ha kontroll på nettet. \n"
 "[G] ... det hjelper oss med å dele bilder med hele verden."
 
 #: original/en.txt:167
@@ -705,7 +703,6 @@ msgstr ""
 "er et kult program som sørger for at meldingene dine blir sendt trygt."
 
 #: original/en.txt:229
-#, fuzzy
 msgid ""
 "» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE...\n"
 "[Q]  ...I can be sure that they will never use or sell my data.\n"
@@ -1020,7 +1017,6 @@ msgid "WEAPONS: His spinning robot arm."
 msgstr "VÅPEN: Hans snurrende robotarm."
 
 #: original/en.txt:326
-#, fuzzy
 msgid ""
 "» QUEST 4: SOME APPS ... \n"
 "[F] …are so secure that I never have to think about my privacy at all when "
@@ -1190,7 +1186,6 @@ msgid "» QUEST 5: WHEN I BROWSE THE INTERNET..."
 msgstr "» REBUS 5: NÅR JEG SURFER PÅ INTERNETT…"
 
 #: original/en.txt:383
-#, fuzzy
 msgid ""
 "[X] …I can do whatever I want, and I'm safe – it's not reality!\n"
 "[U] …I can protect myself by not allowing cookies and not storing my browser "
