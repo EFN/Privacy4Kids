@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-04 22:37+0200\n"
-"PO-Revision-Date: 2017-12-30 16:34+0000\n"
-"Last-Translator: Ingrid Yrvin <ingrid.yrvin@gmail.com>\n"
+"PO-Revision-Date: 2018-01-03 12:28+0000\n"
+"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål "
 "<https://hosted.weblate.org/projects/efn/privacy4kids/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Generator: Weblate 2.19-dev\n"
 
 #: original/en.txt:1
+#, fuzzy
 msgid ""
 "YOUR GUIDE TO THE\n"
 "DIGITAL DEFENDERS VS. DATA INTRUDERS\n"
@@ -25,7 +26,7 @@ msgstr ""
 "DIN VEILEDER TIL DE\n"
 "DIGITALE FORSVARERE MOT DATAINNTRENGERE\n"
 "TA KONTROLL OVER DINE TING PÅ NETTET\n"
-"PERSONVERN FOR BARN"
+"VERN AV PRIVATLIVET FOR BARN"
 
 #: original/en.txt:6
 msgid ""
@@ -113,6 +114,7 @@ msgid "Chapters:"
 msgstr "Kapittel:"
 
 #: original/en.txt:40
+#, fuzzy
 msgid ""
 "Chapter 1: What's the internet?\n"
 "Chapter 2: What's privacy?\n"
@@ -127,7 +129,7 @@ msgid ""
 "Chapter 11: Hands-on guide for Signal"
 msgstr ""
 "Kapittel 1: Hva er Internett?\n"
-"Kapittel 2: Hva er personvern?\n"
+"Kapittel 2: Hva er rett til privatliv?\n"
 "Kapittel 3: De tre beste tips- og triksene\n"
 "Kapittel 4: Beskytt deg selv på sosiale nettverk\n"
 "Kapittel 5: Smarttelefoner og sikkerhet\n"
@@ -309,27 +311,28 @@ msgid "You will find the answer to this question in this booklet."
 msgstr "Du finner svaret på dette spørsmålet i dette heftet."
 
 #: original/en.txt:106
+#, fuzzy
 msgid ""
 "C H A P T E R   2\n"
 "2 What is privacy?"
 msgstr ""
 "K A P I T T E L   2\n"
-"2 Hva er personvern?"
+"2 Hva er rett til privatliv?"
 
 #: original/en.txt:109
+#, fuzzy
 msgid ""
 "If we have privacy, we have control.\n"
 "But what does this mean? "
 msgstr ""
-"Hvis vi hegner om personlig informasjon/privatliv, har vi kontroll.\n"
+"Hvis vi hegner om retten til et privatliv, har vi kontroll.\n"
 "Men hva betyr dette? "
 
 #: original/en.txt:112
-#, fuzzy
 msgid "Privacy is our right to decidewhat to share and with whom we share it."
 msgstr ""
-"Personvern er vår rett til å bestemme hva vi deler, og med hvem (det vil si "
-"retten til privatliv og råderett over egne personopplysninger)."
+"Retten til privatliv er vår rett til å bestemme hva vi deler om oss selv, og "
+"hvem vi deler det med."
 
 #: original/en.txt:114
 msgid ""
@@ -342,13 +345,14 @@ msgstr ""
 "dem om å slette denne dataen."
 
 #: original/en.txt:116
+#, fuzzy
 msgid ""
 "When we protect our privacy, we can feel more secure and safe, because there "
 "might be information that could hurt us if the wrong person knows about it."
 msgstr ""
-"Når vi beskytter vårt rett til privatsfære, føler vi oss sikrere og "
-"tryggere, fordi det kan dreie seg om informasjon som kan skade oss hvis det "
-"kommer feil person for øye."
+"Når vi beskytter vårt rett til privatliv, føler vi oss sikrere og tryggere, "
+"fordi det kan dreie seg om informasjon som kan skade oss hvis det kommer "
+"feil person for øye."
 
 #: original/en.txt:118
 msgid ""
@@ -359,11 +363,12 @@ msgstr ""
 "lærere, men ikke med noen andre."
 
 #: original/en.txt:120
+#, fuzzy
 msgid ""
 "But we can also help others when we protect our privacy, because they might "
 "want to share something with us that should not be shared with anyone else."
 msgstr ""
-"Men vi kan også hjelpe andre når vi beskytter vårt eget personvern, fordi de "
+"Men vi kan også hjelpe andre når vi beskytter vårt eget privatliv, fordi de "
 "kanskje ønsker å dele noe med oss som ikke bør deles med noen andre."
 
 #: original/en.txt:122
@@ -371,12 +376,14 @@ msgid "We all have something we don't want to share with others."
 msgstr "Vi har alle noe vi ikke vil dele med andre."
 
 #: original/en.txt:124
+#, fuzzy
 msgid ""
 "Taking care of our own privacy has a lot to do with taking care of our "
 "friends too, because it helps us to be free, safe and trustworthy. "
 msgstr ""
-"Å ta hånd om vårt eget personvern har mye å gjøre med å pleie vårt vennskap "
-"med andre også, fordi det hjelper oss å være frie, trygge, og pålitelige. "
+"Å ta hånd om vårt eget vern av privatlivet har mye å gjøre med å pleie vårt "
+"vennskap med andre også, fordi det hjelper oss å være frie, trygge, og "
+"pålitelige. "
 
 #: original/en.txt:126
 msgid ""
@@ -409,14 +416,13 @@ msgid "»QUEST1: THE INTERNET IS..."
 msgstr "»REBUS1: INTERNETT ER…"
 
 #: original/en.txt:136
-#, fuzzy
 msgid ""
 "[A]...a network of devices.\n"
 "[B]...an efficient fishing tool for international waters.\n"
 "[C]...a social network."
 msgstr ""
 "[P]… et nettverk av enheter.\n"
-"[Q]… et effektivt fiskeverktøy for internasjonalt farvann.\n"
+"[Q]… et effektivt fiskeredskap for internasjonalt farvann.\n"
 "[R]… et sosialt nettverk."
 
 #: original/en.txt:142
@@ -505,9 +511,9 @@ msgid ""
 "[R] ...it helps us to be free and in control online.\n"
 "[G] ...it helps us to share pictures with the entire world."
 msgstr ""
-"» REBUS 2: PERSONVERN ER VIKTIG FORDI...\n"
+"» REBUS 2: VERN AV PRIVATLIVET ER VIKTIG FORDI...\n"
 "[T]  ... det hjelper oss å se musikkvideoer.\n"
-"[A] ... det hjelper oss å være frie og ha kontroll på nettet. \n"
+"[A] ... det hjelper oss å være frie og beholde kontroll på nettet. \n"
 "[G] ... det hjelper oss med å dele bilder med hele verden."
 
 #: original/en.txt:167
@@ -619,8 +625,7 @@ msgstr ""
 #: original/en.txt:204
 #, fuzzy
 msgid "2. Safety and privacy online isn't difficult"
-msgstr ""
-"2. Sikkerhet og personvern på nettet begynner med deg (og er ikke vanskelig)."
+msgstr "2. Trygghet og vern av privatlivet på nettet er ikke vanskelig."
 
 #: original/en.txt:206
 msgid ""
@@ -651,6 +656,7 @@ msgstr ""
 "foreldre. "
 
 #: original/en.txt:213
+#, fuzzy
 msgid ""
 "We should ask ourselves what the real threats are and what we can do about "
 "them. Once we have thought about these threats, we'll find that it really is "
@@ -658,8 +664,8 @@ msgid ""
 msgstr ""
 "Vi burde spørre oss selv om hva de reelle truslene er, og hva vi er i stand "
 "til å gjøre med dem. Når vi først har tenkt gjennom hva truslene utgjør, "
-"finner vi at det er muligheten for å beskytte oss selv og holde kontrollen "
-"over vårt privatliv."
+"finner vi at det er muligheten for å beskytte oss selv og styre vårt vern av "
+"privatlivet."
 
 #: original/en.txt:218
 msgid ""
@@ -705,7 +711,6 @@ msgstr ""
 "er et kult program som sørger for at meldingene dine blir sendt trygt."
 
 #: original/en.txt:229
-#, fuzzy
 msgid ""
 "» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE...\n"
 "[Q]  ...I can be sure that they will never use or sell my data.\n"
@@ -797,13 +802,14 @@ msgstr ""
 "telefonen med kun få klikk."
 
 #: original/en.txt:257
+#, fuzzy
 msgid ""
 "Making our phones more secure and privacy-friendly, doesn't take much time. "
 "Towards the end of this booklet, you can find a list of great apps for this."
 msgstr ""
-"Å gjøre telefonene våre sikrere og mer personvernsvennlige, tar ikke lang "
-"tid. På slutten av dette heftet finner du mange gode programmer i dette "
-"øyemed."
+"Det tar ikke lang tid å gjøre telefonene våre sikrere og mer i stand til å "
+"verne privatlivet. På slutten av dette heftet finner du mange gode "
+"programmer med dette for øye."
 
 #: original/en.txt:259
 msgid ""
@@ -826,9 +832,8 @@ msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
 msgstr "DIGITALE BESKYTTERE mot DATAINNTRENGERE (II)"
 
 #: original/en.txt:264
-#, fuzzy
 msgid "MIND FREER"
-msgstr "SINNSBEFRIER (MIND FREER)"
+msgstr "TANKEFRIGJØRER"
 
 #: original/en.txt:266
 msgctxt "original/en.txt:266"
@@ -836,15 +841,14 @@ msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "LAG: DIGITALE BESKYTTERE"
 
 #: original/en.txt:268
-#, fuzzy
 msgid ""
 "POWERS: He fights for your right to decide what to share and with whom. He "
 "has the ability to create a private and secure environment where you can say "
 "what you think."
 msgstr ""
-"KREFTER: Han sloss for din rett til å bestemme med hvem og hva du vil dele. "
-"Han har muligheten til å opprette et privat og sikkert miljø der du kan si "
-"hva du ønsker."
+"KREFTER: Han sloss for din rett til å bestemme hva du vil dele med hvem. Han "
+"har muligheten til å opprette et privat og sikkert miljø der du kan si hva "
+"du tenker."
 
 #: original/en.txt:270
 msgid "WEAPONS: His mind."
@@ -893,6 +897,7 @@ msgid ""
 msgstr "» Husk å ikke glemme at nettleseren også er programvare."
 
 #: original/en.txt:290
+#, fuzzy
 msgid ""
 "It is sometimes the first thing you open when turning on your phone, tablet "
 "or computer, and the last thing you close. But a lot goes on inside the "
@@ -900,7 +905,8 @@ msgid ""
 msgstr ""
 "Det er noen ganger det første du åpner når du skrur på telefonen, brettet "
 "eller datamaskinen din, og det siste du lukker. Mye finner allikevel sted "
-"inne i nettleseren, og det kan være skadelig (eller bra) for ditt personvern."
+"inne i nettleseren, og det kan være skadelig (eller bra) for vern av ditt "
+"privatliv."
 
 #: original/en.txt:292
 msgid ""
@@ -951,6 +957,7 @@ msgstr ""
 "forvalgte nettleser er som oftest Google Chrome."
 
 #: original/en.txt:303
+#, fuzzy
 msgid ""
 "» DID YOU KNOW?\n"
 "Make sure to check the »privacy options« of your browser and change the "
@@ -962,10 +969,10 @@ msgid ""
 "your computer, but you can download it very easily."
 msgstr ""
 "» VISSTE DU?\n"
-"Husk på å ta en titt på ulike «privatsfærevalg» i nettleseren din, og endre "
+"Husk på å ta en titt på ulike «privatlivsvalg» i nettleseren din, og endre "
 "de forvalgte innstillingene slik at du tar kontrollen - akkurat som Perfekt "
-"Bølge! Mange tror at den nettleseren som best verner ditt privatliv og gir "
-"sikkerhet er Firefox! Hvorfor det? Fordi du kan tilpasse den, kontrollere "
+"Bølge! Mange mener at den nettleseren som gir best sikkerhet og best verner "
+"privatlivet ditt er Firefox! Hvorfor? Fordi du kan tilpasse den, kontrollere "
 "den, og se hvordan den virker. Det er mulig at den ikke er installert på "
 "datamaskinen din , men du kan enkelt laste den ned."
 
@@ -1028,8 +1035,8 @@ msgid ""
 "[O] …can access my contacts, pictures, and messages."
 msgstr ""
 "» REBUS 4: NOEN PROGRAMMER…\n"
-"[F] … er så sikre at jeg aldri trenger å tenke på mitt personvern når jeg "
-"bruker dem.\n"
+"[F] … er så sikre at jeg aldri trenger å tenke på å verne mitt privatliv når "
+"jeg bruker dem.\n"
 "[L] … er bedre enn sjokolade.\n"
 "[S] … har tilgang til mine kontakter, bilder og meldinger."
 
@@ -1046,16 +1053,16 @@ msgid "Passwords. Very important in the digital age."
 msgstr "Passord. Veldig viktige i emningen av den digitale tidsalder."
 
 #: original/en.txt:339
+#, fuzzy
 msgid ""
 "Incredibly important, in fact. They form the basis of your security and "
 "privacy. And most people's passwords are very, very weak – the most commonly "
 "used password\n"
 "is »password» or »12345»."
 msgstr ""
-"Uhyre viktig faktisk. De utgjør grunnlaget for din sikkerhet og ditt "
-"personvern. Folks passord er vanligvis veldig, veldig svake - det mest "
-"brukte passordet er\n"
-"«passord» eller «12345»."
+"Faktisk uhyre viktig. De utgjør grunnlaget for din sikkerhet og ditt vern av "
+"privatlivet. Folks passord er vanligvis veldig, veldig svake - det mest "
+"brukte passordet er «passord» eller «12345»."
 
 #: original/en.txt:342
 msgid "Creating a secure password is not very difficult."
@@ -1143,14 +1150,15 @@ msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "LAG: DIGITALE BESKYTTERE"
 
 #: original/en.txt:369
+#, fuzzy
 msgid ""
 "POWERS: She fights for privacy and security. She gives powerful private keys "
 "to people who are in danger and helps them to secure their personal "
 "information online."
 msgstr ""
-"KREFTER: Hun sloss for privatliv og sikkerhet. Hun gir kraftfulle private "
-"nøkler til folk som er i fare, og hjelper dem å sikre sin personlige "
-"informasjon på nett."
+"KREFTER: Hun sloss for rett til privatliv og sikkerhet. Hun deler ut "
+"kraftige private nøkler til folk som er i fare, og hjelper dem å sikre sin "
+"personlige informasjon på nett."
 
 #: original/en.txt:371
 msgid ""
@@ -1189,14 +1197,13 @@ msgid "» QUEST 5: WHEN I BROWSE THE INTERNET..."
 msgstr "» REBUS 5: NÅR JEG SURFER PÅ INTERNETT…"
 
 #: original/en.txt:383
-#, fuzzy
 msgid ""
 "[X] …I can do whatever I want, and I'm safe – it's not reality!\n"
 "[U] …I can protect myself by not allowing cookies and not storing my browser "
 "history.\n"
 "[Y] …being too careful is just paranoid, because I have nothing to hide."
 msgstr ""
-"[X] … kan jeg gjøre hva jeg vil, jeg er trygg - det er ikke virkelighet!\n"
+"[X] … kan jeg gjøre hva jeg vil, jeg er trygg - det er ikke virkeligheten!\n"
 "[E] … kan jeg beskytte meg selv ved å ikke tillate informasjonskapsler og "
 "ikke lagre min nettleserhistorikk.\n"
 "[L] … er det å være forsiktig bare paranoid, fordi jeg ikke har noe å skjule."
@@ -1476,7 +1483,6 @@ msgstr ""
 "krypterer e-postene dine         Middels"
 
 #: original/en.txt:463
-#, fuzzy
 msgid ""
 "BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS\n"
 "Plug-in                                          What it does                "
@@ -1496,10 +1502,10 @@ msgid ""
 "                                                                             "
 "              Difficult"
 msgstr ""
-"NETTLESERPROGRAMTILLEGG, TILLEGG OG UTVIDELSER\n"
-"Tillegg                                          Hva det gjør                "
+"NETTLESERINNSTIKKMODULER, TILLEGG OG UTVIDELSER\n"
+"Innstikkmodul                               Hva det gjør                     "
 "                                                                             "
-"        Enkelhet i bruk\n"
+"   Enkelhet i bruk\n"
 "Disconnect.me                           Blokkerer kaker og sporere           "
 "                                                                         "
 "Enkelt\n"
@@ -1620,7 +1626,6 @@ msgstr ""
 "• Adessium-stiftelsen og Open Society-stiftelsene"
 
 #: original/en.txt:501
-#, fuzzy
 msgid ""
 "This document is distributed under a Creative Commons 2.0 Licence (CC BY 2.0)"
 "\n"
