@@ -1,11 +1,13 @@
-.PHONY: all
+.PHONY: all clean distclean
 
 .INTERMEDIATE: %.txt
 
-all: pdf/nb_NO.pdf pdf/nl_NL.pdf
+all: 
+	cd generated && $(MAKE)
 
-pdf/%.pdf: %.txt
-	pandoc $< -o $@
+clean: 
+	cd generated && $(MAKE) clean
 
-%.txt: locale/%.po
-	po2txt $< $@
+distclean: 
+	cd generated && $(MAKE) distclean
+
