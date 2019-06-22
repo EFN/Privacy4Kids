@@ -6,3 +6,6 @@ Privacy4Kids was already translated into several languages before it was importe
 * https://pad.edri.org/public_pad/p4k_translation
 * https://edri.org/privacy-for-kids-digital-defenders/
 * https://edri.org/digital-defenders-help-kids-defend-their-privacy-around-europe/
+
+The translation is maintained on Weblate, visist
+https://hosted.weblate.org/projects/efn/privacy4kids/ to update it.
