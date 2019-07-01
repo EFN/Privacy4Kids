@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-04 22:37+0200\n"
-"PO-Revision-Date: 2019-06-28 17:31+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"PO-Revision-Date: 2019-07-01 13:53+0000\n"
+"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -41,7 +41,7 @@ msgstr ""
 "INTERNETT. KULT, RASKT OG VERDENSOMSPENNENDE.\n"
 "Det er også komplekst. Noen ganger kan det være vanskelig å se hvor vi løper "
 "en risiko – og hvor våre private ting kan leses og brukes av andre.\n"
-"Heldigvis, i vårt parallelle univers, der de DIGITALE BESKYTTERNE sloss mot "
+"Heldigvis, i vårt parallelle univers, der de DIGITALE FORSVARERNE sloss mot "
 "de onde DATAINNTRENGERNE, er det enkelt å se hvem som er de snille, og hvem "
 "som er slemmingene.\n"
 "www.edri.org"
@@ -159,7 +159,7 @@ msgid ""
 "Luckily, in our parallel universe where the Defenders fight the evil "
 "Intruders, it is easy to see who are the good and who are the bad guys."
 msgstr ""
-"Heldigvis, i vårt parallelle univers, der beskytterne sloss mot de onde "
+"Heldigvis, i vårt parallelle univers, der forsvarerne sloss mot de onde "
 "datainntrengerne, er det enkelt å se hvem som er de snille, og hvem som er "
 "slemmingene."
 
@@ -168,7 +168,7 @@ msgid ""
 "The Defenders will show you some tips and tricks to protect yourself online. "
 "They will teach you self-defence to fight the Intruders."
 msgstr ""
-"Beskytterne vil vise deg noen tips og triks for å beskytte deg selv på nett. "
+"Forsvarerne vil vise deg noen tips og triks for å beskytte deg selv på nett. "
 "De vil lære deg selvforsvar for å hanskes med Inntrengerne."
 
 #: original/en.txt:63
@@ -177,7 +177,7 @@ msgid ""
 "Defenders! "
 msgstr ""
 "Sjekk ut dette bladet, og vær klar til å bli med på vårt superheltelag, "
-"Beskytterne! "
+"Forsvarerne! "
 
 #: original/en.txt:65
 msgid "Your friend,"
@@ -518,7 +518,7 @@ msgstr "FR. ANONYMITET"
 #: original/en.txt:171
 msgctxt "original/en.txt:171"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr "LAG: DIGITALE BESKYTTERE"
+msgstr "LAG: DIGITALE FORSVARERE"
 
 #: original/en.txt:173
 msgid ""
@@ -817,7 +817,7 @@ msgstr ""
 
 #: original/en.txt:262
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
-msgstr "DIGITALE BESKYTTERE mot DATAINNTRENGERE (II)"
+msgstr "DIGITALE FORSVARERE mot DATAINNTRENGERE (II)"
 
 #: original/en.txt:264
 msgid "MIND FREER"
@@ -826,7 +826,7 @@ msgstr "TANKEFRIGJØRER"
 #: original/en.txt:266
 msgctxt "original/en.txt:266"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr "LAG: DIGITALE BESKYTTERE"
+msgstr "LAG: DIGITALE FORSVARERE"
 
 #: original/en.txt:268
 msgid ""
@@ -964,7 +964,7 @@ msgstr ""
 
 #: original/en.txt:308
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (III)"
-msgstr "DIGITALE BESKYTTERE mot DATAINNTRENGERE (III)"
+msgstr "DIGITALE FORSVARERE mot DATAINNTRENGERE (III)"
 
 #: original/en.txt:310
 msgid "PERFECT WAVE"
@@ -973,7 +973,7 @@ msgstr "PERFEKT BØLGE"
 #: original/en.txt:312
 msgctxt "original/en.txt:312"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr "LAG: DIGITALE BESKYTTERE"
+msgstr "LAG: DIGITALE FORSVARERE"
 
 #: original/en.txt:314
 msgid ""
@@ -1004,7 +1004,7 @@ msgid ""
 "considers the Perfect Wave his worst enemy. He has a monstrous appetite for "
 "your secrets."
 msgstr ""
-"KREFTER: Han er alltid på utkikk etter bråk. Han hater alle beskyttere, men "
+"KREFTER: Han er alltid på utkikk etter bråk. Han hater alle forsvarerne, men "
 "synes at Perfekt Bølge er sin verste fiende. Han har en uhorvelig appetitt "
 "for dine hemmeligheter."
 
@@ -1096,7 +1096,7 @@ msgid ""
 msgstr ""
 "Hvorfor? Fordi det finnes dataprogrammer som prøver hvert eneste ord i "
 "ordboka for forsøke å «gjette» passordet ditt. Hver superhelt i vårt lag av "
-"beskyttere har et sterkt og kreativt passord. Du kan bli en av dem – "
+"forsvarere har et sterkt og kreativt passord. Du kan bli en av dem – "
 "passordet ditt er ditt våpen for å unngå fare!"
 
 #: original/en.txt:357
@@ -1123,7 +1123,7 @@ msgstr ""
 
 #: original/en.txt:363
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (IV)"
-msgstr "DIGITALE BESKYTTERE mot DATAINNTRENGERE (IV)"
+msgstr "DIGITALE FORSVARERE mot DATAINNTRENGERE (IV)"
 
 #: original/en.txt:365
 msgid "QUEEN OF LOCKS"
@@ -1132,7 +1132,7 @@ msgstr "DRONNINGEN AV LÅSER"
 #: original/en.txt:367
 msgctxt "original/en.txt:367"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr "LAG: DIGITALE BESKYTTERE"
+msgstr "LAG: DIGITALE FORSVARERE"
 
 #: original/en.txt:369
 msgid ""
@@ -1301,7 +1301,7 @@ msgstr ""
 
 #: original/en.txt:415
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (V)"
-msgstr "DIGITALE BESKYTTERE mot DATAINNTRENGERE (V)"
+msgstr "DIGITALE FORSVARERE mot DATAINNTRENGERE (V)"
 
 #: original/en.txt:417
 msgid "JOHNNY RANDOM"
@@ -1310,7 +1310,7 @@ msgstr "TRULS TILFELDIG"
 #: original/en.txt:419
 msgctxt "original/en.txt:419"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr "LAG: DIGITALE BESKYTTERE"
+msgstr "LAG: DIGITALE FORSVARERE"
 
 #: original/en.txt:421
 msgid ""
