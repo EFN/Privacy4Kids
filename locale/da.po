@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-04 22:37+0200\n"
 "PO-Revision-Date: 2019-07-07 17:01+0000\n"
-"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
+"Last-Translator: alix guilbert <alixguilbert@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/efn/privacy4kids/"
 "da/>\n"
 "Language: da\n"
@@ -16,17 +16,16 @@ msgstr ""
 "X-Generator: Weblate 3.8-dev\n"
 
 #: original/en.txt:1
-#, fuzzy
 msgid ""
 "YOUR GUIDE TO THE\n"
 "DIGITAL DEFENDERS VS. DATA INTRUDERS\n"
 "TAKE CONTROL OF YOUR STUFF ONLINE\n"
 "PRIVACY FOR KIDS"
 msgstr ""
-"DIN VEJLEDER TIL DE\n"
-"DIGITALE FORSVARERE MOD DATAINNTRENGERE\n"
-"TAGE KONTROL OVER DIT LIV PÅ NETTET\n"
-"VÆRN AF PRIVATLIVET FOR BARN"
+"DIN VEJLEDNING TIL DE\n"
+"DIGITALE FORSVARERE MOD DATAINDTRÆNGERE\n"
+"TAG KONTROL OVER DIT LIV PÅ NETTET\n"
+"PRIVATLIV FOR BØRN"
 
 #: original/en.txt:6
 msgid ""
@@ -48,13 +47,12 @@ msgstr ""
 "www.edri.org"
 
 #: original/en.txt:12
-#, fuzzy
 msgid ""
 "Booklet edited by:\n"
 "Kirsten Fiedler, EDRi\n"
 "Theresia Reinhold, EDRi"
 msgstr ""
-"Redaktør for bladet:\n"
+"Redaktører for bladet:\n"
 "Kirsten Fiedler, EDRi\n"
 "Theresia Renhold, EDRi"
 
@@ -68,31 +66,28 @@ msgstr ""
 "Gregor Sedlag"
 
 #: original/en.txt:19
-#, fuzzy
 msgid ""
 "Art & design by:\n"
 "Gregor Sedlag\n"
 "Heini Jarvinen\n"
 "(EDRi-former illustrations)"
 msgstr ""
-"Grafik og formgivning af:\n"
+"Grafik og design af:\n"
 "Gregor Sedlag\n"
 "Heini Jarvinen\n"
 "(EDRi-former illustrationer)"
 
 #: original/en.txt:24
-#, fuzzy
 msgid ""
 "Special thanks to:\n"
 "Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
 "Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
 msgstr ""
-"Speciel tak til:\n"
+"Særlig tak til:\n"
 "Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
 "Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
 
 #: original/en.txt:28
-#, fuzzy
 msgid ""
 "Contributions by:\n"
 "ApTI Romania\n"
@@ -106,7 +101,7 @@ msgid ""
 msgstr ""
 "Bidrag af:\n"
 "ApTI Romania\n"
-"Bidder of Freedom\n"
+"Bits of Freedom\n"
 "CCC / Chaos macht Schule\n"
 "Cryptoparty.in\n"
 "Digitale Gesellschaft e. V.\n"
@@ -120,7 +115,6 @@ msgid "Chapters:"
 msgstr "Kapitler:"
 
 #: original/en.txt:40
-#, fuzzy
 msgid ""
 "Chapter 1: What's the internet?\n"
 "Chapter 2: What's privacy?\n"
@@ -134,16 +128,16 @@ msgid ""
 "Chapter 10: Apps & tools we like\n"
 "Chapter 11: Hands-on guide for Signal"
 msgstr ""
-"Kapitel 1: Hvad er Internet?\n"
-"Kapitel 2: Hvad er ret til privatliv?\n"
-"Kapitel 3: De tre bedste tips- og trickene\n"
+"Kapitel 1: Hvad er Internettet?\n"
+"Kapitel 2: Hvad er retten til privatliv?\n"
+"Kapitel 3: Top tre tips- og tricks\n"
 "Kapitel 4: Beskyt dig selv på sociale netværk\n"
-"Kapitel 5: Smarttelefoner og sikkerhed\n"
-"Kapitel 6: Sikrere meldingtjenester\n"
-"Kapitel 7: Surfing på Internet\n"
+"Kapitel 5: Smartphones og sikkerhed\n"
+"Kapitel 6: Sikrere beskedtjenester\n"
+"Kapitel 7: Surfing på Internettet\n"
 "Kapitel 8: Kodeordsikkerhed\n"
 "Kapitel 9: Billed- og video-deling\n"
-"Kapitel 10: Programmer og værktøj vi kan lide\n"
+"Kapitel 10: Programmer og værktøjer vi kan lide\n"
 "Kapitel 11: Praktisk vejledning til Signal"
 
 #: original/en.txt:53
@@ -152,28 +146,26 @@ msgid "[Intro]"
 msgstr "[Intro]"
 
 #: original/en.txt:55
-#, fuzzy
 msgid "The internet. It is cool, fast and global."
-msgstr "Internet. Kult, raskt og verdensomspændende."
+msgstr "Internet. Sejt, hurtigt og verdensomspændende."
 
 #: original/en.txt:57
-#, fuzzy
 msgid ""
 "But it is also complex. Sometimes it can be difficult to see where we are at "
 "risk – and where our private stuff online can be read and used by others."
 msgstr ""
-"Det er også komplekst. Nogen gange kan det være vanskeligt at se hvor vi løber "
-"risiko – og hvor vores private ting kan læses og bruges af anden."
+"Men det er også komplekst. Nogen gange kan det være vanskeligt at se hvor vi "
+"løber risici – og hvor vores private information kan læses og bruges af "
+"andre."
 
 #: original/en.txt:59
-#, fuzzy
 msgid ""
 "Luckily, in our parallel universe where the Defenders fight the evil "
 "Intruders, it is easy to see who are the good and who are the bad guys."
 msgstr ""
-"Heldigvis, i vores parallelle univers, der forsvarerne sloges mod de onde "
-"datainntrengerne, er det enkelt at se hvem som er dem snilde, og hvem som er "
-"slemmerterne."
+"Heldigvis, i vores parallelle univers, der Forsvarerne slås mod de onde "
+"Dataindtrængere, er det enkelt at se hvem der er de gode og hvem der er de "
+"onde."
 
 #: original/en.txt:61
 #, fuzzy
