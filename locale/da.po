@@ -1,14 +1,14 @@
 #. extracted from original/en.txt
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-04 22:37+0200\n"
-"PO-Revision-Date: 2019-07-05 10:34+0000\n"
+"PO-Revision-Date: 2019-07-07 17:01+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
-"Language-Team: \n"
-"Language: dk\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/efn/privacy4kids/"
+"da/>\n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,7 +29,6 @@ msgstr ""
 "VÆRN AF PRIVATLIVET FOR BARN"
 
 #: original/en.txt:6
-#, fuzzy
 msgid ""
 "[Cover text]\n"
 "THE INTERNET. IT IS COOL, FAST AND GLOBAL.\n"
@@ -40,13 +39,13 @@ msgid ""
 "\n"
 "www.edri.org"
 msgstr ""
-"INTERNET. KULT, RASKT OG VERDENSOMSPÆNDENDE.\n"
-"Det er også komplekst. Nogen gange kan det være vanskeligt at se hvor vi løber "
-"en risiko – og hvor vores private ting kan læses og bruges af anden.\n"
-"Heldigvis, i vores parallelle univers, der de DIGITALE FORSVARERE sloges mod "
-"de onde DATAINNTRENGERNE, er det enkelt at se hvem som er dem snilde, og hvem "
-"som er slemmerterne.\n"
-"www.edri.stjæle"
+"Internettet. Det er sejt, hurtigt og globalt.\n"
+"Men det er også komplekst. Nogle gange kan det være svært, hvor vi er udsat –"
+" og hvor vores private ting online kan blive set og brugt af andre.\n"
+"I vores parallelle univers, hvor de DIGITALE DEFENDERS bekæmper de onde DATA "
+"INTRUDERS, er det heldigvis nemt at se, hvem der er gode og hvem der er onde."
+"\n"
+"www.edri.org"
 
 #: original/en.txt:12
 #, fuzzy
