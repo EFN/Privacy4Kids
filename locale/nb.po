@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-08 14:44+0200\n"
-"PO-Revision-Date: 2019-07-08 13:07+0000\n"
+"PO-Revision-Date: 2019-07-08 15:12+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/nb_NO/>\n"
@@ -1612,7 +1612,7 @@ msgstr ""
 
 #: ../original/en-price.html+html.head.title:4
 msgid "Congratz! - EDRi"
-msgstr ""
+msgstr "Gratulerer! - EDRi"
 
 #: ../original/en-price.html+html.head:-1
 msgid ""
@@ -1621,18 +1621,22 @@ msgid ""
 "pdf). But this is not all: You have also won access to some hot tricks that "
 "will impress your friends."
 msgstr ""
+"Du har funnet riktig svar på alle spørsmålene!  Du har vunnet en mektig "
+"digital rusning som vil hjelpe deg å forsvare deg på nettet (skriv ut "
+"plakaten, A4-PDF).  Men det er ikke alt.  Du har også skaffet deg tilgang "
+"til noen stilige triks som vil imponere vennene dine."
 
 #: ../original/en-price.html+html.head:-1
 msgid "en_US"
-msgstr ""
+msgstr "nb_NO"
 
 #: ../original/en-price.html+html.body.h1:9
 msgid "Congratz!"
-msgstr ""
+msgstr "Gratulerer!"
 
 #: ../original/en-price.html+html.body.p:11
 msgid "EDRI-former"
-msgstr ""
+msgstr "EDRi-former"
 
 #: ../original/en-price.html+html.body.p:12
 msgid ""
@@ -1642,18 +1646,23 @@ msgid ""
 "a>). But this is not all: You have also won access to some hot tricks that "
 "will impress your friends."
 msgstr ""
+"Du har funnet riktig svar på alle spørsmålene! Du har vunnet en mektig "
+"digital rusning som vil hjelpe deg å forsvare deg på nettet (skriv ut <a "
+"href=\"https://edri.org/files/defenders_vs_intruders_poster.pdf\">plakaten, "
+"A4-PDF</a>). Men det er ikke alt. Du har også skaffet deg tilgang til noen "
+"stilige triks som vil imponere vennene dine."
 
 #: ../original/en-price.html+html.body.table.tbody.tr.th:16
 msgid "Armour piece"
-msgstr ""
+msgstr "Rustningsdel"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.th:17
 msgid "What you’ve won:"
-msgstr ""
+msgstr "Du har vunnet:"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:20
 msgid "digital_armour_internet"
-msgstr ""
+msgstr "digital_armour_internet"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:21
 msgid ""
