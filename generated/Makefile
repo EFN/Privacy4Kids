@@ -1,8 +1,13 @@
+LANGS = $(shell cat ../TARGET_LANGUAGES)
+
+PDFS := $(LANGS:=.pdf)
+TXTS := $(LANGS:=.txt)
+
 .PHONY: all clean distclean
 
 .INTERMEDIATE: %.txt
 
-all: nl_NL.pdf nl_NL.txt da.pdf da.txt fi.pdf fi.txt nb.pdf nb.txt sv.pdf sv.txt
+all: $(TXTS) $(PDFS)
 
 %.pdf: %.txt
 	pandoc $< -o $@
