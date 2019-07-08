@@ -4,10 +4,13 @@ TAKE CONTROL OF YOUR STUFF ONLINE
 PRIVACY FOR KIDS
 
 [Cover text]
+
 THE INTERNET. IT IS COOL, FAST AND GLOBAL.
 But it is also complex. Sometimes it can be difficult to see where we are at risk – and where our private stuff online can be read and used by others. 
 Luckily, in our parallel universe where the DIGITAL DEFENDERS fight the evil DATA INTRUDERS, it is easy to see who are the good and who are the bad guys.
 www.edri.org
+
+[colophon]
 
 Booklet edited by:
 Kirsten Fiedler, EDRi
@@ -49,8 +52,7 @@ Chapter 9: Photo and video sharing
 Chapter 10: Apps & tools we like
 Chapter 11: Hands-on guide for Signal
 
-
-[Intro]
+[intro]
 
 The internet. It is cool, fast and global.
 
@@ -76,8 +78,8 @@ Once you have found the word, you need it to go to a secret page on the internet
 
 
 
-C H A P T E R   1
-1 What's the internet?
+CHAPTER 1
+What's the internet?
 
 The internet is a global network of devices. 
 
@@ -103,8 +105,8 @@ You will find the answer to this question in this booklet.
 
 
 
-C H A P T E R   2
-2 What is privacy?
+CHAPTER 2
+What is privacy?
 
 If we have privacy, we have control.
 But what does this mean? 
@@ -131,15 +133,14 @@ searched for. This can happen if we forget to log out or simply when they look a
 
 Only 20 years ago, most homes had only one phone line which only one person could use at a time. Hardly anyone had a mobile phone and not many people had e-mail.  
 
-»QUEST1: THE INTERNET IS...
-
-[A]...a network of devices.
-[B]...an efficient fishing tool for international waters.
-[C]...a social network.
-
+» QUEST 1: THE INTERNET IS…
+[A] …a network of devices.
+[B] …an efficient fishing tool for international waters.
+[C] …a social network.
 
 
-C H A P T E R   3
+
+CHAPTER 3
 Protect yourself on social networks
 
 It can be so much fun to use social networks. On social networks, we can chat with friends and family, share pictures, send private messages and post information publicly. 
@@ -159,10 +160,10 @@ Keep in mind that everything we do on a social network is recorded on the comput
 The things we type into a search engine or write in a chat message to a friend are not completely deleted. Companies that provide the services we use (like YouTube, 
 Facebook, Snapchat and so on) can record what we write, the websites we visit and the things we search for online. 
 
-» QUEST 2: PRIVACY IS  IMPORTANT BECAUSE...
-[T]  ...it helps us to watch music videos.
-[R] ...it helps us to be free and in control online.
-[G] ...it helps us to share pictures with the entire world.
+» QUEST 2: PRIVACY IS  IMPORTANT BECAUSE…
+[T] …it helps us to watch music videos.
+[R] …it helps us to be free and in control online.
+[G] …it helps us to share pictures with the entire world.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (I)
 
@@ -170,26 +171,22 @@ MS. ANONYMITY
 
 TEAM: DIGITAL DEFENDERS
     
-POWERS:
-Government tests have augmented her immune system. She also has the ability to use social networks anonymously, so nobody knows who she really is.
+POWERS: Government tests have augmented her immune system. She also has the ability to use social networks anonymously, so nobody knows who she really is.
 
-WEAPONS:
-She is a skilled hand-to-hand fighter
+WEAPONS: She is a skilled hand-to-hand fighter
 
 I.D. THIEF
 
 TEAM: DATA INTRUDERS
 
-POWERS:
-She can see what you do online and then steal your personal information. She pretends to be you and tries to use your name, social media and e-mail accounts for criminal activities.
+POWERS: She can see what you do online and then steal your personal information. She pretends to be you and tries to use your name, social media and e-mail accounts for criminal activities.
 
-WEAPONS:
-The Alpha Virus – which she uses to infiltrate computers and phones.
+WEAPONS: The Alpha Virus – which she uses to infiltrate computers and phones.
 
 
 
 
-C H A P T E R   4
+CHAPTER 4
 Top three tips and tricks
 
 1. Not everyone has to know everything about us
@@ -215,7 +212,7 @@ We should ask ourselves what the real threats are and what we can do about them.
 
 
 
-C H A P T E R   5
+CHAPTER 5
 Safer messaging
 
 We all use our phones to send messages to friends and family. 
@@ -226,15 +223,15 @@ But some messaging apps read the contents of our messages and track who we talk 
 
 The companies who make messaging apps often scan what we say. They track who we're talking to so they can show us advertisements to make us buy something or to share it with other companies. You can check out a list of cool messaging apps at the end of the booklet. These messaging apps also ensure that we don't receive texts from strangers. And there is also a guide how to install Signal in this booklet – Signal is a cool app to keep your messages safe.
 
-» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE...
-[Q]  ...I can be sure that they will never use or sell my data.
-[M] ...I can stay in touch with friends and family.
-[N] ...I can be sure that only my friends can see the photos I post there
+» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE…
+[Q] …I can be sure that they will never use or sell my data.
+[M] …I can stay in touch with friends and family.
+[N] …I can be sure that only my friends can see the photos I post there
 
 
 
 
-C H A P T E R   6
+CHAPTER 6
 Smartphone security
 
 Our phones have become very important for using the internet.
@@ -264,7 +261,7 @@ DIGITAL DEFENDERS v DATA INTRUDERS (II)
 MIND FREER
 
 TEAM: DIGITAL DEFENDERS
-    
+
 POWERS: He fights for your right to decide what to share and with whom. He has the ability to create a private and secure environment where you can say what you think.
 
 WEAPONS: His mind.
@@ -310,7 +307,7 @@ DIGITAL DEFENDERS v DATA INTRUDERS (III)
 PERFECT WAVE
 
 TEAM: DIGITAL DEFENDERS
-    
+
 POWERS: He can navigate space, hyperspace and cyberspace on his board. The Perfect Wave does not require food or drink, he can survive by converting data into energy. He is almost totally indestrucible.
 
 WEAPONS: His surfboard.
@@ -323,7 +320,7 @@ POWERS: He is always looking for a fight. He hates all Defenders but considers t
 
 WEAPONS: His spinning robot arm.
 
-» QUEST 4: SOME APPS ... 
+» QUEST 4: SOME APPS …
 [F] …are so secure that I never have to think about my privacy at all when using them.
 [L] …are better than chocolate.
 [O] …can access my contacts, pictures, and messages.
@@ -365,7 +362,7 @@ DIGITAL DEFENDERS v DATA INTRUDERS (IV)
 QUEEN OF LOCKS
 
 TEAM: DIGITAL DEFENDERS
-    
+
 POWERS: She fights for privacy and security. She gives powerful private keys to people who are in danger and helps them to secure their personal information online.
 
 WEAPONS: Her helmet – she uses it to shoot energy beams from her eyes. She can cut right through Finn Phisher's dangerous net.
@@ -378,8 +375,7 @@ POWERS: He possesses superhuman strength, speed and reflexes. He uses his powers
 
 WEAPONS: He throws an electrostatic data net to stun his opponents.
 
-» QUEST 5: WHEN I BROWSE THE INTERNET...
-
+» QUEST 5: WHEN I BROWSE THE INTERNET…
 [X] …I can do whatever I want, and I'm safe – it's not reality!
 [U] …I can protect myself by not allowing cookies and not storing my browser history.
 [Y] …being too careful is just paranoid, because I have nothing to hide.
@@ -388,7 +384,7 @@ WEAPONS: He throws an electrostatic data net to stun his opponents.
 
 
 CHAPTER 9
-Photo and  video sharing
+Photo and video sharing
 
 We tell our friends about our daily life by sharing images and videos with them online.
 
@@ -417,7 +413,7 @@ DIGITAL DEFENDERS v DATA INTRUDERS (V)
 JOHNNY RANDOM
 
 TEAM: DIGITAL DEFENDERS
-    
+
 POWERS: He was born on planet Entropia, somewhere in a far away Galaxy. As all members of his species, he has the ability to change his shape at will. He can shield your secrets with randomly changing passwords.
 
 WEAPONS: His main weaponry are energy charged parts of his body that he can throw and recover at any time.
@@ -438,38 +434,52 @@ CHAPTER 10
 Apps & tools we like
 
 SMARTPHONE APPS
-App                                  What it does                                                                                                                         Difficulty to use
-Signal                              Messaging, SMS and encrypted phone calls (WhatsApp alternative)                     Easy
 
-OrBot & OrFox                Surf the web anonymously                                                                                               Easy
-KeePassDroid               Manages all your passwords                                                                                          Easy
-F-Droid                            Archive with apps that are open and free software (Google Play alternative)        Easy
+App | What it does | Difficulty to use
 
-K9 Mail                            Manages your emails                                                                                                        Easy
-ChatSecure                    Messaging app for multiple accounts like Facebook and Google                           Medium
+Signal | Messaging, SMS and encrypted phone calls (WhatsApp alternative) | Easy
 
-Transportr                       Public transport, check bus and train times                                                                 Easy
-Csip Secure                   Encrypted calls (Skype alternative)                                                                                 Medium
-APG                                  To encrypt emails with K9 Mail                                                                                        Difficult
+OrBot & OrFox | Surf the web anonymously | Easy
+
+KeePassDroid | Manages all your passwords | Easy
+
+F-Droid | Archive with apps that are open and free software (Google Play alternative) | Easy
+
+K9 Mail | Manages your emails | Easy
+
+ChatSecure | Messaging app for multiple accounts like Facebook and Google | Medium
+
+Transportr | Public transport, check bus and train times | Easy
+
+Csip Secure | Encrypted calls (Skype alternative) | Medium
+
+APG | To encrypt emails with K9 Mail | Difficult
 
 SOFTWARE FOR WINDOWS, MAC AND LINUX
-Software                                What it does                                                                                                                      Difficulty to use
-Jitsi                                          Encrypted video calls                                                                                                      Medium
-Tor Browser                           Surf the web anonymously                                                                                             Easy
-Pidgin and OTR Plugin       Messaging (compatible with ChatSecure)                                                                  Medium
-Thunderbird &Enigmail       Manages your email accounts, the Enigmail Add-on encrypts your emails         Medium
 
+Software | What it does | Difficulty to use
+
+Jitsi | Encrypted video calls | Medium
+
+Tor Browser | Surf the web anonymously | Easy
+
+Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium
+
+Thunderbird & Enigmail | Manages your email accounts, the Enigmail Add-on encrypts your emails | Medium
 
 BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS
-Plug-in                                          What it does                                                                                                                Difficulty to use
-Disconnect.me                           Blocks cookies and trackers                                                                                    Easy
-Privacy Badger                            Blocks trackers                                                                                                           Easy
-HTTPS Everywhere                    Forces websites to use a more secure method, if possible                             Easy
-Self Destructing Cookies         Removes cookies when they are no longer used by open browser tabs        Medium
-NoScript                                       Blocks JavaScript                                                                                                        Difficult
 
+Plug-in | What it does | Difficulty to use
 
+Disconnect.me | Blocks cookies and trackers | Easy
 
+Privacy Badger | Blocks trackers | Easy
+
+HTTPS Everywhere | Forces websites to use a more secure method, if possible | Easy
+
+Self Destructing Cookies | Removes cookies when they are no longer used by open browser tabs | Medium
+
+NoScript | Blocks JavaScript | Difficult
 
 
 CHAPTER 11
