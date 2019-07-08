@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-08 14:44+0200\n"
-"PO-Revision-Date: 2019-07-08 15:12+0000\n"
+"PO-Revision-Date: 2019-07-08 16:48+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/nb_NO/>\n"
@@ -1673,10 +1673,17 @@ msgid ""
 "\" target=\"_blank\" rel=\"noopener\">Privacy Badger</a> – it will block "
 "spying ads and invisible trackers."
 msgstr ""
+"Bedre sikkerhet når du surfer på internett – på din PC: Bruk nettleseren "
+"<strong>Firefox</strong>. \n"
+"<a href=\"https://www.mozilla.org/en-US/firefox/new/\" target=\"_blank\" rel="
+"\"noopener\">Installer den her</a>.<br />  Deretter installerer du Firefox-"
+"utvidelsen <a href=\"https://www.eff.org/privacybadger\" target=\"_blank\" "
+"rel=\"noopener\">Privacy Badger</a> – den vil blokkere reklame som spionerer "
+"på deg og usynlige sporingssystemer."
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:25
 msgid "digital_armour_social_networks"
-msgstr ""
+msgstr "digital_armour_social_networks"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:26
 msgid ""
@@ -1693,7 +1700,7 @@ msgstr ""
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:29
 msgid "digital_armour_passwords"
-msgstr ""
+msgstr "digital_armour_passwords"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:30
 msgid ""
@@ -1703,10 +1710,16 @@ msgid ""
 "for Apple devices: <a href=\"https://itunes.apple.com/be/app/onion-browser/"
 "id519296448?mt=8\">Onion Browser</a> (0.99 €)"
 msgstr ""
+"Bla rundt på nettet anonymt fra telefonen din: installer programmet "
+"<strong>OrBot</strong> og <strong>Orfox</strong> – finn dem på <a href=\""
+"https://play.google.com/store/apps/developer?id=The+Tor+Project\""
+">PlayStore</a> (gratis) eller for Apple-enheter: <a href=\""
+"https://itunes.apple.com/be/app/onion-browser/id519296448?mt=8\">Onion "
+"Browser</a>  (0.99 €)"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:33
 msgid "digital_armour_apps"
-msgstr ""
+msgstr "digital_armour_apps"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:34
 msgid ""
@@ -1717,10 +1730,16 @@ msgid ""
 "com/us/app/signal-private-messenger/id874139669?mt=8\">Store</a>. Tell your "
 "best friends to use it too!"
 msgstr ""
+"Tryggere utveksling av meldinger med dine venner og familie med <strong>"
+"Signal Private Messenger</strong>.<br/> Du finner den på <a href=\""
+"https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl="
+"en\">PlayStore</a> eller i <a href=\"https://itunes.apple.com/us/app/"
+"signal-private-messenger/id874139669?mt=8\">butikken</a> til Apple.  Spør om "
+"dine beste venner også vil bruke dette!"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:38
 msgid "digital_armour_internet2"
-msgstr ""
+msgstr "digital_armour_internet2"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:39
 msgid ""
@@ -1729,10 +1748,14 @@ msgid ""
 "\"noopener\">DuckDuckGo</a> or <a href=\"https://search.disconnect.me/\" "
 "target=\"_blank\" rel=\"noopener\">Disconnect.me</a>"
 msgstr ""
+"Hvis du ønsker å finne ting på nettet, bruk en søkemotor som respekterer "
+"ditt privatliv – som <a href=\"https://duckduckgo.com/\" target=\"_blank\" "
+"rel=\"noopener\">DuckDuckGo</a> eller <a href=\"https://search.disconnect.me/"
+"\" target=\"_blank\" rel=\"noopener\">Disconnect.me</a>"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:42
 msgid "digital_armour_privacy"
-msgstr ""
+msgstr "digital_armour_privacy"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:43
 msgid ""
@@ -1742,6 +1765,11 @@ msgid ""
 "<a href=\"https://www.edubuntu.org/\" target=\"_blank\" rel=\"noopener"
 "\">Edubuntu</a> (special distribution for kids)"
 msgstr ""
+"Og hvis du er flink med teknologi, tenk på å installere et Linux-basert "
+"operativsystem på din hjemmepc eller bærbare datamaskin.  Sjekk <a href=\""
+"https://www.ubuntu.com/\" target=\"_blank\" rel=\"noopener\">Ubuntu</a> "
+"eller <a href=\"https://www.edubuntu.org/\" target=\"_blank\" rel=\""
+"noopener\">Edubuntu</a> (distribusjon laget spesielt for barn)"
 
 #, fuzzy
 #~ msgctxt "original/en.txt:267"
