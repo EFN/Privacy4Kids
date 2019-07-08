@@ -5,11 +5,11 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-08 14:44+0200\n"
-"PO-Revision-Date: 2019-07-05 10:34+0000\n"
+"PO-Revision-Date: 2019-07-08 13:07+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/nb_NO/>\n"
-"Language: nb_NO\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,10 +30,9 @@ msgstr ""
 
 #: original/en.txt:6
 msgid "[Cover text]"
-msgstr ""
+msgstr "[omslagstekst]"
 
 #: original/en.txt:8
-#, fuzzy
 msgid ""
 "THE INTERNET. IT IS COOL, FAST AND GLOBAL.\n"
 "But it is also complex. Sometimes it can be difficult to see where we are at "
@@ -53,7 +52,7 @@ msgstr ""
 
 #: original/en.txt:13
 msgid "[colophon]"
-msgstr ""
+msgstr "[kolofon]"
 
 #: original/en.txt:15
 msgid ""
@@ -148,7 +147,6 @@ msgstr ""
 "Kapittel 11: Praktisk veiledning til Signal"
 
 #: original/en.txt:55
-#, fuzzy
 msgid "[intro]"
 msgstr "[Intro]"
 
@@ -226,7 +224,6 @@ msgstr ""
 "spillrebusene, og skriv inn den helhetlige lenken i din nettleser."
 
 #: original/en.txt:81
-#, fuzzy
 msgid ""
 "CHAPTER 1\n"
 "What's the internet?"
@@ -320,7 +317,6 @@ msgid "You will find the answer to this question in this booklet."
 msgstr "Du finner svaret på dette spørsmålet i dette heftet."
 
 #: original/en.txt:108
-#, fuzzy
 msgid ""
 "CHAPTER 2\n"
 "What is privacy?"
@@ -416,19 +412,18 @@ msgstr ""
 "hadde e-post.  "
 
 #: original/en.txt:136
-#, fuzzy
 msgid ""
 "» QUEST 1: THE INTERNET IS…\n"
 "[A] …a network of devices.\n"
 "[B] …an efficient fishing tool for international waters.\n"
 "[C] …a social network."
 msgstr ""
+"» REBUS 1: INTERNETT ER…\n"
 "[R]… et nettverk av enheter.\n"
 "[S]… et effektivt fiskeredskap for internasjonalt farvann.\n"
 "[T]… et sosialt nettverk."
 
 #: original/en.txt:143
-#, fuzzy
 msgid ""
 "CHAPTER 3\n"
 "Protect yourself on social networks"
@@ -507,17 +502,16 @@ msgstr ""
 "vi besøker og de tingene vi søker etter på nettet. "
 
 #: original/en.txt:163
-#, fuzzy
 msgid ""
 "» QUEST 2: PRIVACY IS  IMPORTANT BECAUSE…\n"
 "[T] …it helps us to watch music videos.\n"
 "[R] …it helps us to be free and in control online.\n"
 "[G] …it helps us to share pictures with the entire world."
 msgstr ""
-"» REBUS 2: VERN AV PRIVATLIVET ER VIKTIG FORDI...\n"
-"[T]  ... det hjelper oss å se musikkvideoer.\n"
-"[U] ... det hjelper oss å være frie og beholde kontroll på nettet. \n"
-"[G] ... det hjelper oss med å dele bilder med hele verden."
+"» REBUS 2: VERN AV PRIVATLIVET ER VIKTIG FORDI…\n"
+"[T]  …det hjelper oss å se musikkvideoer.\n"
+"[U] …det hjelper oss å være frie og beholde kontroll på nettet. \n"
+"[G] …det hjelper oss med å dele bilder med hele verden."
 
 #: original/en.txt:168
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (I)"
@@ -528,62 +522,51 @@ msgid "MS. ANONYMITY"
 msgstr "FR. ANONYMITET"
 
 #: original/en.txt:172
-#, fuzzy
 msgctxt "original/en.txt:172"
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "LAG: DIGITALE FORSVARERE"
 
 #: original/en.txt:174
-#, fuzzy
 msgid ""
 "POWERS: Government tests have augmented her immune system. She also has the "
 "ability to use social networks anonymously, so nobody knows who she really "
 "is."
 msgstr ""
-"KREFTER:\n"
-"Myndighetsforsøk har forsterket immunforsvaret hennes. Hun har også "
+"KREFTER: Myndighetsforsøk har forsterket immunforsvaret hennes. Hun har også "
 "muligheten til å bruke sosiale nettverk anonymt, slik at ingen vet hvem hun "
 "egentlig er."
 
 #: original/en.txt:176
-#, fuzzy
 msgid "WEAPONS: She is a skilled hand-to-hand fighter"
-msgstr ""
-"VÅPEN:\n"
-"Hun er en dyktig på nærkamp"
+msgstr "VÅPEN: Hun er en dyktig på nærkamp"
 
 #: original/en.txt:178
 msgid "I.D. THIEF"
 msgstr "ID-TYV"
 
 #: original/en.txt:180
-#, fuzzy
 msgctxt "original/en.txt:180"
 msgid "TEAM: DATA INTRUDERS"
 msgstr "LAG: DATAINNTRENGERE"
 
 #: original/en.txt:182
-#, fuzzy
 msgid ""
 "POWERS: She can see what you do online and then steal your personal "
 "information. She pretends to be you and tries to use your name, social media "
 "and e-mail accounts for criminal activities."
 msgstr ""
-"KREFTER: \n"
-"Hun kan se hva du gjør på nettet, for så å stjele personopplysninger om "
-"deg.  Hun later som hun er deg, og prøver å bruke ditt navn, sosiale medier "
-"og e-postkontoer til kriminelle aktiviteter."
+"KREFTER: Hun kan se hva du gjør på nettet, for så å stjele "
+"personopplysninger om deg.  Hun later som hun er deg, og prøver å bruke ditt "
+"navn, sosiale medier og e-postkontoer til kriminelle aktiviteter."
 
 #: original/en.txt:184
-#, fuzzy
 msgid ""
 "WEAPONS: The Alpha Virus – which she uses to infiltrate computers and phones."
 msgstr ""
-"VÅPEN:\n"
-"Alfaviruset – som hun bruker for å infiltrere datamaskiner og telefoner."
+"VÅPEN: Alfaviruset – som hun bruker for å infiltrere datamaskiner og "
+"telefoner."
 
 #: original/en.txt:189
-#, fuzzy
 msgid ""
 "CHAPTER 4\n"
 "Top three tips and tricks"
@@ -672,7 +655,6 @@ msgstr ""
 "privatlivet."
 
 #: original/en.txt:215
-#, fuzzy
 msgid ""
 "CHAPTER 5\n"
 "Safer messaging"
@@ -716,7 +698,6 @@ msgstr ""
 "er et kult program som sørger for at meldingene dine blir sendt trygt."
 
 #: original/en.txt:226
-#, fuzzy
 msgid ""
 "» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE…\n"
 "[Q] …I can be sure that they will never use or sell my data.\n"
@@ -724,13 +705,12 @@ msgid ""
 "[N] …I can be sure that only my friends can see the photos I post there"
 msgstr ""
 "» REBUS 3: SOSIALE NETTVERK ER FORTREFFELIGE FORDI…\n"
-"[Q]  … Jeg kan være sikker på at de aldri vil selge eller bruke mine data.\n"
+"[Q] … Jeg kan være sikker på at de aldri vil selge eller bruke mine data.\n"
 "[S] … Jeg kan holde kontakten med venner og familie.\n"
 "[N] … Jeg kan forsikre meg om at bare mine venner kan se bildene jeg poster "
 "der."
 
 #: original/en.txt:234
-#, fuzzy
 msgid ""
 "CHAPTER 6\n"
 "Smartphone security"
@@ -842,7 +822,6 @@ msgid "MIND FREER"
 msgstr "TANKEFRIGJØRER"
 
 #: original/en.txt:263
-#, fuzzy
 msgctxt "original/en.txt:263"
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "LAG: DIGITALE FORSVARERE"
@@ -866,7 +845,6 @@ msgid "MAN IN THE MIDDLE."
 msgstr "MANN-I-MIDTEN."
 
 #: original/en.txt:271
-#, fuzzy
 msgctxt "original/en.txt:271"
 msgid "TEAM: DATA INTRUDERS"
 msgstr "LAG: DATAINNTRENGERE"
@@ -991,7 +969,6 @@ msgid "PERFECT WAVE"
 msgstr "PERFEKT BØLGE"
 
 #: original/en.txt:309
-#, fuzzy
 msgctxt "original/en.txt:309"
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "LAG: DIGITALE FORSVARERE"
@@ -1015,7 +992,6 @@ msgid "KRAZY KOOKIE"
 msgstr "GAL KAKE"
 
 #: original/en.txt:317
-#, fuzzy
 msgctxt "original/en.txt:317"
 msgid "TEAM: DATA INTRUDERS"
 msgstr "LAG: DATAINNTRENGERE"
@@ -1035,7 +1011,6 @@ msgid "WEAPONS: His spinning robot arm."
 msgstr "VÅPEN: Hans roterende robotarm."
 
 #: original/en.txt:323
-#, fuzzy
 msgid ""
 "» QUEST 4: SOME APPS …\n"
 "[F] …are so secure that I never have to think about my privacy at all when "
@@ -1153,7 +1128,6 @@ msgid "QUEEN OF LOCKS"
 msgstr "DRONNINGEN AV LÅSER"
 
 #: original/en.txt:364
-#, fuzzy
 msgctxt "original/en.txt:364"
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "LAG: DIGITALE FORSVARERE"
@@ -1181,7 +1155,6 @@ msgid "FINN PHISHER"
 msgstr "FINN LUREFISKER"
 
 #: original/en.txt:372
-#, fuzzy
 msgctxt "original/en.txt:372"
 msgid "TEAM: DATA INTRUDERS"
 msgstr "LAG: DATAINNTRENGERE"
@@ -1200,7 +1173,6 @@ msgstr ""
 "VÅPEN: Han kaster sitt elektrostatiske datanett for å overvelde motstandere."
 
 #: original/en.txt:378
-#, fuzzy
 msgid ""
 "» QUEST 5: WHEN I BROWSE THE INTERNET…\n"
 "[X] …I can do whatever I want, and I'm safe – it's not reality!\n"
@@ -1208,13 +1180,13 @@ msgid ""
 "history.\n"
 "[Y] …being too careful is just paranoid, because I have nothing to hide."
 msgstr ""
+"» REBUS 5: NÅR JEG SURFER PÅ INTERNETT…\n"
 "[X] … kan jeg gjøre hva jeg vil, jeg er trygg - det er ikke virkeligheten!\n"
 "[E] … kan jeg beskytte meg selv ved å ikke tillate informasjonskapsler og "
 "ikke lagre min nettleserhistorikk.\n"
 "[Y] … er det bare paranoid å være forsiktig, fordi jeg ikke har noe å skjule."
 
 #: original/en.txt:386
-#, fuzzy
 msgid ""
 "CHAPTER 9\n"
 "Photo and video sharing"
@@ -1332,7 +1304,6 @@ msgid "JOHNNY RANDOM"
 msgstr "TRULS TILFELDIG"
 
 #: original/en.txt:415
-#, fuzzy
 msgctxt "original/en.txt:415"
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "LAG: DIGITALE FORSVARERE"
@@ -1361,7 +1332,6 @@ msgid "DATA SMUGGLER"
 msgstr "DATASMUGLER"
 
 #: original/en.txt:423
-#, fuzzy
 msgctxt "original/en.txt:423"
 msgid "TEAM: DATA INTRUDERS"
 msgstr "LAG: DATAINNTRENGERE"
@@ -1392,111 +1362,125 @@ msgstr ""
 
 #: original/en.txt:436
 msgid "SMARTPHONE APPS"
-msgstr ""
+msgstr "SMARTTELEFONPROGRAMMER"
 
 #: original/en.txt:438
 msgid "App | What it does | Difficulty to use"
-msgstr ""
+msgstr "Program | Hva det gjør | Enkelhet i bruk"
 
 #: original/en.txt:440
 msgid ""
 "Signal | Messaging, SMS and encrypted phone calls (WhatsApp alternative) | "
 "Easy"
 msgstr ""
+"Signal | Meldinger, SMS og krypterte telefonsamtaler (WhatsApp-alternativ) | "
+"Enkelt"
 
 #: original/en.txt:442
 msgid "OrBot & OrFox | Surf the web anonymously | Easy"
-msgstr ""
+msgstr "Orbot og Orfox | Surf på nettet anonymt | Enkelt"
 
 #: original/en.txt:444
 msgid "KeePassDroid | Manages all your passwords | Easy"
-msgstr ""
+msgstr "KeePassDroid | Håndterer alle passordene dine | Enkelt"
 
 #: original/en.txt:446
 msgid ""
 "F-Droid | Archive with apps that are open and free software (Google Play "
 "alternative) | Easy"
 msgstr ""
+"F-Droid |  Pakkebrønn med fri programvare (Google Play-alternativ) | Enkelt"
 
 #: original/en.txt:448
 msgid "K9 Mail | Manages your emails | Easy"
-msgstr ""
+msgstr "K9 Mail | Håndterer e-postene dine | Enkelt"
 
 #: original/en.txt:450
 msgid ""
 "ChatSecure | Messaging app for multiple accounts like Facebook and Google | "
 "Medium"
 msgstr ""
+"ChatSecure | Meldingsprogram som håndterer flere kontoer, som Facebook og "
+"Google | Middels"
 
 #: original/en.txt:452
 msgid "Transportr | Public transport, check bus and train times | Easy"
 msgstr ""
+"Transportr | Kollektivtransport, sjekk bussavganger og togtabeller | Enkelt"
 
 #: original/en.txt:454
 msgid "Csip Secure | Encrypted calls (Skype alternative) | Medium"
-msgstr ""
+msgstr "Csip Secure | Krypterte samtaler (Skype-alternativ) | Middels"
 
 #: original/en.txt:456
 msgid "APG | To encrypt emails with K9 Mail | Difficult"
-msgstr ""
+msgstr "APG | For å kryptere e-poster med K9 Mail | Vanskelig"
 
 #: original/en.txt:458
 msgid "SOFTWARE FOR WINDOWS, MAC AND LINUX"
-msgstr ""
+msgstr "PROGRAMVARE FOR WINDOWS, MAC og GNU/LINUX"
 
 #: original/en.txt:460
 msgid "Software | What it does | Difficulty to use"
-msgstr ""
+msgstr "Software | Hva den gjør | Enkelhet i bruk"
 
 #: original/en.txt:462
 msgid "Jitsi | Encrypted video calls | Medium"
-msgstr ""
+msgstr "Jitsi | Krypterte videosamtaler | Middels"
 
 #: original/en.txt:464
 msgid "Tor Browser | Surf the web anonymously | Easy"
-msgstr ""
+msgstr "Tor Browser | Surf på nettet anonymt | Enkelt"
 
 #: original/en.txt:466
 msgid "Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium"
 msgstr ""
+"Pidgin og OTR Plugin | Meldingstjeneste (kompatibelt med ChatSecure) | "
+"Middels"
 
 #: original/en.txt:468
 msgid ""
 "Thunderbird & Enigmail | Manages your email accounts, the Enigmail Add-on "
 "encrypts your emails | Medium"
 msgstr ""
+"Thunderbird & Enigmail | Behandler dine e-postkontoer, Enigmail-tillegget "
+"krypterer e-postene dine | Middels"
 
 #: original/en.txt:470
 msgid "BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS"
-msgstr ""
+msgstr "NETTLESERINNSTIKKMODULER, TILLEGG OG UTVIDELSER"
 
 #: original/en.txt:472
 msgid "Plug-in | What it does | Difficulty to use"
-msgstr ""
+msgstr "Innstikkmodul | Hva det gjør | Enkelhet i bruk"
 
 #: original/en.txt:474
 msgid "Disconnect.me | Blocks cookies and trackers | Easy"
-msgstr ""
+msgstr "Disconnect.me | Blokkerer kaker og sporere | Enkelt"
 
 #: original/en.txt:476
 msgid "Privacy Badger | Blocks trackers | Easy"
-msgstr ""
+msgstr "Personvernsgrevlingen | Blokkerer sporere | Enkelt"
 
 #: original/en.txt:478
 msgid ""
 "HTTPS Everywhere | Forces websites to use a more secure method, if possible "
 "| Easy"
 msgstr ""
+"HTTPS Everywhere | Tvinger nettsider til å bruke en sikrere metode, hvis "
+"mulig | Enkelt"
 
 #: original/en.txt:480
 msgid ""
 "Self Destructing Cookies | Removes cookies when they are no longer used by "
 "open browser tabs | Medium"
 msgstr ""
+"Self Destructing Cookies | Fjerner kaker som ikke lenger er i bruk av åpne "
+"nettleserfaner | Middels"
 
 #: original/en.txt:482
 msgid "NoScript | Blocks JavaScript | Difficult"
-msgstr ""
+msgstr "NoScript | Blokkerer JavaScript | Vanskelig"
 
 #: original/en.txt:485
 msgid ""
