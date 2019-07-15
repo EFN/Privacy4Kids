@@ -5,16 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-09 00:46+0200\n"
-"PO-Revision-Date: 2018-04-17 19:05+0000\n"
-"Last-Translator: Evelyn <evelyn.austin@bof.nl>\n"
+"PO-Revision-Date: 2019-07-16 12:05+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/efn/privacy4kids/"
 "nl/>\n"
-"Language: nl_NL\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0-dev\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #: original/en.txt:1
 msgid ""
@@ -30,10 +30,9 @@ msgstr ""
 
 #: original/en.txt:6
 msgid "[Cover text]"
-msgstr ""
+msgstr "[Omslagtekst]"
 
 #: original/en.txt:8
-#, fuzzy
 msgid ""
 "THE INTERNET. IT IS COOL, FAST AND GLOBAL.\n"
 "But it is also complex. Sometimes it can be difficult to see where we are at "
@@ -54,7 +53,7 @@ msgstr ""
 
 #: original/en.txt:13
 msgid "[colophon]"
-msgstr ""
+msgstr "[colofon]"
 
 #: original/en.txt:15
 msgid ""
@@ -149,9 +148,8 @@ msgstr ""
 "Hoofdstuk 11: Handleiding voor Signal"
 
 #: original/en.txt:55
-#, fuzzy
 msgid "[intro]"
-msgstr "[Intro]"
+msgstr "[introductie]"
 
 #: original/en.txt:57
 msgid "The internet. It is cool, fast and global."
@@ -230,13 +228,12 @@ msgstr ""
 "verzamelen van alle letters. Voer de volledige link in in je browser."
 
 #: original/en.txt:81
-#, fuzzy
 msgid ""
 "CHAPTER 1\n"
 "What's the internet?"
 msgstr ""
-"H O O F D S T U K  1\n"
-"1 Wat is het internet?"
+"HOOFDSTUK 1\n"
+"Wat is het internet?"
 
 #: original/en.txt:84
 msgid "The internet is a global network of devices. "
@@ -324,13 +321,12 @@ msgid "You will find the answer to this question in this booklet."
 msgstr "Je zult het antwoord op deze vraag vinden in dit boekje."
 
 #: original/en.txt:108
-#, fuzzy
 msgid ""
 "CHAPTER 2\n"
 "What is privacy?"
 msgstr ""
-"H O O F D S T U K  2\n"
-"2 Wat is privacy?"
+"HOOFDSTUK 2\n"
+"Wat is privacy?"
 
 #: original/en.txt:111
 msgid ""
@@ -418,24 +414,23 @@ msgstr ""
 "mobiele telefoon en weinig mensen hadden e-mail.  "
 
 #: original/en.txt:136
-#, fuzzy
 msgid ""
 "» QUEST 1: THE INTERNET IS…\n"
 "[A] …a network of devices.\n"
 "[B] …an efficient fishing tool for international waters.\n"
 "[C] …a social network."
 msgstr ""
+"» ZOEKTOCHT 1: HET INTERNET IS...\n"
 "[A]... een netwerk van apparaten.\n"
 "[B]...een efficiënt hulpmiddel om te vissen op internationale zeeën.\n"
 "[C]...een sociaal netwerk."
 
 #: original/en.txt:143
-#, fuzzy
 msgid ""
 "CHAPTER 3\n"
 "Protect yourself on social networks"
 msgstr ""
-"H O O F D S T U K  3\n"
+"HOOFDSTUK 3\n"
 "Bescherm jezelf op sociale netwerken"
 
 #: original/en.txt:146
@@ -510,14 +505,13 @@ msgstr ""
 "schrijven, welke websites we bezoeken en de dingen die we zoeken. "
 
 #: original/en.txt:163
-#, fuzzy
 msgid ""
 "» QUEST 2: PRIVACY IS  IMPORTANT BECAUSE…\n"
 "[T] …it helps us to watch music videos.\n"
 "[R] …it helps us to be free and in control online.\n"
 "[G] …it helps us to share pictures with the entire world."
 msgstr ""
-"» ZOEKTOCHT 2: PRIVACY IS BELANGRIJK, OMDAT...\n"
+"» ZOEKTOCHT 2: PRIVACY IS  BELANGRIJK, OMDAT...\n"
 "[T] ...het ons helpt om muziekvideo's te bekijken.\n"
 "[R] ...het ons helpt om vrij en in controle te zijn.\n"
 "[G] ...het ons helpt om foto's te delen met de hele wereld."
@@ -531,68 +525,56 @@ msgid "MS. ANONYMITY"
 msgstr "MEVR. ANONIEM"
 
 #: original/en.txt:172
-#, fuzzy
 msgctxt "original/en.txt:172"
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "TEAM: DIGITALE BESCHERMERS"
 
 #: original/en.txt:174
-#, fuzzy
 msgid ""
 "POWERS: Government tests have augmented her immune system. She also has the "
 "ability to use social networks anonymously, so nobody knows who she really "
 "is."
 msgstr ""
-"KRACHTEN:\n"
-"Overheidstests hebben haar immuunsysteem versterkt. Ze heeft ook de "
-"mogelijkheid om sociale netwerken anoniem te gebruiken, zodat niemand weet "
-"wie ze werkelijk is."
+"KRACHTEN: Overheidstests hebben haar immuunsysteem versterkt. Ze heeft ook "
+"de mogelijkheid om sociale netwerken anoniem te gebruiken, zodat niemand "
+"weet wie ze werkelijk is."
 
 #: original/en.txt:176
-#, fuzzy
 msgid "WEAPONS: She is a skilled hand-to-hand fighter"
-msgstr ""
-"WAPENS:\n"
-"Ze is een goed getrainde vechter die vecht met haar handen"
+msgstr "WAPENS: Ze is een goed getraind vechter die vecht met haar handen"
 
 #: original/en.txt:178
 msgid "I.D. THIEF"
 msgstr "I.D.-dief"
 
 #: original/en.txt:180
-#, fuzzy
 msgctxt "original/en.txt:180"
 msgid "TEAM: DATA INTRUDERS"
 msgstr "TEAM: DATAGRAAIERS"
 
 #: original/en.txt:182
-#, fuzzy
 msgid ""
 "POWERS: She can see what you do online and then steal your personal "
 "information. She pretends to be you and tries to use your name, social media "
 "and e-mail accounts for criminal activities."
 msgstr ""
-"KRACHTEN:\n"
-"Ze kan zien wat je op het internet doet en je persoonlijke informatie "
-"stelen. Ze doet alsof ze jou is en probeert je naam, sociale media- en e-"
-"mailaccounts te gebruiken voor criminele activiteiten."
+"KRACHTEN: Ze kan zien wat je op het internet doet en je persoonlijke "
+"informatie stelen. Ze doet alsof ze jou is en probeert je naam, sociale "
+"media- en e-mailaccounts te gebruiken voor criminele activiteiten."
 
 #: original/en.txt:184
-#, fuzzy
 msgid ""
 "WEAPONS: The Alpha Virus – which she uses to infiltrate computers and phones."
 msgstr ""
-"WAPENS:\n"
-"Het Alfa-virus - ze gebruikt dit virus om computers en telefoons binnen te "
-"dringen."
+"WAPENS: Het Alfa-virus - ze gebruikt dit virus om computers en telefoons "
+"binnen te dringen."
 
 #: original/en.txt:189
-#, fuzzy
 msgid ""
 "CHAPTER 4\n"
 "Top three tips and tricks"
 msgstr ""
-"H O O F D S T U K  4\n"
+"HOOFDSTUK 4\n"
 "De 3 beste tips & trucs"
 
 #: original/en.txt:192
@@ -678,12 +660,11 @@ msgstr ""
 "bewaken."
 
 #: original/en.txt:215
-#, fuzzy
 msgid ""
 "CHAPTER 5\n"
 "Safer messaging"
 msgstr ""
-"H O O F D S T U K  5\n"
+"HOOFDSTUK 5\n"
 "Veilig berichten versturen"
 
 #: original/en.txt:218
@@ -724,7 +705,6 @@ msgstr ""
 "een coole app waarmee je je berichten veilig houdt."
 
 #: original/en.txt:226
-#, fuzzy
 msgid ""
 "» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE…\n"
 "[Q] …I can be sure that they will never use or sell my data.\n"
@@ -732,19 +712,18 @@ msgid ""
 "[N] …I can be sure that only my friends can see the photos I post there"
 msgstr ""
 "» ZOEKTOCHT 3: SOCIALE NETWERKEN ZIJN GEWELDIG, OMDAT...\n"
-"[Q] ...ik zeker weet dat ze mijn gegevens nooit zullen gebruiken of "
-"verkopen.\n"
-"[M] ...ik contact kan houden met mijn vrienden en familie.\n"
+"[Q] ...ik zeker weet dat ze mijn gegevens nooit zullen gebruiken of verkopen."
+"\n"
+"[M] ...ik in contact kan blijven met mijn vrienden en familie.\n"
 "[N] ...ik zeker weet dat alleen mijn vrienden kunnen zien welke foto's ik "
-"plaats"
+"plaats."
 
 #: original/en.txt:234
-#, fuzzy
 msgid ""
 "CHAPTER 6\n"
 "Smartphone security"
 msgstr ""
-"H O O F D S T U K  6\n"
+"HOOFDSTUK 6\n"
 "Smartphone-beveiliging"
 
 #: original/en.txt:237
@@ -855,7 +834,6 @@ msgid "MIND FREER"
 msgstr "GEESTBEVRIJDER"
 
 #: original/en.txt:263
-#, fuzzy
 msgctxt "original/en.txt:263"
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "TEAM: DIGITALE BESCHERMERS"
@@ -879,7 +857,6 @@ msgid "MAN IN THE MIDDLE."
 msgstr "TUSSENPERSOON."
 
 #: original/en.txt:271
-#, fuzzy
 msgctxt "original/en.txt:271"
 msgid "TEAM: DATA INTRUDERS"
 msgstr "TEAM: DATAGRAAIERS"
@@ -1007,7 +984,6 @@ msgid "PERFECT WAVE"
 msgstr "PERFECTE GOLF"
 
 #: original/en.txt:309
-#, fuzzy
 msgctxt "original/en.txt:309"
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "TEAM: DIGITALE BESCHERMERS"
@@ -1031,7 +1007,6 @@ msgid "KRAZY KOOKIE"
 msgstr "GEKKE KOEKIE"
 
 #: original/en.txt:317
-#, fuzzy
 msgctxt "original/en.txt:317"
 msgid "TEAM: DATA INTRUDERS"
 msgstr "TEAM: DATAGRAAIERS"
@@ -1051,7 +1026,6 @@ msgid "WEAPONS: His spinning robot arm."
 msgstr "WAPENS: Zijn roterende robotarm."
 
 #: original/en.txt:323
-#, fuzzy
 msgid ""
 "» QUEST 4: SOME APPS …\n"
 "[F] …are so secure that I never have to think about my privacy at all when "
@@ -1059,7 +1033,7 @@ msgid ""
 "[L] …are better than chocolate.\n"
 "[O] …can access my contacts, pictures, and messages."
 msgstr ""
-"» ZOEKTOCHT 4: SOMMIGE APPS ... «\n"
+"» ZOEKTOCHT 4: SOMMIGE APPS... «\n"
 "[F] ...zijn zó veilig dat ik nooit hoef na te denken over mijn privacy als "
 "ik ze gebruik.\n"
 "[L] ...zijn beter dan chocolade.\n"
@@ -1169,7 +1143,6 @@ msgid "QUEEN OF LOCKS"
 msgstr "KONINGIN DER SLOTEN"
 
 #: original/en.txt:364
-#, fuzzy
 msgctxt "original/en.txt:364"
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "TEAM: DIGITALE BESCHERMERS"
@@ -1197,7 +1170,6 @@ msgid "FINN PHISHER"
 msgstr "FINN PHISHER"
 
 #: original/en.txt:372
-#, fuzzy
 msgctxt "original/en.txt:372"
 msgid "TEAM: DATA INTRUDERS"
 msgstr "TEAM: DATAGRAAIERS"
@@ -1218,7 +1190,6 @@ msgstr ""
 "verzwakken."
 
 #: original/en.txt:378
-#, fuzzy
 msgid ""
 "» QUEST 5: WHEN I BROWSE THE INTERNET…\n"
 "[X] …I can do whatever I want, and I'm safe – it's not reality!\n"
@@ -1226,6 +1197,7 @@ msgid ""
 "history.\n"
 "[Y] …being too careful is just paranoid, because I have nothing to hide."
 msgstr ""
+"» ZOEKTOCHT 5: ALS IK OP INTERNET SURF...\n"
 "[X] ...dan kan ik alles doen wat ik maar wil. Ik ben veilig, het internet is "
 "niet echt!\n"
 "[U] ...dan kan ik mezelf beschermen door cookies niet toe te staan en mijn "
@@ -1233,7 +1205,6 @@ msgstr ""
 "[Y] ...té voorzichtig zijn is paranoïde; ik heb niks te verbergen."
 
 #: original/en.txt:386
-#, fuzzy
 msgid ""
 "CHAPTER 9\n"
 "Photo and video sharing"
@@ -1352,7 +1323,6 @@ msgid "JOHNNY RANDOM"
 msgstr "JAN WILLEKEUR"
 
 #: original/en.txt:415
-#, fuzzy
 msgctxt "original/en.txt:415"
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "TEAM: DIGITALE BESCHERMERS"
@@ -1381,7 +1351,6 @@ msgid "DATA SMUGGLER"
 msgstr "GEGEVENSSMOKKELAAR"
 
 #: original/en.txt:423
-#, fuzzy
 msgctxt "original/en.txt:423"
 msgid "TEAM: DATA INTRUDERS"
 msgstr "TEAM: DATAGRAAIERS"
@@ -1413,111 +1382,126 @@ msgstr ""
 
 #: original/en.txt:436
 msgid "SMARTPHONE APPS"
-msgstr ""
+msgstr "SMARTPHONE-APPS"
 
 #: original/en.txt:438
 msgid "App | What it does | Difficulty to use"
-msgstr ""
+msgstr "App | Wat de app doet | Moeilijkheidsgraad"
 
 #: original/en.txt:440
 msgid ""
 "Signal | Messaging, SMS and encrypted phone calls (WhatsApp alternative) | "
 "Easy"
 msgstr ""
+"Signal | Berichten en sms'jes versturen; veilig bellen (alternatief voor "
+"WhatsApp) | Makkelijk"
 
 #: original/en.txt:442
 msgid "OrBot & OrFox | Surf the web anonymously | Easy"
-msgstr ""
+msgstr "OrBot en OrFox | Anoniem surfen op het internet | Makkelijk"
 
 #: original/en.txt:444
 msgid "KeePassDroid | Manages all your passwords | Easy"
-msgstr ""
+msgstr "KeePassDroid | Wachtwoorden beheren | Makkelijk"
 
 #: original/en.txt:446
 msgid ""
 "F-Droid | Archive with apps that are open and free software (Google Play "
 "alternative) | Easy"
 msgstr ""
+"F-Droid | Archief met apps die open en vrij zijn (alternatief voor Google "
+"Play) | Makkelijk"
 
 #: original/en.txt:448
 msgid "K9 Mail | Manages your emails | Easy"
-msgstr ""
+msgstr "K9 Mail | E-mailen | Makkelijk"
 
 #: original/en.txt:450
 msgid ""
 "ChatSecure | Messaging app for multiple accounts like Facebook and Google | "
 "Medium"
 msgstr ""
+"ChatSecure | Berichten-app voor meerdere accounts, zoals Facebook en Google |"
+" Iets moeilijker"
 
 #: original/en.txt:452
 msgid "Transportr | Public transport, check bus and train times | Easy"
-msgstr ""
+msgstr "Transportr | Openbaar vervoer: bekijk bus- en treintijden | Makkelijk"
 
 #: original/en.txt:454
 msgid "Csip Secure | Encrypted calls (Skype alternative) | Medium"
 msgstr ""
+"Csip Secure | Beveiligde oproepen (alternatief voor Skype) | Iets moeilijker"
 
 #: original/en.txt:456
 msgid "APG | To encrypt emails with K9 Mail | Difficult"
-msgstr ""
+msgstr "APG | Beveiligd e-mails die verstuurd worden met K9 Mail | Moeilijk"
 
 #: original/en.txt:458
 msgid "SOFTWARE FOR WINDOWS, MAC AND LINUX"
-msgstr ""
+msgstr "SOFTWARE VOOR WINDOWS, MACOS EN LINUX"
 
 #: original/en.txt:460
 msgid "Software | What it does | Difficulty to use"
-msgstr ""
+msgstr "Software | Wat de app doet | Moeilijkheidsgraad"
 
 #: original/en.txt:462
 msgid "Jitsi | Encrypted video calls | Medium"
-msgstr ""
+msgstr "Jitsi | Beveiligde videogesprekken | Iets moeilijker"
 
 #: original/en.txt:464
 msgid "Tor Browser | Surf the web anonymously | Easy"
-msgstr ""
+msgstr "Tor Browser | Surf anoniem op internet | Makkelijk"
 
 #: original/en.txt:466
 msgid "Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium"
 msgstr ""
+"Pidgin met de OTR-plug-in | Berichten versturen (compatibel met ChatSecure) |"
+" Iets moeilijker"
 
 #: original/en.txt:468
 msgid ""
 "Thunderbird & Enigmail | Manages your email accounts, the Enigmail Add-on "
 "encrypts your emails | Medium"
 msgstr ""
+"Thunderbird en Enigmail | E-mails ontvangen en versturen; de Enigmail-add-on "
+"versleutelt je e-mails | Iets moeilijker"
 
 #: original/en.txt:470
 msgid "BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS"
-msgstr ""
+msgstr "BROWSERPLUG-INS, -ADD-ONS EN -EXTENSIES"
 
 #: original/en.txt:472
 msgid "Plug-in | What it does | Difficulty to use"
-msgstr ""
+msgstr "Plug-in | Wat de plug-in doet | Moeilijkheidsgraad"
 
 #: original/en.txt:474
 msgid "Disconnect.me | Blocks cookies and trackers | Easy"
-msgstr ""
+msgstr "Disconnect.me | Blokkeert cookies en trackers | Makkelijk"
 
 #: original/en.txt:476
 msgid "Privacy Badger | Blocks trackers | Easy"
-msgstr ""
+msgstr "Privacy Badger | Blokkeert trackers | Makkelijk"
 
 #: original/en.txt:478
 msgid ""
 "HTTPS Everywhere | Forces websites to use a more secure method, if possible "
 "| Easy"
 msgstr ""
+"HTTPS Everywhere | Dwingt websites om, indien mogelijk, een veiligere "
+"verbindingsmethode te gebruiken | Makkelijk"
 
 #: original/en.txt:480
 msgid ""
 "Self Destructing Cookies | Removes cookies when they are no longer used by "
 "open browser tabs | Medium"
 msgstr ""
+"Self Destructing Cookies | Verwijdert cookies als ze niet langer worden "
+"gebruikt door openstaande tabbladen | Iets moeilijker"
 
 #: original/en.txt:482
 msgid "NoScript | Blocks JavaScript | Difficult"
-msgstr ""
+msgstr "NoScript | Blokkeert JavaScript | Moeilijk"
 
 #: original/en.txt:485
 msgid ""
@@ -1647,7 +1631,7 @@ msgstr ""
 
 #: ../original/en-price.html+html.head.title:4
 msgid "Congratz! - EDRi"
-msgstr ""
+msgstr "Gefeliciteerd! - EDRi"
 
 #: ../original/en-price.html+html.head:-1
 msgid ""
@@ -1656,18 +1640,22 @@ msgid ""
 "pdf). But this is not all: You have also won access to some hot tricks that "
 "will impress your friends."
 msgstr ""
+"Je hebt alle vragen goed beantwoord! Je beschikt nu over een krachtig, "
+"digitaal harnas dat je online beschermt (druk de poster af - A4 PDF). Maar "
+"dat is niet alles: je hebt ook toegang gekregen tot handige trucjes waarmee "
+"je je vrienden versteld doet staan!"
 
 #: ../original/en-price.html+html.head:-1
 msgid "en_US"
-msgstr ""
+msgstr "en_US"
 
 #: ../original/en-price.html+html.body.h1:9
 msgid "Congratz!"
-msgstr ""
+msgstr "Gefeliciteerd!"
 
 #: ../original/en-price.html+html.body.p:11
 msgid "EDRI-former"
-msgstr ""
+msgstr "EDRI-former"
 
 #: ../original/en-price.html+html.body.p:12
 msgid ""
@@ -1677,18 +1665,23 @@ msgid ""
 "a>). But this is not all: You have also won access to some hot tricks that "
 "will impress your friends."
 msgstr ""
+"Je hebt alle vragen goed beantwoord! Je beschikt nu over een krachtig, "
+"digitaal harnas dat je online beschermt (druk de <a href=\"https://edri.org/"
+"files/defenders_vs_intruders_poster.pdf\">poster af - A4 PDF</a>). Maar dat "
+"is niet alles: je hebt ook toegang gekregen tot handige trucjes waarmee je "
+"je vrienden versteld doet staan!"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.th:16
 msgid "Armour piece"
-msgstr ""
+msgstr "Harnasonderdeel"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.th:17
 msgid "What you’ve won:"
-msgstr ""
+msgstr "Je hebt het volgende gewonnen:"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:20
 msgid "digital_armour_internet"
-msgstr ""
+msgstr "digital_armour_internet"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:21
 msgid ""
@@ -1699,10 +1692,16 @@ msgid ""
 "\" target=\"_blank\" rel=\"noopener\">Privacy Badger</a> – it will block "
 "spying ads and invisible trackers."
 msgstr ""
+"Veiliger surfen op internet, op je computer: surf met "
+"<strong>Firefox</strong>. <a href=\"https://www.mozilla.org/nl/firefox/new/\""
+" target=\"_blank\" rel=\"noopener\">Installeer via deze link</a>.<br /> "
+"Installeer daarna de Firefox-add-on <a href=\"https://www.eff.org/"
+"privacybadger\" target=\"_blank\" rel=\"noopener\">Privacy Badger</a>; deze "
+"blokkeert spionerende reclame en onzichtbare trackers."
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:25
 msgid "digital_armour_social_networks"
-msgstr ""
+msgstr "digital_armour_social_networks"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:26
 msgid ""
@@ -1714,10 +1713,17 @@ msgid ""
 "on the “Tracking Protection” and disable cookies in the privacy settings of "
 "the preferences."
 msgstr ""
+"Veiliger surfen op internet, op je telefoon: surf met "
+"<strong>Firefox</strong> via <a href=\"https://play.google.com/store/apps/"
+"details?id=org.mozilla.firefox\" target=\"_blank\" rel=\"noopener\">Google "
+"Play</a> of <a href=\"https://itunes.apple.com/nl/app/apple-store/"
+"id989804926\" target=\"_blank\" rel=\"noopener\">Apple Store voor iPhone en "
+"iPad</a>. Schakel “Bescherming tegen volgen” in schakel cookies uit in de "
+"privacy-instellingen."
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:29
 msgid "digital_armour_passwords"
-msgstr ""
+msgstr "digital_armour_passwords"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:30
 msgid ""
@@ -1727,10 +1733,15 @@ msgid ""
 "for Apple devices: <a href=\"https://itunes.apple.com/be/app/onion-browser/"
 "id519296448?mt=8\">Onion Browser</a> (0.99 €)"
 msgstr ""
+"Surf anoniem op internet op je telefoon: installeer de apps "
+"<strong>OrBot</strong> en <strong>Orfox</strong>. Download ze via <a href=\""
+"https://play.google.com/store/apps/developer?id=The+Tor+Project\">Google "
+"Play</a> (gratis) of, voor Apple-apparaten, <a href=\"https://itunes.apple."
+"com/be/app/onion-browser/id519296448?mt=8\">Onion Browser</a> (€0.99)"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:33
 msgid "digital_armour_apps"
-msgstr ""
+msgstr "digital_armour_apps"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:34
 msgid ""
@@ -1741,10 +1752,16 @@ msgid ""
 "us/app/signal-private-messenger/id874139669?mt=8\">Store</a>. Tell your best "
 "friends to use it too!"
 msgstr ""
+"Verstuur berichten op een veilige manier naar vrienden en familie met "
+"<strong>Signal Private Messenger</strong>.<br /> Te vinden in <a href=\""
+"https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms\">"
+"Google Play</a> en de <a href=\"https://itunes.apple.com/us/app/"
+"signal-private-messenger/id874139669?mt=8\">Apple Store</a>. Laat je beste "
+"vrienden er ook gebruik van maken!"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:38
 msgid "digital_armour_internet2"
-msgstr ""
+msgstr "digital_armour_internet2"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:39
 msgid ""
@@ -1753,10 +1770,15 @@ msgid ""
 "\"noopener\">DuckDuckGo</a> or <a href=\"https://search.disconnect.me/\" "
 "target=\"_blank\" rel=\"noopener\">Disconnect.me</a>"
 msgstr ""
+"Als je informatie wilt vinden op internet, gebruik dan een zoekmachine die "
+"je privacy respecteert, zoals <a href=\"https://duckduckgo.com/\" target=\""
+"_blank\" rel=\"noopener\">DuckDuckGo</a> of <a href=\""
+"https://search.disconnect.me/\" target=\"_blank\" rel=\"noopener\""
+">Disconnect.me</a>"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:42
 msgid "digital_armour_privacy"
-msgstr ""
+msgstr "digital_armour_privacy"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:43
 msgid ""
@@ -1766,6 +1788,11 @@ msgid ""
 "<a href=\"https://www.edubuntu.org/\" target=\"_blank\" rel=\"noopener"
 "\">Edubuntu</a> (special distribution for kids)"
 msgstr ""
+"En als je goed kan omgaan met computers, overweeg dan een op Linux gebaseerd "
+"besturingssysteem te installeren op je computer of laptop. Bijvoorbeeld <a "
+"href=\"https://www.ubuntu.com/\" target=\"_blank\" rel=\"noopener\""
+">Ubuntu</a> of <a href=\"https://www.edubuntu.org/\" target=\"_blank\" rel=\""
+"noopener\">Edubuntu</a> (speciaal voor kinderen)"
 
 #, fuzzy
 #~ msgctxt "original/en.txt:267"
