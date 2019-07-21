@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#Gets the variables SOURCEDIR and TAREGETDIR
+. CONFIG
+
+rm -f ${SOURCEDIR}/*.*
+make
+rsync -r --delete --exclude Makefile ${SOURCEDIR}/ ${TARGETDIR}/
+
