@@ -1,9 +1,25 @@
 #!/bin/bash
 
+die () {
+  echo $@ >&2
+  exit 1
+}
+
 #Gets the variables SOURCEDIR and TAREGETDIR
 . CONFIG
 
-rm -f ${SOURCEDIR}/*.*
+[ -z "${SOURCEDIR}" ] && die SOURCEDIR has not been set
+[ -z "${TARGETDIR}" ] && die TARGETDIR has not been set
 make
-rsync -r --delete --exclude Makefile ${SOURCEDIR}/ ${TARGETDIR}/
 
+#Cleaning up files that are no longer relevant.
+mkdir dummy
+cd ${SOURCEDIR}
+for file in *.*
+do
+  (cd ../dummy/; make -f ../${SOURCEDIR}/Makefile -q $file); [ $? -eq 2 ] && rm $file
+done
+cd ..
+rmdir dummy
+
+rsync -r --delete --exclude Makefile ${SOURCEDIR}/ ${TARGETDIR}/
