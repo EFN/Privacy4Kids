@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-09 00:46+0200\n"
-"PO-Revision-Date: 2019-07-05 10:34+0000\n"
-"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
+"PO-Revision-Date: 2019-08-01 05:12+0000\n"
+"Last-Translator: mikael parknert <mikael@parknert.se>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/efn/privacy4kids/"
 "sv/>\n"
 "Language: sv\n"
@@ -30,10 +30,9 @@ msgstr ""
 
 #: original/en.txt:6
 msgid "[Cover text]"
-msgstr ""
+msgstr "[Omslagstext]"
 
 #: original/en.txt:8
-#, fuzzy
 msgid ""
 "THE INTERNET. IT IS COOL, FAST AND GLOBAL.\n"
 "But it is also complex. Sometimes it can be difficult to see where we are at "
@@ -46,7 +45,7 @@ msgstr ""
 "INTERNET. DET ÄR COOLT, SNABBT OCH GLOBALT.\n"
 "Men det är också komplicerat. Ibland kan det vara svårt att se riskerna - "
 "hur och när vår personliga data kan ses och användas av andra. Som tur är "
-"finns DIGITALFÖRSVARARNA som i vårt parallella universum slåss mot de elaka "
+"finns DIGITAL DEFENDERS som i vårt parallella universum slåss mot de elaka "
 "DATAINKRÄKTARNA. Med deras hjälp är det lätt att avgöra vilka som är de goda "
 "och vilka som är de onda.\n"
 "www.edri.org"
@@ -150,7 +149,7 @@ msgstr ""
 
 #: original/en.txt:55
 msgid "[intro]"
-msgstr ""
+msgstr "[introduktion]"
 
 #: original/en.txt:57
 msgid "The internet. It is cool, fast and global."
@@ -227,13 +226,12 @@ msgstr ""
 "in en kompletta länken i din webbläsare."
 
 #: original/en.txt:81
-#, fuzzy
 msgid ""
 "CHAPTER 1\n"
 "What's the internet?"
 msgstr ""
 "Kapitel 1\n"
-"1 Vad är internet?"
+"Vad är internet?"
 
 #: original/en.txt:84
 msgid "The internet is a global network of devices. "
@@ -317,13 +315,12 @@ msgid "You will find the answer to this question in this booklet."
 msgstr "Du kommer att hitta svaret på den frågan i den här tidningen."
 
 #: original/en.txt:108
-#, fuzzy
 msgid ""
 "CHAPTER 2\n"
 "What is privacy?"
 msgstr ""
 "KAPITEL 2\n"
-"2 Vad är integritet?"
+"Vad är integritet?"
 
 #: original/en.txt:111
 msgid ""
@@ -425,7 +422,6 @@ msgstr ""
 "[R]... ett socialt nätverk."
 
 #: original/en.txt:143
-#, fuzzy
 msgid ""
 "CHAPTER 3\n"
 "Protect yourself on social networks"
