@@ -5,16 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-09 00:46+0200\n"
-"PO-Revision-Date: 2019-06-21 11:00+0000\n"
-"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/efn/"
-"privacy4kids/nb_NO/>\n"
-"Language: nb_NO\n"
+"PO-Revision-Date: 2019-08-02 12:36+0000\n"
+"Last-Translator: Laura Kataja <qvirinea@gmail.com>\n"
+"Language-Team: Finnish <https://hosted.weblate.org/projects/efn/privacy4kids/"
+"fi/>\n"
+"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.7\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #: original/en.txt:1
 msgid ""
@@ -23,12 +23,16 @@ msgid ""
 "TAKE CONTROL OF YOUR STUFF ONLINE\n"
 "PRIVACY FOR KIDS"
 msgstr ""
+"OPPAASI TIETOSUOJAUKSEN TIETOMURTAJIA VASTAAN\n"
+"PIDÄ VERKKOON TALLETTAMASI OMASSA HALLUSSASI\n"
+"LASTEN YKSITYISYYS"
 
 #: original/en.txt:6
 msgid "[Cover text]"
-msgstr ""
+msgstr "[Kansiteksti]"
 
 #: original/en.txt:8
+#, fuzzy
 msgid ""
 "THE INTERNET. IT IS COOL, FAST AND GLOBAL.\n"
 "But it is also complex. Sometimes it can be difficult to see where we are at "
@@ -38,10 +42,18 @@ msgid ""
 "guys.\n"
 "www.edri.org"
 msgstr ""
+"INTERNET ON VIILEE, NOPEE JA MAAILMANLAAJUINEN\n"
+"Mutta se on myös  mutkikas. Joskus voi olla vaikea nähdä, missä vaarat "
+"piilevät - ja missä  muut voivat lukea ja käyttää yksityisiä tietojamme .\n"
+"Onneksi meillä on rinnakkaistodellisuus, jossa TIEDON SUOJAAJAT taistelevat "
+"TIETOMURTAJIA vastaan, ja näkee selvästi ketkä ovat hyviksiä ja ketkä "
+"pahiksia.\n"
+"www.edri.org"
 
 #: original/en.txt:13
+#, fuzzy
 msgid "[colophon]"
-msgstr ""
+msgstr "[kolofoni]"
 
 #: original/en.txt:15
 msgid ""
@@ -49,12 +61,17 @@ msgid ""
 "Kirsten Fiedler, EDRi\n"
 "Theresia Reinhold, EDRi"
 msgstr ""
+"Lehtisen ovat toimittaneet:\n"
+"Kirsten Fiedler, EDRi\n"
+"Theresia Reinhold, EDRi"
 
 #: original/en.txt:19
 msgid ""
 "Comics:\n"
 "Gregor Sedlag"
 msgstr ""
+"Sarjakuvat:\n"
+"Gregor Sedlag"
 
 #: original/en.txt:22
 msgid ""
@@ -63,6 +80,10 @@ msgid ""
 "Heini Jarvinen\n"
 "(EDRi-former illustrations)"
 msgstr ""
+"Kuvitus ja taitto:\n"
+"Gregor Sedlag\n"
+"Heini Jarvinen\n"
+"(EDRi-former illustrations)"
 
 #: original/en.txt:27
 msgid ""
@@ -70,8 +91,12 @@ msgid ""
 "Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
 "Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
 msgstr ""
+"Erityiset kiitokset:\n"
+"Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
+"Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
 
 #: original/en.txt:31
+#, fuzzy
 msgid ""
 "Contributions by:\n"
 "ApTI Romania\n"
@@ -83,10 +108,20 @@ msgid ""
 "Open Rights Group\n"
 "Mediamocracy"
 msgstr ""
+"Myös osallistuneet:\n"
+"ApTI Romania\n"
+"Bits of Freedom\n"
+"CCC / Chaos macht Schule\n"
+"Cryptoparty.in\n"
+"Digitale Gesellschaft e. V.\n"
+"EDRi (Brussels office)\n"
+"Open Rights Group\n"
+"Mediamocracy"
 
 #: original/en.txt:41
+#, fuzzy
 msgid "Chapters:"
-msgstr ""
+msgstr "Sisällys:"
 
 #: original/en.txt:43
 msgid ""
@@ -102,48 +137,69 @@ msgid ""
 "Chapter 10: Apps & tools we like\n"
 "Chapter 11: Hands-on guide for Signal"
 msgstr ""
+"Luku 1: Mikä on internet?\n"
+"Luku 2: Mitä on yksityisyys\n"
+"Luku 3: Kolme parasta vinkkiä ja jekkua\n"
+"Luku 4: Suojaudu sosiaalisissa verkoissa\n"
+"Luku 5: Älypuhelinturvallisuus\n"
+"Luku 6: Turvallisempaa viestittelyä\n"
+"Luku 7: Selaimella internetissä\n"
+"Luku 8: Turvalliset salasanat\n"
+"Luku 9: Valokuvien ja videon jakaminen\n"
+"Luku 10: Lempisovelluksemme ja -työkalumme\n"
+"Luku 11: Käytännön Signal-opas"
 
 #: original/en.txt:55
 msgid "[intro]"
-msgstr ""
+msgstr "[johdanto]"
 
 #: original/en.txt:57
 msgid "The internet. It is cool, fast and global."
-msgstr ""
+msgstr "Internet on viilee, nopee ja maailmanlaajuinen."
 
 #: original/en.txt:59
 msgid ""
 "But it is also complex. Sometimes it can be difficult to see where we are at "
 "risk – and where our private stuff online can be read and used by others."
 msgstr ""
+"Mutta se on myös mutkikas. Toisinaan on vaikea nähdä,  missä vaara väijyy  - "
+"ja missä muut voivat lukea ja ja käyttää yksityistä materiaaliamme verkossa."
 
 #: original/en.txt:61
 msgid ""
 "Luckily, in our parallel universe where the Defenders fight the evil "
 "Intruders, it is easy to see who are the good and who are the bad guys."
 msgstr ""
+"Onneksi meillä on rinnakkaistodellisuus, jossa tiedon suojaajat taistelevat "
+"tietomurtajia vastaan, ja jossa on helppo nähdä ketkä  ovat hyviksiä ja "
+"ketkä pahiksia."
 
 #: original/en.txt:63
 msgid ""
 "The Defenders will show you some tips and tricks to protect yourself online. "
 "They will teach you self-defence to fight the Intruders."
 msgstr ""
+"Puolustajat opettavat sinulle keinoja joilla voit suojella itseäsi verkossa. "
+"He opettavat sinulle itsepuolustusta tietomurtajia vastaan."
 
 #: original/en.txt:65
 msgid ""
 "So check out this bookletand get ready to join our superhero team, the "
 "Defenders! "
 msgstr ""
+"Tutustu siis tähän lehtiseen ja ole valmiina liittymään "
+"supersankarijoukkoomme,  Puolustajiin! "
 
 #: original/en.txt:67
 msgid "Your friend,"
-msgstr ""
+msgstr "Ystäväsi,"
 
 #: original/en.txt:70
 msgid "OH, AND KEEP YOUR EYES OPEN FOR THE EDRi-former GAME"
-msgstr ""
+msgstr "NIIN, JA OLE VALMIINA EDRI-former-PELIÄ varten"
 
 #: original/en.txt:72
+#, fuzzy
 msgid ""
 "You will find quests throughout the booklet. Every quest has only one right "
 "answer that will give you one letter. Together, the letters will form the "
@@ -151,6 +207,11 @@ msgid ""
 "it is a word that consists of six letters. The achievement to unlock: A "
 "POWERFUL DIGITAL ARMOUR."
 msgstr ""
+"Lehtinen on täynnä tehtäviä. Jokaiseen tehtävään on vain yksi oikea vastaus, "
+"josta saat yhden kirjaimen. Yhdessä kirjaimet muodostavat ratkaisusanan.  "
+"Vinkki: \n"
+"Se on kuusikirjaiminen sana.  Ja sillä saat palkkion: VAHVA DIGITAALINEN "
+"PANSSARI"
 
 #: original/en.txt:75
 msgid ""
@@ -160,42 +221,57 @@ msgid ""
 "2. Replace the xxxxxx with the solution word (six letters) of the game "
 "quests and enter the complete link in your browser."
 msgstr ""
+"Kun olet selvittänyt sanan, mene salaiselle internetsivulle: Tee näin:\n"
+"1. Selvitä seuraavan linkin puuttuva osa: https://edri.org/xxxxxx \n"
+"2.  Korvaa xxxxxx pelitehtävien ratkaisusanalla (kuusi kirjainta) ja  syötä "
+"linkki kokonaisena selaimeesi."
 
 #: original/en.txt:81
 msgid ""
 "CHAPTER 1\n"
 "What's the internet?"
 msgstr ""
+"LUKU 1:\n"
+"Mikä on internet?"
 
 #: original/en.txt:84
 msgid "The internet is a global network of devices. "
-msgstr ""
+msgstr "Internet on maailmanlaajuinen laitteiden verkko. "
 
 #: original/en.txt:86
 msgid ""
 "When you use the internet on your laptop, tablet or phone, it is a part of "
 "the network."
 msgstr ""
+"Kun käytät internetiä läppärilläsi,  tabletillasi tai puhelimellasi, se on "
+"osa verkkoa."
 
 #: original/en.txt:88
 msgid ""
 "One of the special features of the internet is that lots of different "
 "technologies can all be used in the same network. "
 msgstr ""
+"Yksi internetin erikoisominaisuuksista on, että samassa verkossa voidaan "
+"käyttää monia erilaisia teknologioita. "
 
 #: original/en.txt:90
 msgid ""
 "We can even use the same connection to download a video, play a game and "
 "chat with our friends at the same time."
 msgstr ""
+"Voimme myös käyttää samaa yhteyttä yhtaikaa videon lataamiseen, pelin "
+"pelaamiseen ja ystävien kanssa jutteluun."
 
 #: original/en.txt:92
 msgid ""
 "The internet is global, it is fast and gives us a whole world of "
 "opportunities.  "
 msgstr ""
+"Internet on maailmanlaajuinen,  se on nopea, ja se antaa meille koko joukon "
+"mahdollisuuksia.  "
 
 #: original/en.txt:94
+#, fuzzy
 msgid ""
 "The internet is an amazing and powerful invention. Before the internet "
 "spread widely, there was no easy way of connecting lots of people with each "
@@ -203,18 +279,27 @@ msgid ""
 "the internet is a great place to learn as most of the information and "
 "knowledge is shared online."
 msgstr ""
+"Internet on  huikea  ja voimallinen keksintö. Ennen internetin leviämistä "
+"laajalle, ei ollut helppoa keinoa saada suurta joukkoa ihmisiä yhteyteen "
+"keskenään. Oli paljon vaikeampi kuunnella musiikkia tai katsella elokuvaa. "
+"Internet on myös erinomainen paikka oppia, koska suurin osa tiedosta ja "
+"osaamisesta löytyy verkosta."
 
 #: original/en.txt:96
 msgid ""
 "Internet technology is a bit like a big hill covered with snow – we can use "
 "it for skiing, snowboarding or building a snowman. All we need is snow! "
 msgstr ""
+"Internetteknologia on hiukan kuin suuri lumipeitteinen mäki - voimme "
+"hiihtää, lumilautailla tai rakentaa lumiukon. Tarvitsemme vain lunta! "
 
 #: original/en.txt:98
 msgid ""
 "In the online world, the hill is our internet connection and the snow is the "
 "language the network speaks – the “internet protocol”!"
 msgstr ""
+"Verkkomaailmassa mäki on meidän internetyhteytemme ja lumi on verkon "
+"käyttämä kieli - \"intenetprotokolla\"!"
 
 #: original/en.txt:100
 msgid ""
@@ -222,30 +307,37 @@ msgid ""
 "we actually pay with the personal information that we put online. "
 "Information about what we write or read or watch is used by online companies."
 msgstr ""
+"Sosiaaliset  verkostot ja muut verkkopalvelut näyttävät ilmaisilta - mutta "
+"todellisuudessa maksamme sillä henkilökohtaisella tiedolla, jota panemme "
+"verkkoon. Verkkoyhtiöt käyttävät tietoa siitä, mitä luemme tai katsomme."
 
 #: original/en.txt:102
 msgid "How can we stay in control of the information we share online?"
-msgstr ""
+msgstr "Kuinka voimme hallita sitä tietoa, jonka jaamme verkossa?"
 
 #: original/en.txt:104
 msgid "You will find the answer to this question in this booklet."
-msgstr ""
+msgstr "Löydät vastauksen tähän kysymykseen tästä lehtisestä."
 
 #: original/en.txt:108
 msgid ""
 "CHAPTER 2\n"
 "What is privacy?"
 msgstr ""
+"LUKU 2\n"
+"Mitä on yksityisyys?"
 
 #: original/en.txt:111
 msgid ""
 "If we have privacy, we have control.\n"
 "But what does this mean? "
 msgstr ""
+"Yksityisyys on sitä, että voimme itse päättää.\n"
+"Mutta mitä se tarkoittaa? "
 
 #: original/en.txt:114
 msgid "Privacy is our right to decidewhat to share and with whom we share it."
-msgstr ""
+msgstr "Yksityisyys on oikeutemme päättää mitä jaamme ja kenen kanssa."
 
 #: original/en.txt:116
 msgid ""
@@ -253,34 +345,49 @@ msgid ""
 "others what kind of information they have collected about you. You can also "
 "ask them to delete these data."
 msgstr ""
+"Tämä tarkoittaa esimerkiksi sitä,  että sinulla on oikeus kysyä Googlelta, "
+"Facebookilta ja muilta, millaista tietoa ne ovat sinusta keränneet. Voit "
+"myös pyytää niitä poistamaan tämän tiedon."
 
 #: original/en.txt:118
 msgid ""
 "When we protect our privacy, we can feel more secure and safe, because there "
 "might be information that could hurt us if the wrong person knows about it."
 msgstr ""
+"Kun suojelemme yksityisyyttämme, olomme on varmempi jaturvallisempi,  koska "
+"on olemassa tietoa,  joka voi vahingoittaa meitä joutuessaan vääriin käsiin."
 
 #: original/en.txt:120
 msgid ""
 "It might be information that we wish to share with some people, like our "
 "parents or teachers, but not with anyone else."
 msgstr ""
+"Se voi olla tietoa, jonka haluamme jakaa joidenkin ihmisten kanssa, kuten "
+"vanhempiemme ja opettajiemme, mutta emme kenekään muun."
 
 #: original/en.txt:122
 msgid ""
 "But we can also help others when we protect our privacy, because they might "
 "want to share something with us that should not be shared with anyone else."
 msgstr ""
+"Mutta voimme auttaa myös muita suojellessamme omaa yksityisyyttämme, koska "
+"joku saattaa haluta jakaa kanssamme jotain, mitä ei pidä jakaa kenellekään "
+"muulle."
 
 #: original/en.txt:124
+#, fuzzy
 msgid "We all have something we don't want to share with others."
 msgstr ""
+"Meillä kaikilla on sellaista, mitä emme halua antaa kaikkien muiden tietoon."
 
 #: original/en.txt:126
 msgid ""
 "Taking care of our own privacy has a lot to do with taking care of our "
 "friends too, because it helps us to be free, safe and trustworthy. "
 msgstr ""
+"Se, että huolehdimme omasta yksityisyydestämme vaikuttaa paljon myös siihen "
+"kuinka huolehdimme ystävistämme, koska silloin olemme vapaita, turvassa ja "
+"luotettavia. "
 
 #: original/en.txt:128
 msgid ""
@@ -289,10 +396,14 @@ msgid ""
 "searched for. This can happen if we forget to log out or simply when they "
 "look at the computer's history."
 msgstr ""
+"Vanhempamme, ystävämme, tai kuka tahansa, joka käyttää tietokonetta "
+"jälkeemme, voi myös toisinaan nähdä, mitä hakuja olimme tehneet. Näin voi "
+"käydä jos unohdamme kirjautua ulos tai jos he yksinkertaisesti katsovat "
+"tietokoneen historiatietoja."
 
 #: original/en.txt:132
 msgid ">>Did you know?  "
-msgstr ""
+msgstr ">>Tiesitkö?..  "
 
 #: original/en.txt:134
 msgid ""
@@ -300,6 +411,9 @@ msgid ""
 "could use at a time. Hardly anyone had a mobile phone and not many people "
 "had e-mail.  "
 msgstr ""
+"Vain 20 vuotta sitten useimmissa kodeissa oli vain yksi puhelinlinja ja vain "
+"yksi ihminen kerrallaan saattoi käyttää sitä. Tuskin kenelläkään oli "
+"kännykkää ja kovin monella ei ollut sähköpostia.  "
 
 #: original/en.txt:136
 msgid ""
@@ -308,12 +422,19 @@ msgid ""
 "[B] …an efficient fishing tool for international waters.\n"
 "[C] …a social network."
 msgstr ""
+"TEHTÄVÄ 1: INTERNET ON\n"
+"[A] ... laitteiden verkko\n"
+"[B] ...tehokas kalastusväline kansainvälisillä vesillä\n"
+"[C] ... sosiaalinen verkosto."
 
 #: original/en.txt:143
+#, fuzzy
 msgid ""
 "CHAPTER 3\n"
 "Protect yourself on social networks"
 msgstr ""
+"LUKU 3:\n"
+"Suojaudu sosiaalisissa verkostoissa"
 
 #: original/en.txt:146
 msgid ""
@@ -321,23 +442,32 @@ msgid ""
 "chat with friends and family, share pictures, send private messages and post "
 "information publicly. "
 msgstr ""
+"Sosiaalisten verkostojen käyttö voi olla tosi hauskaa. Somessa voimme "
+"jutella ystävien ja sukulaisten kanssa, jakaa kuvia, lähettää "
+"yksityisviestejä ja lähettää tietoa julkisesti. "
 
 #: original/en.txt:148
+#, fuzzy
 msgid ""
 "In some countries, children under the age of 13 are not allowed to use some "
 "social networks account. If you want to use social networks, it is best to "
 "ask your family and teachers to be sure. "
 msgstr ""
+"Joissakin maissa alle 13-vuotiaat lapset eivät saa käyttää eräiden "
+"sosiaalisten verkostojen tilejä.  Jos haluat käyttää somea, on paras kun "
+"varmuudenvuoksi kysyt perheeltäsi ja opettajiltasi. "
 
 #: original/en.txt:150
 msgid ""
 ">> YouTube, Facebook, Instagram, Snapchat, Diaspora and many more are all "
 "social networks."
 msgstr ""
+">> YouTube, Facebook, Instagram, Snapchat, Diaspora ja monet muut ovat "
+"kaikki sosiaalisia verkostoja."
 
 #: original/en.txt:152
 msgid "Do you have favourite ones? Why do you like them? "
-msgstr ""
+msgstr "Onko sinulla suosikkeja? Miksi pidät niistä? "
 
 #: original/en.txt:154
 msgid ""
@@ -346,6 +476,10 @@ msgid ""
 "message, \n"
 "your friend will not know about the message. But Facebook stores it! "
 msgstr ""
+"Jotkin sosiaaliset verkostot jopa tallettavat viestit, joita emme lähetä! "
+"Kuvittele, kun kirjoitat Facebookissa viestin kaverillesi ja jätät sen "
+"lähettämättä, kaverisi ei saa tietää viestistäsi. Mutta Facebook tallentaa "
+"sen! "
 
 #: original/en.txt:157
 msgid ""
@@ -353,6 +487,9 @@ msgid ""
 "computers of the companies. That doesn't mean that they are going to do "
 "something bad with it – but you should know that this is happening."
 msgstr ""
+"Pidä mielessäsi että kaikki mitä teemme sosiaalisessa verkossa tallennetaan "
+"yhtiöiden tietokoneille. Se ei tarkoita, että ne tekisivät näillä tiedoilla "
+"jotain pahaa - mutta sinun pitäisi tietää, että näin tapahtuu."
 
 #: original/en.txt:159
 msgid ""
@@ -363,6 +500,11 @@ msgid ""
 "Facebook, Snapchat and so on) can record what we write, the websites we "
 "visit and the things we search for online. "
 msgstr ""
+"TIESITKÖ?\n"
+"Sitä, mitä kirjoitamme hakukoneeseen tai kaverille lähtevään tsättiviestiin "
+"ei poisteta kokonaan. Yhtiöt, jotka tuottavat käyttämämme palvelut (kuten "
+"YouTube, Facebook, Snapchat jne.) voivat tallentaa sen mitä kirjoitamme,  "
+"sivustot joilla käymme, ja sen mitä haemme verkossa. "
 
 #: original/en.txt:163
 msgid ""
@@ -371,19 +513,24 @@ msgid ""
 "[R] …it helps us to be free and in control online.\n"
 "[G] …it helps us to share pictures with the entire world."
 msgstr ""
+"TEHTÄVÄ 2: YKSITYISYYS ON TÄRKEÄÄ,  KOSKA...\n"
+"[T] ...se auttaa meitä katsomaanmusiikkivideoita.\n"
+"[R] ... se auttaa meitä olemaan vapaita ja hallitsemaan tilannetta verkossa."
+"\n"
+"[G] ... se auttaa meitä jakamaan kuvia koko maailman kanssa."
 
 #: original/en.txt:168
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (I)"
-msgstr ""
+msgstr "TIEDON PUOLUSTAJAT ja TIETOMURTAJAT [I]"
 
 #: original/en.txt:170
 msgid "MS. ANONYMITY"
-msgstr ""
+msgstr "N. NIMETÖN"
 
 #: original/en.txt:172
 msgctxt "original/en.txt:172"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr ""
+msgstr "JOUKKUE: TIEDON PUOLUSTAJAT"
 
 #: original/en.txt:174
 msgid ""
@@ -391,19 +538,22 @@ msgid ""
 "ability to use social networks anonymously, so nobody knows who she really "
 "is."
 msgstr ""
+"KYVYT: Hallituksen testit ovat vahvistaneet hänen immuunijärjestelmäänsä. "
+"Hänellä on myös  kyky käyttää somea nimettömänä, niin ettei kukaan tiedä, "
+"kuka hän todella on."
 
 #: original/en.txt:176
 msgid "WEAPONS: She is a skilled hand-to-hand fighter"
-msgstr ""
+msgstr "ASEET: Hän on taitava lähitaistelija"
 
 #: original/en.txt:178
 msgid "I.D. THIEF"
-msgstr ""
+msgstr "I. D. VARAS"
 
 #: original/en.txt:180
 msgctxt "original/en.txt:180"
 msgid "TEAM: DATA INTRUDERS"
-msgstr ""
+msgstr "JOUKKUE: TIETOMURTAJAT"
 
 #: original/en.txt:182
 msgid ""
@@ -411,21 +561,28 @@ msgid ""
 "information. She pretends to be you and tries to use your name, social media "
 "and e-mail accounts for criminal activities."
 msgstr ""
+"KYVYT: Hän näkee mitä teet verkossa ja pihistää henkilötietosi. Hän esiintyy "
+"sinuna ja yrittää käyttää nimeäsi, some- ja sähköpostitilejäsi rikolliseen "
+"toimintaan."
 
 #: original/en.txt:184
 msgid ""
 "WEAPONS: The Alpha Virus – which she uses to infiltrate computers and phones."
 msgstr ""
+"ASEET: Alpha-virus - jota hän käyttää tunkeutuakseen tietokoneisiin ja "
+"puhelimiin."
 
 #: original/en.txt:189
 msgid ""
 "CHAPTER 4\n"
 "Top three tips and tricks"
 msgstr ""
+"LUKU 4\n"
+"Kolme parasta vinkkiä ja jekkua"
 
 #: original/en.txt:192
 msgid "1. Not everyone has to know everything about us"
-msgstr ""
+msgstr "1. Kaikkien ei tarvitse tietää meistä kaikkea"
 
 #: original/en.txt:194
 msgid ""
@@ -434,6 +591,10 @@ msgid ""
 "not with others. \n"
 "The internet sometimes makes it difficult to make that choice. "
 msgstr ""
+"Kuten verkon ulkopuolellakin, on parempi valita huolellisesti mitä haluamme "
+"paljastaa. Vaistomaisesti kerromme joitakin asioita vain tietyille "
+"ihmisille, mutta emme muille. Internetissä on joskus vaikea tehdä tätä "
+"valintaa. "
 
 #: original/en.txt:197
 msgid ""
@@ -441,6 +602,9 @@ msgid ""
 "isn't, and partly because the internet has different rules than the offline "
 "world. "
 msgstr ""
+"Osittain tämä johtuu siitä,  ettei aina ole selvää, mikä verkossa on "
+"yksityistä ja mikä ei, ja osittain koska verkossa on eri säännöt kuin sen "
+"ulkopuolella. "
 
 #: original/en.txt:199
 msgid ""
@@ -449,10 +613,14 @@ msgid ""
 "reads our comment online, they might not understand what we meant and might "
 "think we were being mean. "
 msgstr ""
+"Esimerkiksi: Kaverimme antavat anteeksi kiukustuneena sanomamme hölmön "
+"kommentin, ja ymmärtävät käytöksemme koska tuntevat meidät.  Jos joku muu "
+"lukee kommenttimme verkossa, hän ei välttämättä ymmärrä mitä tarkoitimme ja "
+"pitää meitä ilkeinä. "
 
 #: original/en.txt:201
 msgid "2. Safety and privacy online isn't difficult"
-msgstr ""
+msgstr "Verkossa on vaikea pitää yllä turvallisuutta ja yksityisyyttä."
 
 #: original/en.txt:203
 msgid ""
@@ -461,10 +629,14 @@ msgid ""
 "can guess, watch videos online without being tracked. We can do this in "
 "really simple ways."
 msgstr ""
+"Meidän ei tarvitse olla huippunörttejä pysyäksemme turvassa verkossa. Voimme "
+"käyttää tablettia, puhelinta tai läppäriä, johon luokkatoverimme eivät pääse "
+"käsiksi, salasanaa jota kukaan muu ei arvaa, katsoa videoita verkossa "
+"tulematta jäljitetyksi. Tämän voi tehdä hyvin yksinkertaisesti."
 
 #: original/en.txt:205
 msgid "3. Knowing what or who we're protecting ourselves against"
-msgstr ""
+msgstr "3. Kuinka tiedämme ketä tai mitä vastaan suojaudumme"
 
 #: original/en.txt:207
 msgid ""
@@ -473,6 +645,10 @@ msgid ""
 "might be \n"
 "angry about something, or nosy parents being... nosy parents. "
 msgstr ""
+"Kuten pankit suojautuvat varkaita vastaan, meidänkin on suojauduttava - "
+"meitä verkossa vakoilevia yhtiöitä vastaan, mahdollisesti jostakin "
+"suuttuneita luokkatovereita vastaan, tai nuuskivia vanhempia vastaan, jotka "
+"ovat... nuuskivia vanhempia. "
 
 #: original/en.txt:210
 msgid ""
@@ -480,26 +656,36 @@ msgid ""
 "them. Once we have thought about these threats, we'll find that it really is "
 "possible to keep ourselves safe and control our privacy."
 msgstr ""
+"Meidän on kysyttävä, mitkä ovat todelliset uhat, ja mitä voimme tehdä "
+"niille. Kun olemme ajatelleet näitä uhkia, huomaamme että todella on "
+"mahdollista pysyä turvassa ja varjella yksityisyyttään."
 
 #: original/en.txt:215
 msgid ""
 "CHAPTER 5\n"
 "Safer messaging"
 msgstr ""
+"LUKU 5\n"
+"Turvallisempaa viestitystä"
 
 #: original/en.txt:218
 msgid "We all use our phones to send messages to friends and family. "
 msgstr ""
+"Kaikki me käytämme puhelimia lähettääksemme viestejä tuttaville ja "
+"sukulaisille "
 
 #: original/en.txt:220
 msgid ""
 "But some messaging apps read the contents of our messages and track who we "
 "talk to. Some apps do this so they can profit from this information."
 msgstr ""
+"Mutta jotkin viestisovellukset lukevat viestiemme sovellukset ja seuraavat "
+"kenelle puhumme. Jotkin sovellukset tekevät tämän käyttäkseen tietoja "
+"hyväkseen."
 
 #: original/en.txt:222
 msgid "» What you say and do online is very valuable for companies. "
-msgstr ""
+msgstr "Yhtiöille on hyvin arvokasta se, mitä sanot ja teet verkossa. "
 
 #: original/en.txt:224
 msgid ""
@@ -511,6 +697,13 @@ msgid ""
 "install Signal in this booklet – Signal is a cool app to keep your messages "
 "safe."
 msgstr ""
+"Viestisovelluksia tuottavat yhtiöt usein tarkkailevat mitä sanomme.  Ne "
+"seuraavat kenen kanssa puhumme niin että ne voivat näyttää meille mainoksia "
+"saadakseen meidät ostamaan jotakin, tai jakavat tiedon muiden yhtiöiden "
+"kanssa. Lehtisen lopussa on lista näppäristä viestisovelluksista. Nämä "
+"sovellukset myös varmistavat ettemme saa viestejä tuntemattomilta. Tässä "
+"lehtisessä on myös ohjeet Signalin asentamiseen - Signal on näppärä sovellus "
+"joka pitää viestisi turvassa."
 
 #: original/en.txt:226
 msgid ""
@@ -519,28 +712,38 @@ msgid ""
 "[M] …I can stay in touch with friends and family.\n"
 "[N] …I can be sure that only my friends can see the photos I post there"
 msgstr ""
+"TEHTÄVÄ 3: SOSIAALISET VERKOT OVAT MAINIOITA KOSKA...\n"
+"[Q] ...voin olla varma etteivät ne koskaan käytä tai myy tietojani\n"
+"[M] ...voin olla yhteydessä ystäviin ja sukulaisiin\n"
+"[N] ...voinolla varma, että vain ystäväni näkevät sinne lähettämäni valokuvat"
 
 #: original/en.txt:234
 msgid ""
 "CHAPTER 6\n"
 "Smartphone security"
 msgstr ""
+"LUKU 6:\n"
+"Älypuhelimen turvallisuus"
 
 #: original/en.txt:237
 msgid "Our phones have become very important for using the internet."
-msgstr ""
+msgstr "Puhelimistamme on tullut hyvin tärkeä tapa käyttää internetiä."
 
 #: original/en.txt:239
 msgid ""
 "We use them when we want to communicate with our friends and family, when we "
 "use social networks or just browse the web."
 msgstr ""
+"Käytämme niitä kun haluamme yhteyden ystäviin ja sukulaisiin, kun käytämme "
+"sosiaalista verkkoa tai vain selaamme nettiä."
 
 #: original/en.txt:241
 msgid ""
 "But our phones are also useful for many other things, we can use them as a "
 "torch, to play games or to check the time of the next bus."
 msgstr ""
+"Mutta puhelimista on hyötyä moneen muuhunkin, ne toimivat taskulamppuina, "
+"niillä voi pelata tai tarkistaa bussiaikataulun."
 
 #: original/en.txt:243
 msgid ""
@@ -549,6 +752,9 @@ msgid ""
 "need\n"
 "access to your address book?"
 msgstr ""
+"Kun asennat uuden sovelluksen, luetko mitä oikeuksia annat sovellukselleja "
+"kuinka se pääsee käsiksi puhelimessasi olevaan tietoon? Tarvitseeko "
+"taskulamppusovellus tosiaan pääsyä osoitekirjaasi?"
 
 #: original/en.txt:246
 msgid ""
@@ -556,6 +762,9 @@ msgid ""
 "stop and think. There are good reasons not to trust an app that is asking "
 "for stuff that it obviously does not need."
 msgstr ""
+"On hyvin houkuttelevaa vain hypätä hyväksymisruudun ohi, mutta on hyvä "
+"pysähtyä ajattelemaan. On hyvä syy olla luottamatta sovellukseen, joka "
+"haluaa oikeuksia joita sen ei pitäisi tarvita."
 
 #: original/en.txt:248
 msgid ""
@@ -564,10 +773,16 @@ msgid ""
 "find those in the »Settings«. Have a browse around the settings of your "
 "phone, it is good to learn about how your phone works."
 msgstr ""
+"Muutamalla klikkauksella voimme myös tarkistaa ja rajoittaa puhelimessamme "
+"jo asennettujen sovellusten oikeudet. Useimmista laitteista nämä löytyvät "
+"kohdasta \"Asetukset\". Selaa puhelimesi asetuksia, on hyvä oppia, kuinka "
+"puhelin toimii."
 
 #: original/en.txt:250
 msgid "» Many apps get access to your personal stuff stored on your phone."
 msgstr ""
+"Monet sovellukset pääsevät käsiksi puhelimeen talletettuihin "
+"henkilökohtaisiin tietoihin."
 
 #: original/en.txt:252
 msgid ""
@@ -575,12 +790,17 @@ msgid ""
 "screen, we could also encrypt (protect) the whole phone with only a few "
 "clicks."
 msgstr ""
+"Voimme rajoittaa pääsyä sijaintitietoihimme, lisätä salasanan suojaamaan "
+"puhelimen ruutua, voimme myös  salata (suojata) koko puhelimen muutamalla "
+"klikkauksella."
 
 #: original/en.txt:254
 msgid ""
 "Making our phones more secure and privacy-friendly, doesn't take much time. "
 "Towards the end of this booklet, you can find a list of great apps for this."
 msgstr ""
+"Ei vie kauan tehdä puhelimestaan turvallisempi ja yksityisyyttä suojaavampi. "
+"Lehtisen lopusta löytyy monia hyviä sovelluksia tähän tarkoitukseen."
 
 #: original/en.txt:256
 msgid ""
@@ -591,19 +811,25 @@ msgid ""
 "you can check if there are other versions of the app in the store that ask "
 "for fewer permissions."
 msgstr ""
+"TIESITKÖ?\n"
+"Jos on hyvä syy antaa sovellukselle oikeudet johonkin - esimerkiksi "
+"valokuvasovellus, joka tarvitsee pääsyn kameraan - niin ei ole juuri huolta. "
+"Mutta jos sinusta tuntuu, että sovellus pyytää liikaa,  kannattaa tarkistaa "
+"onko sovelluksesta kaupassa muita versioita, jotka pyytävät vähemmän "
+"oikeuksia."
 
 #: original/en.txt:259
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
-msgstr ""
+msgstr "TIEDON PUOLUSTAJAT ja TIETOMURTAJAT (II)"
 
 #: original/en.txt:261
 msgid "MIND FREER"
-msgstr ""
+msgstr "MIELEN VAPAUTTAJA"
 
 #: original/en.txt:263
 msgctxt "original/en.txt:263"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr ""
+msgstr "JOUKKUE: TIEDON PUOLUSTAJAT"
 
 #: original/en.txt:265
 msgid ""
@@ -611,19 +837,23 @@ msgid ""
 "has the ability to create a private and secure environment where you can say "
 "what you think."
 msgstr ""
+"KYVYT: Hän taistelee sen puolesta, että sinulla on oikeus päättää, mitä "
+"paljastat ja kenelle. Hänellä on kyky luoda yksityinen ja turvallinen "
+"ympäristö jossa voit sanoa mitä ajattelet."
 
 #: original/en.txt:267
 msgid "WEAPONS: His mind."
-msgstr ""
+msgstr "ASEET: Hänen mielensä."
 
 #: original/en.txt:269
+#, fuzzy
 msgid "MAN IN THE MIDDLE."
-msgstr ""
+msgstr "VÄLISTÄVETÄJÄ"
 
 #: original/en.txt:271
 msgctxt "original/en.txt:271"
 msgid "TEAM: DATA INTRUDERS"
-msgstr ""
+msgstr "JOUKKUE: TIETOMURTAJAT"
 
 #: original/en.txt:273
 msgid ""
@@ -632,25 +862,31 @@ msgid ""
 "into your communications, to read your messages, see your photos and watch "
 "your videos."
 msgstr ""
+"KYVYT: Hänellä on salaiset kyvyt sekaantua siihen, mitä teet verkossa. Hän "
+"voi esiintyä asiaankuuluvana henkilönä verkossa ja käyttää tätä "
+"tunkeutuakseen yhteyksiisi, lukeakseen viestejäsi, nähdäkseen kuviasi ja "
+"katsoakseen videoitasi."
 
 #: original/en.txt:275
 msgid "WEAPONS: His suit and antennas."
-msgstr ""
+msgstr "ASEET: Puku ja antennit."
 
 #: original/en.txt:280
 msgid ""
 "CHAPTER 7\n"
 "Surfing the internet"
 msgstr ""
+"LUKU 7:\n"
+"Verkkoselailu"
 
 #: original/en.txt:283
 msgid "A browser is often how we use the internet."
-msgstr ""
+msgstr "Usein käytämme verkkoa selaimella."
 
 #: original/en.txt:285
 msgid ""
 "» It's easy to forget that the browser is a little piece of software itself."
-msgstr ""
+msgstr ">> On helppo unohtaa että selain on itsekin ohjelma."
 
 #: original/en.txt:287
 msgid ""
@@ -658,6 +894,10 @@ msgid ""
 "or computer, and the last thing you close. But a lot goes on inside the "
 "browser that you're not aware of and that be bad (or good) for your privacy."
 msgstr ""
+"Se on toisinaan ensimmäinen minkä avaat, kun käynnistät puhelimesi, "
+"tablettisi tai tietokoneesi, ja viimeinen, minkä suljet. Mutta selaimen "
+"sisällä tapahtuu paljon sellaista, mistä et tiedä tiedä, ja  joka voi "
+"haitata (tai edistää) yksityisyyttäsi."
 
 #: original/en.txt:289
 msgid ""
@@ -665,10 +905,14 @@ msgid ""
 "have been posting recently, we leave digital footprints. Some websites and "
 "social networks use these footprints to follow us."
 msgstr ""
+"Kun  menemme verkkoon ostaaksemme jotakin, katsomaan videoita tai "
+"tarkistamaan mitä kaverimme ovat viimeksi postanneet, jätämme digitaalisen "
+"jalanjäljen. Jotkin sivustot ja sosiaaliset verkot käyttävät näitä "
+"jalanjälkiä seuratakseen meitä."
 
 #: original/en.txt:291
 msgid "» Websites collect lots of stuff about us!"
-msgstr ""
+msgstr "Sivustot keräävät meistä paljon tietoa!"
 
 #: original/en.txt:293
 msgid ""
@@ -676,6 +920,10 @@ msgid ""
 "listening to can all be tracked. These websites can do this because they use "
 "»cookies« in our browsers. These »cookies « are little pieces of software."
 msgstr ""
+"Ketkä ovat kavereitamme, mistä pidämme, mitä etsimme verkosta ja mitä "
+"kuuntelemme, kaikkea tätä voidaan seurata. Nämä sivustot voivat tehdä tämän "
+"koskane käyttävät \"evästeitä\" selaimessamme. Nämä \"evästeet\" ovat "
+"pikkuisia ohjelmia."
 
 #: original/en.txt:295
 msgid ""
@@ -684,6 +932,9 @@ msgid ""
 "become known\n"
 "to many people and companies."
 msgstr ""
+"Me emme näe niitä, mutta kun tarpeeksi tietoa on koottu ja yhdistetty muuhun "
+"meistä olevaan tietoon,  niin henkilökohtaiset yksityiskohdat joiden uskomme "
+"olevan salaisia tulevat monien ihmisten ja yhtiöiden tietoon."
 
 #: original/en.txt:298
 msgid ""
@@ -692,6 +943,10 @@ msgid ""
 "browser is Google Chrome. But those are not necessarily the browsers that "
 "work best for you."
 msgstr ""
+"Useimmissa laitteissa on selain mukana. Windowsissa voimme käyttää Internet "
+"Exploreria, Applen laitteissa on Safari, ja Android-laitteiden oletusselain  "
+"on Google Chrome. Mutta ne eivät välttämättä ole sinun käyttöösi parhaat "
+"selaimet."
 
 #: original/en.txt:300
 msgid ""
@@ -704,19 +959,25 @@ msgid ""
 "is not installed on\n"
 "your computer, but you can download it very easily."
 msgstr ""
+"TIESITKÖ?\n"
+"Tarkista selaimesi \"yksityisyysasetukset\"ja muuta oletukset niin että "
+"hallinta on sinulla - aivankuin Perfect Wave! Monien mielestä yksityisyyden "
+"ja turvallisuuden kannalta paras selain on Firefox! Miksi? Koska sitä voi "
+"räätälöidä ja hallita ja nähdä kuinka se toimii. Sitä ei välttämättä ole "
+"asennettu tietokoneellesi, mutta se on hyvin helppo ladata."
 
 #: original/en.txt:305
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (III)"
-msgstr ""
+msgstr "TIEDON PUOLUSTAJAT ja TIETOMURTAJAT (III)"
 
 #: original/en.txt:307
 msgid "PERFECT WAVE"
-msgstr ""
+msgstr "PERFECT WAVE"
 
 #: original/en.txt:309
 msgctxt "original/en.txt:309"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr ""
+msgstr "JOUKKUE: TIEDON PUOLUSTAJAT"
 
 #: original/en.txt:311
 msgid ""
@@ -724,19 +985,22 @@ msgid ""
 "Perfect Wave does not require food or drink, he can survive by converting "
 "data into energy. He is almost totally indestrucible."
 msgstr ""
+"Kyvyt: Hän löytää tiensä avaruudessa, hyper- ja kyberavaruudessa laudallaan. "
+"Perfect Wave ei tarvitse ruokaa eikä juomaa, hän pysyy hengissä muutamalla "
+"tietoa energiaksi. Hän on lähes mahdoton tuhota."
 
 #: original/en.txt:313
 msgid "WEAPONS: His surfboard."
-msgstr ""
+msgstr "ASEET: Hänen surffilautansa."
 
 #: original/en.txt:315
 msgid "KRAZY KOOKIE"
-msgstr ""
+msgstr "KRAZY KOOKIE"
 
 #: original/en.txt:317
 msgctxt "original/en.txt:317"
 msgid "TEAM: DATA INTRUDERS"
-msgstr ""
+msgstr "JOUKKUE: TIETOMURTAJAT"
 
 #: original/en.txt:319
 msgid ""
@@ -744,10 +1008,13 @@ msgid ""
 "considers the Perfect Wave his worst enemy. He has a monstrous appetite for "
 "your secrets."
 msgstr ""
+"KYVYT: Etsii aina tappelua. Hän vihaa kaikkia puolustajia mutta pitää "
+"Perfect Wavea pahimpana vihollisenaan. Hän himoitsee salaisuuksiasi "
+"kyltymättömästi."
 
 #: original/en.txt:321
 msgid "WEAPONS: His spinning robot arm."
-msgstr ""
+msgstr "ASEET: Hänen pyörivä robottikätensä."
 
 #: original/en.txt:323
 msgid ""
@@ -757,16 +1024,23 @@ msgid ""
 "[L] …are better than chocolate.\n"
 "[O] …can access my contacts, pictures, and messages."
 msgstr ""
+"TEHTÄVÄ 4: JOTKIN SOVELLUKSET\n"
+"[F] ...ovat niin turvallisia, ettei minun tarvitse koskaan ajatella "
+"yksityisyyttäni niitä käyttäessäni.\n"
+"[L] ...ovat parempia kuin suklaa.\n"
+"[O] ... pääsevät käsiksi yhteystietoihini, kuviini ja viesteihini."
 
 #: original/en.txt:331
 msgid ""
 "CHAPTER 8\n"
 "Password security"
 msgstr ""
+"LUKU 8:\n"
+"Salasanaturvallisuus"
 
 #: original/en.txt:334
 msgid "Passwords. Very important in the digital age."
-msgstr ""
+msgstr "Salasanat. Hyvin tärkeitä digitaaliaikana."
 
 #: original/en.txt:336
 msgid ""
@@ -775,20 +1049,25 @@ msgid ""
 "used password\n"
 "is »password» or »12345»."
 msgstr ""
+"Itse asiassa uskomattoman tärkeitä. Ne ovat turvallisuutesi ja "
+"yksityisyytesi perusta. Ja useimpien ihmisten salasanat ovat tosi tosi "
+"heikkoja - tavallisimmat salasanat ovat \"salasana\" tai \"12345\"."
 
 #: original/en.txt:339
 msgid "Creating a secure password is not very difficult."
-msgstr ""
+msgstr "Vahvan salasanan luominen ei ole kovin vaikeaa."
 
 #: original/en.txt:341
 msgid "1. Never use the same password twice"
-msgstr ""
+msgstr "1. Älä koskaan käytä samaa salasanaa uudestaan."
 
 #: original/en.txt:343
 msgid ""
 "This is really one of the most important rules! At least, try to make "
 "different versions of the password you created."
 msgstr ""
+"Tämä on yksi tärkeimpiä sääntöjä! Yritä ainakin tehdä eri versioita "
+"luomastasi salasanasta."
 
 #: original/en.txt:345
 msgid ""
@@ -797,14 +1076,18 @@ msgid ""
 "password. They\n"
 "know that people tend to use the same password on several sites!"
 msgstr ""
+"Miksi? Koska jos rikolliset (kuten Data Smuggler) saavat käsiinsä yhden "
+"palvelun salasanat, he usein yrittävät päästä muihin palveluihin samalla "
+"salasanalla. He tietävät, että ihmisillä ontaipumus käyttää samaa salasanaa "
+"monessa paikassa!"
 
 #: original/en.txt:348
 msgid "2. Never use a word from the dictionary"
-msgstr ""
+msgstr "Älä koskaan käytä sanaa suoraan sanakirjasta."
 
 #: original/en.txt:350
 msgid "…no matter how long it may be or how complicated it may look."
-msgstr ""
+msgstr "...olkoon se kuinka pitkä ja mutkikkaan näköinen tahansa."
 
 #: original/en.txt:352
 msgid ""
@@ -813,16 +1096,20 @@ msgid ""
 "Defenders team has a strong and creative password. You can join them – your "
 "password is your weapon to get out of danger!"
 msgstr ""
+"Miksi? Koska onolemassa tietokoneohjelmia jotka koettavat \"arvata\" "
+"salasanasi kokeilemalla jokaistasanakirjan sanaa. Jokaisella Puolustajien "
+"joukkueemme supersankarilla on vahva ja omaperäinen salasana. Voit liittyä "
+"heihin - salasanasi on ase jolla torjut vaaran!"
 
 #: original/en.txt:354
 msgid "3. Your password should be at least 12 characters long"
-msgstr ""
+msgstr "3. Salasanasi pitäisi olla ainakin 12 merkkiä pitkä."
 
 #: original/en.txt:356
 msgid ""
 "This is the minimum. The longer a password is, the more difficult it is to "
 "hack it."
-msgstr ""
+msgstr "Se on minimi. Mitä pitempi salasana, sen vaikeampi sitä on murtaa."
 
 #: original/en.txt:358
 msgid ""
@@ -830,19 +1117,22 @@ msgid ""
 "experts say that it is OK to write it down, just hide the piece of paper "
 "very well!"
 msgstr ""
+"Miksi? Koska mitä pitempi se on, sitä vaikeampi sitä on arvata. Jotkut "
+"asiantuntijat sanovat, että ei haittaa jos sen kirjoittaa ylös, kunhan "
+"piilottaa paperilapun oikein hyvin!"
 
 #: original/en.txt:360
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (IV)"
-msgstr ""
+msgstr "TIEDON PUOLUSTAJAT JA TIETOMURTAJAT (IV)"
 
 #: original/en.txt:362
 msgid "QUEEN OF LOCKS"
-msgstr ""
+msgstr "LUKKOJEN KUNINGATAR"
 
 #: original/en.txt:364
 msgctxt "original/en.txt:364"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr ""
+msgstr "JOUKKUE: TIEDON PUOLUSTAJAT"
 
 #: original/en.txt:366
 msgid ""
@@ -850,31 +1140,38 @@ msgid ""
 "to people who are in danger and helps them to secure their personal "
 "information online."
 msgstr ""
+"KYVYT: Taistelee yksityisyyden ja turvallisuuden puolesta. Hän antaa "
+"mahtavia yksityisiä avaimia vaarassa oleville ja auttaa heitä turvaamaan "
+"henkilökohtaiset tietonsa verkossa."
 
 #: original/en.txt:368
 msgid ""
 "WEAPONS: Her helmet – she uses it to shoot energy beams from her eyes. She "
 "can cut right through Finn Phisher's dangerous net."
 msgstr ""
+"ASEET: Hänen kypäränsä - hän ampuu sillä energiasäteitä silmistään. Hän "
+"pystyy leikkaamaan  EVÄ KHALASTAJAN vaarallisen verkon rikki."
 
 #: original/en.txt:370
 msgid "FINN PHISHER"
-msgstr ""
+msgstr "EVÄ KHALASTAJA"
 
 #: original/en.txt:372
 msgctxt "original/en.txt:372"
 msgid "TEAM: DATA INTRUDERS"
-msgstr ""
+msgstr "JOUKKUE: TIETOMURTAJAT"
 
 #: original/en.txt:374
 msgid ""
 "POWERS: He possesses superhuman strength, speed and reflexes. He uses his "
 "powers to sneak into your phone and fish for your secrets."
 msgstr ""
+"KYVYT: Hänellä on yli-inhimilliset voimat, nopeus ja reaktiokyky. Hän "
+"käyttää kykyjään livahtaakseen puhelimeensi ja kalastaakseen salaisuutesi."
 
 #: original/en.txt:376
 msgid "WEAPONS: He throws an electrostatic data net to stun his opponents."
-msgstr ""
+msgstr "ASEET: Hän heittää elektrostaattisen verkon lamaamaan vastustajansa."
 
 #: original/en.txt:378
 msgid ""
@@ -884,22 +1181,32 @@ msgid ""
 "history.\n"
 "[Y] …being too careful is just paranoid, because I have nothing to hide."
 msgstr ""
+"TEHTÄVÄ 5: KUN SELAANINTERNETIÄ\n"
+"[X] ...voin tehdä mitä tahansa ja olen turvassa - se ei ole todellisuutta!\n"
+"[U] ...voin suojata itseäni siten etten hyväksy evästeitäenkä tallenna "
+"selainhistoriaani.\n"
+"(Y] ...liiallinen huolellisuus on vain vainoharhaista, koska minulla ei ole "
+"mitään salattavaa."
 
 #: original/en.txt:386
 msgid ""
 "CHAPTER 9\n"
 "Photo and video sharing"
 msgstr ""
+"LUKU 9\n"
+"Valokuvien ja videoiden jakaminen"
 
 #: original/en.txt:389
 msgid ""
 "We tell our friends about our daily life by sharing images and videos with "
 "them online."
 msgstr ""
+"Kerromme ystävillemme päivittäisestä elämästämme jakamalla heidän kanssaan "
+"kuvia ja videoita verkossa."
 
 #: original/en.txt:391
 msgid "» Sharing is cool – but photos and videos can be copied easily."
-msgstr ""
+msgstr "Jakaminen on kivaa - mutta valokuvia ja videoita on helppo kopioida."
 
 #: original/en.txt:393
 msgid ""
@@ -907,6 +1214,9 @@ msgid ""
 "with people we don't want to share with. People might be able to see our "
 "private images, and misuse them."
 msgstr ""
+"Muista että on aina tärkeää varmistaa, ettemme jaa materiaalia sellaisten "
+"ihmisten kanssa joiden emme halua. Ihmiset saattavat nähdä yksityisiä "
+"kuviamme ja käyttää niitä väärin."
 
 #: original/en.txt:395
 msgid ""
@@ -914,6 +1224,9 @@ msgid ""
 "our device to the device of a friend. Imagine that our friend shares the "
 "image again with others. Every copy can be copied again."
 msgstr ""
+"Missä ongelma? Jos lähetämme kuvan tai videon, lähetämme kopion siitä omasta "
+"laitteestamme kaverin laitteeseen. Entäpä jos kaveri jakaa kuvan edelleen "
+"muille? Jokainen kopio voidaan kopioida uudestaan."
 
 #: original/en.txt:397
 msgid ""
@@ -921,18 +1234,25 @@ msgid ""
 "it on different devices. Even if we delete the original image from our own "
 "devices, the other copies will still be there."
 msgstr ""
+"Jos jaamme kuvan tai videon verkossa,  siitä on aina useita kopioita eri "
+"laitteilla. Vaikka tuhoaisimme alkuperäisen kuvan omilta laitteiltamme, muut "
+"kopiot ovat yhä jäljellä."
 
 #: original/en.txt:399
 msgid ""
 "When we share, our stuff can get into the hands of people that we didn't "
 "want to share with."
 msgstr ""
+"Kun jaamme, materiaalimme  voi joutua sellaisten ihmisten käsiin,  joiden "
+"kanssa emme halua jakaa sitä."
 
 #: original/en.txt:401
 msgid ""
 "Some people could even try to steal our identity by using our images – just "
 "like I.D. Thief."
 msgstr ""
+"Jotkut saattavat jopa yrittää varastaa henkilöllisyytemme käyttämällä "
+"kuviamme - kuten I. D. Varas."
 
 #: original/en.txt:403
 msgid ""
@@ -940,6 +1260,9 @@ msgid ""
 "it is still possible to save a photo with a few tricks and share it again. "
 "Thousands of Snapchat images have already been put on the internet."
 msgstr ""
+"Snapchat on sovellus, jolla voi jakaa kuvia jotka sitten  katoavat pian. "
+"Ikävä kyllä on silti mahdollistatallentaa kuva muutamalla tempulla ja jakaa "
+"se uudestaan. Tuhansia Snapchatin kuvia on jo ladattu internetiin."
 
 #: original/en.txt:405
 msgid ""
@@ -949,31 +1272,40 @@ msgid ""
 "ourselves if we would put this photo on the public board of our school. If "
 "not, it's maybe not a good idea to share it online."
 msgstr ""
+"Tämä tarkoittaa, että meidänkaikkien on elettävä sen kanssa että sosiaalisia "
+"verkkoja voi käyttää niin hyvään kuin pahaankin. On ajateltava ennen kuin "
+"lähettää viestejä, kuvia tai videoita internetin kautta! On kysyttävä "
+"itseltään, voisiko tämän kuvan ripustaa koulun yleiselle ilmoitustaululle. "
+"Jos ei, ei taida olla hyvä ajatus jakaa sitä verkossa."
 
 #: original/en.txt:407
 msgid ""
 "If our photo shows other people, we have to ask for their permission before "
 "sharing, because it is their right to decide."
 msgstr ""
+"Jos kuvass näkyy muita ihmisiä, on kysyttävä lupaa ennen jakamista, koska "
+"heidän oikeutensa on  päättää asiasta."
 
 #: original/en.txt:409
 msgid ""
 "For images that we did not take ourselves, we should ask the owner for "
 "permission before we share them online."
 msgstr ""
+"Jos kuvaa ei ole ottanut itse, pitäisi kysyä omistajalta lupaa ennen kuin "
+"kuvan jakaa netissä."
 
 #: original/en.txt:411
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (V)"
-msgstr ""
+msgstr "TIEDON SUOJELIJAT ja TIETOMURTAJAT (V)"
 
 #: original/en.txt:413
 msgid "JOHNNY RANDOM"
-msgstr ""
+msgstr "JUSSI SATTUMA"
 
 #: original/en.txt:415
 msgctxt "original/en.txt:415"
 msgid "TEAM: DIGITAL DEFENDERS"
-msgstr ""
+msgstr "JOUKKUE: TIEDON PUOLUSTAJAT"
 
 #: original/en.txt:417
 msgid ""
@@ -981,21 +1313,27 @@ msgid ""
 "all members of his species, he has the ability to change his shape at will. "
 "He can shield your secrets with randomly changing passwords."
 msgstr ""
+"KYVYT: Hän on syntynyt Entropia-planeetalla, jossakin kaukaisessa "
+"galaksissa. Kaikkien lajinsa edustajien tapaan hän voi muuttaa muotoaan "
+"kuten haluaa. Hän voi suojella salaisuuksiasi satunnaisesti vaihtuvilla "
+"salasanoilla."
 
 #: original/en.txt:419
 msgid ""
 "WEAPONS: His main weaponry are energy charged parts of his body that he can "
 "throw and recover at any time."
 msgstr ""
+"ASEET: Hänen pääaseitaan ovat energialla ladatut ruumiinosat, joita  hän voi "
+"heittää pois ja kasvattaa uudelleen milloin hyvänsä."
 
 #: original/en.txt:421
 msgid "DATA SMUGGLER"
-msgstr ""
+msgstr "DATA TROKARI"
 
 #: original/en.txt:423
 msgctxt "original/en.txt:423"
 msgid "TEAM: DATA INTRUDERS"
-msgstr ""
+msgstr "JOUKKUE: TIETOMURTAJAT"
 
 #: original/en.txt:425
 msgid ""
@@ -1004,130 +1342,160 @@ msgid ""
 "personal data (like your photos and messages) and sells it on the black "
 "market."
 msgstr ""
+"KYVYT: Hän on upporikas ja hänellä on yli-inhimillisiä taitoja. Hän on "
+"uskomattoman joustava ja hänellä on yliluonnolliset voimat. Hän kerää "
+"arvokasta henkilökohtaista tietoa (kuten kuviasi ja viestejäsi) ja myy sen "
+"mustassa pörssissä."
 
 #: original/en.txt:427
 msgid "WEAPONS: He carries different types of weapons in his suitcase."
-msgstr ""
+msgstr "ASEET: Hänellä on eri tyyyppisiä aseita salkussaan."
 
 #: original/en.txt:433
 msgid ""
 "CHAPTER 10\n"
 "Apps & tools we like"
 msgstr ""
+"LUKU 10:\n"
+"Hyviä sovelluksia ja työkaluja."
 
 #: original/en.txt:436
 msgid "SMARTPHONE APPS"
-msgstr ""
+msgstr "ÄLYPUHELINSOVELLUKSET"
 
 #: original/en.txt:438
+#, fuzzy
 msgid "App | What it does | Difficulty to use"
-msgstr ""
+msgstr "Sovellus | Mitä se tekee | Käytön vaikeusaste"
 
 #: original/en.txt:440
 msgid ""
 "Signal | Messaging, SMS and encrypted phone calls (WhatsApp alternative) | "
 "Easy"
 msgstr ""
+"Signal | Viestitys, tekstarit ja salatut puhelinsoitot (vaihtoehto "
+"WhatsAppille) | Helppo"
 
 #: original/en.txt:442
 msgid "OrBot & OrFox | Surf the web anonymously | Easy"
-msgstr ""
+msgstr "OrBot & OrFox | Selaa verkkoa nimettömänä | Helppo"
 
 #: original/en.txt:444
 msgid "KeePassDroid | Manages all your passwords | Easy"
-msgstr ""
+msgstr "KeePassDroid | Huolehtii kaikista salasanoistasi  | Helppo"
 
 #: original/en.txt:446
 msgid ""
 "F-Droid | Archive with apps that are open and free software (Google Play "
 "alternative) | Easy"
 msgstr ""
+"F-Droid | Avoimien ja ilmaisten sovellusten varasto (Google Play:n "
+"vaihtoehto) | Helppo"
 
 #: original/en.txt:448
 msgid "K9 Mail | Manages your emails | Easy"
-msgstr ""
+msgstr "K9 Mail | Pitää huolta sähköpostistasi | Helppo"
 
 #: original/en.txt:450
 msgid ""
 "ChatSecure | Messaging app for multiple accounts like Facebook and Google | "
 "Medium"
 msgstr ""
+"ChatSecure | Viestisovellus useille tileille kuten Facebook ja Google | "
+"Vaikeahko"
 
 #: original/en.txt:452
 msgid "Transportr | Public transport, check bus and train times | Easy"
-msgstr ""
+msgstr "Transportr  | Julkinen liikenne, bussien ja junien aikataulut | Helppo"
 
 #: original/en.txt:454
+#, fuzzy
 msgid "Csip Secure | Encrypted calls (Skype alternative) | Medium"
-msgstr ""
+msgstr "Csip Secure | Salatut puhelut (Skypen vaihtoehto) | Vaikeahko"
 
 #: original/en.txt:456
 msgid "APG | To encrypt emails with K9 Mail | Difficult"
-msgstr ""
+msgstr "APG | Sähköpostien salaaminen K9 Mailissa | Vaikea"
 
 #: original/en.txt:458
 msgid "SOFTWARE FOR WINDOWS, MAC AND LINUX"
-msgstr ""
+msgstr "OHJELMIA WINDOWSILLE, MACILLE JA LINUXILLE"
 
 #: original/en.txt:460
 msgid "Software | What it does | Difficulty to use"
-msgstr ""
+msgstr "Ohjelma | Mitä se tekee | Vaikeusaste"
 
 #: original/en.txt:462
+#, fuzzy
 msgid "Jitsi | Encrypted video calls | Medium"
-msgstr ""
+msgstr "Jitsi | Salatut videopuhelut | Vaikeahko"
 
 #: original/en.txt:464
 msgid "Tor Browser | Surf the web anonymously | Easy"
-msgstr ""
+msgstr "Tor-selain | Selaa verkkoa nimettömänä | Helppo"
 
 #: original/en.txt:466
+#, fuzzy
 msgid "Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium"
 msgstr ""
+"Pidgin and OTR Plugin | Viestien vaihto (yhteensopiva ChatSecuren kanssa) | "
+"Vaikeahko"
 
 #: original/en.txt:468
+#, fuzzy
 msgid ""
 "Thunderbird & Enigmail | Manages your email accounts, the Enigmail Add-on "
 "encrypts your emails | Medium"
 msgstr ""
+"Thunderbird & Enigmail  | Pitää huolta sähköpostitileistä, Enigmail lisäosa "
+"salaa sähköpostit | Vaikeahko"
 
 #: original/en.txt:470
 msgid "BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS"
-msgstr ""
+msgstr "SELAIMEN PLUGINIT LISÄOSAT JA LAAJENNUKSET"
 
 #: original/en.txt:472
 msgid "Plug-in | What it does | Difficulty to use"
-msgstr ""
+msgstr "Plug-in | Mitä se tekee | Vaikeusaste"
 
 #: original/en.txt:474
+#, fuzzy
 msgid "Disconnect.me | Blocks cookies and trackers | Easy"
-msgstr ""
+msgstr "Disconnect.me | Estää evästeet ja trackerit | Helppo"
 
 #: original/en.txt:476
+#, fuzzy
 msgid "Privacy Badger | Blocks trackers | Easy"
-msgstr ""
+msgstr "Privacy Badger  | Estää trackerit | Helppo"
 
 #: original/en.txt:478
+#, fuzzy
 msgid ""
 "HTTPS Everywhere | Forces websites to use a more secure method, if possible "
 "| Easy"
 msgstr ""
+"HTTPS Everywhere  | Pakottaa sivustot käyttämään turvallisempaa yhteystapaa "
+"jos mahdollista | Helppo"
 
 #: original/en.txt:480
 msgid ""
 "Self Destructing Cookies | Removes cookies when they are no longer used by "
 "open browser tabs | Medium"
 msgstr ""
+"Self Destructing Cookies | Poistaa evästeet kun niitä ei  enää käytä avoin "
+"selaimen välilehti | Vaikeahko"
 
 #: original/en.txt:482
 msgid "NoScript | Blocks JavaScript | Difficult"
-msgstr ""
+msgstr "NoScript | Estää JavaScriptin | Vaikea"
 
 #: original/en.txt:485
 msgid ""
 "CHAPTER 11\n"
 "Hands-on guide for Signal"
 msgstr ""
+"LUKU 11:\n"
+"Käytännön ohje Signalia varten"
 
 #: original/en.txt:488
 msgid ""
@@ -1135,12 +1503,17 @@ msgid ""
 "we talk to. We can use it to text, call, and share pictures, videos, and "
 "contacts."
 msgstr ""
+"Signal on ilmainen sovellus Androidille ja iPhonelle. Se ei vahdi mitä "
+"sanotaan tai kenen kanssa puhutaan. Sitä voi käyttää tekstiviesteihin, "
+"puheluihin ja kuvien, videoiden ja yhteystietojen jakamiseen."
 
 #: original/en.txt:490
 msgid ""
 "It is not the only app we can use to communicate safely, but it is one of "
 "the easiest to use. Here is a handson-guide for it in five simple steps:"
 msgstr ""
+"Se ei ole ainoa sovellus, jolla voi viestiä turvallisesti, mutta se onyksi "
+"helppokäyttöisimpiä. Tässä viiden helpon askelen käytännön opas."
 
 #: original/en.txt:492
 msgid ""
@@ -1148,6 +1521,9 @@ msgid ""
 "»Signal«. Select the app »Signal Private Messenger« and tap ›Install‹. After "
 "Signal is installed, open the app."
 msgstr ""
+"1.  Mene Play Storeen (Android) tai AppStoreen (iPhone). Etsi \"Signal\".  "
+"Valitse sovellus \"Signal Private Messenger\" ja napauta \"Asenna\". Kun "
+"Signal on asentunut, avaa sovellus."
 
 #: original/en.txt:494
 msgid ""
@@ -1155,16 +1531,21 @@ msgid ""
 "number and selecting ›Register‹ or ›Verify your device‹. You'll get a text "
 "message with a six digit code. Put that code into Signal."
 msgstr ""
+"2. Rekisteröi puhelinnumerosi Signaliin syöttämällä matkapuhelinnumerosi ja "
+"valitsemalla \"Register\" tai \"Verify your Device\". Saat tekstiviestin "
+"jossa on kuusinumeroinen koodi. Syötä koodi Signaliin."
 
 #: original/en.txt:496
 msgid ""
 "3. Tap the pencil on the bottom right (Android) or the »+« symbol on the top "
 "right (iPhone) to start a conversation."
 msgstr ""
+"Napauta kynää oikeassa alanurkassa (Android) tai +-merkkiä oikeassa "
+"ylänurkassa (iPhone) keskustelun aloittamiseksi."
 
 #: original/en.txt:498
 msgid "4. Select the person you want to text or call."
-msgstr ""
+msgstr "4. Valitse henkilö jolle haluat soittaa tai lähettää viestin."
 
 #: original/en.txt:500
 msgid ""
@@ -1172,13 +1553,21 @@ msgid ""
 "connection and insecure SMS, just hold the »Send« button for a tiny bit "
 "longer."
 msgstr ""
+"5. Jos haluat vaihtaa internetin kautta kulkevien suojattujen viestien ja "
+"suojaamattomien tekstiviestien välillä, paina vain \"Send\" nappia hiukan "
+"pitempään."
 
 #: original/en.txt:502
+#, fuzzy
 msgid ""
 "It's much more secure when the person who we're contacting is using Signal "
 "too. It uses our internet connection when we contact another Signal user and "
 "normal SMS or minutes when we contact someone who is not using Signal."
 msgstr ""
+"On paljon turvallisempaa jos myös yhteyden toinen osapuoli käyttää Signalia. "
+"Se käyttää internetyhteyttä kun otetaan yhteys toiseen Signal-käyttäjään ja "
+"tavallista tekstiviestiä tai puhelua(???) kun otetaanyhteys johonkuhun joka "
+"ei käytä Signalia."
 
 #: original/en.txt:504
 msgid ""
@@ -1186,10 +1575,14 @@ msgid ""
 "your closest friends and the people you contact most often to install it too "
 "and then more and more of our friends will start using it."
 msgstr ""
+"Muista! Sinun ei tarvitse saada kaikkia tuttaviasi käyttämään Signalia. "
+"Kerro vain lähimmille ystävillesi ja niille joiden kanssa olet useimmin "
+"tekemisissä, että asentaisivat sen, ja sitten yhä useammat ystävistämme "
+"alkavat käyttää sitä."
 
 #: original/en.txt:506
 msgid "This booklet was made possible thanks to:"
-msgstr ""
+msgstr "Tämän lehtisen ovat tehneet mahdolliseksi:"
 
 #: original/en.txt:508
 msgid ""
@@ -1197,13 +1590,20 @@ msgid ""
 "contribution!\n"
 "• the Adessium Foundation and Open Society Foundations"
 msgstr ""
+"• Yksityiset lahjoittajat GlobalGiving.com'issa - kiitos teille kaikille "
+"panoksestanne!\n"
+"• the Adessium Foundation and Open Society Foundations"
 
 #: original/en.txt:511
+#, fuzzy
 msgid ""
 "This document is distributed under a Creative Commons 2.0 Licence (CC BY "
 "2.0)\n"
 "http://creativecommons.org/licenses/by/2.0/"
 msgstr ""
+"Tämä teoksen kohdalla noudatetaan lisenssiä Creative Commons 2.0 Licence (CC "
+"BY 2.0)\n"
+"http://creativecommons.org/licenses/by/2.0/"
 
 #: original/en.txt:514
 msgid ""
@@ -1212,10 +1612,15 @@ msgid ""
 "[V] …123456789 – it's easy to remember.\n"
 "[D] …the first word I see when opening a random book from a random page."
 msgstr ""
+"TEHTÄVÄ 6: SALASANAKSI PITÄÄ VALITA\n"
+"[R] ...satunnainen yhdistelmä kirjaimia ja erikoismerkkejä.\n"
+"[V] ...123456789 - se on helppo muistaa.\n"
+"[D] ...ensimmäinen sana jonka näkee avatessaan satunnaisen kirjan "
+"satunnaiselta sivulta."
 
 #: ../original/en-price.html+html.head.title:4
 msgid "Congratz! - EDRi"
-msgstr ""
+msgstr "Onneksi olkoon! - EDRi"
 
 #: ../original/en-price.html+html.head:-1
 msgid ""
@@ -1224,18 +1629,22 @@ msgid ""
 "pdf). But this is not all: You have also won access to some hot tricks that "
 "will impress your friends."
 msgstr ""
+"Olet vastannut oikein kaikkiin kysymyksiin! Olet voittanut mahtavan "
+"digitaalisen panssarin, joka auttaa sinua puolustamaan itseäsi verkossa ("
+"tulosta juliste, A4 pdf). Mutta ei tässä kaikki: Olet myös saanut pääsyn "
+"muutamiin makeisiin temppuihin joilla voit tehdä vaikutuksen kavereihisi."
 
 #: ../original/en-price.html+html.head:-1
 msgid "en_US"
-msgstr ""
+msgstr "fi_FI"
 
 #: ../original/en-price.html+html.body.h1:9
 msgid "Congratz!"
-msgstr ""
+msgstr "Onneksi olkoon!"
 
 #: ../original/en-price.html+html.body.p:11
 msgid "EDRI-former"
-msgstr ""
+msgstr "EDRI-former"
 
 #: ../original/en-price.html+html.body.p:12
 msgid ""
@@ -1245,20 +1654,26 @@ msgid ""
 "a>). But this is not all: You have also won access to some hot tricks that "
 "will impress your friends."
 msgstr ""
+"Olet vastannut oikein kaikkiin kysymyksiin! Olet voittanut mahtavan "
+"digitaalisen panssarin, joka auttaa sinua puolustamaan itseäsi verkossa ("
+"tulosta <a href=\"https://edri.org/files/defenders_vs_intruders_poster.pdf\">"
+"juliste, A4 pdf</a>). Mutta ei tässä kaikki: Olet myös saanut pääsyn "
+"muutamiin makeisiin temppuihin joilla voit tehdä vaikutuksen kavereihisi."
 
 #: ../original/en-price.html+html.body.table.tbody.tr.th:16
 msgid "Armour piece"
-msgstr ""
+msgstr "Panssarin osa"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.th:17
 msgid "What you’ve won:"
-msgstr ""
+msgstr "Olet voittanut:"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:20
 msgid "digital_armour_internet"
-msgstr ""
+msgstr "digital_armour_internet"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:21
+#, fuzzy
 msgid ""
 "More security when you’re surfing the web – on your PC: browse the internet "
 "with <strong>Firefox</strong>. <a href=\"https://www.mozilla.org/en-US/"
@@ -1267,12 +1682,19 @@ msgid ""
 "\" target=\"_blank\" rel=\"noopener\">Privacy Badger</a> – it will block "
 "spying ads and invisible trackers."
 msgstr ""
+"Lisää turvallisuutta verkkoselailuun - tietokoneellasi: Selaa nettiä "
+"<strong>Firefoxilla</strong>.<a href=\"https://www.mozilla.org/en-US/firefox/"
+"new/\" target=\"_blank\" rel=\"noopener\">Asenna se tästä</a>.<br/> Sitten "
+"asenna Firefoxin lisäosa <a href=\"https://www.eff.org/privacybadger\" "
+"target=\"_blank\" rel=\"noopener\">Privacy Badger</a>  - se estää "
+"vakoilumainokset ja näkymättömät trackerit."
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:25
 msgid "digital_armour_social_networks"
-msgstr ""
+msgstr "digital_armour_social_networks"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:26
+#, fuzzy
 msgid ""
 "On your phone: browse the internet more securely with <strong>Firefox</"
 "strong> on <a href=\"https://play.google.com/store/apps/details?id=org."
@@ -1282,10 +1704,16 @@ msgid ""
 "on the “Tracking Protection” and disable cookies in the privacy settings of "
 "the preferences."
 msgstr ""
+"Puhelimellasi: selaa internetiä turvallisemmin <strong>Firefoxilla</strong> "
+"täältä: <a href=\"https://play.google.com/store/apps/details?id=org.mozilla."
+"firefox\" target=\"_blank\" rel=\"noopener\">Google Play</a> tai <a href=\""
+"https://itunes.apple.com/nl/app/apple-store/id989804926\" target=\"_blank\" "
+"rel=\"noopener\">Apple Store for iphone</a> - muista panna päälle \"Tracking "
+"Protection\" ja estää evästeet asetuksien yksityisyyskohdasta."
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:29
 msgid "digital_armour_passwords"
-msgstr ""
+msgstr "digital_armour_passwords"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:30
 msgid ""
@@ -1295,10 +1723,16 @@ msgid ""
 "for Apple devices: <a href=\"https://itunes.apple.com/be/app/onion-browser/"
 "id519296448?mt=8\">Onion Browser</a> (0.99 €)"
 msgstr ""
+"Selaa nettiä nimettömänä puhelimellasi. Asenna sovellus "
+"<strong>OrBot</strong> and <strong>Orfox</strong>  - sen löydät täältä:   <a "
+"href=\"https://play.google.com/store/apps/developer?id=The+Tor+Project\""
+">PlayStore</a> (ilmainen) tai Applen laitteille: <a href=\""
+"https://itunes.apple.com/be/app/onion-browser/id519296448?mt=8\">Onion "
+"Browser</a> (0.99 €)"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:33
 msgid "digital_armour_apps"
-msgstr ""
+msgstr "digital_armour_apps"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:34
 msgid ""
@@ -1309,10 +1743,16 @@ msgid ""
 "us/app/signal-private-messenger/id874139669?mt=8\">Store</a>. Tell your best "
 "friends to use it too!"
 msgstr ""
+"Vaihda viestejä turvallisemmin ystävien ja sukulaisten kanssa sovelluksella  "
+"<strong>Signal Private Messenger</strong>.<br />. Se löytyy täältä: <a href="
+"\"https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms\""
+">PlayStore</a> tai Applelle <a href=\"https://itunes.apple.com/us/app/"
+"signal-private-messenger/id874139669?mt=8\">Store</a>. Kehota parhaita "
+"ystäviäsikin käyttämään tätä!"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:38
 msgid "digital_armour_internet2"
-msgstr ""
+msgstr "digital_armour_internet2"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:39
 msgid ""
@@ -1321,10 +1761,14 @@ msgid ""
 "\"noopener\">DuckDuckGo</a> or <a href=\"https://search.disconnect.me/\" "
 "target=\"_blank\" rel=\"noopener\">Disconnect.me</a>"
 msgstr ""
+"Jos haluat löytääjotain intenetistä, käytä hakukonetta joka kunnioittaa "
+"yksityisyyttäsi - kuten<a href=\"https://duckduckgo.com/\" target=\"_blank\" "
+"rel=\"noopener\">DuckDuckGo</a> tai <a href=\"https://search.disconnect.me/\""
+" target=\"_blank\" rel=\"noopener\">Disconnect.me</a>"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:42
 msgid "digital_armour_privacy"
-msgstr ""
+msgstr "digital_armour_privacy"
 
 #: ../original/en-price.html+html.body.table.tbody.tr.td:43
 msgid ""
@@ -1334,3 +1778,8 @@ msgid ""
 "<a href=\"https://www.edubuntu.org/\" target=\"_blank\" rel=\"noopener"
 "\">Edubuntu</a> (special distribution for kids)"
 msgstr ""
+"Ja jos olet teknisesti oikein näppärä, harkitse Linux-pohjaisen "
+"käyttöjärjestelmän asentamista pöytätietokoneellesi tai läppärillesi.  "
+"Kokeile  <a href=\"https://www.ubuntu.com/\" target=\"_blank\" rel=\""
+"noopener\">Ubuntu</a>  tai <a href=\"https://www.edubuntu.org/\" target=\""
+"_blank\" rel=\"noopener\">Edubuntu</a> (erityinen lastenversio)."
