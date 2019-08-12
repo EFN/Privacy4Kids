@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-09 00:46+0200\n"
-"PO-Revision-Date: 2019-07-07 17:01+0000\n"
-"Last-Translator: alix guilbert <alixguilbert@gmail.com>\n"
+"PO-Revision-Date: 2019-08-13 16:23+0000\n"
+"Last-Translator: Nicolas Guilbert <nicolas@ange.dk>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/efn/privacy4kids/"
 "da/>\n"
 "Language: da\n"
@@ -177,13 +177,12 @@ msgstr ""
 "onde."
 
 #: original/en.txt:63
-#, fuzzy
 msgid ""
 "The Defenders will show you some tips and tricks to protect yourself online. "
 "They will teach you self-defence to fight the Intruders."
 msgstr ""
-"Forsvarerne vil vise dig noget tips og trick for at beskytte dig selv på "
-"net. De vil lære dig selvforsvar for at styres med Inntrengerne."
+"Forsvarerne vil vise dig nogle tips og tricks for at beskytte dig selv på "
+"nettet. De vil lære dig selvforsvar for at bekæmpe Indtrængerne."
 
 #: original/en.txt:65
 #, fuzzy
@@ -200,12 +199,10 @@ msgid "Your friend,"
 msgstr "Din ven,"
 
 #: original/en.txt:70
-#, fuzzy
 msgid "OH, AND KEEP YOUR EYES OPEN FOR THE EDRi-former GAME"
-msgstr "Hold øjnene åbne for EDRi-former-spillet"
+msgstr "Orv. Hold øjnene åbne for EDRi-former-spillet"
 
 #: original/en.txt:72
-#, fuzzy
 msgid ""
 "You will find quests throughout the booklet. Every quest has only one right "
 "answer that will give you one letter. Together, the letters will form the "
@@ -213,14 +210,13 @@ msgid ""
 "it is a word that consists of six letters. The achievement to unlock: A "
 "POWERFUL DIGITAL ARMOUR."
 msgstr ""
-"Du vil finde rebuser rundt omkring i bladet. Hver rebus har bare et rigtigt "
+"Du vil finde rebuser rundt omkring i bladet. Hver rebus har kun eet rigtigt "
 "svar og vil give dig et bogstav. Sammen vil bogstaverne stave løsningsordet. "
 "Hint:\n"
-"Det er et ord som består af seks bogstaver. Udmærkelsen som kan låses op: EN "
+"Det er et ord som består af seks bogstaver. Skatten som kan låses op: EN "
 "MÆGTIGT DIGITAL RUSTNING."
 
 #: original/en.txt:75
-#, fuzzy
 msgid ""
 "Once you have found the word, you need it to go to a secret page on the "
 "internet. Here is how: \n"
@@ -228,64 +224,57 @@ msgid ""
 "2. Replace the xxxxxx with the solution word (six letters) of the game "
 "quests and enter the complete link in your browser."
 msgstr ""
-"Når du har fundet ordet, vil du måtte gå til en hemmelig side på Internet. "
-"Dette er hvordan det gøres:\n"
-"1 . Finn den manglende del af følgende link: https://efn.no/xxxxxx .\n"
-"2 . Erstat xxxxxx med løsningsordet (seks bogstaver) du får fra "
-"spillrebusene, og skrivelse ind det helhedsmæssige link i din netlæser."
+"Når du har fundet ordet, vil du skulle gå til en hemmelig side på "
+"Internettet. Det gøres på følgende måde:\n"
+"1 . Find den manglende del af linket: https://edri.org/xxxxxx .\n"
+"2 . Erstat xxxxxx med løsningsordet (seks bogstaver), som  du får fra "
+"rebuserne og skrivelse hele linket ind i din internetbrowser."
 
 #: original/en.txt:81
-#, fuzzy
 msgid ""
 "CHAPTER 1\n"
 "What's the internet?"
 msgstr ""
-"KAPITLER 1\n"
-"Hvad er Internet?"
+"KAPITEL 1\n"
+"Hvad er Internettet?"
 
 #: original/en.txt:84
-#, fuzzy
 msgid "The internet is a global network of devices. "
-msgstr "Internet er et globalt netværk af enheder. "
+msgstr "Internettet er et globalt netværk af enheder. "
 
 #: original/en.txt:86
-#, fuzzy
 msgid ""
 "When you use the internet on your laptop, tablet or phone, it is a part of "
 "the network."
 msgstr ""
-"Når du bruger Internet på din bærbare computer, netbræt eller telefon, er de "
-"en del af netværket."
+"Når du bruger Internettet på din bærbare computer, tablet eller telefon, er "
+"de en del af netværket."
 
 #: original/en.txt:88
-#, fuzzy
 msgid ""
 "One of the special features of the internet is that lots of different "
 "technologies can all be used in the same network. "
 msgstr ""
-"En af de specielle egenskaber med Internet er at mange forskellige "
+"En af de specielle egenskaber med Internettet er, at mange forskellige "
 "teknologiske løsninger kan bruge samme netværk. "
 
 #: original/en.txt:90
-#, fuzzy
 msgid ""
 "We can even use the same connection to download a video, play a game and "
 "chat with our friends at the same time."
 msgstr ""
-"Vi kan til og med bruge samme tilkobling til at downloade video, spille, og "
-"sludre med vores venner samtidig."
+"Vi kan endda bruge samme forbindelse til at downloade video, spille, og "
+"chatte med vores venner samtidig."
 
 #: original/en.txt:92
-#, fuzzy
 msgid ""
 "The internet is global, it is fast and gives us a whole world of "
 "opportunities.  "
 msgstr ""
-"Internet er verdensomspændende, det er raskt, og giver os et helt værd af "
+"Internettet er verdensomspændende, det er hurtigt, og det åbner en verden af "
 "muligheder.  "
 
 #: original/en.txt:94
-#, fuzzy
 msgid ""
 "The internet is an amazing and powerful invention. Before the internet "
 "spread widely, there was no easy way of connecting lots of people with each "
@@ -293,142 +282,129 @@ msgid ""
 "the internet is a great place to learn as most of the information and "
 "knowledge is shared online."
 msgstr ""
-"Internet er en utroligt og kraftigt oppfinnelse. Før Internet bredte sig "
-"viden rundt, fandtes det ingen enkel måde at koble mange folk til hinanden. "
-"Det var meget vanskeligere at lytte til musik eller at se en film. Internet "
-"er også en flot plads at lære, siden størstedelen af informationen og "
-"kundskaben deles på net."
+"Internettet er en utrolig og kraftfuld opfindelse. Før Internettet blev "
+"udbredt, fandtes der ingen enkel måde at koble mange folk sammen. Det var "
+"meget vanskeligere at lytte til musik eller at se en film. Internettet er "
+"også et fantastisk sted at lære, da størstedelen af information og viden "
+"deles på nettet."
 
 #: original/en.txt:96
-#, fuzzy
 msgid ""
 "Internet technology is a bit like a big hill covered with snow – we can use "
 "it for skiing, snowboarding or building a snowman. All we need is snow! "
 msgstr ""
-"Internetteknologi er lidt som en stor ås dækket af sne – vi kan bruge den "
-"til at køre ski, snøbrett eller at bygge en snømann. Alt vi behøver er sne! "
+"Internetteknologi er lidt som en stor bakke, der er dækket af sne – vi kan "
+"bruge den til at stå på ski, snowboard eller til at bygge en snemand. Alt "
+"hvad vi behøver, er sne! "
 
 #: original/en.txt:98
-#, fuzzy
 msgid ""
 "In the online world, the hill is our internet connection and the snow is the "
 "language the network speaks – the “internet protocol”!"
 msgstr ""
-"I den nettbaserte værdet, er åsen internettilknytningen forår, og sneen er "
-"sproget netværket snakker – \"internetprotokollen\"!"
+"I den netbaserede verden svarer bakken til internetforbindelsen og sneen er "
+"det sprog,  som netværket snakker – \"internetprotokollen\"!"
 
 #: original/en.txt:100
-#, fuzzy
 msgid ""
 "Social networks and other online services look like they are for free – but "
 "we actually pay with the personal information that we put online. "
 "Information about what we write or read or watch is used by online companies."
 msgstr ""
-"Nogen sociale netværk og anden nettbaserte tjenester er tilsyneladende "
-"gratis – men vi betaler faktisk med personlig information vi dele på nettet. "
-"Information om hvad vi skriver, læser, eller ser, bruges af nettbaserte "
-"selskaber."
+"Sociale netværk og andre netbaserede tjenester virker tilsyneladende gratis –"
+" men vi betaler faktisk med personlig information, som vi deler på nettet. "
+"Information om hvad vi skriver, læser, eller ser, bruges af netbaserede "
+"virksomheder."
 
 #: original/en.txt:102
-#, fuzzy
 msgid "How can we stay in control of the information we share online?"
-msgstr "Hvordan kan vi beholde kontrollen over informationen vi dele på net?"
+msgstr ""
+"Hvordan kan vi beholde kontrollen over den information vi deler på nettet?"
 
 #: original/en.txt:104
-#, fuzzy
 msgid "You will find the answer to this question in this booklet."
-msgstr "Du finder svaret på dette spørgsmål i dette hæfte."
+msgstr "Du finder svaret på det spørgsmål i dette hæfte."
 
 #: original/en.txt:108
-#, fuzzy
 msgid ""
 "CHAPTER 2\n"
 "What is privacy?"
 msgstr ""
-"KAPITLER 2\n"
-"Hvad er ret til privatliv?"
+"KAPITEL 2\n"
+"Hvad er retten til privatliv?"
 
 #: original/en.txt:111
-#, fuzzy
 msgid ""
 "If we have privacy, we have control.\n"
 "But what does this mean? "
 msgstr ""
-"Hvis privatlivet værnes, så har vi kontrol.\n"
-"Men hvad betyder dette? "
+"Hvis privatlivet beskyttes, så har vi kontrol.\n"
+"Men hvad betyder det? "
 
 #: original/en.txt:114
-#, fuzzy
 msgid "Privacy is our right to decidewhat to share and with whom we share it."
 msgstr ""
-"Retten til privatliv er vores ret til at bestemme hvad vi deler om os selv, "
-"og hvem vi dele det med."
+"Retten til privatliv er vores ret til at bestemme, hvad vi deler om os selv, "
+"og hvem vi deler det med."
 
 #: original/en.txt:116
-#, fuzzy
 msgid ""
 "This means, for example, that you have the right to ask Google, Facebook and "
 "others what kind of information they have collected about you. You can also "
 "ask them to delete these data."
 msgstr ""
-"Dette betyder, for eksempel, at du har ret til at spørge Google, Facebook og "
-"anden om hvad slags information de har indsamlet om dig. Du kan også spørge "
+"Det betyder for eksempel, at du har ret til at spørge Google, Facebook og "
+"andre om, hvad slags information de har indsamlet om dig. Du kan også bede "
 "dem om at slette denne information."
 
 #: original/en.txt:118
-#, fuzzy
 msgid ""
 "When we protect our privacy, we can feel more secure and safe, because there "
 "might be information that could hurt us if the wrong person knows about it."
 msgstr ""
 "Når vi beskytter vores ret til privatliv, føler vi os sikrere og tryggere, "
-"fordi det kan dreje sig om information som kan skade os hvis det kommer "
-"forkert person for øje."
+"fordi det kan dreje sig om information, som kan skade os, hvis det kommer de "
+"forkerte personer for øje."
 
 #: original/en.txt:120
-#, fuzzy
 msgid ""
 "It might be information that we wish to share with some people, like our "
 "parents or teachers, but not with anyone else."
 msgstr ""
-"Det kan være information vi ønsker at dele med nogen, som vores forældre "
-"eller lærere, men ikke med nogen anden."
+"Det kan være information, vi ønsker at dele med nogen som vores forældre "
+"eller lærere, men ikke med nogen andre."
 
 #: original/en.txt:122
-#, fuzzy
 msgid ""
 "But we can also help others when we protect our privacy, because they might "
 "want to share something with us that should not be shared with anyone else."
 msgstr ""
-"Men vi kan også hjælpe anden når vi beskytter vores eget privatliv, fordi de "
-"måske ønsker at dele noget med os som ikke bør deles med nogen anden."
+"Men vi kan også hjælpe andre, når vi beskytter vores eget privatliv, fordi "
+"de måske ønsker at dele noget med os, som ikke bør deles med nogen anden."
 
 #: original/en.txt:124
-#, fuzzy
 msgid "We all have something we don't want to share with others."
-msgstr "Vi har alle noget vi ikke vil dele med anden."
+msgstr "Vi har alle noget, vi ikke vil dele med andre."
 
 #: original/en.txt:126
-#, fuzzy
 msgid ""
 "Taking care of our own privacy has a lot to do with taking care of our "
 "friends too, because it helps us to be free, safe and trustworthy. "
 msgstr ""
-"Å værne vores eget privatliv har også meget at gøre med at opbevare vores "
-"venner, fordi det bidrager til at gøre os frie, betrygge og til at stole på. "
+"At værne om vores eget privatliv har også meget at gøre med at passe på "
+"vores venner, fordi det bidrager til at gøre os frie, trygge og troværdige. "
 
 #: original/en.txt:128
-#, fuzzy
 msgid ""
 "Our parents, friends or anyone who uses the computer after us, can also "
 "sometimes see what we\n"
 "searched for. This can happen if we forget to log out or simply when they "
 "look at the computer's history."
 msgstr ""
-"Vores forældre, vænner eller anden som bruger computeren efter os, kan nogen "
+"Vores forældre, venner eller andre som bruger computeren efter os, kan nogle "
 "gange se hvad vi\n"
 "søgte efter. Dette kan ske fordi vi glemte at logge ud, eller ganske enkelt "
-"fordi de ser i computerens historik."
+"fordi de kigger i computerens historik."
 
 #: original/en.txt:132
 #, fuzzy
@@ -436,39 +412,36 @@ msgid ">>Did you know?  "
 msgstr ">>Vidste du?  "
 
 #: original/en.txt:134
-#, fuzzy
 msgid ""
 "Only 20 years ago, most homes had only one phone line which only one person "
 "could use at a time. Hardly anyone had a mobile phone and not many people "
 "had e-mail.  "
 msgstr ""
-"For bare 20 år siden, havde de fleste hjem bare en telefonlinje som bare en "
-"person kunne bruge om gangen. Næsten ingen havde mobiltelefon, og ikke mange "
+"For bare 20 år siden havde de fleste hjem kun én telefonlinje, som kun en "
+"person kunne bruge ad gangen. Næsten ingen havde mobiltelefon, og kun få "
 "havde e-post.  "
 
 #: original/en.txt:136
-#, fuzzy
 msgid ""
 "» QUEST 1: THE INTERNET IS…\n"
 "[A] …a network of devices.\n"
 "[B] …an efficient fishing tool for international waters.\n"
 "[C] …a social network."
 msgstr ""
+"» REBUS 1: INTERNETTET ER...\n"
 "[R]… et netværk af enheder.\n"
 "[S]… et effektivt fiskeriredskab for internationalt farvand.\n"
 "[T]… et socialt netværk."
 
 #: original/en.txt:143
-#, fuzzy
 msgid ""
 "CHAPTER 3\n"
 "Protect yourself on social networks"
 msgstr ""
-"KAPITLER 3\n"
+"KAPITEL 3\n"
 "Beskyt dig selv på sociale netværk"
 
 #: original/en.txt:146
-#, fuzzy
 msgid ""
 "It can be so much fun to use social networks. On social networks, we can "
 "chat with friends and family, share pictures, send private messages and post "
@@ -476,27 +449,25 @@ msgid ""
 msgstr ""
 "Det kan være rigtigt morsomt at bruge sociale netværk. På dem kan vi sludre "
 "med venner og familie, dele billeder, sende private beskeder og poste "
-"information til offentligheten. "
+"information offentligt. "
 
 #: original/en.txt:148
-#, fuzzy
 msgid ""
 "In some countries, children under the age of 13 are not allowed to use some "
 "social networks account. If you want to use social networks, it is best to "
 "ask your family and teachers to be sure. "
 msgstr ""
-"I noget land har ikke barn under 13-årsalderen lov til at bruge nogen "
-"sociale medier-kontoer. Hvis du ønsker at bruge sociale netværk, er det "
-"bedst at spørge familie og lærere for at være sikker. "
+"I nogle land har barn under 13 ikke lov til at bruge visse sociale medier. "
+"Hvis du ønsker at bruge sociale netværk, er det bedst at spørge familie og "
+"lærere for at være sikker. "
 
 #: original/en.txt:150
-#, fuzzy
 msgid ""
 ">> YouTube, Facebook, Instagram, Snapchat, Diaspora and many more are all "
 "social networks."
 msgstr ""
-">> YouTube, Facebook, Instagram, Snapchat, diaspora* og flere med dem, er "
-"alle sociale netværk."
+">> YouTube, Facebook, Instagram, Snapchat, Diaspora og mange flere er alle "
+"sociale netværk."
 
 #: original/en.txt:152
 #, fuzzy
@@ -504,31 +475,27 @@ msgid "Do you have favourite ones? Why do you like them? "
 msgstr "Har du nogen favoritter? Hvorfor kan lide du dem? "
 
 #: original/en.txt:154
-#, fuzzy
 msgid ""
 "Some social networks even store the messages that we don't send! Imagine "
 "that, when you write a message to your friend on Facebook and don't send the "
 "message, \n"
 "your friend will not know about the message. But Facebook stores it! "
 msgstr ""
-"Nogen sociale netværk lagrer selv beskeder vi ikke sender! Forestill dig at "
-"når du skriver en melding til din ven på Facebook,\n"
-"vil naturligt nok din ven ikke få kendskaber til meldingen, men Facebook "
-"lagrer den! "
+"Nogle sociale netværk gemmer endda beskeder vi ikke sender! Forestil dig, at "
+"når du skriver en besked til din ven på Facebook, som du ikke sender, så vil "
+"din ven ikke få kendskab til den. Men Facebook gemmer den! "
 
 #: original/en.txt:157
-#, fuzzy
 msgid ""
 "Keep in mind that everything we do on a social network is recorded on the "
 "computers of the companies. That doesn't mean that they are going to do "
 "something bad with it – but you should know that this is happening."
 msgstr ""
-"Husk at alt vi gør på et konvensjonelt socialt netværk bliver registreret "
-"på, eller går gennem, selskabernes computere.  Det betyder ikke at de har "
-"til hensigt snuse - men du bør vide at dette sker."
+"Husk, at alt hvad vi gør på et socialt netværk bliver registreret på, eller "
+"går igennem, selskabernes computere.  Det betyder ikke, at de har til "
+"hensigt at gøre noget dårligt med det - men du bør vide at dette sker."
 
 #: original/en.txt:159
-#, fuzzy
 msgid ""
 "» DID YOU KNOW?\n"
 "The things we type into a search engine or write in a chat message to a "
@@ -537,30 +504,27 @@ msgid ""
 "Facebook, Snapchat and so on) can record what we write, the websites we "
 "visit and the things we search for online. "
 msgstr ""
-"» VIDSTE DU DETTE?\n"
-"Tingene vi skriver ind i en søkemotor, eller skriver i en sludremelding til "
-"en ven, bliver ikke fuldstændig slettet. Bedrifter som leverer populære "
-"tjenester (som YouTube,\n"
-"Facebook, Snapchat og så videre) kan registrere hvad vi skriver, netstederne "
-"vi besøger og de tingene vi søger efter på nettet. "
+"» VIDSTE DU AT?\n"
+"De ting vi skriver ind i en søgemotor, eller skriver i en chat til en ven, "
+"bliver ikke fuldstændig slettet. Virsomheder, som leverer populære tjenester "
+"(såsom YouTube, Facebook, Snapchat og så videre) kan registrere hvad vi "
+"skriver, de hjemmesider vi besøger og de ting vi søger efter på nettet. "
 
 #: original/en.txt:163
-#, fuzzy
 msgid ""
 "» QUEST 2: PRIVACY IS  IMPORTANT BECAUSE…\n"
 "[T] …it helps us to watch music videos.\n"
 "[R] …it helps us to be free and in control online.\n"
 "[G] …it helps us to share pictures with the entire world."
 msgstr ""
-"» REBUS 2: VÆRN AF PRIVATLIVET ER VIGTIGT FORDI...\n"
-"[T]  ... det hjælper os at se musikvideoer.\n"
-"[U] ... det hjælper os at være frie og beholde kontrol på nettet. \n"
-"[G] ... det hjælper os med at dele billeder med hele værd."
+"» REBUS 2: BESKYTTELSE AF PRIVATLIVET ER VIGTIGT FORDI...\n"
+"[T]  ... det hjælper os til at se musikvideoer.\n"
+"[U] ... det hjælper os  med at være frie og beholde kontrol på nettet. \n"
+"[G] ... det hjælper os med at dele billeder med hele verden."
 
 #: original/en.txt:168
-#, fuzzy
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (I)"
-msgstr "DIGITALE FORSVARERE MOD DATAINNTRENGERE (I)"
+msgstr "DIGITALE FORSVARERE MOD DATAINDTRÆNGERE (I)"
 
 #: original/en.txt:170
 #, fuzzy
@@ -574,23 +538,21 @@ msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "HOLD: DIGITALE FORSVARERE"
 
 #: original/en.txt:174
-#, fuzzy
 msgid ""
 "POWERS: Government tests have augmented her immune system. She also has the "
 "ability to use social networks anonymously, so nobody knows who she really "
 "is."
 msgstr ""
 "KRÆFTER:\n"
-"Myndighedforsøg har forstærket immunforsvaret hendes. Hun har også "
-"muligheden til at bruge sociale netværk anonymt, sådan at ingen ved hvem hun "
-"egentligt er."
+"Statskontrollerede forsøg har forstærket hendes immunforsvar. Hun har også "
+"muligheden for at bruge sociale netværk anonymt, således at ingen ved, hvem "
+"hun egentligt er."
 
 #: original/en.txt:176
-#, fuzzy
 msgid "WEAPONS: She is a skilled hand-to-hand fighter"
 msgstr ""
 "VÅBEN:\n"
-"Hun er en dygtig på nærkamp"
+"Hun er dygtig til nærkamp"
 
 #: original/en.txt:178
 #, fuzzy
@@ -598,67 +560,61 @@ msgid "I.D. THIEF"
 msgstr "ID-TYV"
 
 #: original/en.txt:180
-#, fuzzy
 msgctxt "original/en.txt:180"
 msgid "TEAM: DATA INTRUDERS"
-msgstr "HOLD: DATAINNTRENGERE"
+msgstr "HOLD: DATAINDTRÆNGERE"
 
 #: original/en.txt:182
-#, fuzzy
 msgid ""
 "POWERS: She can see what you do online and then steal your personal "
 "information. She pretends to be you and tries to use your name, social media "
 "and e-mail accounts for criminal activities."
 msgstr ""
 "KRÆFTER: \n"
-"Hun kan se hvad du gør på nettet, for så at stjæle personoplysninger om "
-"dig.  Hun lader som hun er dig, og prøver at bruge dit navn, sociale medier "
-"og e-postkontoer til kriminelle aktiviteter."
+"Hun kan se hvad du gør på nettet, for derefter at stjæle personlige "
+"oplysninger om dig.  Hun lader som om, hun er dig og prøver at bruge dit "
+"navn, sociale medier og e-postkonti til kriminelle aktiviteter."
 
 #: original/en.txt:184
-#, fuzzy
 msgid ""
 "WEAPONS: The Alpha Virus – which she uses to infiltrate computers and phones."
 msgstr ""
 "VÅBEN:\n"
-"Alfavirusset – som hun bruger for at infiltrere computere og telefoner."
+"Alfavirus – som hun bruger til at infiltrere computere og telefoner."
 
 #: original/en.txt:189
-#, fuzzy
 msgid ""
 "CHAPTER 4\n"
 "Top three tips and tricks"
 msgstr ""
 "KAPITEL 4\n"
-"De bedste tre tips- og trickene"
+"Top tre tips og trick"
 
 #: original/en.txt:192
-#, fuzzy
 msgid "1. Not everyone has to know everything about us"
-msgstr "1 . Du skal ikke vide alt om os"
+msgstr "1 . Ikke alle skal ikke vide alt om os"
 
 #: original/en.txt:194
-#, fuzzy
 msgid ""
 "Like in the offline world, it is better to be choose carefully what we want "
 "to share or not. Instinctively, we share some things with some people and "
 "not with others. \n"
 "The internet sometimes makes it difficult to make that choice. "
 msgstr ""
-"Som i det normale værd er det bedre at være omhyggelig i utvelgelsen af hvad "
-"vi ønsker at dele, eller ikke. Instinktivt deler vi noget ting med nogen "
-"mennesker og ikke med anden.\n"
-"Internettet gør det nogen gange vanskeligt at gøre dét valget. "
+"Lige som i den normale verden er det bedre at være omhyggelig i udvælgelsen "
+"af, hvad vi ønsker at dele eller ej. Instinktivt deler vi nogle ting med "
+"nogle mennesker og ikke med andre.\n"
+"Internettet gør det nogle gange svært at foretage det valg. "
 
 #: original/en.txt:197
-#, fuzzy
 msgid ""
 "This is partly because it's not always clear what is private online and what "
 "isn't, and partly because the internet has different rules than the offline "
 "world. "
 msgstr ""
-"Dette er delvis fordi det ikke altid er klart hvad som er, og ikke er privat "
-"på nettet, og delvis fordi Internet har anden skrøner end værdet udenfor. "
+"Dette er delvis fordi, det ikke altid er klart, hvad der er privat på nettet "
+"og hvad der ikke er, og delvis fordi der på Internettet gælder andre regler "
+"end i den virkelige verden. "
 
 #: original/en.txt:199
 #, fuzzy
