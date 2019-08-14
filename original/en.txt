@@ -40,8 +40,8 @@ Mediamocracy
 
 Chapters:
 
-Chapter 1: What's the internet?
-Chapter 2: What's privacy?
+Chapter 1: What is the internet?
+Chapter 2: What is privacy?
 Chapter 3: Top three tips and tricks
 Chapter 4: Protect yourself on social networks
 Chapter 5: Smartphone security
@@ -79,7 +79,7 @@ Once you have found the word, you need it to go to a secret page on the internet
 
 
 CHAPTER 1
-What's the internet?
+What is the internet?
 
 The internet is a global network of devices. 
 
@@ -97,7 +97,7 @@ Internet technology is a bit like a big hill covered with snow – we can use it
 
 In the online world, the hill is our internet connection and the snow is the language the network speaks – the “internet protocol”!
 
-Social networks and other online services look like they are for free – but we actually pay with the personal information that we put online. Information about what we write or read or watch is used by online companies.
+Social networks and many other online services look like they are for free – but we actually pay with the personal information that we put online. Information about what we write or read or watch is used by online companies.
 
 How can we stay in control of the information we share online?
 
@@ -115,13 +115,13 @@ Privacy is our right to decidewhat to share and with whom we share it.
 
 This means, for example, that you have the right to ask Google, Facebook and others what kind of information they have collected about you. You can also ask them to delete these data.
 
-When we protect our privacy, we can feel more secure and safe, because there might be information that could hurt us if the wrong person knows about it.
+When we protect our privacy, we are safer and more secure because there might be information that could hurt us if the wrong person knows about it.
 
 It might be information that we wish to share with some people, like our parents or teachers, but not with anyone else.
 
-But we can also help others when we protect our privacy, because they might want to share something with us that should not be shared with anyone else.
+But we can also help others when we protect our privacy because they might want to share something with us that should not be shared with anyone else.
 
-We all have something we don't want to share with others.
+We all have things we don't want to share with others.
 
 Taking care of our own privacy has a lot to do with taking care of our friends too, because it helps us to be free, safe and trustworthy. 
 
@@ -145,20 +145,18 @@ Protect yourself on social networks
 
 It can be so much fun to use social networks. On social networks, we can chat with friends and family, share pictures, send private messages and post information publicly. 
 
-In some countries, children under the age of 13 are not allowed to use some social networks account. If you want to use social networks, it is best to ask your family and teachers to be sure. 
+In some countries, children under the age of 13 are not allowed to use some of the social networks. If you want to use social networks, it is best to ask your family and teachers to be sure. 
 
->> YouTube, Facebook, Instagram, Snapchat, Diaspora and many more are all social networks.
+>> Facebook, Instagram, Twitter, Snapchat, Diaspora and many more are all social networks.
 
-Do you have favourite ones? Why do you like them? 
+Do you have a favourite? Why do you like them? 
 
-Some social networks even store the messages that we don't send! Imagine that, when you write a message to your friend on Facebook and don't send the message, 
-your friend will not know about the message. But Facebook stores it! 
+Some social networks even store messages we decided not to send! Imagine that, when you write a message to your friend on Facebook and don't send the message, your friend will not know about the message. But Facebook keeps it! 
 
-Keep in mind that everything we do on a social network is recorded on the computers of the companies. That doesn't mean that they are going to do something bad with it – but you should know that this is happening.
+Keep in mind that everything you do on a social network is recorded on the computers of the companies that run it. That doesn't mean that they are going to do something bad with it – but you should know that this is happening.
 
 » DID YOU KNOW?
-The things we type into a search engine or write in a chat message to a friend are not completely deleted. Companies that provide the services we use (like YouTube, 
-Facebook, Snapchat and so on) can record what we write, the websites we visit and the things we search for online. 
+The things we type into a search engine or write in a chat message to a friend are not completely deleted. Companies that provide the services we use (like Youtube, Facebook, Snapchat and so on) record and keep what we write, the websites we visit and the things we search online. 
 
 » QUEST 2: PRIVACY IS  IMPORTANT BECAUSE…
 [T] …it helps us to watch music videos.
@@ -191,7 +189,7 @@ Top three tips and tricks
 
 1. Not everyone has to know everything about us
 
-Like in the offline world, it is better to be choose carefully what we want to share or not. Instinctively, we share some things with some people and not with others. 
+Like in the offline world, it is better to choose carefully what we want to share and with whom. Instinctively, we share some things with some people and not with others. 
 The internet sometimes makes it difficult to make that choice. 
 
 This is partly because it's not always clear what is private online and what isn't, and partly because the internet has different rules than the offline world. 
@@ -200,9 +198,9 @@ For example: Our friends will forgive a stupid comment we made when we were angr
 
 2. Safety and privacy online isn't difficult
 
-We don't have to be super nerds to keep ourselves safe online. We can use a tablet, phone or laptop our classmates can't access, a password no one else can guess, watch videos online without being tracked. We can do this in really simple ways.
+We don't have to be super nerds to keep ourselves safe online. We can protect a tablet, phone or laptop so that our classmates cannot access it. We can use a password that no one else can guess, and watch videos online without being tracked. We can do this in really simple ways.
 
-3. Knowing what or who we're protecting ourselves against
+3. Knowing what or who we are protecting ourselves against
 
 Just as banks need to protect themselves from thieves, we also have to protect ourselves - against companies tracking us online, classmates that might be 
 angry about something, or nosy parents being... nosy parents. 
@@ -217,11 +215,11 @@ Safer messaging
 
 We all use our phones to send messages to friends and family. 
 
-But some messaging apps read the contents of our messages and track who we talk to. Some apps do this so they can profit from this information.
+But some messaging apps record all our messages and track who we talk to. Some apps do this so they can profit from this information.
 
 » What you say and do online is very valuable for companies. 
 
-The companies who make messaging apps often scan what we say. They track who we're talking to so they can show us advertisements to make us buy something or to share it with other companies. You can check out a list of cool messaging apps at the end of the booklet. These messaging apps also ensure that we don't receive texts from strangers. And there is also a guide how to install Signal in this booklet – Signal is a cool app to keep your messages safe.
+The companies who make messaging apps often scan what we say. They track who we're talking to so they can show us advertisement to make us buy something or to share it with other companies. You can check out a list of cool messaging apps at the end of the booklet. These messaging apps also ensure that we don't receive texts from strangers. And there is also a guide how to install Signal in this booklet – Signal is a cool app to keep your messages safe.
 
 » QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE…
 [Q] …I can be sure that they will never use or sell my data.
@@ -243,18 +241,18 @@ But our phones are also useful for many other things, we can use them as a torch
 When you install a new app, do you read what permission you are giving the app and how it can access information on your phone? Does a torch app really need
 access to your address book?
 
-It is very tempting to just skip past the »Accept« screen, but it is good to stop and think. There are good reasons not to trust an app that is asking for stuff that it obviously does not need.
+It is very tempting to just skip past the »Accept« screen, but it is better to stop and think. There are good reasons not to trust an app that is asking for stuff that it obviously does not need.
 
 With just a few clicks we can also check and even restrict the permissions of our phones or apps that are already installed. On most devices we can find those in the »Settings«. Have a browse around the settings of your phone, it is good to learn about how your phone works.
 
-» Many apps get access to your personal stuff stored on your phone.
+» Many apps get access to the personal stuff stored on your phone.
 
-We can restrict access to our location, add a password to unlock our phone screen, we could also encrypt (protect) the whole phone with only a few clicks.
+We can restrict access to our location and to our addressbook and we can add a password or fingerprint check to unlock our phone screen.
 
 Making our phones more secure and privacy-friendly, doesn't take much time. Towards the end of this booklet, you can find a list of great apps for this.
 
 » DID YOU KNOW?
-If there is a good reason to give an app permission for something – a photo app, for example, that needs to have access to your camera – then there's little to worry about. But if you think that the app is asking for too much, you can check if there are other versions of the app in the store that ask for fewer permissions.
+If there is a good reason to give an app permission for something – a photo app, for example, that needs to have access to your camera – then there's little to worry about. But if you think that the app is asking for too much, you can check if there are similar apps in the app store that ask for fewer permissions.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (II)
 
@@ -282,25 +280,22 @@ Surfing the internet
 
 A browser is often how we use the internet.
 
-» It's easy to forget that the browser is a little piece of software itself.
+» It's easy to forget that the browser is a powerful piece of software itself.
 
-It is sometimes the first thing you open when turning on your phone, tablet or computer, and the last thing you close. But a lot goes on inside the browser that you're not aware of and that be bad (or good) for your privacy.
+It is sometimes the first thing you open when turning on your phone, tablet or computer, and the last thing you close. But a lot goes on inside the browser that you are not aware of and that can be bad (or good) for your privacy.
 
 When we go online to buy something, watch videos or to see what our friends have been posting recently, we leave digital footprints. Some websites and social networks use these footprints to follow us.
 
 » Websites collect lots of stuff about us!
 
-Who our friends are, what we like, what we are searching for and what we are listening to can all be tracked. These websites can do this because they use »cookies« in our browsers. These »cookies « are little pieces of software.
+Who our friends are, what we like, what we are searching for and what we are listening to can all be tracked. These websites can do this because they use »cookies« in our browsers. These »cookies « are small files stored on our devices.
 
-They are invisible to us but when enough of data is collected and combined with other information about us, personal details that we think are secret become known
-to many people and companies.
+They are invisible to us but when enough of data is collected and combined with other information about us, personal details that we think are secret become known to many people and companies.
 
-Most devices come with a browser. On Windows we can use the Internet Explorer, Apple devices come with Safari, and Android devices' default browser is Google Chrome. But those are not necessarily the browsers that work best for you.
+Most devices come with a browser. On Windows proposes Edge, Apple devices come with Safari, and Android devices' default browser is Google Chrome. But those are not necessarily the browsers that protect your privacy best.
 
 » DID YOU KNOW?
-Make sure to check the »privacy options« of your browser and change the default settings so that you take control – just like Perfect Wave! Many people think that
-the best browser for your privacy and security is Firefox! Why? Because you can customise it, control it, and see how it works. It is possible that it is not installed on
-your computer, but you can download it very easily.
+Make sure to check the »privacy options« of your browser and change the default settings so that you take control – just like Perfect Wave! Many people think that the best browser for your privacy and security is Firefox. Why? Because you can customise it, control it, and see how it works. It is possible that it is not yet installed on your computer, but you can download it very easily.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (III)
 
@@ -308,7 +303,7 @@ PERFECT WAVE
 
 TEAM: DIGITAL DEFENDERS
 
-POWERS: He can navigate space, hyperspace and cyberspace on his board. The Perfect Wave does not require food or drink, he can survive by converting data into energy. He is almost totally indestrucible.
+POWERS: He can navigate space, hyperspace and cyberspace on his board. The Perfect Wave does not require food or drink, he can survive by converting data into energy. He is almost totally indestructible.
 
 WEAPONS: His surfboard.
 
@@ -331,10 +326,9 @@ WEAPONS: His spinning robot arm.
 CHAPTER 8
 Password security
 
-Passwords. Very important in the digital age.
+Passwords are very important in the digital age.
 
-Incredibly important, in fact. They form the basis of your security and privacy. And most people's passwords are very, very weak – the most commonly used password
-is »password» or »12345».
+Incredibly important, in fact. They form the basis of your security and privacy. And most people's passwords are very, very weak – the most commonly used passwords are »password« and »12345«.
 
 Creating a secure password is not very difficult.
 
@@ -342,8 +336,7 @@ Creating a secure password is not very difficult.
 
 This is really one of the most important rules! At least, try to make different versions of the password you created.
 
-Why? Because if criminals (like Data Smuggler) get access to the passwords of one service, they often try to enter other services with the same password. They
-know that people tend to use the same password on several sites!
+Why? Because if criminals (like Data Smuggler) get access to the passwords of one of your accounts, they often try to enter other accounts with the same password. They know that people tend to use the same password on several sites!
 
 2. Never use a word from the dictionary
 
@@ -355,7 +348,7 @@ Why? Because there are computer programmes that try every single word in the dic
 
 This is the minimum. The longer a password is, the more difficult it is to hack it.
 
-Why? Because the longer it is, the more difficult it is to guess. Some experts say that it is OK to write it down, just hide the piece of paper very well!
+Why? Because the longer it is, the more difficult it is to guess. Some experts say that it is OK to write it down on a piece of paper, just hide it very well!
 
 DIGITAL DEFENDERS v DATA INTRUDERS (IV)
 
@@ -376,9 +369,9 @@ POWERS: He possesses superhuman strength, speed and reflexes. He uses his powers
 WEAPONS: He throws an electrostatic data net to stun his opponents.
 
 » QUEST 5: WHEN I BROWSE THE INTERNET…
-[X] …I can do whatever I want, and I'm safe – it's not reality!
+[X] …I can do whatever I want and I'm safe – it's not reality!
 [U] …I can protect myself by not allowing cookies and not storing my browser history.
-[Y] …being too careful is just paranoid, because I have nothing to hide.
+[Y] …being too careful is just paranoid because I have nothing to hide.
 
 
 
@@ -402,7 +395,7 @@ Some people could even try to steal our identity by using our images – just li
 
 Snapchat is an app to share pictures that disappear quickly. Unfortunately, it is still possible to save a photo with a few tricks and share it again. Thousands of Snapchat images have already been put on the internet.
 
-This means that we all have to live with the possibility that social networks can be used in good ways as well as bad ways. So we need to think before we post or send photos and videos via the internet! We should ask ourselves if we would put this photo on the public board of our school. If not, it's maybe not a good idea to share it online.
+This means that we all have to live with the fact that social networks can be used in good ways as well as in bad ways. So you need to think before posting or sending photos and videos over the internet! You should ask yourself if you would put this photo on the blackboard of your school. If not, it's maybe not a good idea to share it online.
 
 If our photo shows other people, we have to ask for their permission before sharing, because it is their right to decide.
 
@@ -437,47 +430,49 @@ SMARTPHONE APPS
 
 App | What it does | Difficulty to use
 
-Signal | Messaging, SMS and encrypted phone calls (WhatsApp alternative) | Easy
+Signal | Secure messaging and phone calls (WhatsApp alternative) | Easy
 
-OrBot & OrFox | Surf the web anonymously | Easy
+Firefox | A privacy-friendly web browser | Easy
 
-KeePassDroid | Manages all your passwords | Easy
+KeePass DX | Manages all your passwords | Easy
 
-F-Droid | Archive with apps that are open and free software (Google Play alternative) | Easy
+F-Droid | App store with apps that are open and free software (Google Play alternative) | Easy
 
-K9 Mail | Manages your emails | Easy
-
-ChatSecure | Messaging app for multiple accounts like Facebook and Google | Medium
+K9-Mail | Manages your emails | Medium
 
 Transportr | Public transport, check bus and train times | Easy
 
-Csip Secure | Encrypted calls (Skype alternative) | Medium
+Jitsi Meet | Secure video group calls (Skype alternative) | Easy
 
-APG | To encrypt emails with K9 Mail | Difficult
+Tor Browser | Surf the web anonymously | Easy
+
+OpenKeychain | Encrypt emails in K9-Mail | Difficult
 
 SOFTWARE FOR WINDOWS, MAC AND LINUX
 
 Software | What it does | Difficulty to use
 
-Jitsi | Encrypted video calls | Medium
-
-Tor Browser | Surf the web anonymously | Easy
+Firefox | A privacy-friendly web browser | Easy
 
 Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium
 
-Thunderbird & Enigmail | Manages your email accounts, the Enigmail Add-on encrypts your emails | Medium
+Thunderbird | Manages your emails | Medium
 
-BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS
+Enigmail | Add-on to encrypt emails in Thunderbird | Difficult
 
-Plug-in | What it does | Difficulty to use
+Tor Browser | Surf the web anonymously | Easy
 
-Disconnect.me | Blocks cookies and trackers | Easy
+BROWSER ADD-ONS, PLUG-INS AND EXTENSIONS
 
-Privacy Badger | Blocks trackers | Easy
+Add-on | What it does | Difficulty to use
 
-HTTPS Everywhere | Forces websites to use a more secure method, if possible | Easy
+Ublock Origin | Blocks web advertisement and tracking | Easy
 
-Self Destructing Cookies | Removes cookies when they are no longer used by open browser tabs | Medium
+Privacy Badger | Blocks online tracking | Easy
+
+HTTPS Everywhere | Forces websites to encrypt your traffic if possible | Easy
+
+Cookie AutoDelete | Removes cookies when they are no longer used by open browser tabs | Medium
 
 NoScript | Blocks JavaScript | Difficult
 
@@ -501,17 +496,17 @@ It is not the only app we can use to communicate safely, but it is one of the ea
 
 It's much more secure when the person who we're contacting is using Signal too. It uses our internet connection when we contact another Signal user and normal SMS or minutes when we contact someone who is not using Signal.
 
-Remember! You don't have to get everyone you know to use Signal. Just tell your closest friends and the people you contact most often to install it too and then more and more of our friends will start using it.
+Remember! You don't have to get everyone you know to use Signal. Just tell your closest friends and the people you contact most often to install it too and then more and more of your friends will start using it.
 
 This booklet was made possible thanks to:
 
-• individual donors on GlobalGiving.com – thank you all for your contribution!
-• the Adessium Foundation and Open Society Foundations
+• Individual donors on GlobalGiving.com – thank you all for your contribution!
+• The Adessium Foundation and Open Society Foundations
 
 This document is distributed under a Creative Commons 2.0 Licence (CC BY 2.0)
 http://creativecommons.org/licenses/by/2.0/
 
 » QUEST 6: I SHOULD CHOOSE AS MY PASSWORD …
-[R] …a random combination of letters and special characters.
+[R] …a random combination of letters, numbers and special characters.
 [V] …123456789 – it's easy to remember.
 [D] …the first word I see when opening a random book from a random page.
