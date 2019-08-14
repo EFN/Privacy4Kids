@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-09 00:46+0200\n"
-"PO-Revision-Date: 2019-08-14 20:23+0000\n"
+"PO-Revision-Date: 2019-08-15 22:23+0000\n"
 "Last-Translator: Nicolas Guilbert <nicolas@ange.dk>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/efn/privacy4kids/"
 "da/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 3.8\n"
 
 #: original/en.txt:1
 msgid ""
@@ -53,7 +53,7 @@ msgstr ""
 
 #: original/en.txt:13
 msgid "[colophon]"
-msgstr ""
+msgstr "[kolofon]"
 
 #: original/en.txt:15
 msgid ""
@@ -66,7 +66,6 @@ msgstr ""
 "Theresia Renhold, EDRi"
 
 #: original/en.txt:19
-#, fuzzy
 msgid ""
 "Comics:\n"
 "Gregor Sedlag"
@@ -119,7 +118,6 @@ msgstr ""
 "Mediamocracy"
 
 #: original/en.txt:41
-#, fuzzy
 msgid "Chapters:"
 msgstr "Kapitler:"
 
@@ -150,7 +148,6 @@ msgstr ""
 "Kapitel 11: Praktisk vejledning til Signal"
 
 #: original/en.txt:55
-#, fuzzy
 msgid "[intro]"
 msgstr "[Intro]"
 
@@ -193,7 +190,6 @@ msgstr ""
 "superheltehold, Forsvarerne! "
 
 #: original/en.txt:67
-#, fuzzy
 msgid "Your friend,"
 msgstr "Din ven,"
 
@@ -793,28 +789,25 @@ msgstr ""
 "» Mange apps får adgang til dine personlige ting, som ligger på din telefon."
 
 #: original/en.txt:252
-#, fuzzy
 msgid ""
 "We can restrict access to our location, add a password to unlock our phone "
 "screen, we could also encrypt (protect) the whole phone with only a few "
 "clicks."
 msgstr ""
-"Vi kan begrænse tilgang til vores placering, lægge til et kodeord for at "
-"låse op telefonskærmen, og også kryptere (beskytte filer på) hele telefon "
-"med kun få klik."
+"Vi kan begrænse adgang til information om vores placering, opsætte et "
+"kodeord for at låse telefonskærmen op og også kryptere (beskytte filer på) "
+"hele telefonen med kun få klik."
 
 #: original/en.txt:254
-#, fuzzy
 msgid ""
 "Making our phones more secure and privacy-friendly, doesn't take much time. "
 "Towards the end of this booklet, you can find a list of great apps for this."
 msgstr ""
-"Det tager ikke lang tid at gøre vores telefoner sikrere og mere i stand til "
-"at værne privatlivet. På slutningen af dette hæftet finder du mange gode "
-"programmer med dette for øje."
+"Det tager ikke lang tid at gøre vores telefoner sikrere og bedre i stand til "
+"at beskytte privatlivet. Sidst i dette hæfte finder du en række gode "
+"programmer, der har dette for øje."
 
 #: original/en.txt:256
-#, fuzzy
 msgid ""
 "» DID YOU KNOW?\n"
 "If there is a good reason to give an app permission for something – a photo "
@@ -824,21 +817,19 @@ msgid ""
 "for fewer permissions."
 msgstr ""
 "» VIDSTE DU?\n"
-"Det er gode grunde til at programmer har tilgange til ting - et fotoprogram, "
-"for eksempel, som må have tilgang til dit kamera - er lille at bekymre sig "
-"over. Hvis du derimod tror programmet spørger om for meget, kan du tjekke om "
-"det findes anden programmer, eller versioner af programmet som spørger om "
-"færre tilgange."
+"Hvis der er gode grunde til, at et program har rettigheder til ting - et "
+"fotoprogram, for eksempel, som har brug for adgang til dit kamera - er der "
+"ikke meget  at bekymre sig over. Hvis du derimod tror, at programmet beder "
+"om for meget, kan du tjekke om der findes andre programmer, eller versioner "
+"af programmet, som kræver færre rettigheder."
 
 #: original/en.txt:259
-#, fuzzy
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
-msgstr "DIGITALE FORSVARERE mod DATAINNTRENGERE (II)"
+msgstr "DIGITALE FORSVARERE mod DATAINDTRÆNGERE (II)"
 
 #: original/en.txt:261
-#, fuzzy
 msgid "MIND FREER"
-msgstr "TANKEFRIGJØRER"
+msgstr "TANKEFRIGØRER"
 
 #: original/en.txt:263
 #, fuzzy
@@ -847,20 +838,18 @@ msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "HOLD: DIGITALE FORSVARERE"
 
 #: original/en.txt:265
-#, fuzzy
 msgid ""
 "POWERS: He fights for your right to decide what to share and with whom. He "
 "has the ability to create a private and secure environment where you can say "
 "what you think."
 msgstr ""
-"KRÆFTER: Han sloges for din ret til at bestemme hvad du vil dele med hvem. "
-"Han har muligheden til at oprette et privat og sikkert miljø der du kan sige "
-"hvad du tænker."
+"KRÆFTER: Han kæmper for din ret til at bestemme, hvad du vil dele med hvem. "
+"Han har muligheden for at oprette et privat og sikkert miljø,  hvor du kan "
+"sige, hvad du tænker."
 
 #: original/en.txt:267
-#, fuzzy
 msgid "WEAPONS: His mind."
-msgstr "VÅBEN: Hans tanke."
+msgstr "VÅBEN: Hans sind."
 
 #: original/en.txt:269
 #, fuzzy
@@ -868,91 +857,81 @@ msgid "MAN IN THE MIDDLE."
 msgstr "MAND-I-MIDTEN."
 
 #: original/en.txt:271
-#, fuzzy
 msgctxt "original/en.txt:271"
 msgid "TEAM: DATA INTRUDERS"
-msgstr "HOLD: DATAINNTRENGERE"
+msgstr "HOLD: DATAINDTRÆNGERE"
 
 #: original/en.txt:273
-#, fuzzy
 msgid ""
 "POWERS: He has mystical powers to intercept what you do online. He can "
 "pretend to be a legitimate person online and then use this to hack right "
 "into your communications, to read your messages, see your photos and watch "
 "your videos."
 msgstr ""
-"KRÆFTER: Han besitter mystiske kræfter for at fange op hvad du gør på net. "
-"Han kan udgive sig for at være en faktisk person på net, og så bruge dette "
-"til at bryde sig ret ind i dine samtaler, for at læse dine beskeder, se "
-"billederne og se dine videoer."
+"KRÆFTER: Han besidder mystiske kræfter til at opsnappe,  hvad du gør på "
+"nettet. Han kan udgive sig for at være en faktisk person online og derefter "
+"bruge dette til at hacke sig ind i dine samtaler,  til at læse dine "
+"beskeder, se dine billederne og dine videoer."
 
 #: original/en.txt:275
-#, fuzzy
 msgid "WEAPONS: His suit and antennas."
-msgstr "VÅBEN: Hans drakt og antenner."
+msgstr "VÅBEN: Hans dragt og antenner."
 
 #: original/en.txt:280
-#, fuzzy
 msgid ""
 "CHAPTER 7\n"
 "Surfing the internet"
 msgstr ""
 "KAPITEL 7\n"
-"Surfing på Internet"
+"Surfing på Internettet"
 
 #: original/en.txt:283
-#, fuzzy
 msgid "A browser is often how we use the internet."
-msgstr "Når vi siger vi «bruger Internet», er det ofte en netlæser vi bruge."
+msgstr ""
+"Når vi siger, at vi «bruger Internettet», er det ofte en browser vi bruger."
 
 #: original/en.txt:285
-#, fuzzy
 msgid ""
 "» It's easy to forget that the browser is a little piece of software itself."
-msgstr "» Hukommelse at ikke glemme at netlæseren også er software."
+msgstr "» Man kan let komme til at glemme, at browseren også er software."
 
 #: original/en.txt:287
-#, fuzzy
 msgid ""
 "It is sometimes the first thing you open when turning on your phone, tablet "
 "or computer, and the last thing you close. But a lot goes on inside the "
 "browser that you're not aware of and that be bad (or good) for your privacy."
 msgstr ""
-"Det er nogen gange det første du åbner når du skruer på telefonen, brættet "
-"eller din computer, og det sidste du lukker. Meget finder alligevel sted "
-"inde i netlæseren, og det kan være skadelig (,eller godt) for værn af dit "
+"Det er nogle gange det første du åbner når du tænder telefonen, tabletten "
+"eller din computer, og det sidste du lukker. Men der foregår meget inde i "
+"browseren, der kan være skadeligt (eller godt) for beskyttelsen af dit "
 "privatliv."
 
 #: original/en.txt:289
-#, fuzzy
 msgid ""
 "When we go online to buy something, watch videos or to see what our friends "
 "have been posting recently, we leave digital footprints. Some websites and "
 "social networks use these footprints to follow us."
 msgstr ""
-"Når vi går på net for at købe noget, se videoer eller for at se hvad vores "
-"venner har delt, efterlader vi digitale fodspor. Nogen netsider og sociale "
-"netværk bruger disse fodsporene til at spore os."
+"Når vi går på nettet for at købe noget, se videoer eller for at se, hvad "
+"vores venner har delt, efterlader vi digitale fodspor. Nogle ewbsider og "
+"sociale netværk bruger disse fodspor til at spore os."
 
 #: original/en.txt:291
-#, fuzzy
 msgid "» Websites collect lots of stuff about us!"
-msgstr "» Nogen netsider opbevarer meget information om os!"
+msgstr "» Nogle netsider gemmer meget information om os!"
 
 #: original/en.txt:293
-#, fuzzy
 msgid ""
 "Who our friends are, what we like, what we are searching for and what we are "
 "listening to can all be tracked. These websites can do this because they use "
 "»cookies« in our browsers. These »cookies « are little pieces of software."
 msgstr ""
 "Hvem vores venner er, hvad vi kan lide, hvad vi søger efter, og hvad vi "
-"lytter til kan spores. Disse netsiderne kan gøre dette fordi det er "
-"informationkapsler, (også kaldt «kager»/«cookies») i vores netlæsere. Disse "
-"informationkapslerne er små programvaredeler."
+"lytter til, kan spores. Disse websider kan gøre dette ved at bruge små "
+"informationskapsler, (også kaldt «kager»/«cookies») i vores browsere. Disse "
+"informationskapsler er små stykker software."
 
 #: original/en.txt:295
-#, fuzzy
 msgid ""
 "They are invisible to us but when enough of data is collected and combined "
 "with other information about us, personal details that we think are secret "
@@ -960,23 +939,23 @@ msgid ""
 "to many people and companies."
 msgstr ""
 "De er usynlige for os, men når nok data er indhentet, og kombineret med "
-"anden information om os, vil personlige detaljer vi tænker på som hemmelige, "
-"og sammenhænge vi ikke tænker på, blive kendt for mange folk og selskaber."
+"anden information om os, vil personlige detaljer, som vi opfatter som "
+"hemmelige, og sammenhænge vi ikke tænker på, blive kendt af mange folk og "
+"selskaber."
 
 #: original/en.txt:298
-#, fuzzy
 msgid ""
 "Most devices come with a browser. On Windows we can use the Internet "
 "Explorer, Apple devices come with Safari, and Android devices' default "
 "browser is Google Chrome. But those are not necessarily the browsers that "
 "work best for you."
 msgstr ""
-"De fleste enheder kommer med en dårlig netlæser. På Windows kan vi undgå at "
-"bruge Internet Explorer og Edge, Apple har Safari, og Android-enheder sin "
-"forvalgte netlæser er som oftest Google Chrome."
+"De fleste enheder kommer med en browser. På Windows kan vi bruge Internet "
+"Explorer og Edge, Apple kommer med Safari, og Android-enhedernes  forvalgte "
+"browser er som oftest Google Chrome. Men det er ikke nødvendigvis de "
+"browsere, der fungerer bedst for dig."
 
 #: original/en.txt:300
-#, fuzzy
 msgid ""
 "» DID YOU KNOW?\n"
 "Make sure to check the »privacy options« of your browser and change the "
@@ -988,17 +967,17 @@ msgid ""
 "your computer, but you can download it very easily."
 msgstr ""
 "» VIDSTE DU?\n"
-"Hukommelse at gøre dig kendt med forskellige «privatlivindstillinger» i din "
-"netlæser, og ændre dem forvalgte indstillingerne sådan at du tager "
-"kontrollen - akkurat som Perfekt Bølge! Den netlæser som bedst sikrer, og "
-"hegner om dit privatliv er Tor-netlæseren! Hvorfor? Fordi du kan tilpasse "
-"den, kontrollere den, og se hvordan den virker. Det er mulig at den ikke er "
-"installeret på din computeren, men du kan enkelt laste den ned."
+"Husk at sætte dig ind i de forskellige «privatlivsindstillinger» i din "
+"browser og ændr de forvalgte indstillinger således at du overtager "
+"kontrollen - akkurat som Perfekt Bølge! Mange mener, at den mest sikre "
+"browser og den, der bedst værner om dit privatliv, er Firefox! Hvorfor? "
+"Fordi du kan tilpasse den, kontrollere den, og se hvordan den virker. Det er "
+"muligt, at den ikke er installeret på din computer, men den kan let "
+"downloades."
 
 #: original/en.txt:305
-#, fuzzy
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (III)"
-msgstr "DIGITALE FORSVARERE mod DATAINNTRENGERE (III)"
+msgstr "DIGITALE FORSVARERE mod DATAINDTRÆNGERE (III)"
 
 #: original/en.txt:307
 #, fuzzy
@@ -1012,42 +991,37 @@ msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "HOLD: DIGITALE FORSVARERE"
 
 #: original/en.txt:311
-#, fuzzy
 msgid ""
 "POWERS: He can navigate space, hyperspace and cyberspace on his board. The "
 "Perfect Wave does not require food or drink, he can survive by converting "
 "data into energy. He is almost totally indestrucible."
 msgstr ""
-"KRÆFTER: Han kan navigere rom, kyberrom, og flere dimensioner med sit bræt. "
-"Perfekt Bølge behøver ikke mad og drikke, han kan overleve ved at omvende "
-"data til energi. Han er næsten fuldstændig usårbar."
+"KRÆFTER: Han kan navigere rummet, hyperspace og cyberspace med sit bræt. "
+"Perfekt Bølge har ikke brug for mad og drikke, han kan overleve ved at "
+"konvertere data til energi. Han er næsten fuldstændig usårlig."
 
 #: original/en.txt:313
-#, fuzzy
 msgid "WEAPONS: His surfboard."
-msgstr "VÅBEN: Surfebrett."
+msgstr "VÅBEN: Surfbræt."
 
 #: original/en.txt:315
-#, fuzzy
 msgid "KRAZY KOOKIE"
-msgstr "GAL KAGE"
+msgstr "GAL SMÅKAGE"
 
 #: original/en.txt:317
-#, fuzzy
 msgctxt "original/en.txt:317"
 msgid "TEAM: DATA INTRUDERS"
-msgstr "HOLD: DATAINNTRENGERE"
+msgstr "HOLD: DATAINDTRÆNGERE"
 
 #: original/en.txt:319
-#, fuzzy
 msgid ""
 "POWERS: He is always looking for a fight. He hates all Defenders but "
 "considers the Perfect Wave his worst enemy. He has a monstrous appetite for "
 "your secrets."
 msgstr ""
-"KRÆFTER: Han er altid på udkig efter larm. Han hader alle forsvarerne, men "
-"synes at Perfekt Bølge er sin ondeste fjende. Han har en vældig appetit for "
-"dine hemmeligheder."
+"KRÆFTER: Han er altid på udkig efter en slåskamp. Han hader alle "
+"forsvarerne, men synes at Perfekt Bølge er hans værste fjende. Han har en "
+"vældig appetit efter dine hemmeligheder."
 
 #: original/en.txt:321
 #, fuzzy
@@ -1055,7 +1029,6 @@ msgid "WEAPONS: His spinning robot arm."
 msgstr "VÅBEN: Hans roterende robotarm."
 
 #: original/en.txt:323
-#, fuzzy
 msgid ""
 "» QUEST 4: SOME APPS …\n"
 "[F] …are so secure that I never have to think about my privacy at all when "
@@ -1063,102 +1036,90 @@ msgid ""
 "[L] …are better than chocolate.\n"
 "[O] …can access my contacts, pictures, and messages."
 msgstr ""
-"» REBUS 4: NOGEN PROGRAMMER…\n"
-"[F] … er så sikre at jeg aldrig behøver at tænke på at værne mit privatliv "
-"når jeg bruger dem.\n"
+"» REBUS 4: NOGLE PROGRAMMER…\n"
+"[F] … er så sikre, at jeg aldrig behøver at tænke på at beskytte mit "
+"privatliv, når jeg bruger dem.\n"
 "[L] … er bedre end chokolade.\n"
-"[T] … har tilgang til mine kontakter, billeder og beskeder."
+"[T] … har adgang til mine kontakter, billeder og beskeder."
 
 #: original/en.txt:331
-#, fuzzy
 msgid ""
 "CHAPTER 8\n"
 "Password security"
 msgstr ""
 "KAPITEL 8\n"
-"Kodeordsikkerhed"
+"Kodeordssikkerhed"
 
 #: original/en.txt:334
-#, fuzzy
 msgid "Passwords. Very important in the digital age."
 msgstr "Kodeord. Meget vigtige i den digitale tidsalder."
 
 #: original/en.txt:336
-#, fuzzy
 msgid ""
 "Incredibly important, in fact. They form the basis of your security and "
 "privacy. And most people's passwords are very, very weak – the most commonly "
 "used password\n"
 "is »password» or »12345»."
 msgstr ""
-"Faktisk uhyre vigtigt. De udgør grundlaget for din sikkerhed og dit værn af "
-"privatlivet. Folks kodeord er sædvanligvis meget, meget svage - det mest "
-"brugte kodeord er «kodeord» eller «12345»."
+"Faktisk uhyre vigtige. De udgør grundlaget for din sikkerhed og din "
+"beskyttelse af privatlivet. Og folks kodeord er sædvanligvis meget, meget "
+"svage - det mest brugte kodeord er «password» eller «12345»."
 
 #: original/en.txt:339
-#, fuzzy
 msgid "Creating a secure password is not very difficult."
-msgstr "Å lave et sikkert kodeord er ikke meget vanskelig."
+msgstr "At lave et sikkert kodeord er ikke særligt svært."
 
 #: original/en.txt:341
-#, fuzzy
 msgid "1. Never use the same password twice"
-msgstr "1 . Aldrig brug samme kodeord to gange"
+msgstr "1 . Brug aldrig det samme kodeord to gange"
 
 #: original/en.txt:343
-#, fuzzy
 msgid ""
 "This is really one of the most important rules! At least, try to make "
 "different versions of the password you created."
 msgstr ""
-"Dette er faktisk en af de vigtigste skrøner! Prøv i hvert fald at have "
-"forskellige versioner af kodeordet du oprettet."
+"Dette er faktisk en af de vigtigste skrøner! Men prøv i hvert fald at have "
+"forskellige versioner af det kodeord, du har oprettet."
 
 #: original/en.txt:345
-#, fuzzy
 msgid ""
 "Why? Because if criminals (like Data Smuggler) get access to the passwords "
 "of one service, they often try to enter other services with the same "
 "password. They\n"
 "know that people tend to use the same password on several sites!"
 msgstr ""
-"Hvorfor? Som følge af at kriminelle (som Datasmugleren) har tilgang til "
-"kodeord på en tjeneste, prøver de ofte at komme ind på anden tjenester med "
+"Hvorfor? Som følge af at kriminelle (som Datasmugleren) har adgang til "
+"kodeordet på en tjeneste, prøver de ofte at komme ind på andre tjenester med "
 "samme kodeord.\n"
-"De ved folk har for vane at bruge samme kodeord flere steder!"
+"De ved, at folk har for vane at bruge samme kodeord flere steder!"
 
 #: original/en.txt:348
-#, fuzzy
 msgid "2. Never use a word from the dictionary"
-msgstr "2 . Bruk aldrig et ord fra ordbogen"
+msgstr "2 . Brug aldrig et ord fra ordbogen"
 
 #: original/en.txt:350
-#, fuzzy
 msgid "…no matter how long it may be or how complicated it may look."
 msgstr ""
 "…uanset hvor langt det måtte være, eller hvor tilsyneladende kompliceret det "
 "ser ud."
 
 #: original/en.txt:352
-#, fuzzy
 msgid ""
 "Why? Because there are computer programmes that try every single word in the "
 "dictionary as a way of »guessing« your password. Every superhero in our "
 "Defenders team has a strong and creative password. You can join them – your "
 "password is your weapon to get out of danger!"
 msgstr ""
-"Hvorfor? Fordi det findes computerprogrammer som prøver hvert eneste ord i "
-"ordbogen for forsøge at «gætte» dit kodeord. Hver suthelt i vores hold af "
+"Hvorfor? Fordi der findes computerprogrammer, som prøver hvert eneste ord i "
+"ordbogen for forsøge at «gætte» dit kodeord. Hver superhelt i vores hold af "
 "forsvarere har et stærkt og kreativt kodeord. Du kan blive en af dem – dit "
 "kodeord er dit våben for at undgå fare!"
 
 #: original/en.txt:354
-#, fuzzy
 msgid "3. Your password should be at least 12 characters long"
-msgstr "3 . dit Kodeord burde være mindst 12 tegn langt"
+msgstr "3 . Dit Kodeord bør være mindst 12 tegn langt"
 
 #: original/en.txt:356
-#, fuzzy
 msgid ""
 "This is the minimum. The longer a password is, the more difficult it is to "
 "hack it."
@@ -1167,25 +1128,22 @@ msgstr ""
 "det at gætte sig til det."
 
 #: original/en.txt:358
-#, fuzzy
 msgid ""
 "Why? Because the longer it is, the more difficult it is to guess. Some "
 "experts say that it is OK to write it down, just hide the piece of paper "
 "very well!"
 msgstr ""
 "Hvorfor? Fordi desto længere det er, desto vanskeligere er det at gætte. "
-"Nogen eksperter siger at det er OK at skrive det ned, bare hukommelse at "
+"Nogle eksperter siger, at det er OK at skrive det ned, bare man husker at "
 "skjule papiret godt!"
 
 #: original/en.txt:360
-#, fuzzy
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (IV)"
-msgstr "DIGITALE FORSVARERE mod DATAINNTRENGERE (IV)"
+msgstr "DIGITALE FORSVARERE mod DATAINDTRÆNGERE (IV)"
 
 #: original/en.txt:362
-#, fuzzy
 msgid "QUEEN OF LOCKS"
-msgstr "DRONNINGEN AF LÅSE"
+msgstr "LÅSENES DRONNINGEN"
 
 #: original/en.txt:364
 #, fuzzy
@@ -1194,53 +1152,48 @@ msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "HOLD: DIGITALE FORSVARERE"
 
 #: original/en.txt:366
-#, fuzzy
 msgid ""
 "POWERS: She fights for privacy and security. She gives powerful private keys "
 "to people who are in danger and helps them to secure their personal "
 "information online."
 msgstr ""
-"KRÆFTER: Hun sloges for retten til privatliv og sikkerhed. Hun deler ud "
-"kraftige private nøgler til folk som er i fare, og hjælper dem at sikre sin "
-"personlige information på net."
+"KRÆFTER: Hun kæmper for retten til privatliv og sikkerhed. Hun deler "
+"kraftige private nøgler ud til folk, som er i fare, og hjælper dem med at "
+"sikre deres personlige information på nettet."
 
 #: original/en.txt:368
-#, fuzzy
 msgid ""
 "WEAPONS: Her helmet – she uses it to shoot energy beams from her eyes. She "
 "can cut right through Finn Phisher's dangerous net."
 msgstr ""
-"VÅBEN: Hjelmen - hun bruger den til at skyde energistråler fra øjnene. Hun "
-"kan løb Finn Lurefiskers net tvært af."
+"VÅBEN: Hendes hjelm - hun bruger den til at skyde energistråler fra øjnene. "
+"Hun kan skære lige igennem Finn Lurefiskers farlige net."
 
 #: original/en.txt:370
-#, fuzzy
 msgid "FINN PHISHER"
-msgstr "FIND LUREFISKER"
+msgstr "FINN LUREFISKER"
 
 #: original/en.txt:372
-#, fuzzy
 msgctxt "original/en.txt:372"
 msgid "TEAM: DATA INTRUDERS"
-msgstr "HOLD: DATAINNTRENGERE"
+msgstr "HOLD: DATAINDTRÆNGERE"
 
 #: original/en.txt:374
-#, fuzzy
 msgid ""
 "POWERS: He possesses superhuman strength, speed and reflexes. He uses his "
 "powers to sneak into your phone and fish for your secrets."
 msgstr ""
-"KRÆFTER: Han har overmenneskelig styrke, fart og reflekser. Han bruger sine "
-"kræfter til at snige sig ind i din telefon og fiske ud dine hemmeligheder."
+"KRÆFTER: Han har overmenneskelig styrke, hurtighed og reflekser. Han bruger "
+"sine kræfter til at snige sig ind i din telefon og fiske dine hemmeligheder "
+"ud af den."
 
 #: original/en.txt:376
-#, fuzzy
 msgid "WEAPONS: He throws an electrostatic data net to stun his opponents."
 msgstr ""
-"VÅBEN: Han kaster sit elektrostatiske datanet for at overvælde modstandere."
+"VÅBEN: Han kaster et elektrostatisk datanet for at overvælde sine "
+"modstandere."
 
 #: original/en.txt:378
-#, fuzzy
 msgid ""
 "» QUEST 5: WHEN I BROWSE THE INTERNET…\n"
 "[X] …I can do whatever I want, and I'm safe – it's not reality!\n"
@@ -1248,14 +1201,14 @@ msgid ""
 "history.\n"
 "[Y] …being too careful is just paranoid, because I have nothing to hide."
 msgstr ""
+"» REBUS 5: NÅR JEG BROWSER PÅ NETTET\n"
 "[X] … kan jeg gøre hvad jeg vil, jeg er tryg - det er ikke virkeligheden!\n"
-"[E] … kan jeg beskytte mig selv ved at ikke tillade informationkapsler og "
-"ikke lagre min netlæserhistorik.\n"
-"[Y] … er det bare paranoid at være forsigtigt, fordi jeg ikke har noget at "
+"[E] … kan jeg beskytte mig selv ved at ikke at tillade informationkapsler og "
+"ikke gemme min browserhistorik.\n"
+"[Y] … er det bare paranoidt at være forsigtigt, fordi jeg ikke har noget at "
 "skjule."
 
 #: original/en.txt:386
-#, fuzzy
 msgid ""
 "CHAPTER 9\n"
 "Photo and video sharing"
@@ -1264,20 +1217,16 @@ msgstr ""
 "Deling af videoer og billeder"
 
 #: original/en.txt:389
-#, fuzzy
 msgid ""
 "We tell our friends about our daily life by sharing images and videos with "
 "them online."
 msgstr ""
 "Vi fortæller vores venner om det vi gør til dagligt ved at dele billeder og "
-"videoer med dem på net."
+"videoer med dem på nettet."
 
 #: original/en.txt:391
-#, fuzzy
 msgid "» Sharing is cool – but photos and videos can be copied easily."
-msgstr ""
-"» Deling er kulet - at have kontrollen med kopier af billeder og videoer "
-"ligeså."
+msgstr "» At dele er sejt - men billeder og videoer kan let kopieres."
 
 #: original/en.txt:393
 #, fuzzy
