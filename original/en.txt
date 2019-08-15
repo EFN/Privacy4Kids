@@ -430,49 +430,47 @@ SMARTPHONE APPS
 
 App | What it does | Difficulty to use
 
-Signal | Secure messaging and phone calls (WhatsApp alternative) | Easy
+Signal | Messaging, SMS and encrypted phone calls (WhatsApp alternative) | Easy
 
-Firefox | A privacy-friendly web browser | Easy
+OrBot & OrFox | Surf the web anonymously | Easy
 
-KeePass DX | Manages all your passwords | Easy
+KeePassDroid | Manages all your passwords | Easy
 
-F-Droid | App store with apps that are open and free software (Google Play alternative) | Easy
+F-Droid | Archive with apps that are open and free software (Google Play alternative) | Easy
 
-K9-Mail | Manages your emails | Medium
+K9 Mail | Manages your emails | Easy
+
+ChatSecure | Messaging app for multiple accounts like Facebook and Google | Medium
 
 Transportr | Public transport, check bus and train times | Easy
 
-Jitsi Meet | Secure video group calls (Skype alternative) | Easy
+Csip Secure | Encrypted calls (Skype alternative) | Medium
 
-Tor Browser | Surf the web anonymously | Easy
-
-OpenKeychain | Encrypt emails in K9-Mail | Difficult
+APG | To encrypt emails with K9 Mail | Difficult
 
 SOFTWARE FOR WINDOWS, MAC AND LINUX
 
 Software | What it does | Difficulty to use
 
-Firefox | A privacy-friendly web browser | Easy
-
-Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium
-
-Thunderbird | Manages your emails | Medium
-
-Enigmail | Add-on to encrypt emails in Thunderbird | Difficult
+Jitsi | Encrypted video calls | Medium
 
 Tor Browser | Surf the web anonymously | Easy
 
-BROWSER ADD-ONS, PLUG-INS AND EXTENSIONS
+Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium
 
-Add-on | What it does | Difficulty to use
+Thunderbird & Enigmail | Manages your email accounts, the Enigmail Add-on encrypts your emails | Medium
 
-Ublock Origin | Blocks web advertisement and tracking | Easy
+BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS
 
-Privacy Badger | Blocks online tracking | Easy
+Plug-in | What it does | Difficulty to use
 
-HTTPS Everywhere | Forces websites to encrypt your traffic if possible | Easy
+Disconnect.me | Blocks cookies and trackers | Easy
 
-Cookie AutoDelete | Removes cookies when they are no longer used by open browser tabs | Medium
+Privacy Badger | Blocks trackers | Easy
+
+HTTPS Everywhere | Forces websites to use a more secure method, if possible | Easy
+
+Self Destructing Cookies | Removes cookies when they are no longer used by open browser tabs | Medium
 
 NoScript | Blocks JavaScript | Difficult
 
