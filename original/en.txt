@@ -464,7 +464,7 @@ BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS
 
 Plug-in | What it does | Difficulty to use
 
-Disconnect.me | Blocks cookies and trackers | Easy
+Disconnect.me | Blocks cookies and trackers | Easy 
 
 Privacy Badger | Blocks trackers | Easy
 
