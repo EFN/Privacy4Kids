@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-09 00:46+0200\n"
-"PO-Revision-Date: 2019-08-03 13:23+0000\n"
+"PO-Revision-Date: 2019-08-19 09:23+0000\n"
 "Last-Translator: Leena Romppainen <leena.romppainen@effi.org>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/efn/privacy4kids/"
 "fi/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 3.8\n"
 
 #: original/en.txt:1
 msgid ""
@@ -447,7 +447,6 @@ msgstr ""
 "yksityisviestejä ja lähettää tietoa julkisesti. "
 
 #: original/en.txt:148
-#, fuzzy
 msgid ""
 "In some countries, children under the age of 13 are not allowed to use some "
 "social networks account. If you want to use social networks, it is best to "
@@ -455,7 +454,7 @@ msgid ""
 msgstr ""
 "Joissakin maissa alle 13-vuotiaat lapset eivät saa käyttää eräiden "
 "sosiaalisten verkostojen tilejä.  Jos haluat käyttää somea, on paras kun "
-"varmuudenvuoksi kysyt perheeltäsi ja opettajiltasi. "
+"varmuuden vuoksi kysyt perheeltäsi ja opettajiltasi. "
 
 #: original/en.txt:150
 msgid ""
