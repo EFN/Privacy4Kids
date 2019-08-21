@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-09 00:46+0200\n"
 "PO-Revision-Date: 2019-08-22 20:23+0000\n"
-"Last-Translator: Nicolas Guilbert <nicolas@ange.dk>\n"
+"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/efn/privacy4kids/"
 "da/>\n"
 "Language: da\n"
@@ -1639,7 +1639,7 @@ msgstr ""
 
 #: ../original/en-price.html+html.head:-1
 msgid "en_US"
-msgstr ""
+msgstr "da_DK"
 
 #: ../original/en-price.html+html.body.h1:9
 msgid "Congratz!"
