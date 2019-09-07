@@ -1,19 +1,20 @@
 #. #-#-#-#-#  booklet.pot (PACKAGE VERSION)  #-#-#-#-#
 #. extracted from original/en.txt
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-07 06:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2019-09-08 17:24+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/efn/"
+"privacy4kids/pt/>\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #: original/en.txt:5
 msgid ""
@@ -22,10 +23,14 @@ msgid ""
 "TAKE CONTROL OF YOUR STUFF ONLINE\n"
 "PRIVACY FOR KIDS"
 msgstr ""
+"O SEU GUIA SOBRE\n"
+"DEFENSORES DIGITAIS VS. INTRUSOS DOS DADOS\n"
+"CONTROLE A SUA INFORMAÇÃO NA INTERNET\n"
+"PRIVACIDADE PARA CRIANÇAS"
 
 #: original/en.txt:7
 msgid "[Cover text]"
-msgstr ""
+msgstr "[Texto da capa]"
 
 #: original/en.txt:12
 msgid ""
@@ -37,10 +42,17 @@ msgid ""
 "guys.\n"
 "www.edri.org"
 msgstr ""
+"A INTERNET. DIVERTIDA, RÁPIDA E GLOBAL.\n"
+"Mas ela é complexa também. Às vezes é difícil saber onde ficaremos em perigo "
+"e onde outros podem ler e utilizar a nossa informação.\n"
+"Felizmente, no nosso universo paralelo donde os DEFENSORES DIGITAIS combatem "
+"os maléficos INTRUSOS DOS DADOS, é fácil perceber quem são os heróis e quem "
+"os vilões.\n"
+"www.edri.org"
 
 #: original/en.txt:14
 msgid "[colophon]"
-msgstr ""
+msgstr "[colofão]"
 
 #: original/en.txt:18
 msgid ""
@@ -85,7 +97,7 @@ msgstr ""
 
 #: original/en.txt:42
 msgid "Chapters:"
-msgstr ""
+msgstr "Capítulos:"
 
 #: original/en.txt:54
 msgid ""
@@ -104,11 +116,11 @@ msgstr ""
 
 #: original/en.txt:56
 msgid "[intro]"
-msgstr ""
+msgstr "[introdução]"
 
 #: original/en.txt:58
 msgid "The internet. It is cool, fast and global."
-msgstr ""
+msgstr "A Internet. Divertida, rápida e global."
 
 #: original/en.txt:60
 msgid ""
