@@ -23,7 +23,7 @@ price.pot: ../original/en-price.html
 	html2po $^ > $@.new && mv $@.new $@
 
 booklet.pot: ../original/en.txt
-	(cd ..; txt2po original/en.txt generated/$@)
+	(cd ..; txt2po --duplicates=merge original/en.txt generated/$@)
 
 ../locale/en.pot: booklet.pot price.pot
 	msgcat booklet.pot price.pot > $@
