@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-07 06:11+0200\n"
-"PO-Revision-Date: 2019-08-25 05:24+0000\n"
+"PO-Revision-Date: 2019-09-07 04:15+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/nb_NO/>\n"
@@ -523,7 +523,6 @@ msgstr "FR. ANONYMITET"
 
 #: original/en.txt:173 original/en.txt:264 original/en.txt:310
 #: original/en.txt:365 original/en.txt:416
-#, fuzzy
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "LAG: DIGITALE FORSVARERE"
 
@@ -547,7 +546,6 @@ msgstr "ID-TYV"
 
 #: original/en.txt:181 original/en.txt:272 original/en.txt:318
 #: original/en.txt:373 original/en.txt:424
-#, fuzzy
 msgid "TEAM: DATA INTRUDERS"
 msgstr "LAG: DATAINNTRENGERE"
 
