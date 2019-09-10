@@ -1,0 +1,1294 @@
+#. #-#-#-#-#  booklet.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from original/en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-07 06:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.1\n"
+
+#: original/en.txt:5
+msgid ""
+"YOUR GUIDE TO THE\n"
+"DIGITAL DEFENDERS VS. DATA INTRUDERS\n"
+"TAKE CONTROL OF YOUR STUFF ONLINE\n"
+"PRIVACY FOR KIDS"
+msgstr ""
+
+#: original/en.txt:7
+msgid "[Cover text]"
+msgstr ""
+
+#: original/en.txt:12
+msgid ""
+"THE INTERNET. IT IS COOL, FAST AND GLOBAL.\n"
+"But it is also complex. Sometimes it can be difficult to see where we are at "
+"risk – and where our private stuff online can be read and used by others. \n"
+"Luckily, in our parallel universe where the DIGITAL DEFENDERS fight the evil "
+"DATA INTRUDERS, it is easy to see who are the good and who are the bad "
+"guys.\n"
+"www.edri.org"
+msgstr ""
+
+#: original/en.txt:14
+msgid "[colophon]"
+msgstr ""
+
+#: original/en.txt:18
+msgid ""
+"Booklet edited by:\n"
+"Kirsten Fiedler, EDRi\n"
+"Theresia Reinhold, EDRi"
+msgstr ""
+
+#: original/en.txt:21
+msgid ""
+"Comics:\n"
+"Gregor Sedlag"
+msgstr ""
+
+#: original/en.txt:26
+msgid ""
+"Art & design by:\n"
+"Gregor Sedlag\n"
+"Heini Jarvinen\n"
+"(EDRi-former illustrations)"
+msgstr ""
+
+#: original/en.txt:30
+msgid ""
+"Special thanks to:\n"
+"Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
+"Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
+msgstr ""
+
+#: original/en.txt:40
+msgid ""
+"Contributions by:\n"
+"ApTI Romania\n"
+"Bits of Freedom\n"
+"CCC / Chaos macht Schule\n"
+"Cryptoparty.in\n"
+"Digitale Gesellschaft e. V.\n"
+"EDRi (Brussels office)\n"
+"Open Rights Group\n"
+"Mediamocracy"
+msgstr ""
+
+#: original/en.txt:42
+msgid "Chapters:"
+msgstr ""
+
+#: original/en.txt:54
+msgid ""
+"Chapter 1: What's the internet?\n"
+"Chapter 2: What's privacy?\n"
+"Chapter 3: Top three tips and tricks\n"
+"Chapter 4: Protect yourself on social networks\n"
+"Chapter 5: Smartphone security\n"
+"Chapter 6: Safer messaging\n"
+"Chapter 7: Surfing the internet\n"
+"Chapter 8: Password security\n"
+"Chapter 9: Photo and video sharing\n"
+"Chapter 10: Apps & tools we like\n"
+"Chapter 11: Hands-on guide for Signal"
+msgstr ""
+
+#: original/en.txt:56
+msgid "[intro]"
+msgstr ""
+
+#: original/en.txt:58
+msgid "The internet. It is cool, fast and global."
+msgstr ""
+
+#: original/en.txt:60
+msgid ""
+"But it is also complex. Sometimes it can be difficult to see where we are at "
+"risk – and where our private stuff online can be read and used by others."
+msgstr ""
+
+#: original/en.txt:62
+msgid ""
+"Luckily, in our parallel universe where the Defenders fight the evil "
+"Intruders, it is easy to see who are the good and who are the bad guys."
+msgstr ""
+
+#: original/en.txt:64
+msgid ""
+"The Defenders will show you some tips and tricks to protect yourself online. "
+"They will teach you self-defence to fight the Intruders."
+msgstr ""
+
+#: original/en.txt:66
+msgid ""
+"So check out this bookletand get ready to join our superhero team, the "
+"Defenders! "
+msgstr ""
+
+#: original/en.txt:68
+msgid "Your friend,"
+msgstr ""
+
+#: original/en.txt:71
+msgid "OH, AND KEEP YOUR EYES OPEN FOR THE EDRi-former GAME"
+msgstr ""
+
+#: original/en.txt:74
+msgid ""
+"You will find quests throughout the booklet. Every quest has only one right "
+"answer that will give you one letter. Together, the letters will form the "
+"solution word. Hint: \n"
+"it is a word that consists of six letters. The achievement to unlock: A "
+"POWERFUL DIGITAL ARMOUR."
+msgstr ""
+
+#: original/en.txt:78
+msgid ""
+"Once you have found the word, you need it to go to a secret page on the "
+"internet. Here is how: \n"
+"1. Find the missing part of the following link: https://edri.org/xxxxxx . \n"
+"2. Replace the xxxxxx with the solution word (six letters) of the game "
+"quests and enter the complete link in your browser."
+msgstr ""
+
+#: original/en.txt:83
+msgid ""
+"CHAPTER 1\n"
+"What's the internet?"
+msgstr ""
+
+#: original/en.txt:85
+msgid "The internet is a global network of devices. "
+msgstr ""
+
+#: original/en.txt:87
+msgid ""
+"When you use the internet on your laptop, tablet or phone, it is a part of "
+"the network."
+msgstr ""
+
+#: original/en.txt:89
+msgid ""
+"One of the special features of the internet is that lots of different "
+"technologies can all be used in the same network. "
+msgstr ""
+
+#: original/en.txt:91
+msgid ""
+"We can even use the same connection to download a video, play a game and "
+"chat with our friends at the same time."
+msgstr ""
+
+#: original/en.txt:93
+msgid ""
+"The internet is global, it is fast and gives us a whole world of "
+"opportunities.  "
+msgstr ""
+
+#: original/en.txt:95
+msgid ""
+"The internet is an amazing and powerful invention. Before the internet "
+"spread widely, there was no easy way of connecting lots of people with each "
+"other. It was much more difficult to listen to music or watch a movie. Also, "
+"the internet is a great place to learn as most of the information and "
+"knowledge is shared online."
+msgstr ""
+
+#: original/en.txt:97
+msgid ""
+"Internet technology is a bit like a big hill covered with snow – we can use "
+"it for skiing, snowboarding or building a snowman. All we need is snow! "
+msgstr ""
+
+#: original/en.txt:99
+msgid ""
+"In the online world, the hill is our internet connection and the snow is the "
+"language the network speaks – the “internet protocol”!"
+msgstr ""
+
+#: original/en.txt:101
+msgid ""
+"Social networks and other online services look like they are for free – but "
+"we actually pay with the personal information that we put online. "
+"Information about what we write or read or watch is used by online companies."
+msgstr ""
+
+#: original/en.txt:103
+msgid "How can we stay in control of the information we share online?"
+msgstr ""
+
+#: original/en.txt:105
+msgid "You will find the answer to this question in this booklet."
+msgstr ""
+
+#: original/en.txt:110
+msgid ""
+"CHAPTER 2\n"
+"What is privacy?"
+msgstr ""
+
+#: original/en.txt:113
+msgid ""
+"If we have privacy, we have control.\n"
+"But what does this mean? "
+msgstr ""
+
+#: original/en.txt:115
+msgid "Privacy is our right to decidewhat to share and with whom we share it."
+msgstr ""
+
+#: original/en.txt:117
+msgid ""
+"This means, for example, that you have the right to ask Google, Facebook and "
+"others what kind of information they have collected about you. You can also "
+"ask them to delete these data."
+msgstr ""
+
+#: original/en.txt:119
+msgid ""
+"When we protect our privacy, we can feel more secure and safe, because there "
+"might be information that could hurt us if the wrong person knows about it."
+msgstr ""
+
+#: original/en.txt:121
+msgid ""
+"It might be information that we wish to share with some people, like our "
+"parents or teachers, but not with anyone else."
+msgstr ""
+
+#: original/en.txt:123
+msgid ""
+"But we can also help others when we protect our privacy, because they might "
+"want to share something with us that should not be shared with anyone else."
+msgstr ""
+
+#: original/en.txt:125
+msgid "We all have something we don't want to share with others."
+msgstr ""
+
+#: original/en.txt:127
+msgid ""
+"Taking care of our own privacy has a lot to do with taking care of our "
+"friends too, because it helps us to be free, safe and trustworthy. "
+msgstr ""
+
+#: original/en.txt:130
+msgid ""
+"Our parents, friends or anyone who uses the computer after us, can also "
+"sometimes see what we\n"
+"searched for. This can happen if we forget to log out or simply when they "
+"look at the computer's history."
+msgstr ""
+
+#: original/en.txt:133
+msgid ">>Did you know?  "
+msgstr ""
+
+#: original/en.txt:135
+msgid ""
+"Only 20 years ago, most homes had only one phone line which only one person "
+"could use at a time. Hardly anyone had a mobile phone and not many people "
+"had e-mail.  "
+msgstr ""
+
+#: original/en.txt:140
+msgid ""
+"» QUEST 1: THE INTERNET IS…\n"
+"[A] …a network of devices.\n"
+"[B] …an efficient fishing tool for international waters.\n"
+"[C] …a social network."
+msgstr ""
+
+#: original/en.txt:145
+msgid ""
+"CHAPTER 3\n"
+"Protect yourself on social networks"
+msgstr ""
+
+#: original/en.txt:147
+msgid ""
+"It can be so much fun to use social networks. On social networks, we can "
+"chat with friends and family, share pictures, send private messages and post "
+"information publicly. "
+msgstr ""
+
+#: original/en.txt:149
+msgid ""
+"In some countries, children under the age of 13 are not allowed to use some "
+"social networks account. If you want to use social networks, it is best to "
+"ask your family and teachers to be sure. "
+msgstr ""
+
+#: original/en.txt:151
+msgid ""
+">> YouTube, Facebook, Instagram, Snapchat, Diaspora and many more are all "
+"social networks."
+msgstr ""
+
+#: original/en.txt:153
+msgid "Do you have favourite ones? Why do you like them? "
+msgstr ""
+
+#: original/en.txt:156
+msgid ""
+"Some social networks even store the messages that we don't send! Imagine "
+"that, when you write a message to your friend on Facebook and don't send the "
+"message, \n"
+"your friend will not know about the message. But Facebook stores it! "
+msgstr ""
+
+#: original/en.txt:158
+msgid ""
+"Keep in mind that everything we do on a social network is recorded on the "
+"computers of the companies. That doesn't mean that they are going to do "
+"something bad with it – but you should know that this is happening."
+msgstr ""
+
+#: original/en.txt:162
+msgid ""
+"» DID YOU KNOW?\n"
+"The things we type into a search engine or write in a chat message to a "
+"friend are not completely deleted. Companies that provide the services we "
+"use (like YouTube, \n"
+"Facebook, Snapchat and so on) can record what we write, the websites we "
+"visit and the things we search for online. "
+msgstr ""
+
+#: original/en.txt:167
+msgid ""
+"» QUEST 2: PRIVACY IS  IMPORTANT BECAUSE…\n"
+"[T] …it helps us to watch music videos.\n"
+"[R] …it helps us to be free and in control online.\n"
+"[G] …it helps us to share pictures with the entire world."
+msgstr ""
+
+#: original/en.txt:169
+msgid "DIGITAL DEFENDERS v DATA INTRUDERS (I)"
+msgstr ""
+
+#: original/en.txt:171
+msgid "MS. ANONYMITY"
+msgstr ""
+
+#: original/en.txt:173 original/en.txt:264 original/en.txt:310
+#: original/en.txt:365 original/en.txt:416
+msgid "TEAM: DIGITAL DEFENDERS"
+msgstr ""
+
+#: original/en.txt:175
+msgid ""
+"POWERS: Government tests have augmented her immune system. She also has the "
+"ability to use social networks anonymously, so nobody knows who she really "
+"is."
+msgstr ""
+
+#: original/en.txt:177
+msgid "WEAPONS: She is a skilled hand-to-hand fighter"
+msgstr ""
+
+#: original/en.txt:179
+msgid "I.D. THIEF"
+msgstr ""
+
+#: original/en.txt:181 original/en.txt:272 original/en.txt:318
+#: original/en.txt:373 original/en.txt:424
+msgid "TEAM: DATA INTRUDERS"
+msgstr ""
+
+#: original/en.txt:183
+msgid ""
+"POWERS: She can see what you do online and then steal your personal "
+"information. She pretends to be you and tries to use your name, social media "
+"and e-mail accounts for criminal activities."
+msgstr ""
+
+#: original/en.txt:185
+msgid ""
+"WEAPONS: The Alpha Virus – which she uses to infiltrate computers and phones."
+msgstr ""
+
+#: original/en.txt:191
+msgid ""
+"CHAPTER 4\n"
+"Top three tips and tricks"
+msgstr ""
+
+#: original/en.txt:193
+msgid "1. Not everyone has to know everything about us"
+msgstr ""
+
+#: original/en.txt:196
+msgid ""
+"Like in the offline world, it is better to be choose carefully what we want "
+"to share or not. Instinctively, we share some things with some people and "
+"not with others. \n"
+"The internet sometimes makes it difficult to make that choice. "
+msgstr ""
+
+#: original/en.txt:198
+msgid ""
+"This is partly because it's not always clear what is private online and what "
+"isn't, and partly because the internet has different rules than the offline "
+"world. "
+msgstr ""
+
+#: original/en.txt:200
+msgid ""
+"For example: Our friends will forgive a stupid comment we made when we were "
+"angry, and understand our behaviour because they know us. If someone else "
+"reads our comment online, they might not understand what we meant and might "
+"think we were being mean. "
+msgstr ""
+
+#: original/en.txt:202
+msgid "2. Safety and privacy online isn't difficult"
+msgstr ""
+
+#: original/en.txt:204
+msgid ""
+"We don't have to be super nerds to keep ourselves safe online. We can use a "
+"tablet, phone or laptop our classmates can't access, a password no one else "
+"can guess, watch videos online without being tracked. We can do this in "
+"really simple ways."
+msgstr ""
+
+#: original/en.txt:206
+msgid "3. Knowing what or who we're protecting ourselves against"
+msgstr ""
+
+#: original/en.txt:209
+msgid ""
+"Just as banks need to protect themselves from thieves, we also have to "
+"protect ourselves - against companies tracking us online, classmates that "
+"might be \n"
+"angry about something, or nosy parents being... nosy parents. "
+msgstr ""
+
+#: original/en.txt:211
+msgid ""
+"We should ask ourselves what the real threats are and what we can do about "
+"them. Once we have thought about these threats, we'll find that it really is "
+"possible to keep ourselves safe and control our privacy."
+msgstr ""
+
+#: original/en.txt:217
+msgid ""
+"CHAPTER 5\n"
+"Safer messaging"
+msgstr ""
+
+#: original/en.txt:219
+msgid "We all use our phones to send messages to friends and family. "
+msgstr ""
+
+#: original/en.txt:221
+msgid ""
+"But some messaging apps read the contents of our messages and track who we "
+"talk to. Some apps do this so they can profit from this information."
+msgstr ""
+
+#: original/en.txt:223
+msgid "» What you say and do online is very valuable for companies. "
+msgstr ""
+
+#: original/en.txt:225
+msgid ""
+"The companies who make messaging apps often scan what we say. They track who "
+"we're talking to so they can show us advertisements to make us buy something "
+"or to share it with other companies. You can check out a list of cool "
+"messaging apps at the end of the booklet. These messaging apps also ensure "
+"that we don't receive texts from strangers. And there is also a guide how to "
+"install Signal in this booklet – Signal is a cool app to keep your messages "
+"safe."
+msgstr ""
+
+#: original/en.txt:230
+msgid ""
+"» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE…\n"
+"[Q] …I can be sure that they will never use or sell my data.\n"
+"[M] …I can stay in touch with friends and family.\n"
+"[N] …I can be sure that only my friends can see the photos I post there"
+msgstr ""
+
+#: original/en.txt:236
+msgid ""
+"CHAPTER 6\n"
+"Smartphone security"
+msgstr ""
+
+#: original/en.txt:238
+msgid "Our phones have become very important for using the internet."
+msgstr ""
+
+#: original/en.txt:240
+msgid ""
+"We use them when we want to communicate with our friends and family, when we "
+"use social networks or just browse the web."
+msgstr ""
+
+#: original/en.txt:242
+msgid ""
+"But our phones are also useful for many other things, we can use them as a "
+"torch, to play games or to check the time of the next bus."
+msgstr ""
+
+#: original/en.txt:245
+msgid ""
+"When you install a new app, do you read what permission you are giving the "
+"app and how it can access information on your phone? Does a torch app really "
+"need\n"
+"access to your address book?"
+msgstr ""
+
+#: original/en.txt:247
+msgid ""
+"It is very tempting to just skip past the »Accept« screen, but it is good to "
+"stop and think. There are good reasons not to trust an app that is asking "
+"for stuff that it obviously does not need."
+msgstr ""
+
+#: original/en.txt:249
+msgid ""
+"With just a few clicks we can also check and even restrict the permissions "
+"of our phones or apps that are already installed. On most devices we can "
+"find those in the »Settings«. Have a browse around the settings of your "
+"phone, it is good to learn about how your phone works."
+msgstr ""
+
+#: original/en.txt:251
+msgid "» Many apps get access to your personal stuff stored on your phone."
+msgstr ""
+
+#: original/en.txt:253
+msgid ""
+"We can restrict access to our location, add a password to unlock our phone "
+"screen, we could also encrypt (protect) the whole phone with only a few "
+"clicks."
+msgstr ""
+
+#: original/en.txt:255
+msgid ""
+"Making our phones more secure and privacy-friendly, doesn't take much time. "
+"Towards the end of this booklet, you can find a list of great apps for this."
+msgstr ""
+
+#: original/en.txt:258
+msgid ""
+"» DID YOU KNOW?\n"
+"If there is a good reason to give an app permission for something – a photo "
+"app, for example, that needs to have access to your camera – then there's "
+"little to worry about. But if you think that the app is asking for too much, "
+"you can check if there are other versions of the app in the store that ask "
+"for fewer permissions."
+msgstr ""
+
+#: original/en.txt:260
+msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
+msgstr ""
+
+#: original/en.txt:262
+msgid "MIND FREER"
+msgstr ""
+
+#: original/en.txt:266
+msgid ""
+"POWERS: He fights for your right to decide what to share and with whom. He "
+"has the ability to create a private and secure environment where you can say "
+"what you think."
+msgstr ""
+
+#: original/en.txt:268
+msgid "WEAPONS: His mind."
+msgstr ""
+
+#: original/en.txt:270
+msgid "MAN IN THE MIDDLE."
+msgstr ""
+
+#: original/en.txt:274
+msgid ""
+"POWERS: He has mystical powers to intercept what you do online. He can "
+"pretend to be a legitimate person online and then use this to hack right "
+"into your communications, to read your messages, see your photos and watch "
+"your videos."
+msgstr ""
+
+#: original/en.txt:276
+msgid "WEAPONS: His suit and antennas."
+msgstr ""
+
+#: original/en.txt:282
+msgid ""
+"CHAPTER 7\n"
+"Surfing the internet"
+msgstr ""
+
+#: original/en.txt:284
+msgid "A browser is often how we use the internet."
+msgstr ""
+
+#: original/en.txt:286
+msgid ""
+"» It's easy to forget that the browser is a little piece of software itself."
+msgstr ""
+
+#: original/en.txt:288
+msgid ""
+"It is sometimes the first thing you open when turning on your phone, tablet "
+"or computer, and the last thing you close. But a lot goes on inside the "
+"browser that you're not aware of and that be bad (or good) for your privacy."
+msgstr ""
+
+#: original/en.txt:290
+msgid ""
+"When we go online to buy something, watch videos or to see what our friends "
+"have been posting recently, we leave digital footprints. Some websites and "
+"social networks use these footprints to follow us."
+msgstr ""
+
+#: original/en.txt:292
+msgid "» Websites collect lots of stuff about us!"
+msgstr ""
+
+#: original/en.txt:294
+msgid ""
+"Who our friends are, what we like, what we are searching for and what we are "
+"listening to can all be tracked. These websites can do this because they use "
+"»cookies« in our browsers. These »cookies « are little pieces of software."
+msgstr ""
+
+#: original/en.txt:297
+msgid ""
+"They are invisible to us but when enough of data is collected and combined "
+"with other information about us, personal details that we think are secret "
+"become known\n"
+"to many people and companies."
+msgstr ""
+
+#: original/en.txt:299
+msgid ""
+"Most devices come with a browser. On Windows we can use the Internet "
+"Explorer, Apple devices come with Safari, and Android devices' default "
+"browser is Google Chrome. But those are not necessarily the browsers that "
+"work best for you."
+msgstr ""
+
+#: original/en.txt:304
+msgid ""
+"» DID YOU KNOW?\n"
+"Make sure to check the »privacy options« of your browser and change the "
+"default settings so that you take control – just like Perfect Wave! Many "
+"people think that\n"
+"the best browser for your privacy and security is Firefox! Why? Because you "
+"can customise it, control it, and see how it works. It is possible that it "
+"is not installed on\n"
+"your computer, but you can download it very easily."
+msgstr ""
+
+#: original/en.txt:306
+msgid "DIGITAL DEFENDERS v DATA INTRUDERS (III)"
+msgstr ""
+
+#: original/en.txt:308
+msgid "PERFECT WAVE"
+msgstr ""
+
+#: original/en.txt:312
+msgid ""
+"POWERS: He can navigate space, hyperspace and cyberspace on his board. The "
+"Perfect Wave does not require food or drink, he can survive by converting "
+"data into energy. He is almost totally indestrucible."
+msgstr ""
+
+#: original/en.txt:314
+msgid "WEAPONS: His surfboard."
+msgstr ""
+
+#: original/en.txt:316
+msgid "KRAZY KOOKIE"
+msgstr ""
+
+#: original/en.txt:320
+msgid ""
+"POWERS: He is always looking for a fight. He hates all Defenders but "
+"considers the Perfect Wave his worst enemy. He has a monstrous appetite for "
+"your secrets."
+msgstr ""
+
+#: original/en.txt:322
+msgid "WEAPONS: His spinning robot arm."
+msgstr ""
+
+#: original/en.txt:327
+msgid ""
+"» QUEST 4: SOME APPS …\n"
+"[F] …are so secure that I never have to think about my privacy at all when "
+"using them.\n"
+"[L] …are better than chocolate.\n"
+"[O] …can access my contacts, pictures, and messages."
+msgstr ""
+
+#: original/en.txt:333
+msgid ""
+"CHAPTER 8\n"
+"Password security"
+msgstr ""
+
+#: original/en.txt:335
+msgid "Passwords. Very important in the digital age."
+msgstr ""
+
+#: original/en.txt:338
+msgid ""
+"Incredibly important, in fact. They form the basis of your security and "
+"privacy. And most people's passwords are very, very weak – the most commonly "
+"used password\n"
+"is »password» or »12345»."
+msgstr ""
+
+#: original/en.txt:340
+msgid "Creating a secure password is not very difficult."
+msgstr ""
+
+#: original/en.txt:342
+msgid "1. Never use the same password twice"
+msgstr ""
+
+#: original/en.txt:344
+msgid ""
+"This is really one of the most important rules! At least, try to make "
+"different versions of the password you created."
+msgstr ""
+
+#: original/en.txt:347
+msgid ""
+"Why? Because if criminals (like Data Smuggler) get access to the passwords "
+"of one service, they often try to enter other services with the same "
+"password. They\n"
+"know that people tend to use the same password on several sites!"
+msgstr ""
+
+#: original/en.txt:349
+msgid "2. Never use a word from the dictionary"
+msgstr ""
+
+#: original/en.txt:351
+msgid "…no matter how long it may be or how complicated it may look."
+msgstr ""
+
+#: original/en.txt:353
+msgid ""
+"Why? Because there are computer programmes that try every single word in the "
+"dictionary as a way of »guessing« your password. Every superhero in our "
+"Defenders team has a strong and creative password. You can join them – your "
+"password is your weapon to get out of danger!"
+msgstr ""
+
+#: original/en.txt:355
+msgid "3. Your password should be at least 12 characters long"
+msgstr ""
+
+#: original/en.txt:357
+msgid ""
+"This is the minimum. The longer a password is, the more difficult it is to "
+"hack it."
+msgstr ""
+
+#: original/en.txt:359
+msgid ""
+"Why? Because the longer it is, the more difficult it is to guess. Some "
+"experts say that it is OK to write it down, just hide the piece of paper "
+"very well!"
+msgstr ""
+
+#: original/en.txt:361
+msgid "DIGITAL DEFENDERS v DATA INTRUDERS (IV)"
+msgstr ""
+
+#: original/en.txt:363
+msgid "QUEEN OF LOCKS"
+msgstr ""
+
+#: original/en.txt:367
+msgid ""
+"POWERS: She fights for privacy and security. She gives powerful private keys "
+"to people who are in danger and helps them to secure their personal "
+"information online."
+msgstr ""
+
+#: original/en.txt:369
+msgid ""
+"WEAPONS: Her helmet – she uses it to shoot energy beams from her eyes. She "
+"can cut right through Finn Phisher's dangerous net."
+msgstr ""
+
+#: original/en.txt:371
+msgid "FINN PHISHER"
+msgstr ""
+
+#: original/en.txt:375
+msgid ""
+"POWERS: He possesses superhuman strength, speed and reflexes. He uses his "
+"powers to sneak into your phone and fish for your secrets."
+msgstr ""
+
+#: original/en.txt:377
+msgid "WEAPONS: He throws an electrostatic data net to stun his opponents."
+msgstr ""
+
+#: original/en.txt:382
+msgid ""
+"» QUEST 5: WHEN I BROWSE THE INTERNET…\n"
+"[X] …I can do whatever I want, and I'm safe – it's not reality!\n"
+"[U] …I can protect myself by not allowing cookies and not storing my browser "
+"history.\n"
+"[Y] …being too careful is just paranoid, because I have nothing to hide."
+msgstr ""
+
+#: original/en.txt:388
+msgid ""
+"CHAPTER 9\n"
+"Photo and video sharing"
+msgstr ""
+
+#: original/en.txt:390
+msgid ""
+"We tell our friends about our daily life by sharing images and videos with "
+"them online."
+msgstr ""
+
+#: original/en.txt:392
+msgid "» Sharing is cool – but photos and videos can be copied easily."
+msgstr ""
+
+#: original/en.txt:394
+msgid ""
+"Remember that it is always important to make sure that we are not sharing "
+"with people we don't want to share with. People might be able to see our "
+"private images, and misuse them."
+msgstr ""
+
+#: original/en.txt:396
+msgid ""
+"What is the problem? If we send an image or video, we send a copy of it from "
+"our device to the device of a friend. Imagine that our friend shares the "
+"image again with others. Every copy can be copied again."
+msgstr ""
+
+#: original/en.txt:398
+msgid ""
+"If we share a photo or video online, there will always be several copies of "
+"it on different devices. Even if we delete the original image from our own "
+"devices, the other copies will still be there."
+msgstr ""
+
+#: original/en.txt:400
+msgid ""
+"When we share, our stuff can get into the hands of people that we didn't "
+"want to share with."
+msgstr ""
+
+#: original/en.txt:402
+msgid ""
+"Some people could even try to steal our identity by using our images – just "
+"like I.D. Thief."
+msgstr ""
+
+#: original/en.txt:404
+msgid ""
+"Snapchat is an app to share pictures that disappear quickly. Unfortunately, "
+"it is still possible to save a photo with a few tricks and share it again. "
+"Thousands of Snapchat images have already been put on the internet."
+msgstr ""
+
+#: original/en.txt:406
+msgid ""
+"This means that we all have to live with the possibility that social "
+"networks can be used in good ways as well as bad ways. So we need to think "
+"before we post or send photos and videos via the internet! We should ask "
+"ourselves if we would put this photo on the public board of our school. If "
+"not, it's maybe not a good idea to share it online."
+msgstr ""
+
+#: original/en.txt:408
+msgid ""
+"If our photo shows other people, we have to ask for their permission before "
+"sharing, because it is their right to decide."
+msgstr ""
+
+#: original/en.txt:410
+msgid ""
+"For images that we did not take ourselves, we should ask the owner for "
+"permission before we share them online."
+msgstr ""
+
+#: original/en.txt:412
+msgid "DIGITAL DEFENDERS v DATA INTRUDERS (V)"
+msgstr ""
+
+#: original/en.txt:414
+msgid "JOHNNY RANDOM"
+msgstr ""
+
+#: original/en.txt:418
+msgid ""
+"POWERS: He was born on planet Entropia, somewhere in a far away Galaxy. As "
+"all members of his species, he has the ability to change his shape at will. "
+"He can shield your secrets with randomly changing passwords."
+msgstr ""
+
+#: original/en.txt:420
+msgid ""
+"WEAPONS: His main weaponry are energy charged parts of his body that he can "
+"throw and recover at any time."
+msgstr ""
+
+#: original/en.txt:422
+msgid "DATA SMUGGLER"
+msgstr ""
+
+#: original/en.txt:426
+msgid ""
+"POWERS: He is very rich and has abilities far superior to humans. He is "
+"incredibly flexible and has superhuman strength. He collects precious "
+"personal data (like your photos and messages) and sells it on the black "
+"market."
+msgstr ""
+
+#: original/en.txt:428
+msgid "WEAPONS: He carries different types of weapons in his suitcase."
+msgstr ""
+
+#: original/en.txt:435
+msgid ""
+"CHAPTER 10\n"
+"Apps & tools we like"
+msgstr ""
+
+#: original/en.txt:437
+msgid "SMARTPHONE APPS"
+msgstr ""
+
+#: original/en.txt:439
+msgid "App | What it does | Difficulty to use"
+msgstr ""
+
+#: original/en.txt:441
+msgid ""
+"Signal | Messaging, SMS and encrypted phone calls (WhatsApp alternative) | "
+"Easy"
+msgstr ""
+
+#: original/en.txt:443
+msgid "OrBot & OrFox | Surf the web anonymously | Easy"
+msgstr ""
+
+#: original/en.txt:445
+msgid "KeePassDroid | Manages all your passwords | Easy"
+msgstr ""
+
+#: original/en.txt:447
+msgid ""
+"F-Droid | Archive with apps that are open and free software (Google Play "
+"alternative) | Easy"
+msgstr ""
+
+#: original/en.txt:449
+msgid "K9 Mail | Manages your emails | Easy"
+msgstr ""
+
+#: original/en.txt:451
+msgid ""
+"ChatSecure | Messaging app for multiple accounts like Facebook and Google | "
+"Medium"
+msgstr ""
+
+#: original/en.txt:453
+msgid "Transportr | Public transport, check bus and train times | Easy"
+msgstr ""
+
+#: original/en.txt:455
+msgid "Csip Secure | Encrypted calls (Skype alternative) | Medium"
+msgstr ""
+
+#: original/en.txt:457
+msgid "APG | To encrypt emails with K9 Mail | Difficult"
+msgstr ""
+
+#: original/en.txt:459
+msgid "SOFTWARE FOR WINDOWS, MAC AND LINUX"
+msgstr ""
+
+#: original/en.txt:461
+msgid "Software | What it does | Difficulty to use"
+msgstr ""
+
+#: original/en.txt:463
+msgid "Jitsi | Encrypted video calls | Medium"
+msgstr ""
+
+#: original/en.txt:465
+msgid "Tor Browser | Surf the web anonymously | Easy"
+msgstr ""
+
+#: original/en.txt:467
+msgid "Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium"
+msgstr ""
+
+#: original/en.txt:469
+msgid ""
+"Thunderbird & Enigmail | Manages your email accounts, the Enigmail Add-on "
+"encrypts your emails | Medium"
+msgstr ""
+
+#: original/en.txt:471
+msgid "BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS"
+msgstr ""
+
+#: original/en.txt:473
+msgid "Plug-in | What it does | Difficulty to use"
+msgstr ""
+
+#: original/en.txt:475
+msgid "Disconnect.me | Blocks cookies and trackers | Easy"
+msgstr ""
+
+#: original/en.txt:477
+msgid "Privacy Badger | Blocks trackers | Easy"
+msgstr ""
+
+#: original/en.txt:479
+msgid ""
+"HTTPS Everywhere | Forces websites to use a more secure method, if possible "
+"| Easy"
+msgstr ""
+
+#: original/en.txt:481
+msgid ""
+"Self Destructing Cookies | Removes cookies when they are no longer used by "
+"open browser tabs | Medium"
+msgstr ""
+
+#: original/en.txt:483
+msgid "NoScript | Blocks JavaScript | Difficult"
+msgstr ""
+
+#: original/en.txt:487
+msgid ""
+"CHAPTER 11\n"
+"Hands-on guide for Signal"
+msgstr ""
+
+#: original/en.txt:489
+msgid ""
+"Signal is a free Android and iPhone app. It doesn't watch what we say or who "
+"we talk to. We can use it to text, call, and share pictures, videos, and "
+"contacts."
+msgstr ""
+
+#: original/en.txt:491
+msgid ""
+"It is not the only app we can use to communicate safely, but it is one of "
+"the easiest to use. Here is a handson-guide for it in five simple steps:"
+msgstr ""
+
+#: original/en.txt:493
+msgid ""
+"1. Go into the Play Store (Android) or App Store (iPhone). Search for "
+"»Signal«. Select the app »Signal Private Messenger« and tap ›Install‹. After "
+"Signal is installed, open the app."
+msgstr ""
+
+#: original/en.txt:495
+msgid ""
+"2. Register your phone number with Signal by entering your mobile phone "
+"number and selecting ›Register‹ or ›Verify your device‹. You'll get a text "
+"message with a six digit code. Put that code into Signal."
+msgstr ""
+
+#: original/en.txt:497
+msgid ""
+"3. Tap the pencil on the bottom right (Android) or the »+« symbol on the top "
+"right (iPhone) to start a conversation."
+msgstr ""
+
+#: original/en.txt:499
+msgid "4. Select the person you want to text or call."
+msgstr ""
+
+#: original/en.txt:501
+msgid ""
+"5. If you want to change between secure messages via your internet "
+"connection and insecure SMS, just hold the »Send« button for a tiny bit "
+"longer."
+msgstr ""
+
+#: original/en.txt:503
+msgid ""
+"It's much more secure when the person who we're contacting is using Signal "
+"too. It uses our internet connection when we contact another Signal user and "
+"normal SMS or minutes when we contact someone who is not using Signal."
+msgstr ""
+
+#: original/en.txt:505
+msgid ""
+"Remember! You don't have to get everyone you know to use Signal. Just tell "
+"your closest friends and the people you contact most often to install it too "
+"and then more and more of our friends will start using it."
+msgstr ""
+
+#: original/en.txt:507
+msgid "This booklet was made possible thanks to:"
+msgstr ""
+
+#: original/en.txt:510
+msgid ""
+"• individual donors on GlobalGiving.com – thank you all for your "
+"contribution!\n"
+"• the Adessium Foundation and Open Society Foundations"
+msgstr ""
+
+#: original/en.txt:513
+msgid ""
+"This document is distributed under a Creative Commons 2.0 Licence (CC BY "
+"2.0)\n"
+"http://creativecommons.org/licenses/by/2.0/"
+msgstr ""
+
+#: original/en.txt:517
+msgid ""
+"» QUEST 6: I SHOULD CHOOSE AS MY PASSWORD …\n"
+"[R] …a random combination of letters and special characters.\n"
+"[V] …123456789 – it's easy to remember.\n"
+"[D] …the first word I see when opening a random book from a random page."
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.head.title:4-5
+msgid "Congratz! - EDRi"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.head:-1--1
+msgid ""
+"You have answered all questions correctly! You have won a powerful digital "
+"armour which will help you defend yourself online (print out the poster, A4 "
+"pdf). But this is not all: You have also won access to some hot tricks that "
+"will impress your friends."
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.head:-1--1
+msgid "en_US"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.h1:9-5
+msgid "Congratz!"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.p:11-3
+msgid "EDRI-former"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.p:12-1
+msgid ""
+"You have answered all questions correctly! You have won a powerful digital "
+"armour which will help you defend yourself online (print out the <a href="
+"\"https://edri.org/files/defenders_vs_intruders_poster.pdf\">poster, A4 pdf</"
+"a>). But this is not all: You have also won access to some hot tricks that "
+"will impress your friends."
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.th:16-1
+msgid "Armour piece"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.th:17-1
+msgid "What you’ve won:"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:20-1
+msgid "digital_armour_internet"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:21-1
+msgid ""
+"More security when you’re surfing the web – on your PC: browse the internet "
+"with <strong>Firefox</strong>. <a href=\"https://www.mozilla.org/en-US/"
+"firefox/new/\" target=\"_blank\" rel=\"noopener\">Install it here</a>.<br /> "
+"Then install the Firefox Add-on <a href=\"https://www.eff.org/privacybadger"
+"\" target=\"_blank\" rel=\"noopener\">Privacy Badger</a> – it will block "
+"spying ads and invisible trackers."
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:25-1
+msgid "digital_armour_social_networks"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:26-1
+msgid ""
+"On your phone: browse the internet more securely with <strong>Firefox</"
+"strong> on <a href=\"https://play.google.com/store/apps/details?id=org."
+"mozilla.firefox\" target=\"_blank\" rel=\"noopener\">Google Play</a> or <a "
+"href=\"https://itunes.apple.com/nl/app/apple-store/id989804926\" target="
+"\"_blank\" rel=\"noopener\">Apple Store for iphone</a> – make sure to switch "
+"on the “Tracking Protection” and disable cookies in the privacy settings of "
+"the preferences."
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:29-1
+msgid "digital_armour_passwords"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:30-1
+msgid ""
+"Browse the net anomymously on your phone: install the Apps <strong>OrBot</"
+"strong> and <strong>Orfox</strong> – find them on the <a href=\"https://play."
+"google.com/store/apps/developer?id=The+Tor+Project\">PlayStore</a> (free) or "
+"for Apple devices: <a href=\"https://itunes.apple.com/be/app/onion-browser/"
+"id519296448?mt=8\">Onion Browser</a> (0.99 €)"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:33-1
+msgid "digital_armour_apps"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:34-1
+msgid ""
+"Exchange messages more securely with your friends and family with "
+"<strong>Signal Private Messenger</strong>.<br /> You can find it in the <a "
+"href=\"https://play.google.com/store/apps/details?id=org.thoughtcrime."
+"securesms\">PlayStore</a> or in Apple’s <a href=\"https://itunes.apple.com/"
+"us/app/signal-private-messenger/id874139669?mt=8\">Store</a>. Tell your best "
+"friends to use it too!"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:38-1
+msgid "digital_armour_internet2"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:39-1
+msgid ""
+"If you want to find stuff on the net, use a search engine that respects your "
+"privacy – like <a href=\"https://duckduckgo.com/\" target=\"_blank\" rel="
+"\"noopener\">DuckDuckGo</a> or <a href=\"https://search.disconnect.me/\" "
+"target=\"_blank\" rel=\"noopener\">Disconnect.me</a>"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:42-1
+msgid "digital_armour_privacy"
+msgstr ""
+
+#: ../original/en-price.html%2Bhtml.body.table.tbody.tr.td:43-1
+msgid ""
+"And if you are really good with technology, consider installing a Linux-"
+"based operating system on your home PC or Laptop. Check out <a href="
+"\"https://www.ubuntu.com/\" target=\"_blank\" rel=\"noopener\">Ubuntu</a> or "
+"<a href=\"https://www.edubuntu.org/\" target=\"_blank\" rel=\"noopener"
+"\">Edubuntu</a> (special distribution for kids)"
+msgstr ""
