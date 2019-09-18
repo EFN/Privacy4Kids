@@ -421,8 +421,6 @@ WEAPONS: He carries different types of weapons in his suitcase.
 
 
 
-
-
 CHAPTER 10
 Apps & tools we like
 
@@ -430,47 +428,49 @@ SMARTPHONE APPS
 
 App | What it does | Difficulty to use
 
-Signal | Messaging, SMS and encrypted phone calls (WhatsApp alternative) | Easy
+Signal | Secure messaging and phone calls (WhatsApp alternative) | Easy
 
-OrBot & OrFox | Surf the web anonymously | Easy
+Firefox | A privacy-friendly web browser | Easy
 
-KeePassDroid | Manages all your passwords | Easy
+KeePass DX | Manages all your passwords | Easy
 
-F-Droid | Archive with apps that are open and free software (Google Play alternative) | Easy
+F-Droid | App store with apps that are open and free software (Google Play alternative) | Easy
 
-K9 Mail | Manages your emails | Easy
-
-ChatSecure | Messaging app for multiple accounts like Facebook and Google | Medium
+K9-Mail | Manages your emails | Medium
 
 Transportr | Public transport, check bus and train times | Easy
 
-Csip Secure | Encrypted calls (Skype alternative) | Medium
+Jitsi Meet | Secure video group calls (Skype alternative) | Easy
 
-APG | To encrypt emails with K9 Mail | Difficult
+Tor Browser | Surf the web anonymously | Easy
+
+OpenKeychain | Encrypt emails in K9-Mail | Difficult
 
 SOFTWARE FOR WINDOWS, MAC AND LINUX
 
 Software | What it does | Difficulty to use
 
-Jitsi | Encrypted video calls | Medium
-
-Tor Browser | Surf the web anonymously | Easy
+Firefox | A privacy-friendly web browser | Easy
 
 Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium
 
-Thunderbird & Enigmail | Manages your email accounts, the Enigmail Add-on encrypts your emails | Medium
+Thunderbird | Manages your emails | Medium
 
-BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS
+Enigmail | Add-on to encrypt emails in Thunderbird | Difficult
 
-Plug-in | What it does | Difficulty to use
+Tor Browser | Surf the web anonymously | Easy
 
-Disconnect.me | Blocks cookies and trackers | Easy 
+BROWSER ADD-ONS, PLUG-INS AND EXTENSIONS
 
-Privacy Badger | Blocks trackers | Easy
+Add-on | What it does | Difficulty to use
 
-HTTPS Everywhere | Forces websites to use a more secure method, if possible | Easy
+Ublock Origin | Blocks web advertisement and tracking | Easy
 
-Self Destructing Cookies | Removes cookies when they are no longer used by open browser tabs | Medium
+Privacy Badger | Blocks online tracking | Easy
+
+HTTPS Everywhere | Forces websites to encrypt your traffic if possible | Easy
+
+Cookie AutoDelete | Removes cookies when they are no longer used by open browser tabs | Medium
 
 NoScript | Blocks JavaScript | Difficult
 
