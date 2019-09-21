@@ -213,7 +213,7 @@ We should ask ourselves what the real threats are and what we can do about them.
 CHAPTER 5
 Safer messaging
 
-We all use our phones to send messages to friends and family. 
+Those of us with mobile phones use it to send messages to friends and family.
 
 But some messaging apps record all our messages and track who we talk to. Some apps do this so they can profit from this information.
 
