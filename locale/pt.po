@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-21 09:40+0200\n"
+"POT-Creation-Date: 2019-11-26 15:43+0200\n"
 "PO-Revision-Date: 2019-09-08 17:24+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/efn/"
@@ -96,10 +96,14 @@ msgid ""
 msgstr ""
 
 #: original/en.txt:42
+msgid "English edition updated 2019-09-21."
+msgstr ""
+
+#: original/en.txt:44
 msgid "Chapters:"
 msgstr "Capítulos:"
 
-#: original/en.txt:54
+#: original/en.txt:56
 msgid ""
 "Chapter 1: What is the internet?\n"
 "Chapter 2: What is privacy?\n"
@@ -114,47 +118,47 @@ msgid ""
 "Chapter 11: Hands-on guide for Signal"
 msgstr ""
 
-#: original/en.txt:56
+#: original/en.txt:58
 msgid "[intro]"
 msgstr "[introdução]"
 
-#: original/en.txt:58
+#: original/en.txt:60
 msgid "The internet. It is cool, fast and global."
 msgstr "A Internet. Divertida, rápida e global."
 
-#: original/en.txt:60
+#: original/en.txt:62
 msgid ""
 "But it is also complex. Sometimes it can be difficult to see where we are at "
 "risk – and where our private stuff online can be read and used by others."
 msgstr ""
 
-#: original/en.txt:62
+#: original/en.txt:64
 msgid ""
 "Luckily, in our parallel universe where the Defenders fight the evil "
 "Intruders, it is easy to see who are the good and who are the bad guys."
 msgstr ""
 
-#: original/en.txt:64
+#: original/en.txt:66
 msgid ""
 "The Defenders will show you some tips and tricks to protect yourself online. "
 "They will teach you self-defence to fight the Intruders."
 msgstr ""
 
-#: original/en.txt:66
+#: original/en.txt:68
 msgid ""
 "So check out this bookletand get ready to join our superhero team, the "
 "Defenders! "
 msgstr ""
 
-#: original/en.txt:68
+#: original/en.txt:70
 msgid "Your friend,"
 msgstr ""
 
-#: original/en.txt:71
+#: original/en.txt:73
 msgid "OH, AND KEEP YOUR EYES OPEN FOR THE EDRi-former GAME"
 msgstr ""
 
-#: original/en.txt:74
+#: original/en.txt:76
 msgid ""
 "You will find quests throughout the booklet. Every quest has only one right "
 "answer that will give you one letter. Together, the letters will form the "
@@ -163,7 +167,7 @@ msgid ""
 "POWERFUL DIGITAL ARMOUR."
 msgstr ""
 
-#: original/en.txt:78
+#: original/en.txt:80
 msgid ""
 "Once you have found the word, you need it to go to a secret page on the "
 "internet. Here is how: \n"
@@ -172,41 +176,41 @@ msgid ""
 "quests and enter the complete link in your browser."
 msgstr ""
 
-#: original/en.txt:83
+#: original/en.txt:85
 msgid ""
 "CHAPTER 1\n"
 "What is the internet?"
 msgstr ""
 
-#: original/en.txt:85
+#: original/en.txt:87
 msgid "The internet is a global network of devices. "
 msgstr ""
 
-#: original/en.txt:87
+#: original/en.txt:89
 msgid ""
 "When you use the internet on your laptop, tablet or phone, it is a part of "
 "the network."
 msgstr ""
 
-#: original/en.txt:89
+#: original/en.txt:91
 msgid ""
 "One of the special features of the internet is that lots of different "
 "technologies can all be used in the same network. "
 msgstr ""
 
-#: original/en.txt:91
+#: original/en.txt:93
 msgid ""
 "We can even use the same connection to download a video, play a game and "
 "chat with our friends at the same time."
 msgstr ""
 
-#: original/en.txt:93
+#: original/en.txt:95
 msgid ""
 "The internet is global, it is fast and gives us a whole world of "
 "opportunities.  "
 msgstr ""
 
-#: original/en.txt:95
+#: original/en.txt:97
 msgid ""
 "The internet is an amazing and powerful invention. Before the internet "
 "spread widely, there was no easy way of connecting lots of people with each "
@@ -215,85 +219,85 @@ msgid ""
 "knowledge is shared online."
 msgstr ""
 
-#: original/en.txt:97
+#: original/en.txt:99
 msgid ""
 "Internet technology is a bit like a big hill covered with snow – we can use "
 "it for skiing, snowboarding or building a snowman. All we need is snow! "
 msgstr ""
 
-#: original/en.txt:99
+#: original/en.txt:101
 msgid ""
 "In the online world, the hill is our internet connection and the snow is the "
 "language the network speaks – the “internet protocol”!"
 msgstr ""
 
-#: original/en.txt:101
+#: original/en.txt:103
 msgid ""
 "Social networks and many other online services look like they are for free – "
 "but we actually pay with the personal information that we put online. "
 "Information about what we write or read or watch is used by online companies."
 msgstr ""
 
-#: original/en.txt:103
+#: original/en.txt:105
 msgid "How can we stay in control of the information we share online?"
 msgstr ""
 
-#: original/en.txt:105
+#: original/en.txt:107
 msgid "You will find the answer to this question in this booklet."
 msgstr ""
 
-#: original/en.txt:110
+#: original/en.txt:112
 msgid ""
 "CHAPTER 2\n"
 "What is privacy?"
 msgstr ""
 
-#: original/en.txt:113
+#: original/en.txt:115
 msgid ""
 "If we have privacy, we have control.\n"
 "But what does this mean? "
 msgstr ""
 
-#: original/en.txt:115
+#: original/en.txt:117
 msgid "Privacy is our right to decidewhat to share and with whom we share it."
 msgstr ""
 
-#: original/en.txt:117
+#: original/en.txt:119
 msgid ""
 "This means, for example, that you have the right to ask Google, Facebook and "
 "others what kind of information they have collected about you. You can also "
 "ask them to delete these data."
 msgstr ""
 
-#: original/en.txt:119
+#: original/en.txt:121
 msgid ""
 "When we protect our privacy, we are safer and more secure because there "
 "might be information that could hurt us if the wrong person knows about it."
 msgstr ""
 
-#: original/en.txt:121
+#: original/en.txt:123
 msgid ""
 "It might be information that we wish to share with some people, like our "
 "parents or teachers, but not with anyone else."
 msgstr ""
 
-#: original/en.txt:123
+#: original/en.txt:125
 msgid ""
 "But we can also help others when we protect our privacy because they might "
 "want to share something with us that should not be shared with anyone else."
 msgstr ""
 
-#: original/en.txt:125
+#: original/en.txt:127
 msgid "We all have things we don't want to share with others."
 msgstr ""
 
-#: original/en.txt:127
+#: original/en.txt:129
 msgid ""
 "Taking care of our own privacy has a lot to do with taking care of our "
 "friends too, because it helps us to be free, safe and trustworthy. "
 msgstr ""
 
-#: original/en.txt:130
+#: original/en.txt:132
 msgid ""
 "Our parents, friends or anyone who uses the computer after us, can also "
 "sometimes see what we\n"
@@ -301,18 +305,18 @@ msgid ""
 "look at the computer's history."
 msgstr ""
 
-#: original/en.txt:133
+#: original/en.txt:135
 msgid ">>Did you know?  "
 msgstr ""
 
-#: original/en.txt:135
+#: original/en.txt:137
 msgid ""
 "Only 20 years ago, most homes had only one phone line which only one person "
 "could use at a time. Hardly anyone had a mobile phone and not many people "
 "had e-mail.  "
 msgstr ""
 
-#: original/en.txt:140
+#: original/en.txt:142
 msgid ""
 "» QUEST 1: THE INTERNET IS…\n"
 "[A] …a network of devices.\n"
@@ -320,44 +324,44 @@ msgid ""
 "[C] …a social network."
 msgstr ""
 
-#: original/en.txt:145
+#: original/en.txt:147
 msgid ""
 "CHAPTER 3\n"
 "Protect yourself on social networks"
 msgstr ""
 
-#: original/en.txt:147
+#: original/en.txt:149
 msgid ""
 "It can be so much fun to use social networks. On social networks, we can "
 "chat with friends and family, share pictures, send private messages and post "
 "information publicly. "
 msgstr ""
 
-#: original/en.txt:149
+#: original/en.txt:151
 msgid ""
 "In some countries, children under the age of 13 are not allowed to use some "
 "of the social networks. If you want to use social networks, it is best to "
 "ask your family and teachers to be sure. "
 msgstr ""
 
-#: original/en.txt:151
+#: original/en.txt:153
 msgid ""
 ">> Facebook, Instagram, Twitter, Snapchat, Diaspora and many more are all "
 "social networks."
 msgstr ""
 
-#: original/en.txt:153
+#: original/en.txt:155
 msgid "Do you have a favourite? Why do you like them? "
 msgstr ""
 
-#: original/en.txt:155
+#: original/en.txt:157
 msgid ""
 "Some social networks even store messages we decided not to send! Imagine "
 "that, when you write a message to your friend on Facebook and don't send the "
 "message, your friend will not know about the message. But Facebook keeps it! "
 msgstr ""
 
-#: original/en.txt:157
+#: original/en.txt:159
 msgid ""
 "Keep in mind that everything you do on a social network is recorded on the "
 "computers of the companies that run it. That doesn't mean that they are "
@@ -365,7 +369,7 @@ msgid ""
 "happening."
 msgstr ""
 
-#: original/en.txt:160
+#: original/en.txt:162
 msgid ""
 "» DID YOU KNOW?\n"
 "The things we type into a search engine or write in a chat message to a "
@@ -374,7 +378,7 @@ msgid ""
 "write, the websites we visit and the things we search online. "
 msgstr ""
 
-#: original/en.txt:165
+#: original/en.txt:167
 msgid ""
 "» QUEST 2: PRIVACY IS  IMPORTANT BECAUSE…\n"
 "[T] …it helps us to watch music videos.\n"
@@ -382,62 +386,62 @@ msgid ""
 "[G] …it helps us to share pictures with the entire world."
 msgstr ""
 
-#: original/en.txt:167
+#: original/en.txt:169
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (I)"
 msgstr ""
 
-#: original/en.txt:169
+#: original/en.txt:171
 msgid "MS. ANONYMITY"
 msgstr ""
 
-#: original/en.txt:171 original/en.txt:262 original/en.txt:305
-#: original/en.txt:358 original/en.txt:409
+#: original/en.txt:173 original/en.txt:264 original/en.txt:307
+#: original/en.txt:360 original/en.txt:411
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr ""
 
-#: original/en.txt:173
+#: original/en.txt:175
 msgid ""
 "POWERS: Government tests have augmented her immune system. She also has the "
 "ability to use social networks anonymously, so nobody knows who she really "
 "is."
 msgstr ""
 
-#: original/en.txt:175
+#: original/en.txt:177
 msgid "WEAPONS: She is a skilled hand-to-hand fighter"
 msgstr ""
 
-#: original/en.txt:177
+#: original/en.txt:179
 msgid "I.D. THIEF"
 msgstr ""
 
-#: original/en.txt:179 original/en.txt:270 original/en.txt:313
-#: original/en.txt:366 original/en.txt:417
+#: original/en.txt:181 original/en.txt:272 original/en.txt:315
+#: original/en.txt:368 original/en.txt:419
 msgid "TEAM: DATA INTRUDERS"
 msgstr ""
 
-#: original/en.txt:181
+#: original/en.txt:183
 msgid ""
 "POWERS: She can see what you do online and then steal your personal "
 "information. She pretends to be you and tries to use your name, social media "
 "and e-mail accounts for criminal activities."
 msgstr ""
 
-#: original/en.txt:183
+#: original/en.txt:185
 msgid ""
 "WEAPONS: The Alpha Virus – which she uses to infiltrate computers and phones."
 msgstr ""
 
-#: original/en.txt:189
+#: original/en.txt:191
 msgid ""
 "CHAPTER 4\n"
 "Top three tips and tricks"
 msgstr ""
 
-#: original/en.txt:191
+#: original/en.txt:193
 msgid "1. Not everyone has to know everything about us"
 msgstr ""
 
-#: original/en.txt:194
+#: original/en.txt:196
 msgid ""
 "Like in the offline world, it is better to choose carefully what we want to "
 "share and with whom. Instinctively, we share some things with some people "
@@ -445,14 +449,14 @@ msgid ""
 "The internet sometimes makes it difficult to make that choice. "
 msgstr ""
 
-#: original/en.txt:196
+#: original/en.txt:198
 msgid ""
 "This is partly because it's not always clear what is private online and what "
 "isn't, and partly because the internet has different rules than the offline "
 "world. "
 msgstr ""
 
-#: original/en.txt:198
+#: original/en.txt:200
 msgid ""
 "For example: Our friends will forgive a stupid comment we made when we were "
 "angry, and understand our behaviour because they know us. If someone else "
@@ -460,11 +464,11 @@ msgid ""
 "think we were being mean. "
 msgstr ""
 
-#: original/en.txt:200
+#: original/en.txt:202
 msgid "2. Safety and privacy online isn't difficult"
 msgstr ""
 
-#: original/en.txt:202
+#: original/en.txt:204
 msgid ""
 "We don't have to be super nerds to keep ourselves safe online. We can "
 "protect a tablet, phone or laptop so that our classmates cannot access it. "
@@ -472,11 +476,11 @@ msgid ""
 "without being tracked. We can do this in really simple ways."
 msgstr ""
 
-#: original/en.txt:204
+#: original/en.txt:206
 msgid "3. Knowing what or who we are protecting ourselves against"
 msgstr ""
 
-#: original/en.txt:207
+#: original/en.txt:209
 msgid ""
 "Just as banks need to protect themselves from thieves, we also have to "
 "protect ourselves - against companies tracking us online, classmates that "
@@ -484,34 +488,35 @@ msgid ""
 "angry about something, or nosy parents being... nosy parents. "
 msgstr ""
 
-#: original/en.txt:209
+#: original/en.txt:211
 msgid ""
 "We should ask ourselves what the real threats are and what we can do about "
 "them. Once we have thought about these threats, we'll find that it really is "
 "possible to keep ourselves safe and control our privacy."
 msgstr ""
 
-#: original/en.txt:215
+#: original/en.txt:217
 msgid ""
 "CHAPTER 5\n"
 "Safer messaging"
 msgstr ""
 
-#: original/en.txt:217
-msgid "We all use our phones to send messages to friends and family. "
+#: original/en.txt:219
+msgid ""
+"Those of us with mobile phones use it to send messages to friends and family."
 msgstr ""
 
-#: original/en.txt:219
+#: original/en.txt:221
 msgid ""
 "But some messaging apps record all our messages and track who we talk to. "
 "Some apps do this so they can profit from this information."
 msgstr ""
 
-#: original/en.txt:221
+#: original/en.txt:223
 msgid "» What you say and do online is very valuable for companies. "
 msgstr ""
 
-#: original/en.txt:223
+#: original/en.txt:225
 msgid ""
 "The companies who make messaging apps often scan what we say. They track who "
 "we're talking to so they can show us advertisement to make us buy something "
@@ -522,7 +527,7 @@ msgid ""
 "safe."
 msgstr ""
 
-#: original/en.txt:228
+#: original/en.txt:230
 msgid ""
 "» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE…\n"
 "[Q] …I can be sure that they will never use or sell my data.\n"
@@ -530,29 +535,29 @@ msgid ""
 "[N] …I can be sure that only my friends can see the photos I post there"
 msgstr ""
 
-#: original/en.txt:234
+#: original/en.txt:236
 msgid ""
 "CHAPTER 6\n"
 "Smartphone security"
 msgstr ""
 
-#: original/en.txt:236
+#: original/en.txt:238
 msgid "Our phones have become very important for using the internet."
 msgstr ""
 
-#: original/en.txt:238
+#: original/en.txt:240
 msgid ""
 "We use them when we want to communicate with our friends and family, when we "
 "use social networks or just browse the web."
 msgstr ""
 
-#: original/en.txt:240
+#: original/en.txt:242
 msgid ""
 "But our phones are also useful for many other things, we can use them as a "
 "torch, to play games or to check the time of the next bus."
 msgstr ""
 
-#: original/en.txt:243
+#: original/en.txt:245
 msgid ""
 "When you install a new app, do you read what permission you are giving the "
 "app and how it can access information on your phone? Does a torch app really "
@@ -560,14 +565,14 @@ msgid ""
 "access to your address book?"
 msgstr ""
 
-#: original/en.txt:245
+#: original/en.txt:247
 msgid ""
 "It is very tempting to just skip past the »Accept« screen, but it is better "
 "to stop and think. There are good reasons not to trust an app that is asking "
 "for stuff that it obviously does not need."
 msgstr ""
 
-#: original/en.txt:247
+#: original/en.txt:249
 msgid ""
 "With just a few clicks we can also check and even restrict the permissions "
 "of our phones or apps that are already installed. On most devices we can "
@@ -575,23 +580,23 @@ msgid ""
 "phone, it is good to learn about how your phone works."
 msgstr ""
 
-#: original/en.txt:249
+#: original/en.txt:251
 msgid "» Many apps get access to the personal stuff stored on your phone."
 msgstr ""
 
-#: original/en.txt:251
+#: original/en.txt:253
 msgid ""
 "We can restrict access to our location and to our addressbook and we can add "
 "a password or fingerprint check to unlock our phone screen."
 msgstr ""
 
-#: original/en.txt:253
+#: original/en.txt:255
 msgid ""
 "Making our phones more secure and privacy-friendly, doesn't take much time. "
 "Towards the end of this booklet, you can find a list of great apps for this."
 msgstr ""
 
-#: original/en.txt:256
+#: original/en.txt:258
 msgid ""
 "» DID YOU KNOW?\n"
 "If there is a good reason to give an app permission for something – a photo "
@@ -601,30 +606,30 @@ msgid ""
 "permissions."
 msgstr ""
 
-#: original/en.txt:258
+#: original/en.txt:260
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
 msgstr ""
 
-#: original/en.txt:260
+#: original/en.txt:262
 msgid "MIND FREER"
 msgstr ""
 
-#: original/en.txt:264
+#: original/en.txt:266
 msgid ""
 "POWERS: He fights for your right to decide what to share and with whom. He "
 "has the ability to create a private and secure environment where you can say "
 "what you think."
 msgstr ""
 
-#: original/en.txt:266
+#: original/en.txt:268
 msgid "WEAPONS: His mind."
 msgstr ""
 
-#: original/en.txt:268
+#: original/en.txt:270
 msgid "MAN IN THE MIDDLE."
 msgstr ""
 
-#: original/en.txt:272
+#: original/en.txt:274
 msgid ""
 "POWERS: He has mystical powers to intercept what you do online. He can "
 "pretend to be a legitimate person online and then use this to hack right "
@@ -632,27 +637,27 @@ msgid ""
 "your videos."
 msgstr ""
 
-#: original/en.txt:274
+#: original/en.txt:276
 msgid "WEAPONS: His suit and antennas."
 msgstr ""
 
-#: original/en.txt:280
+#: original/en.txt:282
 msgid ""
 "CHAPTER 7\n"
 "Surfing the internet"
 msgstr ""
 
-#: original/en.txt:282
+#: original/en.txt:284
 msgid "A browser is often how we use the internet."
 msgstr ""
 
-#: original/en.txt:284
+#: original/en.txt:286
 msgid ""
 "» It's easy to forget that the browser is a powerful piece of software "
 "itself."
 msgstr ""
 
-#: original/en.txt:286
+#: original/en.txt:288
 msgid ""
 "It is sometimes the first thing you open when turning on your phone, tablet "
 "or computer, and the last thing you close. But a lot goes on inside the "
@@ -660,18 +665,18 @@ msgid ""
 "privacy."
 msgstr ""
 
-#: original/en.txt:288
+#: original/en.txt:290
 msgid ""
 "When we go online to buy something, watch videos or to see what our friends "
 "have been posting recently, we leave digital footprints. Some websites and "
 "social networks use these footprints to follow us."
 msgstr ""
 
-#: original/en.txt:290
+#: original/en.txt:292
 msgid "» Websites collect lots of stuff about us!"
 msgstr ""
 
-#: original/en.txt:292
+#: original/en.txt:294
 msgid ""
 "Who our friends are, what we like, what we are searching for and what we are "
 "listening to can all be tracked. These websites can do this because they use "
@@ -679,21 +684,21 @@ msgid ""
 "devices."
 msgstr ""
 
-#: original/en.txt:294
+#: original/en.txt:296
 msgid ""
 "They are invisible to us but when enough of data is collected and combined "
 "with other information about us, personal details that we think are secret "
 "become known to many people and companies."
 msgstr ""
 
-#: original/en.txt:296
+#: original/en.txt:298
 msgid ""
 "Most devices come with a browser. On Windows proposes Edge, Apple devices "
 "come with Safari, and Android devices' default browser is Google Chrome. But "
 "those are not necessarily the browsers that protect your privacy best."
 msgstr ""
 
-#: original/en.txt:299
+#: original/en.txt:301
 msgid ""
 "» DID YOU KNOW?\n"
 "Make sure to check the »privacy options« of your browser and change the "
@@ -704,41 +709,41 @@ msgid ""
 "it very easily."
 msgstr ""
 
-#: original/en.txt:301
+#: original/en.txt:303
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (III)"
 msgstr ""
 
-#: original/en.txt:303
+#: original/en.txt:305
 msgid "PERFECT WAVE"
 msgstr ""
 
-#: original/en.txt:307
+#: original/en.txt:309
 msgid ""
 "POWERS: He can navigate space, hyperspace and cyberspace on his board. The "
 "Perfect Wave does not require food or drink, he can survive by converting "
 "data into energy. He is almost totally indestructible."
 msgstr ""
 
-#: original/en.txt:309
+#: original/en.txt:311
 msgid "WEAPONS: His surfboard."
 msgstr ""
 
-#: original/en.txt:311
+#: original/en.txt:313
 msgid "KRAZY KOOKIE"
 msgstr ""
 
-#: original/en.txt:315
+#: original/en.txt:317
 msgid ""
 "POWERS: He is always looking for a fight. He hates all Defenders but "
 "considers the Perfect Wave his worst enemy. He has a monstrous appetite for "
 "your secrets."
 msgstr ""
 
-#: original/en.txt:317
+#: original/en.txt:319
 msgid "WEAPONS: His spinning robot arm."
 msgstr ""
 
-#: original/en.txt:322
+#: original/en.txt:324
 msgid ""
 "» QUEST 4: SOME APPS …\n"
 "[F] …are so secure that I never have to think about my privacy at all when "
@@ -747,38 +752,38 @@ msgid ""
 "[O] …can access my contacts, pictures, and messages."
 msgstr ""
 
-#: original/en.txt:328
+#: original/en.txt:330
 msgid ""
 "CHAPTER 8\n"
 "Password security"
 msgstr ""
 
-#: original/en.txt:330
+#: original/en.txt:332
 msgid "Passwords are very important in the digital age."
 msgstr ""
 
-#: original/en.txt:332
+#: original/en.txt:334
 msgid ""
 "Incredibly important, in fact. They form the basis of your security and "
 "privacy. And most people's passwords are very, very weak – the most commonly "
 "used passwords are »password« and »12345«."
 msgstr ""
 
-#: original/en.txt:334
+#: original/en.txt:336
 msgid "Creating a secure password is not very difficult."
 msgstr ""
 
-#: original/en.txt:336
+#: original/en.txt:338
 msgid "1. Never use the same password twice"
 msgstr ""
 
-#: original/en.txt:338
+#: original/en.txt:340
 msgid ""
 "This is really one of the most important rules! At least, try to make "
 "different versions of the password you created."
 msgstr ""
 
-#: original/en.txt:340
+#: original/en.txt:342
 msgid ""
 "Why? Because if criminals (like Data Smuggler) get access to the passwords "
 "of one of your accounts, they often try to enter other accounts with the "
@@ -786,15 +791,15 @@ msgid ""
 "several sites!"
 msgstr ""
 
-#: original/en.txt:342
+#: original/en.txt:344
 msgid "2. Never use a word from the dictionary"
 msgstr ""
 
-#: original/en.txt:344
+#: original/en.txt:346
 msgid "…no matter how long it may be or how complicated it may look."
 msgstr ""
 
-#: original/en.txt:346
+#: original/en.txt:348
 msgid ""
 "Why? Because there are computer programmes that try every single word in the "
 "dictionary as a way of »guessing« your password. Every superhero in our "
@@ -802,59 +807,59 @@ msgid ""
 "password is your weapon to get out of danger!"
 msgstr ""
 
-#: original/en.txt:348
+#: original/en.txt:350
 msgid "3. Your password should be at least 12 characters long"
 msgstr ""
 
-#: original/en.txt:350
+#: original/en.txt:352
 msgid ""
 "This is the minimum. The longer a password is, the more difficult it is to "
 "hack it."
 msgstr ""
 
-#: original/en.txt:352
+#: original/en.txt:354
 msgid ""
 "Why? Because the longer it is, the more difficult it is to guess. Some "
 "experts say that it is OK to write it down on a piece of paper, just hide it "
 "very well!"
 msgstr ""
 
-#: original/en.txt:354
+#: original/en.txt:356
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (IV)"
 msgstr ""
 
-#: original/en.txt:356
+#: original/en.txt:358
 msgid "QUEEN OF LOCKS"
 msgstr ""
 
-#: original/en.txt:360
+#: original/en.txt:362
 msgid ""
 "POWERS: She fights for privacy and security. She gives powerful private keys "
 "to people who are in danger and helps them to secure their personal "
 "information online."
 msgstr ""
 
-#: original/en.txt:362
+#: original/en.txt:364
 msgid ""
 "WEAPONS: Her helmet – she uses it to shoot energy beams from her eyes. She "
 "can cut right through Finn Phisher's dangerous net."
 msgstr ""
 
-#: original/en.txt:364
+#: original/en.txt:366
 msgid "FINN PHISHER"
 msgstr ""
 
-#: original/en.txt:368
+#: original/en.txt:370
 msgid ""
 "POWERS: He possesses superhuman strength, speed and reflexes. He uses his "
 "powers to sneak into your phone and fish for your secrets."
 msgstr ""
 
-#: original/en.txt:370
+#: original/en.txt:372
 msgid "WEAPONS: He throws an electrostatic data net to stun his opponents."
 msgstr ""
 
-#: original/en.txt:375
+#: original/en.txt:377
 msgid ""
 "» QUEST 5: WHEN I BROWSE THE INTERNET…\n"
 "[X] …I can do whatever I want and I'm safe – it's not reality!\n"
@@ -863,63 +868,63 @@ msgid ""
 "[Y] …being too careful is just paranoid because I have nothing to hide."
 msgstr ""
 
-#: original/en.txt:381
+#: original/en.txt:383
 msgid ""
 "CHAPTER 9\n"
 "Photo and video sharing"
 msgstr ""
 
-#: original/en.txt:383
+#: original/en.txt:385
 msgid ""
 "We tell our friends about our daily life by sharing images and videos with "
 "them online."
 msgstr ""
 
-#: original/en.txt:385
+#: original/en.txt:387
 msgid "» Sharing is cool – but photos and videos can be copied easily."
 msgstr ""
 
-#: original/en.txt:387
+#: original/en.txt:389
 msgid ""
 "Remember that it is always important to make sure that we are not sharing "
 "with people we don't want to share with. People might be able to see our "
 "private images, and misuse them."
 msgstr ""
 
-#: original/en.txt:389
+#: original/en.txt:391
 msgid ""
 "What is the problem? If we send an image or video, we send a copy of it from "
 "our device to the device of a friend. Imagine that our friend shares the "
 "image again with others. Every copy can be copied again."
 msgstr ""
 
-#: original/en.txt:391
+#: original/en.txt:393
 msgid ""
 "If we share a photo or video online, there will always be several copies of "
 "it on different devices. Even if we delete the original image from our own "
 "devices, the other copies will still be there."
 msgstr ""
 
-#: original/en.txt:393
+#: original/en.txt:395
 msgid ""
 "When we share, our stuff can get into the hands of people that we didn't "
 "want to share with."
 msgstr ""
 
-#: original/en.txt:395
+#: original/en.txt:397
 msgid ""
 "Some people could even try to steal our identity by using our images – just "
 "like I.D. Thief."
 msgstr ""
 
-#: original/en.txt:397
+#: original/en.txt:399
 msgid ""
 "Snapchat is an app to share pictures that disappear quickly. Unfortunately, "
 "it is still possible to save a photo with a few tricks and share it again. "
 "Thousands of Snapchat images have already been put on the internet."
 msgstr ""
 
-#: original/en.txt:399
+#: original/en.txt:401
 msgid ""
 "This means that we all have to live with the fact that social networks can "
 "be used in good ways as well as in bad ways. So you need to think before "
@@ -928,44 +933,44 @@ msgid ""
 "not, it's maybe not a good idea to share it online."
 msgstr ""
 
-#: original/en.txt:401
+#: original/en.txt:403
 msgid ""
 "If our photo shows other people, we have to ask for their permission before "
 "sharing, because it is their right to decide."
 msgstr ""
 
-#: original/en.txt:403
+#: original/en.txt:405
 msgid ""
 "For images that we did not take ourselves, we should ask the owner for "
 "permission before we share them online."
 msgstr ""
 
-#: original/en.txt:405
+#: original/en.txt:407
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (V)"
 msgstr ""
 
-#: original/en.txt:407
+#: original/en.txt:409
 msgid "JOHNNY RANDOM"
 msgstr ""
 
-#: original/en.txt:411
+#: original/en.txt:413
 msgid ""
 "POWERS: He was born on planet Entropia, somewhere in a far away Galaxy. As "
 "all members of his species, he has the ability to change his shape at will. "
 "He can shield your secrets with randomly changing passwords."
 msgstr ""
 
-#: original/en.txt:413
+#: original/en.txt:415
 msgid ""
 "WEAPONS: His main weaponry are energy charged parts of his body that he can "
 "throw and recover at any time."
 msgstr ""
 
-#: original/en.txt:415
+#: original/en.txt:417
 msgid "DATA SMUGGLER"
 msgstr ""
 
-#: original/en.txt:419
+#: original/en.txt:421
 msgid ""
 "POWERS: He is very rich and has abilities far superior to humans. He is "
 "incredibly flexible and has superhuman strength. He collects precious "
@@ -973,196 +978,196 @@ msgid ""
 "market."
 msgstr ""
 
-#: original/en.txt:421
+#: original/en.txt:423
 msgid "WEAPONS: He carries different types of weapons in his suitcase."
 msgstr ""
 
-#: original/en.txt:426
+#: original/en.txt:428
 msgid ""
 "CHAPTER 10\n"
 "Apps & tools we like"
 msgstr ""
 
-#: original/en.txt:428
+#: original/en.txt:430
 msgid "SMARTPHONE APPS"
 msgstr ""
 
-#: original/en.txt:430
+#: original/en.txt:432
 msgid "App | What it does | Difficulty to use"
 msgstr ""
 
-#: original/en.txt:432
+#: original/en.txt:434
 msgid "Signal | Secure messaging and phone calls (WhatsApp alternative) | Easy"
 msgstr ""
 
-#: original/en.txt:434 original/en.txt:454
+#: original/en.txt:436 original/en.txt:456
 msgid "Firefox | A privacy-friendly web browser | Easy"
 msgstr ""
 
-#: original/en.txt:436
+#: original/en.txt:438
 msgid "KeePass DX | Manages all your passwords | Easy"
 msgstr ""
 
-#: original/en.txt:438
+#: original/en.txt:440
 msgid ""
 "F-Droid | App store with apps that are open and free software (Google Play "
 "alternative) | Easy"
 msgstr ""
 
-#: original/en.txt:440
+#: original/en.txt:442
 msgid "K9-Mail | Manages your emails | Medium"
 msgstr ""
 
-#: original/en.txt:442
+#: original/en.txt:444
 msgid "Transportr | Public transport, check bus and train times | Easy"
 msgstr ""
 
-#: original/en.txt:444
+#: original/en.txt:446
 msgid "Jitsi Meet | Secure video group calls (Skype alternative) | Easy"
 msgstr ""
 
-#: original/en.txt:446 original/en.txt:462
+#: original/en.txt:448 original/en.txt:464
 msgid "Tor Browser | Surf the web anonymously | Easy"
 msgstr ""
 
-#: original/en.txt:448
+#: original/en.txt:450
 msgid "OpenKeychain | Encrypt emails in K9-Mail | Difficult"
 msgstr ""
 
-#: original/en.txt:450
+#: original/en.txt:452
 msgid "SOFTWARE FOR WINDOWS, MAC AND LINUX"
 msgstr ""
 
-#: original/en.txt:452
+#: original/en.txt:454
 msgid "Software | What it does | Difficulty to use"
 msgstr ""
 
-#: original/en.txt:456
+#: original/en.txt:458
 msgid "Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium"
 msgstr ""
 
-#: original/en.txt:458
+#: original/en.txt:460
 msgid "Thunderbird | Manages your emails | Medium"
 msgstr ""
 
-#: original/en.txt:460
+#: original/en.txt:462
 msgid "Enigmail | Add-on to encrypt emails in Thunderbird | Difficult"
 msgstr ""
 
-#: original/en.txt:464
+#: original/en.txt:466
 msgid "BROWSER ADD-ONS, PLUG-INS AND EXTENSIONS"
 msgstr ""
 
-#: original/en.txt:466
+#: original/en.txt:468
 msgid "Add-on | What it does | Difficulty to use"
 msgstr ""
 
-#: original/en.txt:468
+#: original/en.txt:470
 msgid "Ublock Origin | Blocks web advertisement and tracking | Easy"
 msgstr ""
 
-#: original/en.txt:470
+#: original/en.txt:472
 msgid "Privacy Badger | Blocks online tracking | Easy"
 msgstr ""
 
-#: original/en.txt:472
+#: original/en.txt:474
 msgid ""
 "HTTPS Everywhere | Forces websites to encrypt your traffic if possible | Easy"
 msgstr ""
 
-#: original/en.txt:474
+#: original/en.txt:476
 msgid ""
 "Cookie AutoDelete | Removes cookies when they are no longer used by open "
 "browser tabs | Medium"
 msgstr ""
 
-#: original/en.txt:476
+#: original/en.txt:478
 msgid "NoScript | Blocks JavaScript | Difficult"
 msgstr ""
 
-#: original/en.txt:480
+#: original/en.txt:482
 msgid ""
 "CHAPTER 11\n"
 "Hands-on guide for Signal"
 msgstr ""
 
-#: original/en.txt:482
+#: original/en.txt:484
 msgid ""
 "Signal is a free Android and iPhone app. It doesn't watch what we say or who "
 "we talk to. We can use it to text, call, and share pictures, videos, and "
 "contacts."
 msgstr ""
 
-#: original/en.txt:484
+#: original/en.txt:486
 msgid ""
 "It is not the only app we can use to communicate safely, but it is one of "
 "the easiest to use. Here is a handson-guide for it in five simple steps:"
 msgstr ""
 
-#: original/en.txt:486
+#: original/en.txt:488
 msgid ""
 "1. Go into the Play Store (Android) or App Store (iPhone). Search for "
 "»Signal«. Select the app »Signal Private Messenger« and tap ›Install‹. After "
 "Signal is installed, open the app."
 msgstr ""
 
-#: original/en.txt:488
+#: original/en.txt:490
 msgid ""
 "2. Register your phone number with Signal by entering your mobile phone "
 "number and selecting ›Register‹ or ›Verify your device‹. You'll get a text "
 "message with a six digit code. Put that code into Signal."
 msgstr ""
 
-#: original/en.txt:490
+#: original/en.txt:492
 msgid ""
 "3. Tap the pencil on the bottom right (Android) or the »+« symbol on the top "
 "right (iPhone) to start a conversation."
 msgstr ""
 
-#: original/en.txt:492
+#: original/en.txt:494
 msgid "4. Select the person you want to text or call."
 msgstr ""
 
-#: original/en.txt:494
+#: original/en.txt:496
 msgid ""
 "5. If you want to change between secure messages via your internet "
 "connection and insecure SMS, just hold the »Send« button for a tiny bit "
 "longer."
 msgstr ""
 
-#: original/en.txt:496
+#: original/en.txt:498
 msgid ""
 "It's much more secure when the person who we're contacting is using Signal "
 "too. It uses our internet connection when we contact another Signal user and "
 "normal SMS or minutes when we contact someone who is not using Signal."
 msgstr ""
 
-#: original/en.txt:498
+#: original/en.txt:500
 msgid ""
 "Remember! You don't have to get everyone you know to use Signal. Just tell "
 "your closest friends and the people you contact most often to install it too "
 "and then more and more of your friends will start using it."
 msgstr ""
 
-#: original/en.txt:500
+#: original/en.txt:502
 msgid "This booklet was made possible thanks to:"
 msgstr ""
 
-#: original/en.txt:503
+#: original/en.txt:505
 msgid ""
 "• Individual donors on GlobalGiving.com – thank you all for your "
 "contribution!\n"
 "• The Adessium Foundation and Open Society Foundations"
 msgstr ""
 
-#: original/en.txt:506
+#: original/en.txt:508
 msgid ""
 "This document is distributed under a Creative Commons 2.0 Licence (CC BY "
 "2.0)\n"
 "http://creativecommons.org/licenses/by/2.0/"
 msgstr ""
 
-#: original/en.txt:510
+#: original/en.txt:512
 msgid ""
 "» QUEST 6: I SHOULD CHOOSE AS MY PASSWORD …\n"
 "[R] …a random combination of letters, numbers and special characters.\n"
