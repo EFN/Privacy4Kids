@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-26 15:49+0200\n"
-"PO-Revision-Date: 2019-11-26 15:45+0000\n"
+"PO-Revision-Date: 2019-11-26 16:01+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/nb_NO/>\n"
@@ -1342,7 +1342,7 @@ msgstr ""
 
 #: original/en.txt:436 original/en.txt:456
 msgid "Firefox | A privacy-friendly web browser | Easy"
-msgstr "Firefox | En privatsfære-vennlig nettleser | Enkel"
+msgstr "Firefox | En privatsfære-vennlig nettleser | Enkelt"
 
 #: original/en.txt:438
 msgid "KeePass DX | Manages all your passwords | Easy"
@@ -1366,7 +1366,7 @@ msgstr ""
 
 #: original/en.txt:446
 msgid "Jitsi Meet | Secure video group calls (Skype alternative) | Easy"
-msgstr "Jitsi Meet | Sikre gruppevideosamtaler (Skype-alternativ) | Enkel"
+msgstr "Jitsi Meet | Sikre gruppevideosamtaler (Skype-alternativ) | Enkelt"
 
 #: original/en.txt:448 original/en.txt:464
 msgid "Tor Browser | Surf the web anonymously | Easy"
@@ -1408,7 +1408,7 @@ msgstr "Nettlesertillegg | Hva det gjør | Enkelhet i bruk"
 
 #: original/en.txt:470
 msgid "Ublock Origin | Blocks web advertisement and tracking | Easy"
-msgstr "Ublock Origin | Blokkerer nettannonser og sporing | Enkel"
+msgstr "Ublock Origin | Blokkerer nettannonser og sporing | Enkelt"
 
 #: original/en.txt:472
 msgid "Privacy Badger | Blocks online tracking | Easy"
