@@ -143,6 +143,32 @@ Only 20 years ago, most homes had only one phone line which only one person coul
 
 
 CHAPTER 3
+Top three tips and tricks
+
+1. Not everyone has to know everything about us
+
+Like in the offline world, it is better to choose carefully what we want to share and with whom. Instinctively, we share some things with some people and not with others. 
+The internet sometimes makes it difficult to make that choice. 
+
+This is partly because it's not always clear what is private online and what isn't, and partly because the internet has different rules than the offline world. 
+
+For example: Our friends will forgive a stupid comment we made when we were angry, and understand our behaviour because they know us. If someone else reads our comment online, they might not understand what we meant and might think we were being mean. 
+
+2. Safety and privacy online isn't difficult
+
+We don't have to be super nerds to keep ourselves safe online. We can protect a tablet, phone or laptop so that our classmates cannot access it. We can use a password that no one else can guess, and watch videos online without being tracked. We can do this in really simple ways.
+
+3. Knowing what or who we are protecting ourselves against
+
+Just as banks need to protect themselves from thieves, we also have to protect ourselves - against companies tracking us online, classmates that might be 
+angry about something, or nosy parents being... nosy parents. 
+
+We should ask ourselves what the real threats are and what we can do about them. Once we have thought about these threats, we'll find that it really is possible to keep ourselves safe and control our privacy.
+
+
+
+
+CHAPTER 4
 Protect yourself on social networks
 
 It can be so much fun to use social networks. On social networks, we can chat with friends and family, share pictures, send private messages and post information publicly. 
@@ -186,52 +212,7 @@ WEAPONS: The Alpha Virus – which she uses to infiltrate computers and phones.
 
 
 
-CHAPTER 4
-Top three tips and tricks
-
-1. Not everyone has to know everything about us
-
-Like in the offline world, it is better to choose carefully what we want to share and with whom. Instinctively, we share some things with some people and not with others. 
-The internet sometimes makes it difficult to make that choice. 
-
-This is partly because it's not always clear what is private online and what isn't, and partly because the internet has different rules than the offline world. 
-
-For example: Our friends will forgive a stupid comment we made when we were angry, and understand our behaviour because they know us. If someone else reads our comment online, they might not understand what we meant and might think we were being mean. 
-
-2. Safety and privacy online isn't difficult
-
-We don't have to be super nerds to keep ourselves safe online. We can protect a tablet, phone or laptop so that our classmates cannot access it. We can use a password that no one else can guess, and watch videos online without being tracked. We can do this in really simple ways.
-
-3. Knowing what or who we are protecting ourselves against
-
-Just as banks need to protect themselves from thieves, we also have to protect ourselves - against companies tracking us online, classmates that might be 
-angry about something, or nosy parents being... nosy parents. 
-
-We should ask ourselves what the real threats are and what we can do about them. Once we have thought about these threats, we'll find that it really is possible to keep ourselves safe and control our privacy.
-
-
-
-
 CHAPTER 5
-Safer messaging
-
-Those of us with mobile phones use it to send messages to friends and family.
-
-But some messaging apps record all our messages and track who we talk to. Some apps do this so they can profit from this information.
-
-» What you say and do online is very valuable for companies. 
-
-The companies who make messaging apps often scan what we say. They track who we're talking to so they can show us advertisement to make us buy something or to share it with other companies. You can check out a list of cool messaging apps at the end of the booklet. These messaging apps also ensure that we don't receive texts from strangers. And there is also a guide how to install Signal in this booklet – Signal is a cool app to keep your messages safe.
-
-» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE…
-[Q] …I can be sure that they will never use or sell my data.
-[M] …I can stay in touch with friends and family.
-[N] …I can be sure that only my friends can see the photos I post there
-
-
-
-
-CHAPTER 6
 Smartphone security
 
 Our phones have become very important for using the internet.
@@ -273,6 +254,25 @@ TEAM: DATA INTRUDERS
 POWERS: He has mystical powers to intercept what you do online. He can pretend to be a legitimate person online and then use this to hack right into your communications, to read your messages, see your photos and watch your videos.
 
 WEAPONS: His suit and antennas.
+
+
+
+
+CHAPTER 6
+Safer messaging
+
+Those of us with mobile phones use it to send messages to friends and family.
+
+But some messaging apps record all our messages and track who we talk to. Some apps do this so they can profit from this information.
+
+» What you say and do online is very valuable for companies. 
+
+The companies who make messaging apps often scan what we say. They track who we're talking to so they can show us advertisement to make us buy something or to share it with other companies. You can check out a list of cool messaging apps at the end of the booklet. These messaging apps also ensure that we don't receive texts from strangers. And there is also a guide how to install Signal in this booklet – Signal is a cool app to keep your messages safe.
+
+» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE…
+[Q] …I can be sure that they will never use or sell my data.
+[M] …I can stay in touch with friends and family.
+[N] …I can be sure that only my friends can see the photos I post there
 
 
 
