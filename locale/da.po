@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-26 15:49+0200\n"
+"POT-Creation-Date: 2019-11-27 21:34+0200\n"
 "PO-Revision-Date: 2019-11-27 08:36+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/efn/privacy4kids/"
@@ -118,7 +118,7 @@ msgstr ""
 "Mediamocracy"
 
 #: original/en.txt:42
-msgid "English edition updated 2019-11-26."
+msgid "English edition updated 2019-11-27."
 msgstr ""
 
 #: original/en.txt:44
@@ -436,14 +436,107 @@ msgstr ""
 "[T]… et socialt netværk."
 
 #: original/en.txt:147
+#, fuzzy
 msgid ""
 "CHAPTER 3\n"
+"Top three tips and tricks"
+msgstr ""
+"KAPITEL 4\n"
+"Top tre tips og trick"
+
+#: original/en.txt:149
+msgid "1. Not everyone has to know everything about us"
+msgstr "1 . Ikke alle skal ikke vide alt om os"
+
+#: original/en.txt:152
+#, fuzzy
+msgid ""
+"Like in the offline world, it is better to choose carefully what we want to "
+"share and with whom. Instinctively, we share some things with some people "
+"and not with others. \n"
+"The internet sometimes makes it difficult to make that choice. "
+msgstr ""
+"Lige som i den normale verden er det bedre at være omhyggelig i udvælgelsen "
+"af, hvad vi ønsker at dele eller ej. Instinktivt deler vi nogle ting med "
+"nogle mennesker og ikke med andre.\n"
+"Internettet gør det nogle gange svært at foretage det valg. "
+
+#: original/en.txt:154
+msgid ""
+"This is partly because it's not always clear what is private online and what "
+"isn't, and partly because the internet has different rules than the offline "
+"world. "
+msgstr ""
+"Dette er delvis fordi, det ikke altid er klart, hvad der er privat på nettet "
+"og hvad der ikke er, og delvis fordi der på Internettet gælder andre regler "
+"end i den virkelige verden. "
+
+#: original/en.txt:156
+msgid ""
+"For example: Our friends will forgive a stupid comment we made when we were "
+"angry, and understand our behaviour because they know us. If someone else "
+"reads our comment online, they might not understand what we meant and might "
+"think we were being mean. "
+msgstr ""
+"For eksempel: Vores venner vil tilgive en dum kommentar som vi er kommet med "
+"i vrede og forstår vores opførsel fordi de kender os. Hvis nogen anden læser "
+"vores kommentarer på nettet, forstår de måske ikke, hvad vi mente og kan "
+"tro, at det var ondsindet ment. "
+
+#: original/en.txt:158
+msgid "2. Safety and privacy online isn't difficult"
+msgstr "2 . Tryghed og beskyttelse af privatlivet på nettet er ikke svært"
+
+#: original/en.txt:160
+#, fuzzy
+msgid ""
+"We don't have to be super nerds to keep ourselves safe online. We can "
+"protect a tablet, phone or laptop so that our classmates cannot access it. "
+"We can use a password that no one else can guess, and watch videos online "
+"without being tracked. We can do this in really simple ways."
+msgstr ""
+"Vi behøver ikke at være supernørder for at færdes sikkert online.  Vi kan "
+"bruge en tablet, telefon eller en bærbar som vores klassekammerater ikke har "
+"adgang til, et kodeord ingen andet kan gætte, se videoer på nettet uden at "
+"blive sporet. Dette lader sig gøre på enkel vis."
+
+#: original/en.txt:162
+#, fuzzy
+msgid "3. Knowing what or who we are protecting ourselves against"
+msgstr "3 . At vide hvad eller hvem vi beskytter os mod"
+
+#: original/en.txt:165
+msgid ""
+"Just as banks need to protect themselves from thieves, we also have to "
+"protect ourselves - against companies tracking us online, classmates that "
+"might be \n"
+"angry about something, or nosy parents being... nosy parents. "
+msgstr ""
+"Lige som banker er nødt til at beskytte sig mod tyve, må vi også beskytte os "
+"selv - mod virksomheder som sporer os på nettet, klassekammerater som kan "
+"være sure på os over noget eller snusende forældre som er… snusende "
+"forældre. "
+
+#: original/en.txt:167
+msgid ""
+"We should ask ourselves what the real threats are and what we can do about "
+"them. Once we have thought about these threats, we'll find that it really is "
+"possible to keep ourselves safe and control our privacy."
+msgstr ""
+"Vi bør spørge os selv om, hvad de reelle trusler er og hvad kan gøre ved "
+"dem. Når vi først har tænkt over disse truslerne, vil vi indse, at det reelt "
+"er muligt at sikre os selv og vores privatliv."
+
+#: original/en.txt:173
+#, fuzzy
+msgid ""
+"CHAPTER 4\n"
 "Protect yourself on social networks"
 msgstr ""
 "KAPITEL 3\n"
 "Beskyt dig selv på sociale netværk"
 
-#: original/en.txt:149
+#: original/en.txt:175
 msgid ""
 "It can be so much fun to use social networks. On social networks, we can "
 "chat with friends and family, share pictures, send private messages and post "
@@ -453,7 +546,7 @@ msgstr ""
 "venner og familie, dele billeder, sende private beskeder og poste "
 "information offentligt. "
 
-#: original/en.txt:151
+#: original/en.txt:177
 #, fuzzy
 msgid ""
 "In some countries, children under the age of 13 are not allowed to use some "
@@ -464,7 +557,7 @@ msgstr ""
 "Hvis du ønsker at bruge sociale netværk, er det bedst at spørge familie og "
 "lærere for at være sikker. "
 
-#: original/en.txt:153
+#: original/en.txt:179
 #, fuzzy
 msgid ""
 ">> Facebook, Instagram, Twitter, Snapchat, Diaspora and many more are all "
@@ -473,12 +566,12 @@ msgstr ""
 ">> YouTube, Facebook, Instagram, Snapchat, Diaspora og mange flere er alle "
 "sociale netværk."
 
-#: original/en.txt:155
+#: original/en.txt:181
 #, fuzzy
 msgid "Do you have a favourite? Why do you like them? "
 msgstr "Har du nogen favoritter? Hvorfor kan lide du dem? "
 
-#: original/en.txt:157
+#: original/en.txt:183
 #, fuzzy
 msgid ""
 "Some social networks even store messages we decided not to send! Imagine "
@@ -489,7 +582,7 @@ msgstr ""
 "når du skriver en besked til din ven på Facebook, som du ikke sender, så vil "
 "din ven ikke få kendskab til den. Men Facebook gemmer den! "
 
-#: original/en.txt:159
+#: original/en.txt:185
 #, fuzzy
 msgid ""
 "Keep in mind that everything you do on a social network is recorded on the "
@@ -501,7 +594,7 @@ msgstr ""
 "går igennem, selskabernes computere. Det betyder ikke, at de har til hensigt "
 "at gøre noget dårligt med det - men du bør vide, at dette sker."
 
-#: original/en.txt:162
+#: original/en.txt:188
 #, fuzzy
 msgid ""
 "» DID YOU KNOW?\n"
@@ -516,7 +609,7 @@ msgstr ""
 "(såsom YouTube, Facebook, Snapchat og så videre) kan registrere hvad vi "
 "skriver, de hjemmesider vi besøger og de ting vi søger efter på nettet. "
 
-#: original/en.txt:167
+#: original/en.txt:193
 msgid ""
 "» QUEST 2: PRIVACY IS  IMPORTANT BECAUSE…\n"
 "[T] …it helps us to watch music videos.\n"
@@ -528,20 +621,20 @@ msgstr ""
 "[U] ... det hjælper os  med at være frie og beholde kontrol på nettet. \n"
 "[G] ... det hjælper os med at dele billeder med hele verden."
 
-#: original/en.txt:169
+#: original/en.txt:195
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (I)"
 msgstr "DIGITALE FORSVARERE MOD DATAINDTRÆNGERE (I)"
 
-#: original/en.txt:171
+#: original/en.txt:197
 msgid "MS. ANONYMITY"
 msgstr "FR. ANONYMITET"
 
-#: original/en.txt:173 original/en.txt:264 original/en.txt:307
+#: original/en.txt:199 original/en.txt:245 original/en.txt:307
 #: original/en.txt:360 original/en.txt:411
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "HOLD: DIGITALE FORSVARERE"
 
-#: original/en.txt:175
+#: original/en.txt:201
 msgid ""
 "POWERS: Government tests have augmented her immune system. She also has the "
 "ability to use social networks anonymously, so nobody knows who she really "
@@ -552,22 +645,22 @@ msgstr ""
 "muligheden for at bruge sociale netværk anonymt, således at ingen ved, hvem "
 "hun egentligt er."
 
-#: original/en.txt:177
+#: original/en.txt:203
 msgid "WEAPONS: She is a skilled hand-to-hand fighter"
 msgstr ""
 "VÅBEN:\n"
 "Hun er dygtig til nærkamp"
 
-#: original/en.txt:179
+#: original/en.txt:205
 msgid "I.D. THIEF"
 msgstr "ID-TYV"
 
-#: original/en.txt:181 original/en.txt:272 original/en.txt:315
+#: original/en.txt:207 original/en.txt:253 original/en.txt:315
 #: original/en.txt:368 original/en.txt:419
 msgid "TEAM: DATA INTRUDERS"
 msgstr "HOLD: DATAINDTRÆNGERE"
 
-#: original/en.txt:183
+#: original/en.txt:209
 msgid ""
 "POWERS: She can see what you do online and then steal your personal "
 "information. She pretends to be you and tries to use your name, social media "
@@ -578,119 +671,174 @@ msgstr ""
 "oplysninger om dig.  Hun lader som om, hun er dig og prøver at bruge dit "
 "navn, sociale medier og e-postkonti til kriminelle aktiviteter."
 
-#: original/en.txt:185
+#: original/en.txt:211
 msgid ""
 "WEAPONS: The Alpha Virus – which she uses to infiltrate computers and phones."
 msgstr ""
 "VÅBEN:\n"
 "Alfavirus – som hun bruger til at infiltrere computere og telefoner."
 
-#: original/en.txt:191
-msgid ""
-"CHAPTER 4\n"
-"Top three tips and tricks"
-msgstr ""
-"KAPITEL 4\n"
-"Top tre tips og trick"
-
-#: original/en.txt:193
-msgid "1. Not everyone has to know everything about us"
-msgstr "1 . Ikke alle skal ikke vide alt om os"
-
-#: original/en.txt:196
-#, fuzzy
-msgid ""
-"Like in the offline world, it is better to choose carefully what we want to "
-"share and with whom. Instinctively, we share some things with some people "
-"and not with others. \n"
-"The internet sometimes makes it difficult to make that choice. "
-msgstr ""
-"Lige som i den normale verden er det bedre at være omhyggelig i udvælgelsen "
-"af, hvad vi ønsker at dele eller ej. Instinktivt deler vi nogle ting med "
-"nogle mennesker og ikke med andre.\n"
-"Internettet gør det nogle gange svært at foretage det valg. "
-
-#: original/en.txt:198
-msgid ""
-"This is partly because it's not always clear what is private online and what "
-"isn't, and partly because the internet has different rules than the offline "
-"world. "
-msgstr ""
-"Dette er delvis fordi, det ikke altid er klart, hvad der er privat på nettet "
-"og hvad der ikke er, og delvis fordi der på Internettet gælder andre regler "
-"end i den virkelige verden. "
-
-#: original/en.txt:200
-msgid ""
-"For example: Our friends will forgive a stupid comment we made when we were "
-"angry, and understand our behaviour because they know us. If someone else "
-"reads our comment online, they might not understand what we meant and might "
-"think we were being mean. "
-msgstr ""
-"For eksempel: Vores venner vil tilgive en dum kommentar som vi er kommet med "
-"i vrede og forstår vores opførsel fordi de kender os. Hvis nogen anden læser "
-"vores kommentarer på nettet, forstår de måske ikke, hvad vi mente og kan "
-"tro, at det var ondsindet ment. "
-
-#: original/en.txt:202
-msgid "2. Safety and privacy online isn't difficult"
-msgstr "2 . Tryghed og beskyttelse af privatlivet på nettet er ikke svært"
-
-#: original/en.txt:204
-#, fuzzy
-msgid ""
-"We don't have to be super nerds to keep ourselves safe online. We can "
-"protect a tablet, phone or laptop so that our classmates cannot access it. "
-"We can use a password that no one else can guess, and watch videos online "
-"without being tracked. We can do this in really simple ways."
-msgstr ""
-"Vi behøver ikke at være supernørder for at færdes sikkert online.  Vi kan "
-"bruge en tablet, telefon eller en bærbar som vores klassekammerater ikke har "
-"adgang til, et kodeord ingen andet kan gætte, se videoer på nettet uden at "
-"blive sporet. Dette lader sig gøre på enkel vis."
-
-#: original/en.txt:206
-#, fuzzy
-msgid "3. Knowing what or who we are protecting ourselves against"
-msgstr "3 . At vide hvad eller hvem vi beskytter os mod"
-
-#: original/en.txt:209
-msgid ""
-"Just as banks need to protect themselves from thieves, we also have to "
-"protect ourselves - against companies tracking us online, classmates that "
-"might be \n"
-"angry about something, or nosy parents being... nosy parents. "
-msgstr ""
-"Lige som banker er nødt til at beskytte sig mod tyve, må vi også beskytte os "
-"selv - mod virksomheder som sporer os på nettet, klassekammerater som kan "
-"være sure på os over noget eller snusende forældre som er… snusende "
-"forældre. "
-
-#: original/en.txt:211
-msgid ""
-"We should ask ourselves what the real threats are and what we can do about "
-"them. Once we have thought about these threats, we'll find that it really is "
-"possible to keep ourselves safe and control our privacy."
-msgstr ""
-"Vi bør spørge os selv om, hvad de reelle trusler er og hvad kan gøre ved "
-"dem. Når vi først har tænkt over disse truslerne, vil vi indse, at det reelt "
-"er muligt at sikre os selv og vores privatliv."
-
 #: original/en.txt:217
+#, fuzzy
 msgid ""
 "CHAPTER 5\n"
+"Smartphone security"
+msgstr ""
+"KAPITEL 6\n"
+"Smartphonesikkerhed"
+
+#: original/en.txt:219
+msgid "Our phones have become very important for using the internet."
+msgstr "Vores telefoner er blevet meget vigtige for brugen af Internettet."
+
+#: original/en.txt:221
+msgid ""
+"We use them when we want to communicate with our friends and family, when we "
+"use social networks or just browse the web."
+msgstr ""
+"Vi bruger dem, når vi ønsker at kommunikere med venner og familie, når vi "
+"bruger sociale netværk, eller ganske enkelt for at surfe."
+
+#: original/en.txt:223
+msgid ""
+"But our phones are also useful for many other things, we can use them as a "
+"torch, to play games or to check the time of the next bus."
+msgstr ""
+"Men vores telefoner er også nyttige på mange andre måder - vi kan bruge dem "
+"som lommelygte, til at spille, eller for at tjekke næste busafgang."
+
+#: original/en.txt:226
+msgid ""
+"When you install a new app, do you read what permission you are giving the "
+"app and how it can access information on your phone? Does a torch app really "
+"need\n"
+"access to your address book?"
+msgstr ""
+"Når du installerer en ny app, læser du så virkelig hvilke rettigheder, du "
+"giver programmet og hvordan det får adgang til informationen på din telefon? "
+"Behøver en lommelygte\n"
+"virkelig adgang til din adresseliste?"
+
+#: original/en.txt:228
+#, fuzzy
+msgid ""
+"It is very tempting to just skip past the »Accept« screen, but it is better "
+"to stop and think. There are good reasons not to trust an app that is asking "
+"for stuff that it obviously does not need."
+msgstr ""
+"Det er meget fristende bare at trykke «Godkend», men det er en god idé at "
+"stoppe op og tænke. Der er gode grunde til at ikke stole på et program, som "
+"spørger om adgang til ting, det åbenlyst ikke behøver."
+
+#: original/en.txt:230
+msgid ""
+"With just a few clicks we can also check and even restrict the permissions "
+"of our phones or apps that are already installed. On most devices we can "
+"find those in the »Settings«. Have a browse around the settings of your "
+"phone, it is good to learn about how your phone works."
+msgstr ""
+"Med blot nogle få klik kan vi også tjekke, og sågar begrænse vores "
+"telefoners rettigheder eller rettighederne for de programmer som allerede er "
+"installerede. På de fleste enheder kan vi finde disse under «Indstillinger». "
+"Undersøg indstillingerne på din telefon, det er nyttigt sætte sig ind i, "
+"hvordan den virker."
+
+#: original/en.txt:232
+#, fuzzy
+msgid "» Many apps get access to the personal stuff stored on your phone."
+msgstr ""
+"» Mange apps får adgang til dine personlige ting, som ligger på din telefon."
+
+#: original/en.txt:234
+msgid ""
+"We can restrict access to our location and to our addressbook and we can add "
+"a password or fingerprint check to unlock our phone screen."
+msgstr ""
+
+#: original/en.txt:236
+msgid ""
+"Making our phones more secure and privacy-friendly, doesn't take much time. "
+"Towards the end of this booklet, you can find a list of great apps for this."
+msgstr ""
+"Det tager ikke lang tid at gøre vores telefoner sikrere og bedre i stand til "
+"at beskytte privatlivet. Sidst i dette hæfte finder du en række gode "
+"programmer, der har dette for øje."
+
+#: original/en.txt:239
+#, fuzzy
+msgid ""
+"» DID YOU KNOW?\n"
+"If there is a good reason to give an app permission for something – a photo "
+"app, for example, that needs to have access to your camera – then there's "
+"little to worry about. But if you think that the app is asking for too much, "
+"you can check if there are similar apps in the app store that ask for fewer "
+"permissions."
+msgstr ""
+"» VIDSTE DU?\n"
+"Hvis der er gode grunde til, at et program har rettigheder til ting - et "
+"fotoprogram, for eksempel, som har brug for adgang til dit kamera - er der "
+"ikke meget  at bekymre sig over. Hvis du derimod tror, at programmet beder "
+"om for meget, kan du tjekke om der findes andre programmer, eller versioner "
+"af programmet, som kræver færre rettigheder."
+
+#: original/en.txt:241
+msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
+msgstr "DIGITALE FORSVARERE mod DATAINDTRÆNGERE (II)"
+
+#: original/en.txt:243
+msgid "MIND FREER"
+msgstr "TANKEFRIGØRER"
+
+#: original/en.txt:247
+msgid ""
+"POWERS: He fights for your right to decide what to share and with whom. He "
+"has the ability to create a private and secure environment where you can say "
+"what you think."
+msgstr ""
+"KRÆFTER: Han kæmper for din ret til at bestemme, hvad du vil dele med hvem. "
+"Han har muligheden for at oprette et privat og sikkert miljø,  hvor du kan "
+"sige, hvad du tænker."
+
+#: original/en.txt:249
+msgid "WEAPONS: His mind."
+msgstr "VÅBEN: Hans sind."
+
+#: original/en.txt:251
+msgid "MAN IN THE MIDDLE."
+msgstr "MAND-I-MIDTEN."
+
+#: original/en.txt:255
+msgid ""
+"POWERS: He has mystical powers to intercept what you do online. He can "
+"pretend to be a legitimate person online and then use this to hack right "
+"into your communications, to read your messages, see your photos and watch "
+"your videos."
+msgstr ""
+"KRÆFTER: Han besidder mystiske kræfter til at opsnappe,  hvad du gør på "
+"nettet. Han kan udgive sig for at være en faktisk person online og derefter "
+"bruge dette til at hacke sig ind i dine samtaler,  til at læse dine "
+"beskeder, se dine billederne og dine videoer."
+
+#: original/en.txt:257
+msgid "WEAPONS: His suit and antennas."
+msgstr "VÅBEN: Hans dragt og antenner."
+
+#: original/en.txt:263
+#, fuzzy
+msgid ""
+"CHAPTER 6\n"
 "Safer messaging"
 msgstr ""
 "KAPITEL 5\n"
 "Sikrere beskedsforsendelse"
 
-#: original/en.txt:219
+#: original/en.txt:265
 #, fuzzy
 msgid ""
 "Those of us with mobile phones use it to send messages to friends and family."
 msgstr "Vi bruger alle mobilen til at sende beskeder til venner og familie. "
 
-#: original/en.txt:221
+#: original/en.txt:267
 #, fuzzy
 msgid ""
 "But some messaging apps record all our messages and track who we talk to. "
@@ -700,12 +848,12 @@ msgstr ""
 "hvem vi snakker med. Nogle programmer gør dette med henblik på at sælge "
 "informationen."
 
-#: original/en.txt:223
+#: original/en.txt:269
 msgid "» What you say and do online is very valuable for companies. "
 msgstr ""
 "» Hvad du siger og gør online er meget værdifuldt for visse virksomheder. "
 
-#: original/en.txt:225
+#: original/en.txt:271
 #, fuzzy
 msgid ""
 "The companies who make messaging apps often scan what we say. They track who "
@@ -725,7 +873,7 @@ msgstr ""
 "- Signal er et sejt program, som sørger for, at dine beskeder bliver sendt "
 "sikkert."
 
-#: original/en.txt:230
+#: original/en.txt:276
 msgid ""
 "» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE…\n"
 "[Q] …I can be sure that they will never use or sell my data.\n"
@@ -737,150 +885,6 @@ msgstr ""
 "[S] … Jeg kan holde kontakten med venner og familie.\n"
 "[N] … Jeg kan være sikker på, at kun mine venner kan se de billeder, jeg "
 "lægger op"
-
-#: original/en.txt:236
-msgid ""
-"CHAPTER 6\n"
-"Smartphone security"
-msgstr ""
-"KAPITEL 6\n"
-"Smartphonesikkerhed"
-
-#: original/en.txt:238
-msgid "Our phones have become very important for using the internet."
-msgstr "Vores telefoner er blevet meget vigtige for brugen af Internettet."
-
-#: original/en.txt:240
-msgid ""
-"We use them when we want to communicate with our friends and family, when we "
-"use social networks or just browse the web."
-msgstr ""
-"Vi bruger dem, når vi ønsker at kommunikere med venner og familie, når vi "
-"bruger sociale netværk, eller ganske enkelt for at surfe."
-
-#: original/en.txt:242
-msgid ""
-"But our phones are also useful for many other things, we can use them as a "
-"torch, to play games or to check the time of the next bus."
-msgstr ""
-"Men vores telefoner er også nyttige på mange andre måder - vi kan bruge dem "
-"som lommelygte, til at spille, eller for at tjekke næste busafgang."
-
-#: original/en.txt:245
-msgid ""
-"When you install a new app, do you read what permission you are giving the "
-"app and how it can access information on your phone? Does a torch app really "
-"need\n"
-"access to your address book?"
-msgstr ""
-"Når du installerer en ny app, læser du så virkelig hvilke rettigheder, du "
-"giver programmet og hvordan det får adgang til informationen på din telefon? "
-"Behøver en lommelygte\n"
-"virkelig adgang til din adresseliste?"
-
-#: original/en.txt:247
-#, fuzzy
-msgid ""
-"It is very tempting to just skip past the »Accept« screen, but it is better "
-"to stop and think. There are good reasons not to trust an app that is asking "
-"for stuff that it obviously does not need."
-msgstr ""
-"Det er meget fristende bare at trykke «Godkend», men det er en god idé at "
-"stoppe op og tænke. Der er gode grunde til at ikke stole på et program, som "
-"spørger om adgang til ting, det åbenlyst ikke behøver."
-
-#: original/en.txt:249
-msgid ""
-"With just a few clicks we can also check and even restrict the permissions "
-"of our phones or apps that are already installed. On most devices we can "
-"find those in the »Settings«. Have a browse around the settings of your "
-"phone, it is good to learn about how your phone works."
-msgstr ""
-"Med blot nogle få klik kan vi også tjekke, og sågar begrænse vores "
-"telefoners rettigheder eller rettighederne for de programmer som allerede er "
-"installerede. På de fleste enheder kan vi finde disse under «Indstillinger». "
-"Undersøg indstillingerne på din telefon, det er nyttigt sætte sig ind i, "
-"hvordan den virker."
-
-#: original/en.txt:251
-#, fuzzy
-msgid "» Many apps get access to the personal stuff stored on your phone."
-msgstr ""
-"» Mange apps får adgang til dine personlige ting, som ligger på din telefon."
-
-#: original/en.txt:253
-msgid ""
-"We can restrict access to our location and to our addressbook and we can add "
-"a password or fingerprint check to unlock our phone screen."
-msgstr ""
-
-#: original/en.txt:255
-msgid ""
-"Making our phones more secure and privacy-friendly, doesn't take much time. "
-"Towards the end of this booklet, you can find a list of great apps for this."
-msgstr ""
-"Det tager ikke lang tid at gøre vores telefoner sikrere og bedre i stand til "
-"at beskytte privatlivet. Sidst i dette hæfte finder du en række gode "
-"programmer, der har dette for øje."
-
-#: original/en.txt:258
-#, fuzzy
-msgid ""
-"» DID YOU KNOW?\n"
-"If there is a good reason to give an app permission for something – a photo "
-"app, for example, that needs to have access to your camera – then there's "
-"little to worry about. But if you think that the app is asking for too much, "
-"you can check if there are similar apps in the app store that ask for fewer "
-"permissions."
-msgstr ""
-"» VIDSTE DU?\n"
-"Hvis der er gode grunde til, at et program har rettigheder til ting - et "
-"fotoprogram, for eksempel, som har brug for adgang til dit kamera - er der "
-"ikke meget  at bekymre sig over. Hvis du derimod tror, at programmet beder "
-"om for meget, kan du tjekke om der findes andre programmer, eller versioner "
-"af programmet, som kræver færre rettigheder."
-
-#: original/en.txt:260
-msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
-msgstr "DIGITALE FORSVARERE mod DATAINDTRÆNGERE (II)"
-
-#: original/en.txt:262
-msgid "MIND FREER"
-msgstr "TANKEFRIGØRER"
-
-#: original/en.txt:266
-msgid ""
-"POWERS: He fights for your right to decide what to share and with whom. He "
-"has the ability to create a private and secure environment where you can say "
-"what you think."
-msgstr ""
-"KRÆFTER: Han kæmper for din ret til at bestemme, hvad du vil dele med hvem. "
-"Han har muligheden for at oprette et privat og sikkert miljø,  hvor du kan "
-"sige, hvad du tænker."
-
-#: original/en.txt:268
-msgid "WEAPONS: His mind."
-msgstr "VÅBEN: Hans sind."
-
-#: original/en.txt:270
-msgid "MAN IN THE MIDDLE."
-msgstr "MAND-I-MIDTEN."
-
-#: original/en.txt:274
-msgid ""
-"POWERS: He has mystical powers to intercept what you do online. He can "
-"pretend to be a legitimate person online and then use this to hack right "
-"into your communications, to read your messages, see your photos and watch "
-"your videos."
-msgstr ""
-"KRÆFTER: Han besidder mystiske kræfter til at opsnappe,  hvad du gør på "
-"nettet. Han kan udgive sig for at være en faktisk person online og derefter "
-"bruge dette til at hacke sig ind i dine samtaler,  til at læse dine "
-"beskeder, se dine billederne og dine videoer."
-
-#: original/en.txt:276
-msgid "WEAPONS: His suit and antennas."
-msgstr "VÅBEN: Hans dragt og antenner."
 
 #: original/en.txt:282
 msgid ""

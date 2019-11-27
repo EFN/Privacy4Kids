@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-27 09:28+0200\n"
+"POT-Creation-Date: 2019-11-27 21:34+0200\n"
 "PO-Revision-Date: 2019-08-19 09:23+0000\n"
 "Last-Translator: Leena Romppainen <leena.romppainen@effi.org>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/efn/privacy4kids/"
@@ -119,7 +119,7 @@ msgstr ""
 "Mediamocracy"
 
 #: original/en.txt:42
-msgid "English edition updated 2019-11-26."
+msgid "English edition updated 2019-11-27."
 msgstr ""
 
 #: original/en.txt:44
@@ -440,12 +440,104 @@ msgstr ""
 #, fuzzy
 msgid ""
 "CHAPTER 3\n"
+"Top three tips and tricks"
+msgstr ""
+"LUKU 4\n"
+"Kolme parasta vinkkiä ja jekkua"
+
+#: original/en.txt:149
+msgid "1. Not everyone has to know everything about us"
+msgstr "1. Kaikkien ei tarvitse tietää meistä kaikkea"
+
+#: original/en.txt:152
+#, fuzzy
+msgid ""
+"Like in the offline world, it is better to choose carefully what we want to "
+"share and with whom. Instinctively, we share some things with some people "
+"and not with others. \n"
+"The internet sometimes makes it difficult to make that choice. "
+msgstr ""
+"Kuten verkon ulkopuolellakin, on parempi valita huolellisesti mitä haluamme "
+"paljastaa. Vaistomaisesti kerromme joitakin asioita vain tietyille "
+"ihmisille, mutta emme muille. Internetissä on joskus vaikea tehdä tätä "
+"valintaa. "
+
+#: original/en.txt:154
+msgid ""
+"This is partly because it's not always clear what is private online and what "
+"isn't, and partly because the internet has different rules than the offline "
+"world. "
+msgstr ""
+"Osittain tämä johtuu siitä,  ettei aina ole selvää, mikä verkossa on "
+"yksityistä ja mikä ei, ja osittain koska verkossa on eri säännöt kuin sen "
+"ulkopuolella. "
+
+#: original/en.txt:156
+msgid ""
+"For example: Our friends will forgive a stupid comment we made when we were "
+"angry, and understand our behaviour because they know us. If someone else "
+"reads our comment online, they might not understand what we meant and might "
+"think we were being mean. "
+msgstr ""
+"Esimerkiksi: Kaverimme antavat anteeksi kiukustuneena sanomamme hölmön "
+"kommentin, ja ymmärtävät käytöksemme koska tuntevat meidät.  Jos joku muu "
+"lukee kommenttimme verkossa, hän ei välttämättä ymmärrä mitä tarkoitimme ja "
+"pitää meitä ilkeinä. "
+
+#: original/en.txt:158
+msgid "2. Safety and privacy online isn't difficult"
+msgstr "Verkossa on vaikea pitää yllä turvallisuutta ja yksityisyyttä."
+
+#: original/en.txt:160
+#, fuzzy
+msgid ""
+"We don't have to be super nerds to keep ourselves safe online. We can "
+"protect a tablet, phone or laptop so that our classmates cannot access it. "
+"We can use a password that no one else can guess, and watch videos online "
+"without being tracked. We can do this in really simple ways."
+msgstr ""
+"Meidän ei tarvitse olla huippunörttejä pysyäksemme turvassa verkossa. Voimme "
+"käyttää tablettia, puhelinta tai läppäriä, johon luokkatoverimme eivät pääse "
+"käsiksi, salasanaa jota kukaan muu ei arvaa, katsoa videoita verkossa "
+"tulematta jäljitetyksi. Tämän voi tehdä hyvin yksinkertaisesti."
+
+#: original/en.txt:162
+#, fuzzy
+msgid "3. Knowing what or who we are protecting ourselves against"
+msgstr "3. Kuinka tiedämme ketä tai mitä vastaan suojaudumme"
+
+#: original/en.txt:165
+msgid ""
+"Just as banks need to protect themselves from thieves, we also have to "
+"protect ourselves - against companies tracking us online, classmates that "
+"might be \n"
+"angry about something, or nosy parents being... nosy parents. "
+msgstr ""
+"Kuten pankit suojautuvat varkaita vastaan, meidänkin on suojauduttava - "
+"meitä verkossa vakoilevia yhtiöitä vastaan, mahdollisesti jostakin "
+"suuttuneita luokkatovereita vastaan, tai nuuskivia vanhempia vastaan, jotka "
+"ovat... nuuskivia vanhempia. "
+
+#: original/en.txt:167
+msgid ""
+"We should ask ourselves what the real threats are and what we can do about "
+"them. Once we have thought about these threats, we'll find that it really is "
+"possible to keep ourselves safe and control our privacy."
+msgstr ""
+"Meidän on kysyttävä, mitkä ovat todelliset uhat, ja mitä voimme tehdä "
+"niille. Kun olemme ajatelleet näitä uhkia, huomaamme että todella on "
+"mahdollista pysyä turvassa ja varjella yksityisyyttään."
+
+#: original/en.txt:173
+#, fuzzy
+msgid ""
+"CHAPTER 4\n"
 "Protect yourself on social networks"
 msgstr ""
 "LUKU 3:\n"
 "Suojaudu sosiaalisissa verkostoissa"
 
-#: original/en.txt:149
+#: original/en.txt:175
 msgid ""
 "It can be so much fun to use social networks. On social networks, we can "
 "chat with friends and family, share pictures, send private messages and post "
@@ -455,7 +547,7 @@ msgstr ""
 "jutella ystävien ja sukulaisten kanssa, jakaa kuvia, lähettää "
 "yksityisviestejä ja lähettää tietoa julkisesti. "
 
-#: original/en.txt:151
+#: original/en.txt:177
 #, fuzzy
 msgid ""
 "In some countries, children under the age of 13 are not allowed to use some "
@@ -466,7 +558,7 @@ msgstr ""
 "sosiaalisten verkostojen tilejä.  Jos haluat käyttää somea, on paras kun "
 "varmuuden vuoksi kysyt perheeltäsi ja opettajiltasi. "
 
-#: original/en.txt:153
+#: original/en.txt:179
 #, fuzzy
 msgid ""
 ">> Facebook, Instagram, Twitter, Snapchat, Diaspora and many more are all "
@@ -475,12 +567,12 @@ msgstr ""
 ">> YouTube, Facebook, Instagram, Snapchat, Diaspora ja monet muut ovat "
 "kaikki sosiaalisia verkostoja."
 
-#: original/en.txt:155
+#: original/en.txt:181
 #, fuzzy
 msgid "Do you have a favourite? Why do you like them? "
 msgstr "Onko sinulla suosikkeja? Miksi pidät niistä? "
 
-#: original/en.txt:157
+#: original/en.txt:183
 #, fuzzy
 msgid ""
 "Some social networks even store messages we decided not to send! Imagine "
@@ -492,7 +584,7 @@ msgstr ""
 "lähettämättä, kaverisi ei saa tietää viestistäsi. Mutta Facebook tallentaa "
 "sen! "
 
-#: original/en.txt:159
+#: original/en.txt:185
 #, fuzzy
 msgid ""
 "Keep in mind that everything you do on a social network is recorded on the "
@@ -504,7 +596,7 @@ msgstr ""
 "yhtiöiden tietokoneille. Se ei tarkoita, että ne tekisivät näillä tiedoilla "
 "jotain pahaa - mutta sinun pitäisi tietää, että näin tapahtuu."
 
-#: original/en.txt:162
+#: original/en.txt:188
 #, fuzzy
 msgid ""
 "» DID YOU KNOW?\n"
@@ -519,7 +611,7 @@ msgstr ""
 "YouTube, Facebook, Snapchat jne.) voivat tallentaa sen mitä kirjoitamme,  "
 "sivustot joilla käymme, ja sen mitä haemme verkossa. "
 
-#: original/en.txt:167
+#: original/en.txt:193
 msgid ""
 "» QUEST 2: PRIVACY IS  IMPORTANT BECAUSE…\n"
 "[T] …it helps us to watch music videos.\n"
@@ -532,21 +624,21 @@ msgstr ""
 "verkossa.\n"
 "[G] ... se auttaa meitä jakamaan kuvia koko maailman kanssa."
 
-#: original/en.txt:169
+#: original/en.txt:195
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (I)"
 msgstr "TIEDON PUOLUSTAJAT ja TIETOMURTAJAT [I]"
 
-#: original/en.txt:171
+#: original/en.txt:197
 msgid "MS. ANONYMITY"
 msgstr "N. NIMETÖN"
 
-#: original/en.txt:173 original/en.txt:264 original/en.txt:307
+#: original/en.txt:199 original/en.txt:245 original/en.txt:307
 #: original/en.txt:360 original/en.txt:411
 #, fuzzy
 msgid "TEAM: DIGITAL DEFENDERS"
 msgstr "JOUKKUE: TIEDON PUOLUSTAJAT"
 
-#: original/en.txt:175
+#: original/en.txt:201
 msgid ""
 "POWERS: Government tests have augmented her immune system. She also has the "
 "ability to use social networks anonymously, so nobody knows who she really "
@@ -556,21 +648,21 @@ msgstr ""
 "Hänellä on myös  kyky käyttää somea nimettömänä, niin ettei kukaan tiedä, "
 "kuka hän todella on."
 
-#: original/en.txt:177
+#: original/en.txt:203
 msgid "WEAPONS: She is a skilled hand-to-hand fighter"
 msgstr "ASEET: Hän on taitava lähitaistelija"
 
-#: original/en.txt:179
+#: original/en.txt:205
 msgid "I.D. THIEF"
 msgstr "I. D. VARAS"
 
-#: original/en.txt:181 original/en.txt:272 original/en.txt:315
+#: original/en.txt:207 original/en.txt:253 original/en.txt:315
 #: original/en.txt:368 original/en.txt:419
 #, fuzzy
 msgid "TEAM: DATA INTRUDERS"
 msgstr "JOUKKUE: TIETOMURTAJAT"
 
-#: original/en.txt:183
+#: original/en.txt:209
 msgid ""
 "POWERS: She can see what you do online and then steal your personal "
 "information. She pretends to be you and tries to use your name, social media "
@@ -580,113 +672,167 @@ msgstr ""
 "sinuna ja yrittää käyttää nimeäsi, some- ja sähköpostitilejäsi rikolliseen "
 "toimintaan."
 
-#: original/en.txt:185
+#: original/en.txt:211
 msgid ""
 "WEAPONS: The Alpha Virus – which she uses to infiltrate computers and phones."
 msgstr ""
 "ASEET: Alpha-virus - jota hän käyttää tunkeutuakseen tietokoneisiin ja "
 "puhelimiin."
 
-#: original/en.txt:191
-msgid ""
-"CHAPTER 4\n"
-"Top three tips and tricks"
-msgstr ""
-"LUKU 4\n"
-"Kolme parasta vinkkiä ja jekkua"
-
-#: original/en.txt:193
-msgid "1. Not everyone has to know everything about us"
-msgstr "1. Kaikkien ei tarvitse tietää meistä kaikkea"
-
-#: original/en.txt:196
-#, fuzzy
-msgid ""
-"Like in the offline world, it is better to choose carefully what we want to "
-"share and with whom. Instinctively, we share some things with some people "
-"and not with others. \n"
-"The internet sometimes makes it difficult to make that choice. "
-msgstr ""
-"Kuten verkon ulkopuolellakin, on parempi valita huolellisesti mitä haluamme "
-"paljastaa. Vaistomaisesti kerromme joitakin asioita vain tietyille "
-"ihmisille, mutta emme muille. Internetissä on joskus vaikea tehdä tätä "
-"valintaa. "
-
-#: original/en.txt:198
-msgid ""
-"This is partly because it's not always clear what is private online and what "
-"isn't, and partly because the internet has different rules than the offline "
-"world. "
-msgstr ""
-"Osittain tämä johtuu siitä,  ettei aina ole selvää, mikä verkossa on "
-"yksityistä ja mikä ei, ja osittain koska verkossa on eri säännöt kuin sen "
-"ulkopuolella. "
-
-#: original/en.txt:200
-msgid ""
-"For example: Our friends will forgive a stupid comment we made when we were "
-"angry, and understand our behaviour because they know us. If someone else "
-"reads our comment online, they might not understand what we meant and might "
-"think we were being mean. "
-msgstr ""
-"Esimerkiksi: Kaverimme antavat anteeksi kiukustuneena sanomamme hölmön "
-"kommentin, ja ymmärtävät käytöksemme koska tuntevat meidät.  Jos joku muu "
-"lukee kommenttimme verkossa, hän ei välttämättä ymmärrä mitä tarkoitimme ja "
-"pitää meitä ilkeinä. "
-
-#: original/en.txt:202
-msgid "2. Safety and privacy online isn't difficult"
-msgstr "Verkossa on vaikea pitää yllä turvallisuutta ja yksityisyyttä."
-
-#: original/en.txt:204
-#, fuzzy
-msgid ""
-"We don't have to be super nerds to keep ourselves safe online. We can "
-"protect a tablet, phone or laptop so that our classmates cannot access it. "
-"We can use a password that no one else can guess, and watch videos online "
-"without being tracked. We can do this in really simple ways."
-msgstr ""
-"Meidän ei tarvitse olla huippunörttejä pysyäksemme turvassa verkossa. Voimme "
-"käyttää tablettia, puhelinta tai läppäriä, johon luokkatoverimme eivät pääse "
-"käsiksi, salasanaa jota kukaan muu ei arvaa, katsoa videoita verkossa "
-"tulematta jäljitetyksi. Tämän voi tehdä hyvin yksinkertaisesti."
-
-#: original/en.txt:206
-#, fuzzy
-msgid "3. Knowing what or who we are protecting ourselves against"
-msgstr "3. Kuinka tiedämme ketä tai mitä vastaan suojaudumme"
-
-#: original/en.txt:209
-msgid ""
-"Just as banks need to protect themselves from thieves, we also have to "
-"protect ourselves - against companies tracking us online, classmates that "
-"might be \n"
-"angry about something, or nosy parents being... nosy parents. "
-msgstr ""
-"Kuten pankit suojautuvat varkaita vastaan, meidänkin on suojauduttava - "
-"meitä verkossa vakoilevia yhtiöitä vastaan, mahdollisesti jostakin "
-"suuttuneita luokkatovereita vastaan, tai nuuskivia vanhempia vastaan, jotka "
-"ovat... nuuskivia vanhempia. "
-
-#: original/en.txt:211
-msgid ""
-"We should ask ourselves what the real threats are and what we can do about "
-"them. Once we have thought about these threats, we'll find that it really is "
-"possible to keep ourselves safe and control our privacy."
-msgstr ""
-"Meidän on kysyttävä, mitkä ovat todelliset uhat, ja mitä voimme tehdä "
-"niille. Kun olemme ajatelleet näitä uhkia, huomaamme että todella on "
-"mahdollista pysyä turvassa ja varjella yksityisyyttään."
-
 #: original/en.txt:217
+#, fuzzy
 msgid ""
 "CHAPTER 5\n"
+"Smartphone security"
+msgstr ""
+"LUKU 6:\n"
+"Älypuhelimen turvallisuus"
+
+#: original/en.txt:219
+msgid "Our phones have become very important for using the internet."
+msgstr "Puhelimistamme on tullut hyvin tärkeä tapa käyttää internetiä."
+
+#: original/en.txt:221
+msgid ""
+"We use them when we want to communicate with our friends and family, when we "
+"use social networks or just browse the web."
+msgstr ""
+"Käytämme niitä kun haluamme yhteyden ystäviin ja sukulaisiin, kun käytämme "
+"sosiaalista verkkoa tai vain selaamme nettiä."
+
+#: original/en.txt:223
+msgid ""
+"But our phones are also useful for many other things, we can use them as a "
+"torch, to play games or to check the time of the next bus."
+msgstr ""
+"Mutta puhelimista on hyötyä moneen muuhunkin, ne toimivat taskulamppuina, "
+"niillä voi pelata tai tarkistaa bussiaikataulun."
+
+#: original/en.txt:226
+msgid ""
+"When you install a new app, do you read what permission you are giving the "
+"app and how it can access information on your phone? Does a torch app really "
+"need\n"
+"access to your address book?"
+msgstr ""
+"Kun asennat uuden sovelluksen, luetko mitä oikeuksia annat sovellukselleja "
+"kuinka se pääsee käsiksi puhelimessasi olevaan tietoon? Tarvitseeko "
+"taskulamppusovellus tosiaan pääsyä osoitekirjaasi?"
+
+#: original/en.txt:228
+#, fuzzy
+msgid ""
+"It is very tempting to just skip past the »Accept« screen, but it is better "
+"to stop and think. There are good reasons not to trust an app that is asking "
+"for stuff that it obviously does not need."
+msgstr ""
+"On hyvin houkuttelevaa vain hypätä hyväksymisruudun ohi, mutta on hyvä "
+"pysähtyä ajattelemaan. On hyvä syy olla luottamatta sovellukseen, joka "
+"haluaa oikeuksia joita sen ei pitäisi tarvita."
+
+#: original/en.txt:230
+msgid ""
+"With just a few clicks we can also check and even restrict the permissions "
+"of our phones or apps that are already installed. On most devices we can "
+"find those in the »Settings«. Have a browse around the settings of your "
+"phone, it is good to learn about how your phone works."
+msgstr ""
+"Muutamalla klikkauksella voimme myös tarkistaa ja rajoittaa puhelimessamme "
+"jo asennettujen sovellusten oikeudet. Useimmista laitteista nämä löytyvät "
+"kohdasta \"Asetukset\". Selaa puhelimesi asetuksia, on hyvä oppia, kuinka "
+"puhelin toimii."
+
+#: original/en.txt:232
+#, fuzzy
+msgid "» Many apps get access to the personal stuff stored on your phone."
+msgstr ""
+"Monet sovellukset pääsevät käsiksi puhelimeen talletettuihin "
+"henkilökohtaisiin tietoihin."
+
+#: original/en.txt:234
+msgid ""
+"We can restrict access to our location and to our addressbook and we can add "
+"a password or fingerprint check to unlock our phone screen."
+msgstr ""
+
+#: original/en.txt:236
+msgid ""
+"Making our phones more secure and privacy-friendly, doesn't take much time. "
+"Towards the end of this booklet, you can find a list of great apps for this."
+msgstr ""
+"Ei vie kauan tehdä puhelimestaan turvallisempi ja yksityisyyttä suojaavampi. "
+"Lehtisen lopusta löytyy monia hyviä sovelluksia tähän tarkoitukseen."
+
+#: original/en.txt:239
+#, fuzzy
+msgid ""
+"» DID YOU KNOW?\n"
+"If there is a good reason to give an app permission for something – a photo "
+"app, for example, that needs to have access to your camera – then there's "
+"little to worry about. But if you think that the app is asking for too much, "
+"you can check if there are similar apps in the app store that ask for fewer "
+"permissions."
+msgstr ""
+"TIESITKÖ?\n"
+"Jos on hyvä syy antaa sovellukselle oikeudet johonkin - esimerkiksi "
+"valokuvasovellus, joka tarvitsee pääsyn kameraan - niin ei ole juuri huolta. "
+"Mutta jos sinusta tuntuu, että sovellus pyytää liikaa,  kannattaa tarkistaa "
+"onko sovelluksesta kaupassa muita versioita, jotka pyytävät vähemmän "
+"oikeuksia."
+
+#: original/en.txt:241
+msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
+msgstr "TIEDON PUOLUSTAJAT ja TIETOMURTAJAT (II)"
+
+#: original/en.txt:243
+msgid "MIND FREER"
+msgstr "MIELEN VAPAUTTAJA"
+
+#: original/en.txt:247
+msgid ""
+"POWERS: He fights for your right to decide what to share and with whom. He "
+"has the ability to create a private and secure environment where you can say "
+"what you think."
+msgstr ""
+"KYVYT: Hän taistelee sen puolesta, että sinulla on oikeus päättää, mitä "
+"paljastat ja kenelle. Hänellä on kyky luoda yksityinen ja turvallinen "
+"ympäristö jossa voit sanoa mitä ajattelet."
+
+#: original/en.txt:249
+msgid "WEAPONS: His mind."
+msgstr "ASEET: Hänen mielensä."
+
+#: original/en.txt:251
+#, fuzzy
+msgid "MAN IN THE MIDDLE."
+msgstr "VÄLISTÄVETÄJÄ"
+
+#: original/en.txt:255
+msgid ""
+"POWERS: He has mystical powers to intercept what you do online. He can "
+"pretend to be a legitimate person online and then use this to hack right "
+"into your communications, to read your messages, see your photos and watch "
+"your videos."
+msgstr ""
+"KYVYT: Hänellä on salaiset kyvyt sekaantua siihen, mitä teet verkossa. Hän "
+"voi esiintyä asiaankuuluvana henkilönä verkossa ja käyttää tätä "
+"tunkeutuakseen yhteyksiisi, lukeakseen viestejäsi, nähdäkseen kuviasi ja "
+"katsoakseen videoitasi."
+
+#: original/en.txt:257
+msgid "WEAPONS: His suit and antennas."
+msgstr "ASEET: Puku ja antennit."
+
+#: original/en.txt:263
+#, fuzzy
+msgid ""
+"CHAPTER 6\n"
 "Safer messaging"
 msgstr ""
 "LUKU 5\n"
 "Turvallisempaa viestitystä"
 
-#: original/en.txt:219
+#: original/en.txt:265
 #, fuzzy
 msgid ""
 "Those of us with mobile phones use it to send messages to friends and family."
@@ -694,7 +840,7 @@ msgstr ""
 "Kaikki me käytämme puhelimia lähettääksemme viestejä tuttaville ja "
 "sukulaisille "
 
-#: original/en.txt:221
+#: original/en.txt:267
 #, fuzzy
 msgid ""
 "But some messaging apps record all our messages and track who we talk to. "
@@ -704,11 +850,11 @@ msgstr ""
 "kenelle puhumme. Jotkin sovellukset tekevät tämän käyttäkseen tietoja "
 "hyväkseen."
 
-#: original/en.txt:223
+#: original/en.txt:269
 msgid "» What you say and do online is very valuable for companies. "
 msgstr "Yhtiöille on hyvin arvokasta se, mitä sanot ja teet verkossa. "
 
-#: original/en.txt:225
+#: original/en.txt:271
 #, fuzzy
 msgid ""
 "The companies who make messaging apps often scan what we say. They track who "
@@ -727,7 +873,7 @@ msgstr ""
 "lehtisessä on myös ohjeet Signalin asentamiseen - Signal on näppärä sovellus "
 "joka pitää viestisi turvassa."
 
-#: original/en.txt:230
+#: original/en.txt:276
 msgid ""
 "» QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE…\n"
 "[Q] …I can be sure that they will never use or sell my data.\n"
@@ -738,149 +884,6 @@ msgstr ""
 "[Q] ...voin olla varma etteivät ne koskaan käytä tai myy tietojani\n"
 "[M] ...voin olla yhteydessä ystäviin ja sukulaisiin\n"
 "[N] ...voinolla varma, että vain ystäväni näkevät sinne lähettämäni valokuvat"
-
-#: original/en.txt:236
-msgid ""
-"CHAPTER 6\n"
-"Smartphone security"
-msgstr ""
-"LUKU 6:\n"
-"Älypuhelimen turvallisuus"
-
-#: original/en.txt:238
-msgid "Our phones have become very important for using the internet."
-msgstr "Puhelimistamme on tullut hyvin tärkeä tapa käyttää internetiä."
-
-#: original/en.txt:240
-msgid ""
-"We use them when we want to communicate with our friends and family, when we "
-"use social networks or just browse the web."
-msgstr ""
-"Käytämme niitä kun haluamme yhteyden ystäviin ja sukulaisiin, kun käytämme "
-"sosiaalista verkkoa tai vain selaamme nettiä."
-
-#: original/en.txt:242
-msgid ""
-"But our phones are also useful for many other things, we can use them as a "
-"torch, to play games or to check the time of the next bus."
-msgstr ""
-"Mutta puhelimista on hyötyä moneen muuhunkin, ne toimivat taskulamppuina, "
-"niillä voi pelata tai tarkistaa bussiaikataulun."
-
-#: original/en.txt:245
-msgid ""
-"When you install a new app, do you read what permission you are giving the "
-"app and how it can access information on your phone? Does a torch app really "
-"need\n"
-"access to your address book?"
-msgstr ""
-"Kun asennat uuden sovelluksen, luetko mitä oikeuksia annat sovellukselleja "
-"kuinka se pääsee käsiksi puhelimessasi olevaan tietoon? Tarvitseeko "
-"taskulamppusovellus tosiaan pääsyä osoitekirjaasi?"
-
-#: original/en.txt:247
-#, fuzzy
-msgid ""
-"It is very tempting to just skip past the »Accept« screen, but it is better "
-"to stop and think. There are good reasons not to trust an app that is asking "
-"for stuff that it obviously does not need."
-msgstr ""
-"On hyvin houkuttelevaa vain hypätä hyväksymisruudun ohi, mutta on hyvä "
-"pysähtyä ajattelemaan. On hyvä syy olla luottamatta sovellukseen, joka "
-"haluaa oikeuksia joita sen ei pitäisi tarvita."
-
-#: original/en.txt:249
-msgid ""
-"With just a few clicks we can also check and even restrict the permissions "
-"of our phones or apps that are already installed. On most devices we can "
-"find those in the »Settings«. Have a browse around the settings of your "
-"phone, it is good to learn about how your phone works."
-msgstr ""
-"Muutamalla klikkauksella voimme myös tarkistaa ja rajoittaa puhelimessamme "
-"jo asennettujen sovellusten oikeudet. Useimmista laitteista nämä löytyvät "
-"kohdasta \"Asetukset\". Selaa puhelimesi asetuksia, on hyvä oppia, kuinka "
-"puhelin toimii."
-
-#: original/en.txt:251
-#, fuzzy
-msgid "» Many apps get access to the personal stuff stored on your phone."
-msgstr ""
-"Monet sovellukset pääsevät käsiksi puhelimeen talletettuihin "
-"henkilökohtaisiin tietoihin."
-
-#: original/en.txt:253
-msgid ""
-"We can restrict access to our location and to our addressbook and we can add "
-"a password or fingerprint check to unlock our phone screen."
-msgstr ""
-
-#: original/en.txt:255
-msgid ""
-"Making our phones more secure and privacy-friendly, doesn't take much time. "
-"Towards the end of this booklet, you can find a list of great apps for this."
-msgstr ""
-"Ei vie kauan tehdä puhelimestaan turvallisempi ja yksityisyyttä suojaavampi. "
-"Lehtisen lopusta löytyy monia hyviä sovelluksia tähän tarkoitukseen."
-
-#: original/en.txt:258
-#, fuzzy
-msgid ""
-"» DID YOU KNOW?\n"
-"If there is a good reason to give an app permission for something – a photo "
-"app, for example, that needs to have access to your camera – then there's "
-"little to worry about. But if you think that the app is asking for too much, "
-"you can check if there are similar apps in the app store that ask for fewer "
-"permissions."
-msgstr ""
-"TIESITKÖ?\n"
-"Jos on hyvä syy antaa sovellukselle oikeudet johonkin - esimerkiksi "
-"valokuvasovellus, joka tarvitsee pääsyn kameraan - niin ei ole juuri huolta. "
-"Mutta jos sinusta tuntuu, että sovellus pyytää liikaa,  kannattaa tarkistaa "
-"onko sovelluksesta kaupassa muita versioita, jotka pyytävät vähemmän "
-"oikeuksia."
-
-#: original/en.txt:260
-msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
-msgstr "TIEDON PUOLUSTAJAT ja TIETOMURTAJAT (II)"
-
-#: original/en.txt:262
-msgid "MIND FREER"
-msgstr "MIELEN VAPAUTTAJA"
-
-#: original/en.txt:266
-msgid ""
-"POWERS: He fights for your right to decide what to share and with whom. He "
-"has the ability to create a private and secure environment where you can say "
-"what you think."
-msgstr ""
-"KYVYT: Hän taistelee sen puolesta, että sinulla on oikeus päättää, mitä "
-"paljastat ja kenelle. Hänellä on kyky luoda yksityinen ja turvallinen "
-"ympäristö jossa voit sanoa mitä ajattelet."
-
-#: original/en.txt:268
-msgid "WEAPONS: His mind."
-msgstr "ASEET: Hänen mielensä."
-
-#: original/en.txt:270
-#, fuzzy
-msgid "MAN IN THE MIDDLE."
-msgstr "VÄLISTÄVETÄJÄ"
-
-#: original/en.txt:274
-msgid ""
-"POWERS: He has mystical powers to intercept what you do online. He can "
-"pretend to be a legitimate person online and then use this to hack right "
-"into your communications, to read your messages, see your photos and watch "
-"your videos."
-msgstr ""
-"KYVYT: Hänellä on salaiset kyvyt sekaantua siihen, mitä teet verkossa. Hän "
-"voi esiintyä asiaankuuluvana henkilönä verkossa ja käyttää tätä "
-"tunkeutuakseen yhteyksiisi, lukeakseen viestejäsi, nähdäkseen kuviasi ja "
-"katsoakseen videoitasi."
-
-#: original/en.txt:276
-msgid "WEAPONS: His suit and antennas."
-msgstr "ASEET: Puku ja antennit."
 
 #: original/en.txt:282
 msgid ""
