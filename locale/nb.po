@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-27 21:34+0200\n"
-"PO-Revision-Date: 2019-11-27 06:37+0000\n"
+"PO-Revision-Date: 2019-11-28 05:45+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/nb_NO/>\n"
@@ -117,9 +117,8 @@ msgstr ""
 "Mediamocracy"
 
 #: original/en.txt:42
-#, fuzzy
 msgid "English edition updated 2019-11-27."
-msgstr "Bokmålsutgave basert på engelsk original oppdatert 2019-11-26."
+msgstr "Bokmålsutgave basert på engelsk original oppdatert 2019-11-27."
 
 #: original/en.txt:44
 msgid "Chapters:"
@@ -144,7 +143,7 @@ msgstr ""
 "Kapittel 3: De tre beste tips- og triksene\n"
 "Kapittel 4: Beskytt deg selv på sosiale nettverk\n"
 "Kapittel 5: Smarttelefoner og sikkerhet\n"
-"Kapittel 6: Sikrere meldingstjenester\n"
+"Kapittel 6: Sikrere meldingsutveksling\n"
 "Kapittel 7: Surfing på Internett\n"
 "Kapittel 8: Passordsikkerhet\n"
 "Kapittel 9: Bilde- og video-deling\n"
@@ -429,12 +428,11 @@ msgstr ""
 "[T]… et sosialt nettverk."
 
 #: original/en.txt:147
-#, fuzzy
 msgid ""
 "CHAPTER 3\n"
 "Top three tips and tricks"
 msgstr ""
-"KAPITTEL 4\n"
+"KAPITTEL 3\n"
 "De beste tre tips- og triksene"
 
 #: original/en.txt:149
@@ -518,12 +516,11 @@ msgstr ""
 "privatlivet."
 
 #: original/en.txt:173
-#, fuzzy
 msgid ""
 "CHAPTER 4\n"
 "Protect yourself on social networks"
 msgstr ""
-"KAPITTEL 3\n"
+"KAPITTEL 4\n"
 "Beskytt deg selv på sosiale nettverk"
 
 #: original/en.txt:175
@@ -661,12 +658,11 @@ msgstr ""
 "telefoner."
 
 #: original/en.txt:217
-#, fuzzy
 msgid ""
 "CHAPTER 5\n"
 "Smartphone security"
 msgstr ""
-"KAPITTEL 6\n"
+"KAPITTEL 5\n"
 "Smarttelefonsikkerhet"
 
 #: original/en.txt:219
@@ -805,13 +801,12 @@ msgid "WEAPONS: His suit and antennas."
 msgstr "VÅPEN: Hans drakt og antenner."
 
 #: original/en.txt:263
-#, fuzzy
 msgid ""
 "CHAPTER 6\n"
 "Safer messaging"
 msgstr ""
-"KAPITTEL 5\n"
-"Sikrere meldingsforsendelse"
+"KAPITTEL 6\n"
+"Sikrere meldingsutveksling"
 
 #: original/en.txt:265
 msgid ""
@@ -825,9 +820,9 @@ msgid ""
 "But some messaging apps record all our messages and track who we talk to. "
 "Some apps do this so they can profit from this information."
 msgstr ""
-"Noen meldingsprogrammer (app-er) tar vare på alle meldingene våre og sporer "
-"hvem vi snakker med. Noen programmer gjør dette slik at de kan selge, tjene "
-"på, informasjonen."
+"Noen meldingsutvekslingsprogrammer (app-er) tar vare på alle meldingene våre "
+"og sporer hvem vi snakker med. Noen programmer gjør dette slik at de kan "
+"selge, tjene på, informasjonen."
 
 #: original/en.txt:269
 msgid "» What you say and do online is very valuable for companies. "
@@ -843,10 +838,10 @@ msgid ""
 "install Signal in this booklet – Signal is a cool app to keep your messages "
 "safe."
 msgstr ""
-"Selskapene som lager meldingsprogrammer skanner ofte hva vi sier. De sporer "
-"hvem vi snakker med slik at de kan vise reklame, for å få oss til å kjøpe "
-"noe, eller for å dele informasjonen med andre selskaper. Du kan sjekke en "
-"liste over kule meldingsprogrammer på slutten av heftet. Disse "
+"Selskapene som lager meldingsutvekslingsprogrammer skanner ofte hva vi sier. "
+"De sporer hvem vi snakker med slik at de kan vise reklame, for å få oss til "
+"å kjøpe noe, eller for å dele informasjonen med andre selskaper. Du kan "
+"sjekke en liste over kule meldingsprogrammer på slutten av heftet. Disse "
 "meldingsprogrammene forsikrer også at vi ikke mottar meldinger fra fremmede. "
 "Det er også en veiledning til installasjon av Signal i dette heftet - Signal "
 "er et kult program som sørger for at meldingene dine blir sendt trygt."
@@ -1392,7 +1387,7 @@ msgstr "Software | Hva den gjør | Enkelhet i bruk"
 #: original/en.txt:458
 msgid "Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium"
 msgstr ""
-"Pidgin og OTR Plugin | Meldingstjeneste (kompatibelt med ChatSecure) | "
+"Pidgin og OTR Plugin | Meldingsutveksling (samvirker med ChatSecure) | "
 "Middels"
 
 #: original/en.txt:460
