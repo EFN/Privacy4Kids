@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-26 15:49+0200\n"
+"POT-Creation-Date: 2019-11-27 09:28+0200\n"
 "PO-Revision-Date: 2019-09-08 17:24+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/efn/"
@@ -306,7 +306,7 @@ msgid ""
 msgstr ""
 
 #: original/en.txt:135
-msgid ">>Did you know?  "
+msgid "» DID YOU KNOW?"
 msgstr ""
 
 #: original/en.txt:137

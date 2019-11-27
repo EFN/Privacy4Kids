@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-26 15:49+0200\n"
+"POT-Creation-Date: 2019-11-27 09:28+0200\n"
 "PO-Revision-Date: 2019-10-18 15:52+0000\n"
 "Last-Translator: Mattias Münster <mattiasmun@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/efn/privacy4kids/"
@@ -410,8 +410,8 @@ msgstr ""
 "användare ser vad du tittade på eller letade efter."
 
 #: original/en.txt:135
-msgid ">>Did you know?  "
-msgstr ">> VISSTE DU ATT?  "
+msgid "» DID YOU KNOW?"
+msgstr "» VISSTE DU ATT?"
 
 #: original/en.txt:137
 msgid ""
@@ -1765,6 +1765,9 @@ msgstr ""
 "\"https://www.ubuntu.com/\" target=\"_blank\" rel=\"noopener\">Ubuntu</a> "
 "eller <a href=\"https://www.edubuntu.org/\" target=\"_ blank\" rel=\"noopener"
 "\">Edubuntu</a> (specialdistribution för barn)"
+
+#~ msgid ">>Did you know?  "
+#~ msgstr ">> VISSTE DU ATT?  "
 
 #~ msgid ""
 #~ "We can restrict access to our location, add a password to unlock our "

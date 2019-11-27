@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-26 15:49+0200\n"
+"POT-Creation-Date: 2019-11-27 09:28+0200\n"
 "PO-Revision-Date: 2019-11-27 06:37+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/efn/"
@@ -402,8 +402,8 @@ msgstr ""
 "fordi de ser i datamaskinens historikk."
 
 #: original/en.txt:135
-msgid ">>Did you know?  "
-msgstr ">>VISSTE DU?  "
+msgid "» DID YOU KNOW?"
+msgstr "» VISSTE DU?"
 
 #: original/en.txt:137
 msgid ""
@@ -1337,8 +1337,8 @@ msgstr "Program | Hva det gjør | Enkelhet i bruk"
 #: original/en.txt:434
 msgid "Signal | Secure messaging and phone calls (WhatsApp alternative) | Easy"
 msgstr ""
-"Signal | Sikker meldingsutveksling og telefonsamtaler (WhatsApp-alternativ) |"
-" Enkelt"
+"Signal | Sikker meldingsutveksling og telefonsamtaler (WhatsApp-alternativ) "
+"| Enkelt"
 
 #: original/en.txt:436 original/en.txt:456
 msgid "Firefox | A privacy-friendly web browser | Easy"
@@ -1725,6 +1725,9 @@ msgstr ""
 "\"https://www.ubuntu.com/\" target=\"_blank\" rel=\"noopener\">Ubuntu</a> "
 "eller <a href=\"https://www.edubuntu.org/\" target=\"_blank\" rel=\"noopener"
 "\">Edubuntu</a> (distribusjon laget spesielt for barn)"
+
+#~ msgid ">>Did you know?  "
+#~ msgstr ">>VISSTE DU?  "
 
 #~ msgid ""
 #~ "We can restrict access to our location, add a password to unlock our "
