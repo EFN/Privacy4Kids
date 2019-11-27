@@ -4,9 +4,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-27 09:28+0200\n"
-"PO-Revision-Date: 2019-11-17 15:04+0000\n"
-"Last-Translator: Nicolas Guilbert <nicolas@ange.dk>\n"
+"POT-Creation-Date: 2019-11-26 15:49+0200\n"
+"PO-Revision-Date: 2019-11-27 08:36+0000\n"
+"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/efn/privacy4kids/"
 "da/>\n"
 "Language: da\n"
@@ -126,7 +126,6 @@ msgid "Chapters:"
 msgstr "Kapitler:"
 
 #: original/en.txt:56
-#, fuzzy
 msgid ""
 "Chapter 1: What is the internet?\n"
 "Chapter 2: What is privacy?\n"
@@ -231,7 +230,6 @@ msgstr ""
 "rebuserne og skrivelse hele linket ind i din internetbrowser."
 
 #: original/en.txt:85
-#, fuzzy
 msgid ""
 "CHAPTER 1\n"
 "What is the internet?"
