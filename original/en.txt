@@ -184,6 +184,7 @@ Some social networks even store messages we decided not to send! Imagine that, w
 Keep in mind that everything you do on a social network is recorded on the computers of the companies that run it. That doesn't mean that they are going to do something bad with it – but you should know that this is happening.
 
 » DID YOU KNOW?
+
 The things we type into a search engine or write in a chat message to a friend are not completely deleted. Companies that provide the services we use (like Youtube, Facebook, Snapchat and so on) record and keep what we write, the websites we visit and the things we search online. 
 
 » QUEST 2: PRIVACY IS  IMPORTANT BECAUSE…
@@ -235,6 +236,7 @@ We can restrict access to our location and to our addressbook and we can add a p
 Making our phones more secure and privacy-friendly, doesn't take much time. Towards the end of this booklet, you can find a list of great apps for this.
 
 » DID YOU KNOW?
+
 If there is a good reason to give an app permission for something – a photo app, for example, that needs to have access to your camera – then there's little to worry about. But if you think that the app is asking for too much, you can check if there are similar apps in the app store that ask for fewer permissions.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (II)
@@ -297,6 +299,7 @@ They are invisible to us but when enough of data is collected and combined with 
 Most devices come with a browser. On Windows proposes Edge, Apple devices come with Safari, and Android devices' default browser is Google Chrome. But those are not necessarily the browsers that protect your privacy best.
 
 » DID YOU KNOW?
+
 Make sure to check the »privacy options« of your browser and change the default settings so that you take control – just like Perfect Wave! Many people think that the best browser for your privacy and security is Firefox. Why? Because you can customise it, control it, and see how it works. It is possible that it is not yet installed on your computer, but you can download it very easily.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (III)
