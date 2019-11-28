@@ -451,6 +451,7 @@ Tor Browser | Surf the web anonymously | Easy
 
 OpenKeychain | Encrypt emails in K9-Mail | Difficult
 
+
 SOFTWARE FOR WINDOWS, MAC AND LINUX
 
 Software | What it does | Difficulty to use
@@ -464,6 +465,7 @@ Thunderbird | Manages your emails | Medium
 Enigmail | Add-on to encrypt emails in Thunderbird | Difficult
 
 Tor Browser | Surf the web anonymously | Easy
+
 
 BROWSER ADD-ONS, PLUG-INS AND EXTENSIONS
 
