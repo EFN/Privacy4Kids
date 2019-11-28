@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-27 21:34+0200\n"
-"PO-Revision-Date: 2019-11-27 08:36+0000\n"
+"PO-Revision-Date: 2019-11-28 07:02+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/efn/privacy4kids/"
 "da/>\n"
@@ -436,12 +436,11 @@ msgstr ""
 "[T]… et socialt netværk."
 
 #: original/en.txt:147
-#, fuzzy
 msgid ""
 "CHAPTER 3\n"
 "Top three tips and tricks"
 msgstr ""
-"KAPITEL 4\n"
+"KAPITEL 3\n"
 "Top tre tips og trick"
 
 #: original/en.txt:149
@@ -528,12 +527,11 @@ msgstr ""
 "er muligt at sikre os selv og vores privatliv."
 
 #: original/en.txt:173
-#, fuzzy
 msgid ""
 "CHAPTER 4\n"
 "Protect yourself on social networks"
 msgstr ""
-"KAPITEL 3\n"
+"KAPITEL 4\n"
 "Beskyt dig selv på sociale netværk"
 
 #: original/en.txt:175
@@ -558,12 +556,11 @@ msgstr ""
 "lærere for at være sikker. "
 
 #: original/en.txt:179
-#, fuzzy
 msgid ""
 ">> Facebook, Instagram, Twitter, Snapchat, Diaspora and many more are all "
 "social networks."
 msgstr ""
-">> YouTube, Facebook, Instagram, Snapchat, Diaspora og mange flere er alle "
+">> Facebook, Instagram, Twitter, Snapchat, Diaspora og mange flere er alle "
 "sociale netværk."
 
 #: original/en.txt:181
@@ -679,12 +676,11 @@ msgstr ""
 "Alfavirus – som hun bruger til at infiltrere computere og telefoner."
 
 #: original/en.txt:217
-#, fuzzy
 msgid ""
 "CHAPTER 5\n"
 "Smartphone security"
 msgstr ""
-"KAPITEL 6\n"
+"KAPITEL 5\n"
 "Smartphonesikkerhed"
 
 #: original/en.txt:219
@@ -824,12 +820,11 @@ msgid "WEAPONS: His suit and antennas."
 msgstr "VÅBEN: Hans dragt og antenner."
 
 #: original/en.txt:263
-#, fuzzy
 msgid ""
 "CHAPTER 6\n"
 "Safer messaging"
 msgstr ""
-"KAPITEL 5\n"
+"KAPITEL 6\n"
 "Sikrere beskedsforsendelse"
 
 #: original/en.txt:265
