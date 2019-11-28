@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-28 08:57+0200\n"
+"POT-Creation-Date: 2019-11-28 09:26+0200\n"
 "PO-Revision-Date: 2019-08-19 09:23+0000\n"
 "Last-Translator: Leena Romppainen <leena.romppainen@effi.org>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/efn/privacy4kids/"
@@ -1366,7 +1366,7 @@ msgstr ""
 "Signal | Viestitys, tekstarit ja salatut puhelinsoitot (vaihtoehto "
 "WhatsAppille) | Helppo"
 
-#: original/en.txt:439 original/en.txt:459
+#: original/en.txt:439 original/en.txt:460
 msgid "Firefox | A privacy-friendly web browser | Easy"
 msgstr ""
 
@@ -1398,7 +1398,7 @@ msgstr "Transportr  | Julkinen liikenne, bussien ja junien aikataulut | Helppo"
 msgid "Jitsi Meet | Secure video group calls (Skype alternative) | Easy"
 msgstr "Csip Secure | Salatut puhelut (Skypen vaihtoehto) | Vaikeahko"
 
-#: original/en.txt:451 original/en.txt:467
+#: original/en.txt:451 original/en.txt:468
 msgid "Tor Browser | Surf the web anonymously | Easy"
 msgstr "Tor-selain | Selaa verkkoa nimettömänä | Helppo"
 
@@ -1407,51 +1407,51 @@ msgstr "Tor-selain | Selaa verkkoa nimettömänä | Helppo"
 msgid "OpenKeychain | Encrypt emails in K9-Mail | Difficult"
 msgstr "APG | Sähköpostien salaaminen K9 Mailissa | Vaikea"
 
-#: original/en.txt:455
+#: original/en.txt:456
 msgid "SOFTWARE FOR WINDOWS, MAC AND LINUX"
 msgstr "OHJELMIA WINDOWSILLE, MACILLE JA LINUXILLE"
 
-#: original/en.txt:457
+#: original/en.txt:458
 msgid "Software | What it does | Difficulty to use"
 msgstr "Ohjelma | Mitä se tekee | Vaikeusaste"
 
-#: original/en.txt:461
+#: original/en.txt:462
 #, fuzzy
 msgid "Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium"
 msgstr ""
 "Pidgin and OTR Plugin | Viestien vaihto (yhteensopiva ChatSecuren kanssa) | "
 "Vaikeahko"
 
-#: original/en.txt:463
+#: original/en.txt:464
 #, fuzzy
 msgid "Thunderbird | Manages your emails | Medium"
 msgstr "K9 Mail | Pitää huolta sähköpostistasi | Helppo"
 
-#: original/en.txt:465
+#: original/en.txt:466
 #, fuzzy
 msgid "Enigmail | Add-on to encrypt emails in Thunderbird | Difficult"
 msgstr "APG | Sähköpostien salaaminen K9 Mailissa | Vaikea"
 
-#: original/en.txt:469
+#: original/en.txt:471
 #, fuzzy
 msgid "BROWSER ADD-ONS, PLUG-INS AND EXTENSIONS"
 msgstr "SELAIMEN PLUGINIT LISÄOSAT JA LAAJENNUKSET"
 
-#: original/en.txt:471
+#: original/en.txt:473
 #, fuzzy
 msgid "Add-on | What it does | Difficulty to use"
 msgstr "Sovellus | Mitä se tekee | Käytön vaikeusaste"
 
-#: original/en.txt:473
+#: original/en.txt:475
 msgid "Ublock Origin | Blocks web advertisement and tracking | Easy"
 msgstr ""
 
-#: original/en.txt:475
+#: original/en.txt:477
 #, fuzzy
 msgid "Privacy Badger | Blocks online tracking | Easy"
 msgstr "Privacy Badger  | Estää trackerit | Helppo"
 
-#: original/en.txt:477
+#: original/en.txt:479
 #, fuzzy
 msgid ""
 "HTTPS Everywhere | Forces websites to encrypt your traffic if possible | Easy"
@@ -1459,7 +1459,7 @@ msgstr ""
 "HTTPS Everywhere  | Pakottaa sivustot käyttämään turvallisempaa yhteystapaa "
 "jos mahdollista | Helppo"
 
-#: original/en.txt:479
+#: original/en.txt:481
 #, fuzzy
 msgid ""
 "Cookie AutoDelete | Removes cookies when they are no longer used by open "
@@ -1468,11 +1468,11 @@ msgstr ""
 "Self Destructing Cookies | Poistaa evästeet kun niitä ei  enää käytä avoin "
 "selaimen välilehti | Vaikeahko"
 
-#: original/en.txt:481
+#: original/en.txt:483
 msgid "NoScript | Blocks JavaScript | Difficult"
 msgstr "NoScript | Estää JavaScriptin | Vaikea"
 
-#: original/en.txt:485
+#: original/en.txt:487
 msgid ""
 "CHAPTER 11\n"
 "Hands-on guide for Signal"
@@ -1480,7 +1480,7 @@ msgstr ""
 "LUKU 11:\n"
 "Käytännön ohje Signalia varten"
 
-#: original/en.txt:487
+#: original/en.txt:489
 msgid ""
 "Signal is a free Android and iPhone app. It doesn't watch what we say or who "
 "we talk to. We can use it to text, call, and share pictures, videos, and "
@@ -1490,7 +1490,7 @@ msgstr ""
 "sanotaan tai kenen kanssa puhutaan. Sitä voi käyttää tekstiviesteihin, "
 "puheluihin ja kuvien, videoiden ja yhteystietojen jakamiseen."
 
-#: original/en.txt:489
+#: original/en.txt:491
 msgid ""
 "It is not the only app we can use to communicate safely, but it is one of "
 "the easiest to use. Here is a handson-guide for it in five simple steps:"
@@ -1498,7 +1498,7 @@ msgstr ""
 "Se ei ole ainoa sovellus, jolla voi viestiä turvallisesti, mutta se onyksi "
 "helppokäyttöisimpiä. Tässä viiden helpon askelen käytännön opas."
 
-#: original/en.txt:491
+#: original/en.txt:493
 msgid ""
 "1. Go into the Play Store (Android) or App Store (iPhone). Search for "
 "»Signal«. Select the app »Signal Private Messenger« and tap ›Install‹. After "
@@ -1508,7 +1508,7 @@ msgstr ""
 "Valitse sovellus \"Signal Private Messenger\" ja napauta \"Asenna\". Kun "
 "Signal on asentunut, avaa sovellus."
 
-#: original/en.txt:493
+#: original/en.txt:495
 msgid ""
 "2. Register your phone number with Signal by entering your mobile phone "
 "number and selecting ›Register‹ or ›Verify your device‹. You'll get a text "
@@ -1518,7 +1518,7 @@ msgstr ""
 "valitsemalla \"Register\" tai \"Verify your Device\". Saat tekstiviestin "
 "jossa on kuusinumeroinen koodi. Syötä koodi Signaliin."
 
-#: original/en.txt:495
+#: original/en.txt:497
 msgid ""
 "3. Tap the pencil on the bottom right (Android) or the »+« symbol on the top "
 "right (iPhone) to start a conversation."
@@ -1526,11 +1526,11 @@ msgstr ""
 "Napauta kynää oikeassa alanurkassa (Android) tai +-merkkiä oikeassa "
 "ylänurkassa (iPhone) keskustelun aloittamiseksi."
 
-#: original/en.txt:497
+#: original/en.txt:499
 msgid "4. Select the person you want to text or call."
 msgstr "4. Valitse henkilö jolle haluat soittaa tai lähettää viestin."
 
-#: original/en.txt:499
+#: original/en.txt:501
 msgid ""
 "5. If you want to change between secure messages via your internet "
 "connection and insecure SMS, just hold the »Send« button for a tiny bit "
@@ -1540,7 +1540,7 @@ msgstr ""
 "suojaamattomien tekstiviestien välillä, paina vain \"Send\" nappia hiukan "
 "pitempään."
 
-#: original/en.txt:501
+#: original/en.txt:503
 #, fuzzy
 msgid ""
 "It's much more secure when the person who we're contacting is using Signal "
@@ -1552,7 +1552,7 @@ msgstr ""
 "tavallista tekstiviestiä tai puhelua(???) kun otetaanyhteys johonkuhun joka "
 "ei käytä Signalia."
 
-#: original/en.txt:503
+#: original/en.txt:505
 #, fuzzy
 msgid ""
 "Remember! You don't have to get everyone you know to use Signal. Just tell "
@@ -1564,11 +1564,11 @@ msgstr ""
 "tekemisissä, että asentaisivat sen, ja sitten yhä useammat ystävistämme "
 "alkavat käyttää sitä."
 
-#: original/en.txt:505
+#: original/en.txt:507
 msgid "This booklet was made possible thanks to:"
 msgstr "Tämän lehtisen ovat tehneet mahdolliseksi:"
 
-#: original/en.txt:508
+#: original/en.txt:510
 #, fuzzy
 msgid ""
 "• Individual donors on GlobalGiving.com – thank you all for your "
@@ -1579,7 +1579,7 @@ msgstr ""
 "panoksestanne!\n"
 "• the Adessium Foundation and Open Society Foundations"
 
-#: original/en.txt:511
+#: original/en.txt:513
 #, fuzzy
 msgid ""
 "This document is distributed under a Creative Commons 2.0 Licence (CC BY "
@@ -1590,7 +1590,7 @@ msgstr ""
 "BY 2.0)\n"
 "http://creativecommons.org/licenses/by/2.0/"
 
-#: original/en.txt:515
+#: original/en.txt:517
 #, fuzzy
 msgid ""
 "» QUEST 6: I SHOULD CHOOSE AS MY PASSWORD …\n"

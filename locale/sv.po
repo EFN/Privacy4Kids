@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-28 08:57+0200\n"
+"POT-Creation-Date: 2019-11-28 09:26+0200\n"
 "PO-Revision-Date: 2019-11-28 07:02+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/efn/privacy4kids/"
@@ -1328,7 +1328,7 @@ msgid "Signal | Secure messaging and phone calls (WhatsApp alternative) | Easy"
 msgstr ""
 "Signal | Säkra meddelanden och telefonsamtal (WhatsApp-alternativ) | Lätt"
 
-#: original/en.txt:439 original/en.txt:459
+#: original/en.txt:439 original/en.txt:460
 msgid "Firefox | A privacy-friendly web browser | Easy"
 msgstr "Firefox | En integritetsvänlig webbläsare | Lätt"
 
@@ -1356,7 +1356,7 @@ msgstr "Transportr | Kollektivtrafik, kontrollera buss- och tågtider | Lätt"
 msgid "Jitsi Meet | Secure video group calls (Skype alternative) | Easy"
 msgstr "Jitsi Meet | Säkra videogruppsamtal (Skype-alternativ) | Lätt"
 
-#: original/en.txt:451 original/en.txt:467
+#: original/en.txt:451 original/en.txt:468
 msgid "Tor Browser | Surf the web anonymously | Easy"
 msgstr "Tor Browser | Surfa på webben anonymt | Lätt"
 
@@ -1364,51 +1364,51 @@ msgstr "Tor Browser | Surfa på webben anonymt | Lätt"
 msgid "OpenKeychain | Encrypt emails in K9-Mail | Difficult"
 msgstr "OpenKeychain | Kryptera e-post med K9-Mail | Svårt"
 
-#: original/en.txt:455
+#: original/en.txt:456
 msgid "SOFTWARE FOR WINDOWS, MAC AND LINUX"
 msgstr "PROGRAMVARA FÖR WINDOWS, MAC OCH LINUX"
 
-#: original/en.txt:457
+#: original/en.txt:458
 msgid "Software | What it does | Difficulty to use"
 msgstr "Programvara | Vad den gör | Svårighet att använda"
 
-#: original/en.txt:461
+#: original/en.txt:462
 msgid "Pidgin and OTR Plugin | Messaging (compatible with ChatSecure) | Medium"
 msgstr ""
 "Pidgin och OTR plugin | Meddelanden (kompatibel med ChatSecure) | Medium"
 
-#: original/en.txt:463
+#: original/en.txt:464
 msgid "Thunderbird | Manages your emails | Medium"
 msgstr "Thunderbird | Hanterar din e-post | Medium"
 
-#: original/en.txt:465
+#: original/en.txt:466
 msgid "Enigmail | Add-on to encrypt emails in Thunderbird | Difficult"
 msgstr "Enigmail | Tillägg för att kryptera e-post i Thunderbird | Svårt"
 
-#: original/en.txt:469
+#: original/en.txt:471
 msgid "BROWSER ADD-ONS, PLUG-INS AND EXTENSIONS"
 msgstr "WEBBLÄSARTILLÄGG, PLUGIN-PROGRAM OCH INSTICKSMODULER"
 
-#: original/en.txt:471
+#: original/en.txt:473
 msgid "Add-on | What it does | Difficulty to use"
 msgstr "Tillägg | Vad den gör | Svårighet att använda"
 
-#: original/en.txt:473
+#: original/en.txt:475
 msgid "Ublock Origin | Blocks web advertisement and tracking | Easy"
 msgstr "Ublock Origin | Blockerar webbannonsering och spårning | Lätt"
 
-#: original/en.txt:475
+#: original/en.txt:477
 msgid "Privacy Badger | Blocks online tracking | Easy"
 msgstr "Privacy Badger | Blockerar spårning online | Lätt"
 
-#: original/en.txt:477
+#: original/en.txt:479
 msgid ""
 "HTTPS Everywhere | Forces websites to encrypt your traffic if possible | Easy"
 msgstr ""
 "HTTPS Everywhere | Tvingar webbplatser att kryptera din trafik om möjligt | "
 "Lätt"
 
-#: original/en.txt:479
+#: original/en.txt:481
 msgid ""
 "Cookie AutoDelete | Removes cookies when they are no longer used by open "
 "browser tabs | Medium"
@@ -1416,11 +1416,11 @@ msgstr ""
 "Cookie AutoDelete | Tar bort cookies när de inte längre används av öppna "
 "webbläsarflikar | Medium"
 
-#: original/en.txt:481
+#: original/en.txt:483
 msgid "NoScript | Blocks JavaScript | Difficult"
 msgstr "NoScript | Blockerar JavaScript | Svårt"
 
-#: original/en.txt:485
+#: original/en.txt:487
 msgid ""
 "CHAPTER 11\n"
 "Hands-on guide for Signal"
@@ -1428,7 +1428,7 @@ msgstr ""
 "KAPITEL 11\n"
 "Praktisk vägledning för Signal"
 
-#: original/en.txt:487
+#: original/en.txt:489
 msgid ""
 "Signal is a free Android and iPhone app. It doesn't watch what we say or who "
 "we talk to. We can use it to text, call, and share pictures, videos, and "
@@ -1438,7 +1438,7 @@ msgstr ""
 "och vem vi pratar med. Vi kan använda Signal för att messa, ringa och dela "
 "bilder, videoklipp och kontakter."
 
-#: original/en.txt:489
+#: original/en.txt:491
 msgid ""
 "It is not the only app we can use to communicate safely, but it is one of "
 "the easiest to use. Here is a handson-guide for it in five simple steps:"
@@ -1447,7 +1447,7 @@ msgstr ""
 "kommunikation, men Signal är lätt att komma igång med. Här är en "
 "introduktion i fem steg:"
 
-#: original/en.txt:491
+#: original/en.txt:493
 msgid ""
 "1. Go into the Play Store (Android) or App Store (iPhone). Search for "
 "»Signal«. Select the app »Signal Private Messenger« and tap ›Install‹. After "
@@ -1457,7 +1457,7 @@ msgstr ""
 "»Signal«. Välj appen »Signal Private Messenger« och tryck på >Installera<. "
 "När installationen är klar öppnar du appen."
 
-#: original/en.txt:493
+#: original/en.txt:495
 msgid ""
 "2. Register your phone number with Signal by entering your mobile phone "
 "number and selecting ›Register‹ or ›Verify your device‹. You'll get a text "
@@ -1467,7 +1467,7 @@ msgstr ""
 "och välj >Registrera< eller >Verifiera enheten<. Du får ett textmeddelande "
 "med en sexsiffrig kod. Skriv in koden i Signal."
 
-#: original/en.txt:495
+#: original/en.txt:497
 msgid ""
 "3. Tap the pencil on the bottom right (Android) or the »+« symbol on the top "
 "right (iPhone) to start a conversation."
@@ -1475,11 +1475,11 @@ msgstr ""
 "3. Peka på pennan längst ner till höger (Android) eller högst upp till höger "
 "(iPhone) för att starta en konversation."
 
-#: original/en.txt:497
+#: original/en.txt:499
 msgid "4. Select the person you want to text or call."
 msgstr "4. Välj den person du vill skriva eller ringa till."
 
-#: original/en.txt:499
+#: original/en.txt:501
 msgid ""
 "5. If you want to change between secure messages via your internet "
 "connection and insecure SMS, just hold the »Send« button for a tiny bit "
@@ -1488,7 +1488,7 @@ msgstr ""
 "5. Om du vill byta mellan säkra meddelanden via din internetanslutning och "
 "osäkert SMS, håll bara knappen »Skicka« en liten stund längre."
 
-#: original/en.txt:501
+#: original/en.txt:503
 msgid ""
 "It's much more secure when the person who we're contacting is using Signal "
 "too. It uses our internet connection when we contact another Signal user and "
@@ -1499,7 +1499,7 @@ msgstr ""
 "och via SMS eller telefonoperatör när vi kontaktar någon som inte använder "
 "Signal."
 
-#: original/en.txt:503
+#: original/en.txt:505
 msgid ""
 "Remember! You don't have to get everyone you know to use Signal. Just tell "
 "your closest friends and the people you contact most often to install it too "
@@ -1510,11 +1510,11 @@ msgstr ""
 "att installera appen, då kommer fler och fler att börja använda detta "
 "säkrare verktyg."
 
-#: original/en.txt:505
+#: original/en.txt:507
 msgid "This booklet was made possible thanks to:"
 msgstr "Denna tidning har gjorts möjlig med hjälp av:"
 
-#: original/en.txt:508
+#: original/en.txt:510
 msgid ""
 "• Individual donors on GlobalGiving.com – thank you all for your "
 "contribution!\n"
@@ -1523,7 +1523,7 @@ msgstr ""
 "• Donationer på GlobalGiving.com – tack till alla som har bidragit!\n"
 "• The Adessium Foundation och Open Society Foundations"
 
-#: original/en.txt:511
+#: original/en.txt:513
 msgid ""
 "This document is distributed under a Creative Commons 2.0 Licence (CC BY "
 "2.0)\n"
@@ -1532,7 +1532,7 @@ msgstr ""
 "Detta dokument distribueras under licensen Creative Commons 2.0 (CC BY 2.0)\n"
 "http://creativecommons.org/licenses/by/2.0/"
 
-#: original/en.txt:515
+#: original/en.txt:517
 msgid ""
 "» QUEST 6: I SHOULD CHOOSE AS MY PASSWORD …\n"
 "[R] …a random combination of letters, numbers and special characters.\n"
