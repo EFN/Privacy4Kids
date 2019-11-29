@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-28 09:26+0200\n"
+"POT-Creation-Date: 2019-11-29 08:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,14 +62,7 @@ msgid ""
 "(EDRi-former illustrations)"
 msgstr ""
 
-#: original/en.txt:30
-msgid ""
-"Special thanks to:\n"
-"Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
-"Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
-msgstr ""
-
-#: original/en.txt:40
+#: original/en.txt:36
 msgid ""
 "Contributions by:\n"
 "ApTI Romania\n"
@@ -80,6 +73,13 @@ msgid ""
 "EDRi (Brussels office)\n"
 "Open Rights Group\n"
 "Mediamocracy"
+msgstr ""
+
+#: original/en.txt:40
+msgid ""
+"Special thanks to:\n"
+"Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
+"Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
 msgstr ""
 
 #: original/en.txt:42

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-28 09:26+0200\n"
+"POT-Creation-Date: 2019-11-29 08:32+0200\n"
 "PO-Revision-Date: 2019-08-19 09:23+0000\n"
 "Last-Translator: Leena Romppainen <leena.romppainen@effi.org>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/efn/privacy4kids/"
@@ -85,17 +85,7 @@ msgstr ""
 "Heini Jarvinen\n"
 "(EDRi-former illustrations)"
 
-#: original/en.txt:30
-msgid ""
-"Special thanks to:\n"
-"Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
-"Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
-msgstr ""
-"Erityiset kiitokset:\n"
-"Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
-"Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
-
-#: original/en.txt:40
+#: original/en.txt:36
 #, fuzzy
 msgid ""
 "Contributions by:\n"
@@ -117,6 +107,16 @@ msgstr ""
 "EDRi (Brussels office)\n"
 "Open Rights Group\n"
 "Mediamocracy"
+
+#: original/en.txt:40
+msgid ""
+"Special thanks to:\n"
+"Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
+"Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
+msgstr ""
+"Erityiset kiitokset:\n"
+"Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
+"Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
 
 #: original/en.txt:42
 msgid "English edition updated 2019-11-27."

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-28 09:26+0200\n"
+"POT-Creation-Date: 2019-11-29 08:32+0200\n"
 "PO-Revision-Date: 2019-09-08 17:24+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/efn/"
@@ -75,14 +75,7 @@ msgid ""
 "(EDRi-former illustrations)"
 msgstr ""
 
-#: original/en.txt:30
-msgid ""
-"Special thanks to:\n"
-"Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
-"Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
-msgstr ""
-
-#: original/en.txt:40
+#: original/en.txt:36
 msgid ""
 "Contributions by:\n"
 "ApTI Romania\n"
@@ -93,6 +86,13 @@ msgid ""
 "EDRi (Brussels office)\n"
 "Open Rights Group\n"
 "Mediamocracy"
+msgstr ""
+
+#: original/en.txt:40
+msgid ""
+"Special thanks to:\n"
+"Gloria González Fuster, VrijeUniversiteit Brussel (VUB)\n"
+"Hans Martens, Better Internet for Kids, EUN Partnership AISBL "
 msgstr ""
 
 #: original/en.txt:42
