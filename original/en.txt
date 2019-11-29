@@ -24,10 +24,6 @@ Gregor Sedlag
 Heini Jarvinen
 (EDRi-former illustrations)
 
-Special thanks to:
-Gloria González Fuster, VrijeUniversiteit Brussel (VUB)
-Hans Martens, Better Internet for Kids, EUN Partnership AISBL 
-
 Contributions by:
 ApTI Romania
 Bits of Freedom
@@ -37,6 +33,10 @@ Digitale Gesellschaft e. V.
 EDRi (Brussels office)
 Open Rights Group
 Mediamocracy
+
+Special thanks to:
+Gloria González Fuster, VrijeUniversiteit Brussel (VUB)
+Hans Martens, Better Internet for Kids, EUN Partnership AISBL 
 
 English edition updated 2019-11-27.
 
