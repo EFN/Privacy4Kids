@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-28 09:26+0200\n"
-"PO-Revision-Date: 2019-09-08 17:24+0000\n"
+"PO-Revision-Date: 2019-12-01 06:51+0000\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/efn/privacy4kids/"
 "nl/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 3.10-dev\n"
 
 #: original/en.txt:5
 msgid ""
@@ -25,7 +25,7 @@ msgid ""
 msgstr ""
 "JOUW GIDS TOT DE\n"
 "DIGITALE BESCHERMERS VS. DATAGRAAIERS\n"
-"VERKRIJG CONTROLE OVER JE ONLINE GEGEVENS\n"
+"VERKRIJG CONTROLE OVER JE ONLINE-GEGEVENS\n"
 "PRIVACY VOOR KINDEREN"
 
 #: original/en.txt:7
@@ -119,14 +119,13 @@ msgstr ""
 
 #: original/en.txt:42
 msgid "English edition updated 2019-11-27."
-msgstr ""
+msgstr "Revisiedatum: 2019-11-27."
 
 #: original/en.txt:44
 msgid "Chapters:"
 msgstr "Hoofdstukken:"
 
 #: original/en.txt:56
-#, fuzzy
 msgid ""
 "Chapter 1: What is the internet?\n"
 "Chapter 2: What is privacy?\n"
@@ -142,14 +141,14 @@ msgid ""
 msgstr ""
 "Hoofdstuk 1: Wat is het internet?\n"
 "Hoofdstuk 2: Wat is privacy?\n"
-"Hoofdstuk 3: De 3 beste tips & trucs\n"
+"Hoofdstuk 3: De 3 beste tips en trucs\n"
 "Hoofdstuk 4: Bescherm jezelf op sociale netwerken\n"
-"Hoofdstuk 5: Smartphone-beveiliging\n"
+"Hoofdstuk 5: Smartphonebeveiliging\n"
 "Hoofdstuk 6: Veilig berichten versturen\n"
 "Hoofdstuk 7: Surfen op het internet\n"
 "Hoofdstuk 8: Veilige wachtwoorden\n"
 "Hoofdstuk 9: Foto's en video's delen\n"
-"Hoofdstuk 10: Aanbevolen apps & hulpmiddelen\n"
+"Hoofdstuk 10: Aanbevolen apps en hulpmiddelen\n"
 "Hoofdstuk 11: Handleiding voor Signal"
 
 #: original/en.txt:58
@@ -233,7 +232,6 @@ msgstr ""
 "verzamelen van alle letters. Voer de volledige link in in je browser."
 
 #: original/en.txt:85
-#, fuzzy
 msgid ""
 "CHAPTER 1\n"
 "What is the internet?"
@@ -308,7 +306,6 @@ msgstr ""
 "taal die het netwerk spreekt - het \"internetprotocol\"!"
 
 #: original/en.txt:103
-#, fuzzy
 msgid ""
 "Social networks and many other online services look like they are for free – "
 "but we actually pay with the personal information that we put online. "
@@ -316,7 +313,7 @@ msgid ""
 msgstr ""
 "Sociale netwerken en andere sociale diensten lijken gratis, maar stiekem "
 "betalen we er wél voor - met de persoonlijke informatie die we delen. "
-"Informatie over wat we schrijven, lezen of kijken wordt gebruikt door online "
+"Informatie over wat we schrijven, lezen of kijken wordt gebruikt door online-"
 "bedrijven."
 
 #: original/en.txt:105
@@ -358,7 +355,6 @@ msgstr ""
 "ze ook vragen om die gegevens te verwijderen."
 
 #: original/en.txt:121
-#, fuzzy
 msgid ""
 "When we protect our privacy, we are safer and more secure because there "
 "might be information that could hurt us if the wrong person knows about it."
@@ -376,7 +372,6 @@ msgstr ""
 "ouders of leraren, maar niet met iedereen."
 
 #: original/en.txt:125
-#, fuzzy
 msgid ""
 "But we can also help others when we protect our privacy because they might "
 "want to share something with us that should not be shared with anyone else."
@@ -385,7 +380,6 @@ msgstr ""
 "misschien iets willen delen met ons dat niet met iedereen mag worden gedeeld."
 
 #: original/en.txt:127
-#, fuzzy
 msgid "We all have things we don't want to share with others."
 msgstr "Iedereen heeft wel iets dat ze niet willen delen met anderen."
 
@@ -437,20 +431,18 @@ msgstr ""
 "[C]...een sociaal netwerk."
 
 #: original/en.txt:147
-#, fuzzy
 msgid ""
 "CHAPTER 3\n"
 "Top three tips and tricks"
 msgstr ""
-"HOOFDSTUK 4\n"
-"De 3 beste tips & trucs"
+"HOOFDSTUK 3\n"
+"De 3 beste tips en trucs"
 
 #: original/en.txt:149
 msgid "1. Not everyone has to know everything about us"
 msgstr "1. Niet iedereen hoeft alles over ons te weten"
 
 #: original/en.txt:152
-#, fuzzy
 msgid ""
 "Like in the offline world, it is better to choose carefully what we want to "
 "share and with whom. Instinctively, we share some things with some people "
@@ -489,7 +481,6 @@ msgid "2. Safety and privacy online isn't difficult"
 msgstr "2. Veiligheid en privacy op internet is niet moeilijk"
 
 #: original/en.txt:160
-#, fuzzy
 msgid ""
 "We don't have to be super nerds to keep ourselves safe online. We can "
 "protect a tablet, phone or laptop so that our classmates cannot access it. "
@@ -502,7 +493,6 @@ msgstr ""
 "zonder dat we worden gevolgd. Het is allemaal heel eenvoudig."
 
 #: original/en.txt:162
-#, fuzzy
 msgid "3. Knowing what or who we are protecting ourselves against"
 msgstr "3. Weten wat en tegen wie we onszelf beschermen"
 
@@ -531,12 +521,11 @@ msgstr ""
 "bewaken."
 
 #: original/en.txt:173
-#, fuzzy
 msgid ""
 "CHAPTER 4\n"
 "Protect yourself on social networks"
 msgstr ""
-"HOOFDSTUK 3\n"
+"HOOFDSTUK 4\n"
 "Bescherm jezelf op sociale netwerken"
 
 #: original/en.txt:175
@@ -550,7 +539,6 @@ msgstr ""
 "privéberichten sturen en openbare informatie plaatsen. "
 
 #: original/en.txt:177
-#, fuzzy
 msgid ""
 "In some countries, children under the age of 13 are not allowed to use some "
 "of the social networks. If you want to use social networks, it is best to "
@@ -561,22 +549,19 @@ msgstr ""
 "familie of leraren of het al mag. "
 
 #: original/en.txt:179
-#, fuzzy
 msgid ""
 ">> Facebook, Instagram, Twitter, Snapchat, Diaspora and many more are all "
 "social networks."
 msgstr ""
-">>YouTube, Facebook, Instagram, Snapchat, Diaspora en vele anderen zijn "
-"allemaal sociale netwerken."
+">>YouTube, Facebook, Instagram, Snapchat, Twitter, Diaspora en vele anderen "
+"zijn allemaal sociale netwerken."
 
 #: original/en.txt:181
-#, fuzzy
 msgid "Do you have a favourite? Why do you like them? "
 msgstr ""
-"Welke zijn jouw favoriete sociale netwerken? En waarom vind je ze zo leuk? "
+"Wat zijn jouw favoriete sociale netwerken? En waarom vind je ze zo leuk? "
 
 #: original/en.txt:183
-#, fuzzy
 msgid ""
 "Some social networks even store messages we decided not to send! Imagine "
 "that, when you write a message to your friend on Facebook and don't send the "
@@ -588,20 +573,17 @@ msgstr ""
 "Je vriend weet niets van dat bericht, maar Facebook slaat het wél op! "
 
 #: original/en.txt:185
-#, fuzzy
 msgid ""
 "Keep in mind that everything you do on a social network is recorded on the "
 "computers of the companies that run it. That doesn't mean that they are "
 "going to do something bad with it – but you should know that this is "
 "happening."
 msgstr ""
-"Houd altijd in gedachten dat alles wat we doen op sociale netwerken wordt "
-"opgeslagen op de computers van die bedrijven. Dit betekent niet per se dat "
-"ze er iets verkeerds mee gaan doen, maar het is belangrijk om te weten dát "
-"het gebeurt."
+"Bedenk altijd dat álles wat we doen op sociale netwerken wordt opgeslagen op "
+"de computers van die bedrijven. Dit betekent niet per se dat ze er iets "
+"verkeerds mee gaan doen, maar het is belangrijk om te weten dát het gebeurt."
 
 #: original/en.txt:189
-#, fuzzy
 msgid ""
 "The things we type into a search engine or write in a chat message to a "
 "friend are not completely deleted. Companies that provide the services we "
@@ -679,13 +661,12 @@ msgstr ""
 "binnen te dringen."
 
 #: original/en.txt:218
-#, fuzzy
 msgid ""
 "CHAPTER 5\n"
 "Smartphone security"
 msgstr ""
-"HOOFDSTUK 6\n"
-"Smartphone-beveiliging"
+"HOOFDSTUK 5\n"
+"Smartphonebeveiliging"
 
 #: original/en.txt:220
 msgid "Our phones have become very important for using the internet."
@@ -722,7 +703,6 @@ msgstr ""
 "écht toegang nodig tot je adresboek?"
 
 #: original/en.txt:229
-#, fuzzy
 msgid ""
 "It is very tempting to just skip past the »Accept« screen, but it is better "
 "to stop and think. There are good reasons not to trust an app that is asking "
@@ -730,8 +710,8 @@ msgid ""
 msgstr ""
 "Het is erg verleidelijk om snel voorbij te gaan aan het »Accepteren«-scherm, "
 "maar eigenlijk is het een goed moment om even na te denken. Er zijn goede "
-"redenen om een app niet te vertrouwen als deze vraagt om rechten die niet "
-"nodig zijn."
+"redenen om een app niet te vertrouwen als deze vraagt om machtigingen die "
+"niet nodig zijn."
 
 #: original/en.txt:231
 msgid ""
@@ -747,7 +727,6 @@ msgstr ""
 "telefoon werkt."
 
 #: original/en.txt:233
-#, fuzzy
 msgid "» Many apps get access to the personal stuff stored on your phone."
 msgstr ""
 "» Veel apps krijgen toegang tot persoonlijke dingen die opgeslagen zijn op "
@@ -758,6 +737,8 @@ msgid ""
 "We can restrict access to our location and to our addressbook and we can add "
 "a password or fingerprint check to unlock our phone screen."
 msgstr ""
+"Je kunt toegang tot je locatie en adresboek beperken, en een wachtwoord- of "
+"vingerafdrukcontrole toevoegen aan het vergrendelscherm."
 
 #: original/en.txt:237
 msgid ""
@@ -769,7 +750,6 @@ msgstr ""
 "geweldige apps waarmee je dit kunt doen."
 
 #: original/en.txt:241
-#, fuzzy
 msgid ""
 "If there is a good reason to give an app permission for something – a photo "
 "app, for example, that needs to have access to your camera – then there's "
@@ -779,9 +759,9 @@ msgid ""
 msgstr ""
 "Als er een goede reden is om een app toegang te geven tot iets (bijv. een "
 "foto-app die toegang nodig heeft tot je camera), dan hoef je je weinig "
-"zorgen te maken. Maar als je vermoedt dat een app teveel rechten vraagt, dan "
-"kun je kijken of er andere versies van de app aanwezig zijn in de app-winkel "
-"die om minder rechten vragen."
+"zorgen te maken. Maar als je vermoedt dat een app te veel machtigingen "
+"vraagt, dan kun je kijken of er andere versies van de app aanwezig zijn in "
+"de app-winkel die minder machtigingen vragen."
 
 #: original/en.txt:243
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (II)"
@@ -825,38 +805,34 @@ msgid "WEAPONS: His suit and antennas."
 msgstr "WAPENS: Zijn pak en antennes."
 
 #: original/en.txt:265
-#, fuzzy
 msgid ""
 "CHAPTER 6\n"
 "Safer messaging"
 msgstr ""
-"HOOFDSTUK 5\n"
+"HOOFDSTUK 6\n"
 "Veilig berichten versturen"
 
 #: original/en.txt:267
-#, fuzzy
 msgid ""
 "Those of us with mobile phones use it to send messages to friends and family."
 msgstr ""
-"We gebruiken allemaal onze telefoons om berichten te versturen aan onze "
-"vrienden en families. "
+"We gebruiken allemaal onze telefoons om berichten te versturen aan vrienden "
+"en familie."
 
 #: original/en.txt:269
-#, fuzzy
 msgid ""
 "But some messaging apps record all our messages and track who we talk to. "
 "Some apps do this so they can profit from this information."
 msgstr ""
 "Maar sommige berichtenapps kunnen de inhoud van onze berichten lezen en "
-"bijhouden met wie we praten. Sommige apps doen dit om geld te verdienen met "
-"deze informatie."
+"bijhouden met wie we praten. Sommige doen dit om geld te verdienen aan deze "
+"informatie."
 
 #: original/en.txt:271
 msgid "» What you say and do online is very valuable for companies. "
 msgstr "» Wat je op internet vertelt is waardevol voor bedrijven. "
 
 #: original/en.txt:273
-#, fuzzy
 msgid ""
 "The companies who make messaging apps often scan what we say. They track who "
 "we're talking to so they can show us advertisement to make us buy something "
@@ -901,16 +877,13 @@ msgid "A browser is often how we use the internet."
 msgstr "Als we internet gebruiken, doen we dat meestal met een browser."
 
 #: original/en.txt:288
-#, fuzzy
 msgid ""
 "» It's easy to forget that the browser is a powerful piece of software "
 "itself."
 msgstr ""
-"» Het is eenvoudig om te vergeten dat een browser een klein stukje software "
-"is."
+"» Het is makkelijk te vergeten dat een browser een klein stukje software is."
 
 #: original/en.txt:290
-#, fuzzy
 msgid ""
 "It is sometimes the first thing you open when turning on your phone, tablet "
 "or computer, and the last thing you close. But a lot goes on inside the "
@@ -938,20 +911,17 @@ msgid "» Websites collect lots of stuff about us!"
 msgstr "» Websites verzamelen heel veel informatie over ons!"
 
 #: original/en.txt:296
-#, fuzzy
 msgid ""
 "Who our friends are, what we like, what we are searching for and what we are "
 "listening to can all be tracked. These websites can do this because they use "
 "»cookies« in our browsers. These »cookies « are small files stored on our "
 "devices."
 msgstr ""
-"Wie onze vrienden zijn, wat we leuk vinden, waar we naar zoeken en "
-"luisteren: het kan allemaal worden gevolgd. Deze websites kunnen dat doen "
-"door middel van »cookies« in onze browsers. Deze »cookies« zijn kleine "
-"stukjes software."
+"Wie onze vrienden zijn, wat we leuk vinden, waar we naar zoeken en luisteren:"
+" het kan allemaal worden gevolgd. Deze websites kunnen dat doen door middel "
+"van »cookies« in onze browsers. Deze »cookies« zijn kleine stukjes software."
 
 #: original/en.txt:298
-#, fuzzy
 msgid ""
 "They are invisible to us but when enough of data is collected and combined "
 "with other information about us, personal details that we think are secret "
@@ -959,22 +929,20 @@ msgid ""
 msgstr ""
 "Ze zijn onzichtbaar voor ons maar als er genoeg gegevens zijn verzameld en "
 "worden gecombineerd met andere gegevens over ons (persoonlijke gegevens "
-"waarvan we denken dat ze geheim zijn),\n"
-"dan worden ze bekend bij andere mensen en bedrijven."
+"waarvan we denken dat ze geheim zijn), dan worden ze bekend bij andere "
+"mensen en bedrijven."
 
 #: original/en.txt:300
-#, fuzzy
 msgid ""
 "Most devices come with a browser. On Windows proposes Edge, Apple devices "
 "come with Safari, and Android devices' default browser is Google Chrome. But "
 "those are not necessarily the browsers that protect your privacy best."
 msgstr ""
-"De meeste apparaten hebben standaard een browser. Op Windows is dat Internet "
-"Explorer, op Apple-apparaten is dat Safari en op Android-apparaten is dat "
-"Google Chrome. Maar dit zijn niet per se de browsers die het beste zijn."
+"De meeste apparaten hebben standaard een browser. Op Windows is dat Edge, op "
+"Apple-apparaten is dat Safari en op Android-apparaten is dat Google Chrome. "
+"Maar dit zijn niet per se de browsers die het beste zijn."
 
 #: original/en.txt:304
-#, fuzzy
 msgid ""
 "Make sure to check the »privacy options« of your browser and change the "
 "default settings so that you take control – just like Perfect Wave! Many "
@@ -983,13 +951,13 @@ msgid ""
 "possible that it is not yet installed on your computer, but you can download "
 "it very easily."
 msgstr ""
-"Controleer de »privacy-instellingen« van je browser en wijzig de "
-"standaardinstellingen zodat jij de baas bent - net zoals Perfecte Golf! Veel "
-"mensen denken dat\n"
-"de beste browser voor privacy en veiligheid Firefox is! Waarom? Omdat je hem "
-"volledig kunt aanpassen, er volledige controle over kunt hebben en omdat je "
-"kunt zien hoe het werkt. Het is mogelijk dat Firefox niet is geïnstalleerd\n"
-"op je computer, maar je kunt hem eenvoudig downloaden."
+"Controleer de »privacy-instellingen« van je browser en pas de "
+"standaardinstellingen aan zodat jíj de baas bent, net zoals Perfecte Golf! "
+"Veel mensen vinden dat de beste browser omtrent privacy en veiligheid "
+"Firefox is! Waarom? Omdat je hem volledig kunt aanpassen, er volledige "
+"controle over hebt en omdat je kunt zien hoe het werkt. Het kan zijn dat "
+"Firefox niet is geïnstalleerd op je computer, maar je kunt hem eenvoudig "
+"downloaden."
 
 #: original/en.txt:306
 msgid "DIGITAL DEFENDERS v DATA INTRUDERS (III)"
@@ -1000,13 +968,12 @@ msgid "PERFECT WAVE"
 msgstr "PERFECTE GOLF"
 
 #: original/en.txt:312
-#, fuzzy
 msgid ""
 "POWERS: He can navigate space, hyperspace and cyberspace on his board. The "
 "Perfect Wave does not require food or drink, he can survive by converting "
 "data into energy. He is almost totally indestructible."
 msgstr ""
-"KRACHTEN: Hij kan navigeren in de ruimte, hyperruimte en cyberspace op zijn "
+"KRACHTEN: Hij kan navigeren in de ruimte, hyperruimte en cyberruimte op zijn "
 "plank. De Perfecte Golf heeft geen eten of drinken nodig; hij kan overleven "
 "door gegevens om te zetten in energie. Hij is bijna volledig onverwoestbaar."
 
@@ -1055,21 +1022,18 @@ msgstr ""
 "Veilige wachtwoorden"
 
 #: original/en.txt:335
-#, fuzzy
 msgid "Passwords are very important in the digital age."
-msgstr "Wachtwoorden. Ontzettend belangrijk in het digitale tijdperk."
+msgstr "Wachtwoorden zijn ontzettend belangrijk in het digitale tijdperk."
 
 #: original/en.txt:337
-#, fuzzy
 msgid ""
 "Incredibly important, in fact. They form the basis of your security and "
 "privacy. And most people's passwords are very, very weak – the most commonly "
 "used passwords are »password« and »12345«."
 msgstr ""
-"Eigenlijk is er niks belangrijker. Ze vormen de basis van je veiligheid en "
-"privacy. De meeste mensen hebben heel, héél onveilige wachtwoorden; de "
-"meestvoorkomende wachtwoorden zijn\n"
-"»wachtwoord» en »12345»."
+"Sterker nog: eigenlijk is er niks belangrijker! Ze vormen de basis van je "
+"veiligheid en privacy. De meeste mensen hebben heel, héél onveilige "
+"wachtwoorden. De meestvoorkomende wachtwoorden zijn »wachtwoord» en »12345»."
 
 #: original/en.txt:339
 msgid "Creating a secure password is not very difficult."
@@ -1088,7 +1052,6 @@ msgstr ""
 "verschillende variaties van het wachtwoord te creëren."
 
 #: original/en.txt:345
-#, fuzzy
 msgid ""
 "Why? Because if criminals (like Data Smuggler) get access to the passwords "
 "of one of your accounts, they often try to enter other accounts with the "
@@ -1097,9 +1060,8 @@ msgid ""
 msgstr ""
 "Waarom? Als criminelen (zoals Gegevenssmokkelaar) toegang krijgen tot de "
 "wachtwoorden van een dienst, dan proberen ze die wachtwoorden ook te "
-"gebruiken bij andere diensten. Ze\n"
-"weten dat mensen de neiging hebben hetzelfde wachtwoord te gebruiken op "
-"verschillende sites!"
+"gebruiken bij andere diensten. Ze weten dat mensen de neiging hebben "
+"hetzelfde wachtwoord te gebruiken op verschillende sites!"
 
 #: original/en.txt:347
 msgid "2. Never use a word from the dictionary"
@@ -1134,7 +1096,6 @@ msgstr ""
 "kraken."
 
 #: original/en.txt:357
-#, fuzzy
 msgid ""
 "Why? Because the longer it is, the more difficult it is to guess. Some "
 "experts say that it is OK to write it down on a piece of paper, just hide it "
@@ -1190,7 +1151,6 @@ msgstr ""
 "verzwakken."
 
 #: original/en.txt:380
-#, fuzzy
 msgid ""
 "» QUEST 5: WHEN I BROWSE THE INTERNET…\n"
 "[X] …I can do whatever I want and I'm safe – it's not reality!\n"
@@ -1284,7 +1244,6 @@ msgstr ""
 "uitgelekt."
 
 #: original/en.txt:404
-#, fuzzy
 msgid ""
 "This means that we all have to live with the fact that social networks can "
 "be used in good ways as well as in bad ways. So you need to think before "
@@ -1381,53 +1340,48 @@ msgid "App | What it does | Difficulty to use"
 msgstr "App | Wat de app doet | Moeilijkheidsgraad"
 
 #: original/en.txt:437
-#, fuzzy
 msgid "Signal | Secure messaging and phone calls (WhatsApp alternative) | Easy"
 msgstr ""
-"Signal | Berichten en sms'jes versturen; veilig bellen (alternatief voor "
+"Signal | Berichten en sms'jes versturen, en veilig bellen (alternatief voor "
 "WhatsApp) | Makkelijk"
 
 #: original/en.txt:439 original/en.txt:460
 msgid "Firefox | A privacy-friendly web browser | Easy"
-msgstr ""
+msgstr "Firefox | Een browser die je privacy beschermt | Makkelijk"
 
 #: original/en.txt:441
-#, fuzzy
 msgid "KeePass DX | Manages all your passwords | Easy"
-msgstr "KeePassDroid | Wachtwoorden beheren | Makkelijk"
+msgstr "KeePass DX | Wachtwoorden beheren | Makkelijk"
 
 #: original/en.txt:443
-#, fuzzy
 msgid ""
 "F-Droid | App store with apps that are open and free software (Google Play "
 "alternative) | Easy"
 msgstr ""
-"F-Droid | Archief met apps die open en vrij zijn (alternatief voor Google "
+"F-Droid | App-winkel met apps die open en vrij zijn (alternatief voor Google "
 "Play) | Makkelijk"
 
 #: original/en.txt:445
-#, fuzzy
 msgid "K9-Mail | Manages your emails | Medium"
-msgstr "K9 Mail | E-mailen | Makkelijk"
+msgstr "K9-Mail | E-mailen | Iets moeilijker"
 
 #: original/en.txt:447
 msgid "Transportr | Public transport, check bus and train times | Easy"
 msgstr "Transportr | Openbaar vervoer: bekijk bus- en treintijden | Makkelijk"
 
 #: original/en.txt:449
-#, fuzzy
 msgid "Jitsi Meet | Secure video group calls (Skype alternative) | Easy"
 msgstr ""
-"Csip Secure | Beveiligde oproepen (alternatief voor Skype) | Iets moeilijker"
+"Jitsi Meet | Beveiligde videogesprekken (alternatief voor Skype) | Makkelijk"
 
 #: original/en.txt:451 original/en.txt:468
 msgid "Tor Browser | Surf the web anonymously | Easy"
 msgstr "Tor Browser | Surf anoniem op internet | Makkelijk"
 
 #: original/en.txt:453
-#, fuzzy
 msgid "OpenKeychain | Encrypt emails in K9-Mail | Difficult"
-msgstr "APG | Beveiligd e-mails die verstuurd worden met K9 Mail | Moeilijk"
+msgstr ""
+"OpenKeychain | Beveiligt e-mails die verstuurd worden met K9 Mail | Moeilijk"
 
 #: original/en.txt:456
 msgid "SOFTWARE FOR WINDOWS, MAC AND LINUX"
@@ -1444,36 +1398,33 @@ msgstr ""
 "| Iets moeilijker"
 
 #: original/en.txt:464
-#, fuzzy
 msgid "Thunderbird | Manages your emails | Medium"
-msgstr "K9 Mail | E-mailen | Makkelijk"
+msgstr "Thunderbird | E-mailen | Iets moeilijker"
 
 #: original/en.txt:466
-#, fuzzy
 msgid "Enigmail | Add-on to encrypt emails in Thunderbird | Difficult"
-msgstr "APG | Beveiligd e-mails die verstuurd worden met K9 Mail | Moeilijk"
+msgstr ""
+"Enigmail | Beveiligt e-mails die verstuurd worden met Thunderbird | Moeilijk"
 
 #: original/en.txt:471
-#, fuzzy
 msgid "BROWSER ADD-ONS, PLUG-INS AND EXTENSIONS"
 msgstr "BROWSERPLUG-INS, -ADD-ONS EN -EXTENSIES"
 
 #: original/en.txt:473
-#, fuzzy
 msgid "Add-on | What it does | Difficulty to use"
-msgstr "App | Wat de app doet | Moeilijkheidsgraad"
+msgstr "Add-on | Wat de add-on doet | Moeilijkheidsgraad"
 
 #: original/en.txt:475
 msgid "Ublock Origin | Blocks web advertisement and tracking | Easy"
 msgstr ""
+"Ublock Origin | Blokkeert reclame, advertenties en trackers op het internet |"
+" Makkelijk"
 
 #: original/en.txt:477
-#, fuzzy
 msgid "Privacy Badger | Blocks online tracking | Easy"
 msgstr "Privacy Badger | Blokkeert trackers | Makkelijk"
 
 #: original/en.txt:479
-#, fuzzy
 msgid ""
 "HTTPS Everywhere | Forces websites to encrypt your traffic if possible | Easy"
 msgstr ""
@@ -1481,13 +1432,12 @@ msgstr ""
 "verbindingsmethode te gebruiken | Makkelijk"
 
 #: original/en.txt:481
-#, fuzzy
 msgid ""
 "Cookie AutoDelete | Removes cookies when they are no longer used by open "
 "browser tabs | Medium"
 msgstr ""
-"Self Destructing Cookies | Verwijdert cookies als ze niet langer worden "
-"gebruikt door openstaande tabbladen | Iets moeilijker"
+"Cookie AutoDelete | Verwijdert cookies als ze niet langer worden gebruikt "
+"door openstaande tabbladen | Iets moeilijker"
 
 #: original/en.txt:483
 msgid "NoScript | Blocks JavaScript | Difficult"
@@ -1573,7 +1523,6 @@ msgstr ""
 "contact opnemen met iemand die geen Signal gebruikt."
 
 #: original/en.txt:505
-#, fuzzy
 msgid ""
 "Remember! You don't have to get everyone you know to use Signal. Just tell "
 "your closest friends and the people you contact most often to install it too "
@@ -1589,14 +1538,13 @@ msgid "This booklet was made possible thanks to:"
 msgstr "Dit boekje is mogelijk gemaakt door:"
 
 #: original/en.txt:510
-#, fuzzy
 msgid ""
 "• Individual donors on GlobalGiving.com – thank you all for your "
 "contribution!\n"
 "• The Adessium Foundation and Open Society Foundations"
 msgstr ""
-"• individuele donoren op GlobalGiving.com - bedankt voor jullie bijdrage!\n"
-"• de Adessium Foundation en Open Society Foundations"
+"• Individuele sponsoren op GlobalGiving.com - bedankt voor jullie bijdrage!\n"
+"• De Adessium Foundation en Open Society Foundations"
 
 #: original/en.txt:513
 msgid ""
@@ -1609,7 +1557,6 @@ msgstr ""
 "http://creativecommons.org/licenses/by/2.0/"
 
 #: original/en.txt:517
-#, fuzzy
 msgid ""
 "» QUEST 6: I SHOULD CHOOSE AS MY PASSWORD …\n"
 "[R] …a random combination of letters, numbers and special characters.\n"
@@ -1618,7 +1565,7 @@ msgid ""
 msgstr ""
 "» ZOEKTOCHT 6: IK MOET MIJN WACHTWOORD LATEN BESTAAN UIT ...\n"
 "[R] ...een willekeurige combinatie van letters en speciale tekens.\n"
-"[V] ...123456789 - want dat is makkelijk te onthouden.\n"
+"[V] ...123456789, want dat is makkelijk te onthouden.\n"
 "[D] ...het eerste woord dat ik tegenkom na het openen van een willekeurig "
 "boek."
 
