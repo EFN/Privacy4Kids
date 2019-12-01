@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-29 08:32+0200\n"
-"PO-Revision-Date: 2019-09-08 17:24+0000\n"
+"POT-Creation-Date: 2019-11-28 09:26+0200\n"
+"PO-Revision-Date: 2019-12-01 06:51+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/pt/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 3.10-dev\n"
 
 #: original/en.txt:5
 msgid ""
@@ -131,18 +131,25 @@ msgid ""
 "But it is also complex. Sometimes it can be difficult to see where we are at "
 "risk – and where our private stuff online can be read and used by others."
 msgstr ""
+"Mas é complexa também. Às vezes pode ser difícil saber em quais lugares nos "
+"pomos em risco, e em quais lugares outros podem ler e utilizar a nossa "
+"informação privada."
 
 #: original/en.txt:64
 msgid ""
 "Luckily, in our parallel universe where the Defenders fight the evil "
 "Intruders, it is easy to see who are the good and who are the bad guys."
 msgstr ""
+"Felizmente, no nosso universo paralelo onde os Defensores lutam contra os "
+"malvados Intrusos, é fácil ver quem são os heróis e quem os villanos."
 
 #: original/en.txt:66
 msgid ""
 "The Defenders will show you some tips and tricks to protect yourself online. "
 "They will teach you self-defence to fight the Intruders."
 msgstr ""
+"Os Defensores mostrar-te-ão alguns conselhos e truques para proteger-te na "
+"Internet. Eles ensinar-te-ão a te defender dos Intrusos."
 
 #: original/en.txt:68
 msgid ""
@@ -181,22 +188,28 @@ msgid ""
 "CHAPTER 1\n"
 "What is the internet?"
 msgstr ""
+"CAPÍTULO 1\n"
+"O que é a Internet?"
 
 #: original/en.txt:87
 msgid "The internet is a global network of devices. "
-msgstr ""
+msgstr "A Internet é uma rede global de dispositivos. "
 
 #: original/en.txt:89
 msgid ""
 "When you use the internet on your laptop, tablet or phone, it is a part of "
 "the network."
 msgstr ""
+"Quando utilizas a Internet em teu computador portátil, tableta ou telefone, "
+"fazes parte da rede."
 
 #: original/en.txt:91
 msgid ""
 "One of the special features of the internet is that lots of different "
 "technologies can all be used in the same network. "
 msgstr ""
+"Uma das características especiais da Internet é que muitas tecnologias "
+"diferentes podem se usar na mesma rede. "
 
 #: original/en.txt:93
 msgid ""
@@ -208,7 +221,7 @@ msgstr ""
 msgid ""
 "The internet is global, it is fast and gives us a whole world of "
 "opportunities.  "
-msgstr ""
+msgstr "A Internet é global e rápida e pode-nos abrir muitas possibilidades.  "
 
 #: original/en.txt:97
 msgid ""
@@ -237,6 +250,9 @@ msgid ""
 "but we actually pay with the personal information that we put online. "
 "Information about what we write or read or watch is used by online companies."
 msgstr ""
+"As redes sociais e muitos outros serviços em linha aparentam ser gratuitos… "
+"mas em realidade pagamo-los com a informação pessoal que pomos. Companhias "
+"na Internet utilizam informação sobre o que escrevemos, lemos ou vemos."
 
 #: original/en.txt:105
 msgid "How can we stay in control of the information we share online?"
@@ -251,6 +267,8 @@ msgid ""
 "CHAPTER 2\n"
 "What is privacy?"
 msgstr ""
+"CAPÍTULO 2\n"
+"O que é privacidade?"
 
 #: original/en.txt:115
 msgid ""
@@ -261,6 +279,8 @@ msgstr ""
 #: original/en.txt:117
 msgid "Privacy is our right to decidewhat to share and with whom we share it."
 msgstr ""
+"Privacidade é o nosso direito de decidir o que compartilhar e com quem o "
+"fazer."
 
 #: original/en.txt:119
 msgid ""
