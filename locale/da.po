@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-02 06:19+0200\n"
-"PO-Revision-Date: 2019-12-02 05:28+0000\n"
-"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
+"PO-Revision-Date: 2019-12-02 12:50+0000\n"
+"Last-Translator: Nicolas Guilbert <nicolas@ange.dk>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/efn/privacy4kids/"
 "da/>\n"
 "Language: da\n"
@@ -247,8 +247,8 @@ msgid ""
 msgstr ""
 "Når du har fundet ordet, vil du skulle gå til en hemmelig side på "
 "Internettet. Det gøres på følgende måde:\n"
-"1 . Find den manglende del af linket: https://edri.org/xxxxxx .\n"
-"2 . Erstat xxxxxx med løsningsordet (seks bogstaver), som  du får fra "
+"1 . Find den manglende del af linket: https://efn.no/xxxxxx .\n"
+"2 . Erstat xxxxxx med løsningsordet (seks bogstaver), som du får fra "
 "rebuserne og skrivelse hele linket ind i din internetbrowser."
 
 #: original/en.txt:93
@@ -722,8 +722,8 @@ msgid ""
 msgstr ""
 "Når du installerer en ny app, læser du så virkelig hvilke rettigheder, du "
 "giver programmet og hvordan det får adgang til informationen på din telefon? "
-"Behøver en lommelygte\n"
-"virkelig adgang til din adresseliste?"
+"Har en lommelygte\n"
+"virkelig brug for adgang til din adresseliste?"
 
 #: original/en.txt:237
 msgid ""
@@ -782,7 +782,7 @@ msgstr ""
 "Hvis der er gode grunde til, at et program har rettigheder til ting - et "
 "fotoprogram, for eksempel, som har brug for adgang til dit kamera - er der "
 "ikke meget at bekymre sig over. Hvis du derimod tror, at programmet beder om "
-"for meget, kan du tjekke om der findes andre programmer, eller versioner af "
+"for meget, kan du tjekke, om der findes andre programmer, eller versioner af "
 "programmet, som kræver færre rettigheder."
 
 #: original/en.txt:251
@@ -898,7 +898,7 @@ msgstr ""
 #: original/en.txt:294
 msgid "A browser is often how we use the internet."
 msgstr ""
-"Når vi siger, at vi «bruger Internettet», er det ofte en browser vi bruger."
+"Når vi siger, at vi «bruger Internettet», er det ofte en browser, vi bruger."
 
 #: original/en.txt:296
 msgid ""
@@ -915,7 +915,7 @@ msgid ""
 "browser that you are not aware of and that can be bad (or good) for your "
 "privacy."
 msgstr ""
-"Den er nogle gange det første du åbner når du tænder telefonen, tabletten "
+"Den er nogle gange det første, du åbner, når du tænder telefonen, tabletten "
 "eller din computer, og det sidste du lukker. Men der foregår meget inde i "
 "browseren, der kan være skadeligt (eller godt) for beskyttelsen af dit "
 "privatliv."
@@ -927,7 +927,7 @@ msgid ""
 "social networks use these footprints to follow us."
 msgstr ""
 "Når vi går på nettet for at købe noget, se videoer eller for at se, hvad "
-"vores venner har delt, efterlader vi digitale fodspor. Nogle ewbsider og "
+"vores venner har delt, efterlader vi digitale fodspor. Nogle websider og "
 "sociale netværk bruger disse fodspor til at spore os."
 
 #: original/en.txt:302
@@ -1017,7 +1017,7 @@ msgid ""
 "your secrets."
 msgstr ""
 "KRÆFTER: Han er altid på udkig efter en slåskamp. Han hader alle "
-"forsvarerne, men synes at Perfekt Bølge er hans værste fjende. Han har en "
+"forsvarerne, men synes, at Perfekt Bølge er hans værste fjende. Han har en "
 "vældig appetit efter dine hemmeligheder."
 
 #: original/en.txt:330
@@ -1073,7 +1073,7 @@ msgid ""
 "This is really one of the most important rules! At least, try to make "
 "different versions of the password you created."
 msgstr ""
-"Dette er faktisk en af de vigtigste skrøner! Men prøv i hvert fald at have "
+"Dette er faktisk en af de vigtigste regler! Men prøv i hvert fald at have "
 "forskellige versioner af det kodeord, du har oprettet."
 
 #: original/en.txt:353
@@ -1138,7 +1138,7 @@ msgstr "DIGITALE FORSVARERE mod DATAINDTRÆNGERE (IV)"
 
 #: original/en.txt:369
 msgid "QUEEN OF LOCKS"
-msgstr "LÅSENES DRONNINGEN"
+msgstr "LÅSENES DRONNING"
 
 #: original/en.txt:373
 msgid ""
@@ -1205,7 +1205,7 @@ msgid ""
 "We tell our friends about our daily life by sharing images and videos with "
 "them online."
 msgstr ""
-"Vi fortæller vores venner om det vi gør til dagligt ved at dele billeder og "
+"Vi fortæller vores venner om det, vi gør til dagligt ved at dele billeder og "
 "videoer med dem på nettet."
 
 #: original/en.txt:398
@@ -1219,8 +1219,8 @@ msgid ""
 "private images, and misuse them."
 msgstr ""
 "Husk, at det altid er vigtigt at forsikre sig om, at man ikke deler med "
-"folk, man ikke ønsker. Folk kan komme til at både se og misbruge private "
-"billeder."
+"folk, man ikke ønsker at dele med. Folk kan komme til at både se og misbruge "
+"private billeder."
 
 #: original/en.txt:402
 msgid ""
@@ -1278,20 +1278,20 @@ msgid ""
 "yourself if you would put this photo on the blackboard of your school. If "
 "not, it's maybe not a good idea to share it online."
 msgstr ""
-"Dette betyder, at vi må leve med muligheden for at vores sociale netværk kan "
-"bruges til både gode og dårlige formål. Vi er derfor nødt til at tænke, før "
-"vi sender billeder og videoer via nettet! Vi bør spørge os selv, om vi ville "
-"have hængt dette billede op på en offentlig opslagstavle på skolen. Hvis "
-"ikke er det måske ikke en god idé at dele det på nettet."
+"Dette betyder, at vi må leve med muligheden for, at vores sociale netværk "
+"kan bruges til både gode og dårlige formål. Vi er derfor nødt til at tænke, "
+"før vi sender billeder og videoer via nettet! Vi bør spørge os selv, om vi "
+"ville have hængt dette billede op på en offentlig opslagstavle på skolen. "
+"Hvis ikke er det måske ikke en god idé at dele det på nettet."
 
 #: original/en.txt:414
 msgid ""
 "If our photo shows other people, we have to ask for their permission before "
 "sharing, because it is their right to decide."
 msgstr ""
-"Hvis vores billede viser andre mennesker eller deres ting, må vi spørge dem "
-"om lov, før vi deler det, fordi de har ret til at bestemme selv. Råderetten "
-"er deres."
+"Hvis vores billede viser andre mennesker eller deres ting, er vi nødt til at "
+"spørge dem om lov, før vi deler det, fordi de har ret til at bestemme selv. "
+"Råderetten er deres."
 
 #: original/en.txt:416
 msgid ""
@@ -1408,7 +1408,7 @@ msgstr "OpenKeychain | Til at kryptere emails med K9 Mail | Svært"
 
 #: original/en.txt:464
 msgid "SOFTWARE FOR WINDOWS, MAC AND LINUX"
-msgstr "SOFTWARE TIL WINDOWS, MAC AND LINUX"
+msgstr "SOFTWARE TIL WINDOWS, MAC OG LINUX"
 
 #: original/en.txt:466
 msgid "Software | What it does | Difficulty to use"
@@ -1495,7 +1495,7 @@ msgid ""
 "»Signal«. Select the app »Signal Private Messenger« and tap ›Install‹. After "
 "Signal is installed, open the app."
 msgstr ""
-"1 . Gå til Play-butikken (Android) eller App-butikken (iPhone). Søging efter "
+"1 . Gå til Play-butikken (Android) eller App-butikken (iPhone). Søg efter "
 "«Signal». Vælg programmet «Signal Private Messenger» og tryk «Installer». "
 "Efter at Signal er installeret, åbner du programmet."
 
