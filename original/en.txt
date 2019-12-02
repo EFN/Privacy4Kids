@@ -38,6 +38,14 @@ Special thanks to:
 Gloria González Fuster, VrijeUniversiteit Brussel (VUB)
 Hans Martens, Better Internet for Kids, EUN Partnership AISBL 
 
+This booklet was made possible thanks to:
+
+• Individual donors on GlobalGiving.com – thank you all for your contribution!
+• The Adessium Foundation and Open Society Foundations
+
+This document is distributed under a Creative Commons 2.0 Licence (CC BY 2.0)
+http://creativecommons.org/licenses/by/2.0/
+
 English edition updated 2019-11-27.
 
 Chapters:
@@ -502,14 +510,6 @@ It is not the only app we can use to communicate safely, but it is one of the ea
 It's much more secure when the person who we're contacting is using Signal too. It uses our internet connection when we contact another Signal user and normal SMS or minutes when we contact someone who is not using Signal.
 
 Remember! You don't have to get everyone you know to use Signal. Just tell your closest friends and the people you contact most often to install it too and then more and more of your friends will start using it.
-
-This booklet was made possible thanks to:
-
-• Individual donors on GlobalGiving.com – thank you all for your contribution!
-• The Adessium Foundation and Open Society Foundations
-
-This document is distributed under a Creative Commons 2.0 Licence (CC BY 2.0)
-http://creativecommons.org/licenses/by/2.0/
 
 » QUEST 6: I SHOULD CHOOSE AS MY PASSWORD …
 [R] …a random combination of letters, numbers and special characters.
