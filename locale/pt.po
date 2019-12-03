@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-02 06:19+0200\n"
-"PO-Revision-Date: 2019-12-03 08:32+0000\n"
+"PO-Revision-Date: 2019-12-04 12:05+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/pt/>\n"
@@ -234,6 +234,8 @@ msgid ""
 "We can even use the same connection to download a video, play a game and "
 "chat with our friends at the same time."
 msgstr ""
+"É até possível usar a mesma ligação para descarregar um vídeo, jogar e "
+"conversar com amigos simultaneamente."
 
 #: original/en.txt:103
 msgid ""
@@ -249,6 +251,11 @@ msgid ""
 "the internet is a great place to learn as most of the information and "
 "knowledge is shared online."
 msgstr ""
+"A Internet é uma invenção incrível e poderosa. Antes da Internet se espalhar "
+"de forma generalizada, não havia nenhuma maneira fácil de conectar muitas "
+"pessoas umas com as outras. Era muito mais difícil ouvir música ou assistir "
+"a um filme. Além disso, a internet é um ótimo lugar para aprender, pois a "
+"maioria das informações e conhecimentos são compartilhados «online»."
 
 #: original/en.txt:107
 msgid ""
@@ -1030,7 +1037,7 @@ msgstr ""
 
 #: original/en.txt:443
 msgid "App | What it does | Difficulty to use"
-msgstr ""
+msgstr "Aplicação | O que faz | Dificuldade de utilização"
 
 #: original/en.txt:445
 msgid "Signal | Secure messaging and phone calls (WhatsApp alternative) | Easy"
