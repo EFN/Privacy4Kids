@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-02 06:19+0200\n"
-"PO-Revision-Date: 2019-12-07 08:56+0000\n"
-"Last-Translator: Daniel Mancini <danielbmancini@gmail.com>\n"
+"PO-Revision-Date: 2020-09-13 21:36+0000\n"
+"Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/pt/>\n"
 "Language: pt\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.10-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #: original/en.txt:5
 msgid ""
@@ -73,7 +73,6 @@ msgstr ""
 "Gregor Sedlag"
 
 #: original/en.txt:26
-#, fuzzy
 msgid ""
 "Art & design by:\n"
 "Gregor Sedlag\n"
