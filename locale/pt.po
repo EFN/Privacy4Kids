@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-02 06:19+0200\n"
-"PO-Revision-Date: 2020-09-13 21:36+0000\n"
+"PO-Revision-Date: 2020-10-01 14:41+0000\n"
 "Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/pt/>\n"
@@ -1046,7 +1046,7 @@ msgstr ""
 
 #: original/en.txt:443
 msgid "App | What it does | Difficulty to use"
-msgstr "Aplicação | O que faz | Dificuldade de utilização"
+msgstr "App | O que faz | Dificuldade de utilização"
 
 #: original/en.txt:445
 msgid "Signal | Secure messaging and phone calls (WhatsApp alternative) | Easy"
