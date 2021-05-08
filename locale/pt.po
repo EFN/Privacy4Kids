@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-02 06:19+0200\n"
-"PO-Revision-Date: 2020-10-01 14:41+0000\n"
+"PO-Revision-Date: 2021-05-09 13:32+0000\n"
 "Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/efn/"
 "privacy4kids/pt/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #: original/en.txt:5
 msgid ""
@@ -220,7 +220,7 @@ msgstr ""
 
 #: original/en.txt:95
 msgid "The internet is a global network of devices. "
-msgstr "A Internet é uma rede global de dispositivos. "
+msgstr "A Internet é uma rede global de aparelhos. "
 
 #: original/en.txt:97
 msgid ""
